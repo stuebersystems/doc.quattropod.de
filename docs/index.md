@@ -36,6 +36,14 @@ Die QuattroPod Serie gibt es in vier Varianten:
 		<p><a href="deluxe/intro">Zum QuattroPod Deluxe</a></p>
 	</div>
 </div>
+<div class="md-showcase">
+	<img src="assets/img/quattropod.usb.png" alt="Abbildung: QuattroPod USB">
+	<div>
+		<img src="assets/img/quattropod-usb.black.logo.png" alt="Logo: QuattroPod Deluxe">
+		<p>Das QuattroPod Deluxe Paket besteht aus vier Standard-Sendern, einem Standard-Empfänger und einem Senderhalter zur Aufbewahrung der Sender. Unsere umfassendste Lösung für professionelle Konferenzräume.</p>
+		<p><a href="deluxe/intro">Zum QuattroPod USB</a></p>
+	</div>
+</div>
 
 Eine Entscheidungshilfe:
 
