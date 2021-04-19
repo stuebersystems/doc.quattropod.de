@@ -39,7 +39,7 @@ Die folgende Startseite erscheint auf Ihrem Bildschirm:
 
 !!! tip "Hinweis"
 
-     Stellen Sie sicher, dass Ihr Windows / macOS Gerät die Videoübertragung per USB-C-Anschluss unterstützt. Im Zweifelsfall nutzen Sie bitte die Methode Type-A.	 
+     Stellen Sie sicher, dass Ihr Windows / macOS Gerät die Videoübertragung per USB-C-Anschluss unterstützt. Im Zweifelsfall nutzen Sie bitte die Methode [Type-A](#SenderTypeA).	 
 
 ## Bildschirmübertragung im Type-A Sendermodus {#SenderTypeA}
 

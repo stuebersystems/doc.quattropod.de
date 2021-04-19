@@ -89,9 +89,9 @@ nav:
     - Anleitungen nach<br>Betriebssystem:
         - "Anleitung: Android": usb/quickstart/#android
         - "Anleitung: iOS": usb/quickstart/#ios
-        - "Anleitung: macOS": usb/quickstart/#windows-macos-linux
+        - "Anleitung: macOS": usb/quickstart/#windows-macos
         - "Anleitung: Linux": usb/linux.md
-        - "Anleitung: Windows": usb/quickstart/#windows-macos-linux
+        - "Anleitung: Windows": usb/quickstart/#windows-macos
     - Anleitungen nach<br>Streamingprotokoll:
         - "Anleitung: AirPlay": usb/airplay.md     
         - "Anleitung: Chromecast": usb/chromecast.md
