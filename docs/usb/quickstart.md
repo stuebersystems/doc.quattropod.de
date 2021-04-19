@@ -6,9 +6,9 @@
 
   [1]: https://download.stueber.de/doc/de/quattropod/schnellstartanleitungen/A6_QPUSB.pdf
 
-## Inhalt des QuattroPod Standard
+## Inhalt des QuattroPod USB
 
-| Der QuattroPod Standard besteht aus: |   |
+| Der QuattroPod USB besteht aus: |   |
 | :----: | :----: |
 | ![](/assets/img/QSG.R01.png)<br>1 Standard Empfänger | ![](/assets/img/QSG-U01.png)<br>1 USB Sender |
 | ![](/assets/img/QSG.USB_Charger.png)<br>1 Universal Stromadapter (5V/2A) | ![](/assets/img/QSG.Charger.cable.png)<br>USB-Ladekabel |
@@ -23,11 +23,11 @@
 
 Die folgende Startseite erscheint auf Ihrem Bildschirm:
 
-![QuattroPod Standard Startseite](/assets/img/quattropod.landingpage.png)
+![QuattroPod USB Startseite](/assets/img/quattropod.landingpage.png)
 
 ## Bildschirmübertragung im Type-C Sendermodus {#SenderTypeC}
 
-### Windows / macOS / Linux
+### Windows / macOS
 
 !!! tip "Hinweis"
 
