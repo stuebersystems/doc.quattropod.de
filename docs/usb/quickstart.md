@@ -67,7 +67,7 @@ Wenn die Software **USB WiFi Cast** auf Ihrem Gerät bereits vorhanden ist, erfo
 
 	Der Sender ermöglicht ein einfaches Spiegeln Ihres Bildschirms. Wenn Sie Ihre Inhalte jedoch lieber ohne einen Sender spiegeln möchten, können Sie ein [Streamingprotokoll](#a-streamingprotokollen) verwenden.
 	 
-* Schließen Sie den USB-A-Adapter an den Sender an und schalten Sie den Sender auf Mobile um. Schließen Sie den Sender an einen USB-Port (5V,1A) bzw. an das Netzteil Ihres Apple-Geräts an. Schließen Sie anschließend Ihr iOS-Gerät an den USB-Port des Senders an. 
+* Schließen Sie den USB-A-Adapter an den Sender an und schalten Sie den Sender auf `Mobile` um. Schließen Sie den Sender an einen USB-Port (5V,1A) bzw. an das Netzteil Ihres Apple-Geräts an. Schließen Sie anschließend Ihr iOS-Gerät an den USB-Port des Senders an. 
 
 ![](/assets/img/QSG-QP-USB.iOS.png)
 
