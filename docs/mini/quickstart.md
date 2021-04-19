@@ -4,8 +4,8 @@
 	
     Die Schnellstartanleitung steht Ihnen auch als PDF-Dokument im [A4-Format][1] und [A6-Format][2] zur Verfügung.
 
-  [1]: https://download.stueber.de/doc/de/quattropod/schnellstartanleitungen/A4_QPLite.pdf
-  [2]: https://download.stueber.de/doc/de/quattropod/schnellstartanleitungen/A6_QPLite.pdf
+  [1]: https://download.stueber.de/doc/de/quattropod/schnellstartanleitungen/A4_QPMini.pdf
+  [2]: https://download.stueber.de/doc/de/quattropod/schnellstartanleitungen/A6_QPMini.pdf
 
 ## Inhalt des QuattroPod Mini
 

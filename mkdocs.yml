@@ -82,6 +82,33 @@ nav:
     - Anschlüsse: ports.md
     - Datensicherheit: datasecurity.md
     - Firmware aktualisieren: firmware-upgrade.md
+- QuattroPod USB:
+    - Überblick: usb/intro.md
+    - Schnellstartanleitung: usb/quickstart.md
+    - Was ist neu?: usb/whatsnew.md
+    - Anleitungen nach<br>Betriebssystem:
+        - "Anleitung: Android": usb/quickstart/#android
+        - "Anleitung: iOS": usb/quickstart/#ios
+        - "Anleitung: macOS": usb/quickstart/#windows-macos-linux
+        - "Anleitung: Linux": usb/linux.md
+        - "Anleitung: Windows": usb/quickstart/#windows-macos-linux
+    - Anleitungen nach<br>Streamingprotokoll:
+        - "Anleitung: AirPlay": usb/airplay.md     
+        - "Anleitung: Chromecast": usb/chromecast.md
+    - Internetzugang: usb/internet.md
+    - Erweiterte Funktionen:
+        - Erweiterte Einstellungen: usb/adv.settings.md
+        - Konferenzsteuerung: usb/conference-control.md
+        - Monitor-Modus: usb/monitor-setup.md 
+        - Remote-Verwaltung: usb/remote-management.md
+        - Sender koppeln: usb/pairing.md
+        - Touch-Back-Funktion: usb/touchback.md
+        - Captive Portal: usb/captiveportal.md
+    - Firmware aktualisieren: usb/firmware-upgrade.md
+    - Problembehandlung:
+        - Einstellungen zurücksetzen: usb/reset.md
+        - Firmware neu installieren: usb/firmware-reinstall.md
+    - CMS: usb/cms.md    
 - QuattroPod Lite:
     - Überblick: lite/intro.md
     - Schnellstartanleitung: lite/quickstart.md
