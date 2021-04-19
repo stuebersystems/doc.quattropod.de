@@ -30,7 +30,7 @@ Für den QuattroPod wird eine Internet-Verbindung in folgenden Fällen benötigt
 
 ![](/assets/img/QuattroPod-Login.png)
 
-### Networkeinstellungen auswählen
+### Netzwerkeinstellungen auswählen
 
 * Aus dem Menü oben links wählen Sie `Netzwerkmanagement`.
 

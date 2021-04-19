@@ -44,7 +44,7 @@ Wenn der QuattroPod mit Ihrem WLAN verbunden ist, wird eine von Ihrem Netzwerk v
 
 ![](/assets/img/QuattroPod-Login.png)
 
-### Networkeinstellungen auswählen
+### Netzwerkeinstellungen auswählen
 
 * Aus dem Menü oben links wählen Sie `Netzwerkmanagement`.
 
