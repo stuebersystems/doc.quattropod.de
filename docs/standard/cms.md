@@ -9,8 +9,17 @@ Profitieren Sie von den folgenden Möglichkeiten:
  * all Ihre QuattroPod- und EZCast Pro-Geräte gleichzeitig einrichten
  * Neustarts und Firmware-Upgrades mehrerer Geräte planen
 
-> #### info::Hinweis
->
-> Immer auf dem neuesten Stand: Melden Sie sich zu unserem [Newsletter](https://www.stueber.de/newsletter.php) an und erfahren Sie [hier](firmware-upgrade.md) wie Sie die Firmware auf Ihrem Gerät aktualisieren.
+!!! tip "Newsletter"
 
-<iframe width="700" height="394" src="https://www.youtube.com/embed/Gr1HSE8Keso" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    Immer auf dem neuesten Stand: Melden Sie sich zu unserem [Newsletter](https://www.stueber.de/newsletter.php) an und erfahren Sie [hier](firmware-upgrade.md) wie Sie die Firmware auf Ihrem Gerät aktualisieren.
+	
+!!! info "Erster Einblick in die zukünftigen Funktionen des CMS"
+
+    [![QuattroPod Einführungsvideo][1]{: align=left }][2]
+	
+	Bald steht das Zentrale Management System (CRM) zur Verfügung, welches die zentrale Verwaltung aller Ihrer QuattroPods und EZCast Pro II Empfänger ermöglicht.
+	
+	[Zum YouTube-Video][2]
+
+  [1]: /assets/img/thumbnail.video.cms.png
+  [2]: https://youtu.be/Gr1HSE8Keso
