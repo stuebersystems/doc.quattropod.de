@@ -37,7 +37,7 @@ Für einen kompakten Produktvergleich mit den anderen Modell-Varianten aus der Q
 	
 	Ein doppelseitiges PDF zum Teilen oder Ausdrucken.
 	
-	[Zum Datenblatt (PDF)][2]
+	[Zum Datenblatt (PDF)][5]
 
   [4]: /assets/img/quattropod.usb.brochure.de.png
   [5]: https://download.stueber.de/doc/de/quattropod/quattropod-usb.brochure.de.pdf
