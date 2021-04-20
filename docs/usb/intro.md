@@ -1,13 +1,15 @@
 # Der QuattroPod USB 
 
-![QuattroPod USB][1]{: align=left } Erkunden Sie die Möglichkeiten des QuattroPod USB. 
+![QuattroPod Mini][1]{: align=left } Erkunden Sie die Möglichkeiten des [QuattroPod USB][2]. 
 
 Die Einrichtung Ihres Geräts wird in der [Schnellstartanleitung](quickstart.md) beschrieben. 
 
 Für einen kompakten Produktvergleich mit den anderen Modell-Varianten aus der QuattroPod Serie empfiehlt sich der Blick in unser [QuattroPod Produktvergleich (PDF)][3].
 
   [1]: /assets/img/quattropod.usb.png
+  [2]: https://www.quattropod.de/usb.php
   [3]: https://download.stueber.de/doc/de/quattropod/quattropod.produktvergleich.de.pdf
+  
 
 # Spezifikation
 
