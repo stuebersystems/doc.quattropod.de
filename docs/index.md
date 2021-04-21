@@ -5,6 +5,14 @@ QuattroPod Serie ist ein Präsentationssystem in erster Linie für Konferenzräu
 Die QuattroPod Serie gibt es in vier Varianten: 
 
 <div class="md-showcase">
+	<img src="assets/img/quattropod.usb.png" alt="Abbildung: QuattroPod USB">
+	<div>
+		<img src="assets/img/quattropod-usb.black.logo.png" alt="Logo: QuattroPod USB">
+		<p>Der QuattroPod USB ist das neuste Modell aus der Serie und besteht aus einem USB-Sender und einem Standard-Empfänger. Der Sender ermöglicht eine Bildschirmübertragung in bis zu Full-HD mit nur einem USB-Kabel. Egal welche Anschlüsse Ihr Rechner hat, kommen Sie mit dieser Einkabellösung klar. Der Empfänger unterstützt alle Funktionen und Sender (*außer QuattroPod Lite) der Vorgängermodelle in bis zu Ultra-HD (4K).</p>
+		<p><a href="deluxe/intro">Zum QuattroPod USB</a></p>
+	</div>
+</div>
+<div class="md-showcase">
 	<img src="assets/img/quattropod.lite.png" alt="Abbildung: QuattroPod Lite">
 	<div>
 		<img src="assets/img/quattropod-lite.black.logo.png" alt="Logo: QuattroPod Lite">

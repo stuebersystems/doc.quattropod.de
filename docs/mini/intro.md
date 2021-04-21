@@ -10,6 +10,8 @@ Für einen kompakten Produktvergleich mit den anderen Modell-Varianten aus der Q
   [2]: https://www.quattropod.de/mini.php
   [3]: https://download.stueber.de/doc/de/quattropod/quattropod.produktvergleich.de.pdf
 
+
+
 # Spezifikation
 
 | QuattroPod Mini | |
