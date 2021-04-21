@@ -58,7 +58,7 @@ Für einen kompakten Produktvergleich mit den anderen Modell-Varianten aus der Q
   
 # EG Konformitätserklärung
 
-Die [EG Konformitätserklärung für den QuattroPod Deluxe][8] und die [EG Konformitätserklärung für das Netzteil des QuattroPod Deluxe][9] erklärt die Konformität mit europäischen Richtlinien.
+Die EG Konformitätserklärung für den [QuattroPod Deluxe][8] und das [Netzteil des QuattroPod Deluxe][9] erklärt die Konformität mit europäischen Richtlinien.
 
 [8]: https://download.stueber.de/doc/de/quattropod/quattropod.konformitaetserklaerung.pdf
 

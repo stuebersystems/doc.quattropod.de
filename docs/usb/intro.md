@@ -59,7 +59,7 @@ Für einen kompakten Produktvergleich mit den anderen Modell-Varianten aus der Q
   
 # EG Konformitätserklärung
 
-Die EG Konformitätserklärung für [den QuattroPod R01][8], [den QuattroPod U01][9] und [das Netzteil des QuattroPod R01][10] erklärt die Konformität mit europäischen Richtlinien.
+Die EG Konformitätserklärung für den [QuattroPod R01][8], den [QuattroPod U01][9] und das [Netzteil des QuattroPod R01][10] erklärt die Konformität mit europäischen Richtlinien.
 
 [8]: https://download.stueber.de/doc/de/quattropod/CE-Konformitaetserklaerung/CE.Konformitaetserklaerung.QuattroPod.R01.pdf
 
