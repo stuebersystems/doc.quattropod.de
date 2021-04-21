@@ -59,9 +59,9 @@ Für einen kompakten Produktvergleich mit den anderen Modell-Varianten aus der Q
   
 # EG Konformitätserklärung
 
-Die [EG Konformitätserklärung für den QuattroPod USB][8] und die [EG Konformitätserklärung für das Netzteil des QuattroPod USB][9] erklärt die Konformität mit europäischen Richtlinien.
+Die [EG Konformitätserklärung für den QuattroPod R01][8] und die [EG Konformitätserklärung für den QuattroPod U01][9] erklärt die Konformität mit europäischen Richtlinien.
 
-[8]: https://download.stueber.de/doc/de/quattropod/quattropodusb.u01.konformitaetserklaerung.pdf
+[8]: https://download.stueber.de/doc/de/quattropod/CE-Konformitaetserklaerung/CE.Konformitaetserklaerung.QuattroPod.R01.pdf
 
-[9]: https://download.stueber.de/doc/de/quattropod/netzteil.konformitaetserklaerung.pdf
+[9]: https://download.stueber.de/doc/de/quattropod/CE-Konformitaetserklaerung/CE.Konformitaetserklaerung.QuattroPod.U01.pdf
 
