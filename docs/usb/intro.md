@@ -11,7 +11,7 @@ Für einen kompakten Produktvergleich mit den anderen Modell-Varianten aus der Q
   [3]: https://download.stueber.de/doc/de/quattropod/quattropod.produktvergleich.de.pdf
   
 
-# Spezifikation
+## Spezifikation
 
 | QuattroPod USB | |
 | :---- | :---- |
@@ -57,7 +57,7 @@ Für einen kompakten Produktvergleich mit den anderen Modell-Varianten aus der Q
   [6]: /assets/img/quattropod.usb.video.png
   [7]: https://youtu.be/VJjlMii2IJw
   
-# EG Konformitätserklärung
+## EG Konformitätserklärung
 
 Die EG Konformitätserklärung für den [QuattroPod R01][8], den [QuattroPod U01][9] und das [Netzteil des QuattroPod R01][10] erklärt die Konformität mit europäischen Richtlinien.
 

@@ -12,7 +12,7 @@ Für einen kompakten Produktvergleich mit den anderen Modell-Varianten aus der Q
 
 
 
-# Spezifikation
+## Spezifikation
 
 | QuattroPod Mini | |
 | :---- | :---- |
@@ -58,7 +58,7 @@ Für einen kompakten Produktvergleich mit den anderen Modell-Varianten aus der Q
   [6]: /assets/img/quattropod.video.png
   [7]: https://youtu.be/6FiBZXzAzbw
   
-# EG Konformitätserklärung
+## EG Konformitätserklärung
 
 Die EG Konformitätserklärung für den [QuattroPod Mini][8] und das [Netzteil des QuattroPod Mini][9] erklärt die Konformität mit europäischen Richtlinien.
 
