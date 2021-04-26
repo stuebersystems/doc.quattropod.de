@@ -1,4 +1,4 @@
-# Der QuattroPod Deluxe 
+# Der QuattroPod Deluxe  
 
 ![QuattroPod Deluxe][1]{: align=left } Erkunden Sie die Möglichkeiten des [QuattroPod Deluxe][2]. 
 
