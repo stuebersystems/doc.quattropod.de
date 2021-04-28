@@ -15,7 +15,7 @@ steps:
   inputs:
     targetType: 'inline'
     script: |
-      pip install mkdocs mkdocs-material mkdocs-minify-plugin
+      pip install mkdocs mkdocs-material mkdocs-minify-plugin --disable-pip-version-check
     failOnStderr: true
     workingDirectory: '$(Build.SourcesDirectory)'
 - task: PowerShell@2
