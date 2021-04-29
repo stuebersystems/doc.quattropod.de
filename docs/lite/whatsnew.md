@@ -7,6 +7,7 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des Quattr
     Immer auf dem neuesten Stand: Melden Sie sich zu unserem [Newsletter](https://www.stueber.de/newsletter.php) an und erfahren Sie [hier](firmware-upgrade.md) wie Sie die Firmware auf Ihrem Gerät aktualisieren.
 
 # QuattroPod Firmware - 1.9598.75
+2020.08.28
 
 **Behobene Systemfehler und Verbesserungen:**
 
@@ -16,6 +17,7 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des Quattr
 * Optimierter Energieverbrauch
 
 # QuattroPod Firmware - 1.9598.44
+2020.08.13
 
 **Neue Funktionen:**
 
@@ -30,6 +32,7 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des Quattr
 * Problem mit WLAN behoben
 
 # QuattroPod Firmware - 1.8530.15
+2020.05.20
 
 **Behobene Systemfehler und Verbesserungen:**
 
@@ -37,6 +40,7 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des Quattr
 * Verbesserte WLAN-Konnektivität
 
 # QuattroPod Firmware - 1.8436.2
+2020.04.30
 
 **Neue Funktionen:**
 
