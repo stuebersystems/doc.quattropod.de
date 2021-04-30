@@ -82,7 +82,7 @@ nav:
     - Anschlüsse: ports.md
     - Datensicherheit: datasecurity.md
     - Firmware aktualisieren: firmware-upgrade.md
-- QuattroPod USB:
+- USB:
     - Überblick: usb/intro.md
     - Schnellstartanleitung: usb/quickstart.md
     - Was ist neu?: usb/whatsnew.md
@@ -109,7 +109,7 @@ nav:
         - Einstellungen zurücksetzen: usb/reset.md
         - Firmware neu installieren: usb/firmware-reinstall.md
     - CMS: usb/cms.md    
-- QuattroPod Lite:
+- Lite:
     - Überblick: lite/intro.md
     - Schnellstartanleitung: lite/quickstart.md
     - Was ist neu?: lite/whatsnew.md
@@ -137,7 +137,7 @@ nav:
         - Einstellungen zurücksetzen: lite/reset.md
         - Firmware neu installieren: lite/firmware-reinstall.md
     - CMS: lite/cms.md
-- QuattroPod Mini: 
+- Mini: 
     - Überblick: mini/intro.md
     - Schnellstartanleitung: mini/quickstart.md
     - Was ist neu?: mini/whatsnew.md
@@ -168,7 +168,7 @@ nav:
         - Einstellungen zurücksetzen: mini/reset.md
         - Firmware neu installieren: mini/firmware-reinstall.md
     - CMS: mini/cms.md
-- QuattroPod Standard: 
+- Standard: 
     - Überblick: standard/intro.md
     - Schnellstartanleitung: standard/quickstart.md
     - Was ist neu?: standard/whatsnew.md
@@ -199,7 +199,7 @@ nav:
         - Einstellungen zurücksetzen: standard/reset.md
         - Firmware neu installieren: standard/firmware-reinstall.md
     - CMS: standard/cms.md
-- QuattroPod Deluxe:
+- Deluxe:
     - Überblick: deluxe/intro.md
     - Schnellstartanleitung: deluxe/quickstart.md
     - Was ist neu?: deluxe/whatsnew.md
