@@ -124,13 +124,14 @@ nav:
         - "Anleitung: Chromecast": lite/chromecast.md
     - Internetzugang: lite/internet.md
     - Erweiterte Funktionen:
+        - Captive Portal: lite/captiveportal.md
+        - Dynamisches Hintergrundbild: lite/dynamicwallpaper.md
         - Erweiterte Einstellungen: lite/adv.settings.md
         - Konferenzsteuerung: lite/conference-control.md
         - Monitor-Modus: lite/monitor-setup.md 
         - Remote-Verwaltung: lite/remote-management.md
         - Sender koppeln: lite/pairing.md
         - Touch-Back-Funktion: lite/touchback.md
-        - Captive Portal: lite/captiveportal.md
     - Firmware aktualisieren: lite/firmware-upgrade.md
     - Problembehandlung:
         - Einstellungen zurücksetzen: lite/reset.md
@@ -151,6 +152,8 @@ nav:
         - "Anleitung: Chromecast": mini/chromecast.md
     - Internetzugang: mini/internet.md
     - Erweiterte Funktionen: 
+        - Captive Portal: mini/captiveportal.md
+        - Dynamisches Hintergrundbild: mini/dynamicwallpaper.md
         - Erweiterte Einstellungen: mini/adv.settings.md
         - Festgelegter Host: mini/fixedhost.md
         - Konferenzsteuerung: mini/conference-control.md
@@ -160,7 +163,6 @@ nav:
         - Sender bedienen: mini/TX-controls.md
         - Sender koppeln: mini/pairing.md
         - Touch-Back-Funktion: mini/touchback.md
-        - Captive Portal: mini/captiveportal.md
     - Firmware aktualisieren: mini/firmware-upgrade.md
     - Problembehandlung: 
         - Einstellungen zurücksetzen: mini/reset.md
@@ -181,6 +183,8 @@ nav:
         - "Anleitung: Chromecast": standard/chromecast.md
     - Internetzugang: standard/internet.md
     - Erweiterte Funktionen:
+        - Captive Portal: standard/captiveportal.md
+        - Dynamisches Hintergrundbild: standard/dynamicwallpaper.md
         - Erweiterte Einstellungen: standard/adv.settings.md
         - Festgelegter Host: standard/fixedhost.md
         - Konferenzsteuerung: standard/conference-control.md
@@ -190,7 +194,6 @@ nav:
         - Sender bedienen: standard/TX-controls.md
         - Sender koppeln: standard/pairing.md
         - Touch-Back-Funktion: standard/touchback.md
-        - Captive Portal: standard/captiveportal.md
     - Firmware aktualisieren: standard/firmware-upgrade.md
     - Problembehandlung: 
         - Einstellungen zurücksetzen: standard/reset.md
@@ -210,7 +213,9 @@ nav:
         - "Anleitung: AirPlay": deluxe/airplay.md     
         - "Anleitung: Chromecast": deluxe/chromecast.md
     - Internetzugang: deluxe/internet.md
-    - Erweiterte Funktionen: 
+    - Erweiterte Funktionen:
+        - Captive Portal: deluxe/captiveportal.md    
+        - Dynamisches Hintergrundbild: deluxe/dynamicwallpaper.md
         - Erweiterte Einstellungen: deluxe/adv.settings.md
         - Festgelegter Host: deluxe/fixedhost.md
         - Konferenzsteuerung: deluxe/conference-control.md
@@ -220,7 +225,6 @@ nav:
         - Sender bedienen: deluxe/TX-controls.md
         - Sender koppeln: deluxe/pairing.md
         - Touch-Back-Funktion: deluxe/touchback.md
-        - Captive Portal: deluxe/captiveportal.md
     - Firmware aktualisieren: deluxe/firmware-upgrade.md
     - Problembehandlung: 
         - Einstellungen zurücksetzen: deluxe/reset.md

@@ -10,7 +10,7 @@ Für einen kompakten Produktvergleich mit den anderen Modell-Varianten aus der Q
   [2]: https://www.quattropod.de/standard.php
   [3]: https://download.stueber.de/doc/de/quattropod/quattropod.produktvergleich.de.pdf
 
-# Spezifikation
+## Spezifikation
 
 | QuattroPod Standard | |
 | :---- | :---- |
@@ -56,7 +56,7 @@ Für einen kompakten Produktvergleich mit den anderen Modell-Varianten aus der Q
   [6]: /assets/img/quattropod.video.png
   [7]: https://youtu.be/6FiBZXzAzbw
   
-# EG Konformitätserklärung
+## EG Konformitätserklärung
 
 Die EG Konformitätserklärung für den [QuattroPod Standard][8] und das [Netzteil des QuattroPod Standard][9] erklärt die Konformität mit europäischen Richtlinien.
 

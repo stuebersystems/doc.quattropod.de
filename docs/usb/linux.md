@@ -18,7 +18,7 @@ Standardmäßig ist Chromecast auf QuattroPod-Geräten aktiviert. Sollten Sie di
 
 ### Google Chrome installieren
 
-* Drücken Sie `STRG+Alt+T`, um ein Terminal-Fenster zu öffnen.
+* Drücken Sie `STRG` + `Alt` + `T`, um ein Terminal-Fenster zu öffnen.
 
 * Paketlisten aktualisieren
 
