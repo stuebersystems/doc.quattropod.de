@@ -3,6 +3,13 @@
 Wählen Sie Ihr Gerät aus, um sich über die neusten Updates Ihres Gerät zu informieren:
 
 <div class="md-showcase">
+	<img src="/assets/img/quattropod.usb.png" alt="Abbildung: QuattroPod USB"></a>
+	<div>
+		<img src="/assets/img/quattropod-usb.black.logo.png" alt="Logo: QuattroPod USB">
+		<p><a href="/usb/whatsnew">Updates für den QuattroPod USB</a></p>
+	</div>
+</div>
+<div class="md-showcase">
 	<img src="/assets/img/quattropod.lite.png" alt="Abbildung: QuattroPod Lite"></a>
 	<div>
 		<img src="/assets/img/quattropod-lite.black.logo.png" alt="Logo: QuattroPod Lite">
