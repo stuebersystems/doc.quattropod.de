@@ -2,7 +2,7 @@
 
 QuattroPod Serie ist ein Präsentationssystem in erster Linie für Konferenzräume konzipiert zum kabellosen Übertragen von Bildschirminhalten auf einen Bildschirm oder einen Projektor. Und das ohne Software oder App!
 
-Die QuattroPod Serie gibt es in vier Varianten: 
+Die QuattroPod Serie gibt es in einer Reihe von verschiedenen Modellen: 
 
 <div class="md-showcase">
 	<img src="assets/img/quattropod.usb.png" alt="Abbildung: QuattroPod USB">
