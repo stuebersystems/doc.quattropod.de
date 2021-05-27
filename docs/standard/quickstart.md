@@ -13,7 +13,7 @@
 | :----: | :----: |
 | ![](/assets/img/QSG.R01.png)<br>1 Standard Empfänger | ![](/assets/img/QSG.T01.png)<br>2 Standard Sender |
 | ![](/assets/img/QSG.HDMI.1m.png)<br>1 HDMI-Kabel (1 m) | ![](/assets/img/QSG.HDMI.15cm.png)<br>2 HDMI-Kabel (0,30 m) |
-| ![](/assets/img/QSG.USB_Charger.png)<br>1 Universal Stromadapter (5V/2A) | ![](/assets/img/QSG.Charger.cable.png)<br>USB-Ladekabel |
+| ![](/assets/img/QSG.USB_Charger.png)<br>1 Universal Stromadapter (5V/2A) | ![](/assets/img/QSG.Charger.cable.png)<br>USB-Ladekabel (1 m) |
 | ![](/assets/img/QSG.DP.cable.30cm.png)<br>2 DisplayPort-Kabel (0,30 m) | ![](/assets/img/QSG-Manual.png)<br>Schnellstartanleitung | 
 
 ## Empfänger anschließen {#setup}
