@@ -96,14 +96,18 @@ nav:
         - "Anleitung: AirPlay": usb/airplay.md     
         - "Anleitung: Chromecast": usb/chromecast.md
     - Internetzugang: usb/internet.md
-    - Erweiterte Funktionen:
+    - Erweiterte Funktionen: 
+        - Captive Portal: usb/captiveportal.md
+        - Dynamisches Hintergrundbild: usb/dynamicwallpaper.md
         - Erweiterte Einstellungen: usb/adv.settings.md
+        - Festgelegter Host: usb/fixedhost.md
         - Konferenzsteuerung: usb/conference-control.md
         - Monitor-Modus: usb/monitor-setup.md 
+        - Multicast: usb/multicast.md
         - Remote-Verwaltung: usb/remote-management.md
+        - Sender bedienen: usb/TX-controls.md
         - Sender koppeln: usb/pairing.md
         - Touch-Back-Funktion: usb/touchback.md
-        - Captive Portal: usb/captiveportal.md
     - Firmware aktualisieren: usb/firmware-upgrade.md
     - Problembehandlung:
         - Einstellungen zurücksetzen: usb/reset.md
