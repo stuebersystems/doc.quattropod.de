@@ -23,4 +23,4 @@ Hier finden Sie eine Tabelle aller Tastenkombinationen:
 | :----: | :----: |
 | ![](/assets/img/Main-Button_Single-click.USB.png)<br>Einmal drücken | Dem Gast das Senden freischalten
 | ![](/assets/img/Main-Button_Double-click.USB.png)<br>Zweimal drücken | Anforderung ablehnen
-| ![](/assets/img/Main-Button_Double-click.USB.png)<br>3 Sek. gedrückt halten | Alle Anzeigen beenden
+| ![](/assets/img/Main-Button_3sec-click.USB.png)<br>3 Sek. gedrückt halten | Alle Anzeigen beenden
