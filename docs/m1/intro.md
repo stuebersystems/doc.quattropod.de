@@ -4,6 +4,12 @@ Erkunden Sie die Möglichkeiten des QuattroPod M1.
 
 Die Einrichtung Ihres Geräts wird in der [Schnellstartanleitung](quickstart.md) beschrieben. 
 
+Für einen kompakten Produktvergleich mit den anderen Modell-Varianten aus der QuattroPod Serie empfiehlt sich der Blick in unser [QuattroPod Produktvergleich (PDF)][3].
+
+  [1]: /assets/img/quattropod.m1.png
+  [2]: https://www.quattropod.de/m1.php
+  [3]: https://download.stueber.de/doc/de/quattropod/quattropod.produktvergleich.de.pdf
+  
 ## Spezifikation
 
 | QuattroPod M1 | |
