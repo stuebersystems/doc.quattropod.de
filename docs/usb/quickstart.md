@@ -11,7 +11,7 @@
 | Der QuattroPod USB besteht aus: |   |
 | :----: | :----: |
 | ![](/assets/img/QSG.R01.png)<br>1 Standard Empfänger | ![](/assets/img/QSG-U01.png)<br>1 USB Sender |
-| ![](/assets/img/QSG.USB_Charger.png)<br>1 Universal Stromadapter (5V/2A) | ![](/assets/img/QSG.Charger.cable.png)<br>USB-Ladekabel |
+| ![](/assets/img/QSG.USB_Charger.png)<br>1 Universal Stromadapter (5V/2A) | ![](/assets/img/QSG.Charger.cable.png)<br>USB-Ladekabel (1 m) |
 | ![](/assets/img/QSG.HDMI.1m.png)<br>1 HDMI-Kabel (1 m) | ![](/assets/img/QSG-Manual.png)<br>Schnellstartanleitung |
 
 
