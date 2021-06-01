@@ -8,7 +8,7 @@ Die QuattroPod Serie gibt es in einer Reihe von verschiedenen Modellen:
 	<img src="assets/img/quattropod.m1.png" alt="Abbildung: QuattroPod M1">
 	<div>
 		<img src="assets/img/quattropod-usb.black.logo.png" alt="Logo: QuattroPod M1">
-		<p>Der QuattroPod M1 ist der Empfänger, der sich in den SDM-Steckplatz (Intel® SDM-S) Ihres Displays einschieben lässt. Unterstützt werden alle Mini-, USB- und Standard-Sender in minimalistsicher und eleganter Emfpänger-Form.</p>
+		<p>Der QuattroPod M1 ist der Empfänger, der sich in den SDM-Steckplatz (Intel® SDM-S) Ihres Displays einschieben lässt. Unterstützt werden alle Mini-, USB- und Standard-Sender in minimalistsicher und eleganter Empfänger-Form.</p>
 		<p><a href="m1/intro">Zum QuattroPod M1</a></p>
 	</div>
 </div>
