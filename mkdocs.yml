@@ -82,6 +82,9 @@ nav:
     - Anschlüsse: ports.md
     - Datensicherheit: datasecurity.md
     - Firmware aktualisieren: firmware-upgrade.md
+- M1: 
+    - Überblick: m1/intro.md
+    - Schnellstartanleitung: m1/quickstart.md    
 - USB:
     - Überblick: usb/intro.md
     - Schnellstartanleitung: usb/quickstart.md
