@@ -81,34 +81,7 @@ nav:
     - Was ist neu?: whatsnew.md
     - Anschlüsse: ports.md
     - Datensicherheit: datasecurity.md
-    - Firmware aktualisieren: firmware-upgrade.md
-- M1: 
-    - Überblick: m1/intro.md
-    - Schnellstartanleitung: m1/quickstart.md
-    - Was ist neu?: m1/whatsnew.md
-    - Anleitungen nach<br>Betriebssystem:
-        - "Anleitung: Android": m1/quickstart/#android
-        - "Anleitung: iOS": m1/quickstart/#ios
-        - "Anleitung: macOS": m1/quickstart/#windows-macos-linux
-        - "Anleitung: Linux": m1/linux.md
-        - "Anleitung: Windows": m1/quickstart/#windows-macos-linux
-    - Anleitungen nach<br>Streamingprotokoll:
-        - "Anleitung: AirPlay": m1/airplay.md     
-        - "Anleitung: Chromecast": m1/chromecast.md
-    - Internetzugang: m1/internet.md
-    - Erweiterte Funktionen:
-        - Captive Portal: m1/captiveportal.md
-        - Dynamisches Hintergrundbild: m1/dynamicwallpaper.md
-        - Erweiterte Einstellungen: m1/adv.settings.md
-        - Festgelegter Host: m1/fixedhost.md
-        - Konferenzsteuerung: m1/conference-control.md
-        - Monitor-Modus: m1/monitor-setup.md
-        - Multicast: m1/multicast.md
-        - Remote-Verwaltung: m1/remote-management.md
-        - Sender bedienen: m1/TX-controls.md
-        - Sender koppeln: m1/pairing.md
-        - Touch-Back-Funktion: m1/touchback.md
-    - CMS: m1/cms.md    
+    - Firmware aktualisieren: firmware-upgrade.md    
 - USB:
     - Überblick: usb/intro.md
     - Schnellstartanleitung: usb/quickstart.md
@@ -261,3 +234,30 @@ nav:
         - Einstellungen zurücksetzen: deluxe/reset.md
         - Firmware neu installieren: deluxe/firmware-reinstall.md
     - CMS: deluxe/cms.md
+- M1: 
+    - Überblick: m1/intro.md
+    - Schnellstartanleitung: m1/quickstart.md
+    - Was ist neu?: m1/whatsnew.md
+    - Anleitungen nach<br>Betriebssystem:
+        - "Anleitung: Android": m1/quickstart/#android
+        - "Anleitung: iOS": m1/quickstart/#ios
+        - "Anleitung: macOS": m1/quickstart/#windows-macos-linux
+        - "Anleitung: Linux": m1/linux.md
+        - "Anleitung: Windows": m1/quickstart/#windows-macos-linux
+    - Anleitungen nach<br>Streamingprotokoll:
+        - "Anleitung: AirPlay": m1/airplay.md     
+        - "Anleitung: Chromecast": m1/chromecast.md
+    - Internetzugang: m1/internet.md
+    - Erweiterte Funktionen:
+        - Captive Portal: m1/captiveportal.md
+        - Dynamisches Hintergrundbild: m1/dynamicwallpaper.md
+        - Erweiterte Einstellungen: m1/adv.settings.md
+        - Festgelegter Host: m1/fixedhost.md
+        - Konferenzsteuerung: m1/conference-control.md
+        - Monitor-Modus: m1/monitor-setup.md
+        - Multicast: m1/multicast.md
+        - Remote-Verwaltung: m1/remote-management.md
+        - Sender bedienen: m1/TX-controls.md
+        - Sender koppeln: m1/pairing.md
+        - Touch-Back-Funktion: m1/touchback.md
+    - CMS: m1/cms.md
