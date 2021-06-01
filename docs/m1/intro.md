@@ -1,6 +1,6 @@
 # Der QuattroPod M1 
 
-Erkunden Sie die Möglichkeiten des QuattroPod M1. 
+![QuattroPod M1][1]{: align=left } Erkunden Sie die Möglichkeiten des QuattroPod M1. 
 
 Die Einrichtung Ihres Geräts wird in der [Schnellstartanleitung](quickstart.md) beschrieben. 
 
