@@ -82,7 +82,7 @@ Firmware-Version: 1.8529.10
 
 **Admineinstellungen**
 
-* [Mein Bildschirm](adv.settings.md#Mein-Bildschirm): unsere [Startseite](https://download.stueber.de/doc/de/quattropod/QuattroPod_StartseiteDE.png) in der deutschen Sprache
+* [Mein Bildschirm](adv.settings.md#Mein-Bildschirm): unsere [Startseite](https://download.stueber.de/doc/de/quattropod/QuattroPod.USB_Startseite.DE.png) in der deutschen Sprache
 * [WLAN-Modus](adv.settings.md#Wifi-Channel): `Land = EUROPE`, `Kanal = Auto`, `Bandbreite = 20MHz`
 * [AirPlay](adv.settings.md#AirPlay): `EIN`
 * [Google Cast](adv.settings.md#google-cast-chromecast): `EIN`

@@ -141,7 +141,7 @@ Aus Sicherheitsgründen kann das Kennwort geändert oder versteckt werden.
 
 Wenn gewünscht, kann man das Bild der Startseite austauschen. Dies ist eine dauerhafte Änderung. Nach dem Einspielen eines neuen Bildes kann das vorherige Bild nicht wiederhergestellt werden, auch bei einem [Zurücksetzen der Einstellungen](reset.md) des Empfängers.
 
-Einen Download der von uns mitgelieferten Startseite finden Sie [hier](https://download.stueber.de/doc/de/quattropod/QuattroPod_StartseiteDE.png).
+Einen Download der von uns mitgelieferten Startseite finden Sie [hier](https://download.stueber.de/doc/de/quattropod/QuattroPod.USB_Startseite.DE.png).
 
 ![](/assets/img/My_Screen.jpg)
 
