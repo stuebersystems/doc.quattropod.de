@@ -26,6 +26,10 @@ Hier sieht man die Bildausgabe von zwei Teilnehmer aufgeteilt:
 
 ![](/assets/img/airviewapp5.jpg)
 
+Sie haben anschließend die Möglichkeit, die Webadresse der Funktion AirView als Lesezeichen zu speichern:
+
+![](/assets/img/SaveFavourite.AirView.png)
+
 !!! warning "Achtung"
 
     AirView unterstützt kein Video- oder Audioübertragung.
