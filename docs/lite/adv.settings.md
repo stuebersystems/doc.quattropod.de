@@ -137,6 +137,24 @@ Aus Sicherheitsgründen kann das Kennwort geändert oder versteckt werden.
 
 ![](/assets/img/Password.jpg)
 
+### Zentrales Managementsystem {#cms}
+
+Hier können die Unterstüztung für das zentrale Managementsystem (CMS) aktivieren.
+
+![](/assets/img/cms.png)
+
+### Konferenzsteuerung {#Konferenzsteuerung}
+
+Mit der Konferenzensteuerung können Sie die folgenden Aufgaben durchführen:
+
+* Alle Geräte trennen
+* Die Role als Host bzw. als Moderator einem Gast zuordnen
+* Geräte auf dem Bildschirm neu positionieren
+
+![](/assets/img/Conference_Control.png)
+
+Eine umfassende Information zu diesem Thema finden Sie [hier](conference-control.md). 
+
 ### Mein Bildschirm {#Mein-Bildschirm}
 
 Wenn gewünscht, kann man das Bild der Startseite austauschen. Dies ist eine dauerhafte Änderung. Nach dem Einspielen eines neuen Bildes kann das vorherige Bild nicht wiederhergestellt werden, auch bei einem [Zurücksetzen der Einstellungen](reset.md) des Empfängers.
@@ -144,6 +162,18 @@ Wenn gewünscht, kann man das Bild der Startseite austauschen. Dies ist eine dau
 Einen Download der von uns mitgelieferten Startseite finden Sie [hier](https://download.stueber.de/doc/de/quattropod/QuattroPod.Lite_Startseite.DE.png).
 
 ![](/assets/img/My_Screen.jpg)
+
+### Dynamisches Hintergrundbild {#Dynamicwallpaper}
+
+Das dynamische Hintergrundbild, ist eine Funktion, die nach einer einstellbaren Zeit der Inaktivität automatisch gestartet wird und eine Sammlung von Bildern bzw. Videos auf dem Bildschirm anzeigt.
+
+Eine umfassende Anleitung zur Verwendung von Dynamisches Hintergrundbild finden Sie [hier](dynamicwallpaper.md).
+
+### AirView {#AirView}
+
+AirView ein- oder ausschalten. Eine umfassende Anleitung zur Verwendung von AirView finden Sie [hier](airview.md).
+
+![](/assets/img/AirView.png)
 
 ### Admin-Kennwort {#AdminKennwort}
 

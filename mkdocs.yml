@@ -97,6 +97,7 @@ nav:
         - "Anleitung: Chromecast": usb/chromecast.md
     - Internetzugang: usb/internet.md
     - Erweiterte Funktionen: 
+        - AirView: usb/airview.md
         - Captive Portal: usb/captiveportal.md
         - Dynamisches Hintergrundbild: usb/dynamicwallpaper.md
         - Erweiterte Einstellungen: usb/adv.settings.md
@@ -128,6 +129,7 @@ nav:
         - "Anleitung: Chromecast": lite/chromecast.md
     - Internetzugang: lite/internet.md
     - Erweiterte Funktionen:
+        - AirView: lite/airview.md
         - Captive Portal: lite/captiveportal.md
         - Dynamisches Hintergrundbild: lite/dynamicwallpaper.md
         - Erweiterte Einstellungen: lite/adv.settings.md
@@ -155,7 +157,8 @@ nav:
         - "Anleitung: AirPlay": mini/airplay.md     
         - "Anleitung: Chromecast": mini/chromecast.md
     - Internetzugang: mini/internet.md
-    - Erweiterte Funktionen: 
+    - Erweiterte Funktionen:
+        - AirView: mini/airview.md
         - Captive Portal: mini/captiveportal.md
         - Dynamisches Hintergrundbild: mini/dynamicwallpaper.md
         - Erweiterte Einstellungen: mini/adv.settings.md
@@ -187,6 +190,7 @@ nav:
         - "Anleitung: Chromecast": standard/chromecast.md
     - Internetzugang: standard/internet.md
     - Erweiterte Funktionen:
+        - AirView: standard/airview.md
         - Captive Portal: standard/captiveportal.md
         - Dynamisches Hintergrundbild: standard/dynamicwallpaper.md
         - Erweiterte Einstellungen: standard/adv.settings.md
@@ -218,6 +222,7 @@ nav:
         - "Anleitung: Chromecast": deluxe/chromecast.md
     - Internetzugang: deluxe/internet.md
     - Erweiterte Funktionen:
+        - AirView: deluxe/airview.md
         - Captive Portal: deluxe/captiveportal.md    
         - Dynamisches Hintergrundbild: deluxe/dynamicwallpaper.md
         - Erweiterte Einstellungen: deluxe/adv.settings.md
@@ -249,6 +254,7 @@ nav:
         - "Anleitung: Chromecast": m1/chromecast.md
     - Internetzugang: m1/internet.md
     - Erweiterte Funktionen:
+        - AirView: m1/airview.md
         - Captive Portal: m1/captiveportal.md
         - Dynamisches Hintergrundbild: m1/dynamicwallpaper.md
         - Erweiterte Einstellungen: m1/adv.settings.md

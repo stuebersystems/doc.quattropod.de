@@ -72,7 +72,7 @@ Mit Hilfe der Funktion [Erweiterte Einstellungen](adv.settings.md) können Sie s
 
 Wir empfehlen die folgenden Einstellungen:
 
-Firmware-Version: 1.8529.10
+Firmware-Version: 1.9598.72
 
 **Gerätemanagement**
 
@@ -82,7 +82,10 @@ Firmware-Version: 1.8529.10
 
 **Admineinstellungen**
 
+* [WLAN-Modus](adv.settings.md#WiFi-Mode): `Land = EUROPE`, `Kanal = Auto`, `Bandbreite = 20MHz`
+* [Zentrales Managementsystem](adv.settings.md#AirView): `EIN`
 * [Mein Bildschirm](adv.settings.md#Mein-Bildschirm): unsere [Startseite](https://download.stueber.de/doc/de/quattropod/QuattroPod_StartseiteDE.png) in der deutschen Sprache
-* [WLAN-Modus](adv.settings.md#Wifi-Channel): `Land = EUROPE`, `Kanal = Auto`, `Bandbreite = 20MHz`
 * [AirPlay](adv.settings.md#AirPlay): `EIN`
-* [Google Cast](adv.settings.md#google-cast-chromecast): `EIN`
+* [Castcode](adv.settings.md#castcode): `Zufällig`
+* [Google Cast](adv.settings.md#google-cast): `EIN`
+
