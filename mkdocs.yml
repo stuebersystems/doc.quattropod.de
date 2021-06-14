@@ -96,6 +96,7 @@ nav:
         - "Anleitung: AirPlay": usb/airplay.md     
         - "Anleitung: Chromecast": usb/chromecast.md
     - Internetzugang: usb/internet.md
+    - Einrichtungshinweise: lite/setup-tipps.md    
     - Erweiterte Funktionen: 
         - AirView: usb/airview.md
         - Captive Portal: usb/captiveportal.md
@@ -128,6 +129,7 @@ nav:
         - "Anleitung: AirPlay": lite/airplay.md     
         - "Anleitung: Chromecast": lite/chromecast.md
     - Internetzugang: lite/internet.md
+    - Einrichtungshinweise: lite/setup-tipps.md
     - Erweiterte Funktionen:
         - AirView: lite/airview.md
         - Captive Portal: lite/captiveportal.md
@@ -157,6 +159,7 @@ nav:
         - "Anleitung: AirPlay": mini/airplay.md     
         - "Anleitung: Chromecast": mini/chromecast.md
     - Internetzugang: mini/internet.md
+    - Einrichtungshinweise: mini/setup-tipps.md
     - Erweiterte Funktionen:
         - AirView: mini/airview.md
         - Captive Portal: mini/captiveportal.md
@@ -222,6 +225,7 @@ nav:
         - "Anleitung: AirPlay": deluxe/airplay.md     
         - "Anleitung: Chromecast": deluxe/chromecast.md
     - Internetzugang: deluxe/internet.md
+    - Einrichtungshinweise: deluxe/setup-tipps.md
     - Erweiterte Funktionen:
         - AirView: deluxe/airview.md
         - Captive Portal: deluxe/captiveportal.md    
@@ -254,6 +258,7 @@ nav:
         - "Anleitung: AirPlay": m1/airplay.md     
         - "Anleitung: Chromecast": m1/chromecast.md
     - Internetzugang: m1/internet.md
+    - Einrichtungshinweise: m1/setup-tipps.md
     - Erweiterte Funktionen:
         - AirView: m1/airview.md
         - Captive Portal: m1/captiveportal.md
