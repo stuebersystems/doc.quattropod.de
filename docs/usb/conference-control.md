@@ -32,7 +32,7 @@ Der Host kann auch die Rolle als „Host“ an andere Teilnehmer zuordnen.
 
 ## Anmeldung
 
-* Notieren Sie sich die IP-Adresse, die unten links angezeigt wird.
+* Notieren Sie sich die IP-Adresse, die unten links auf der Startseite angezeigt wird.
 
 ![](/assets/img/QuattroPod_IP.png)
 

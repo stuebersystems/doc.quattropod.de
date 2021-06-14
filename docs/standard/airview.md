@@ -6,7 +6,7 @@ Mit AirView hat man die Möglichkeit, eine Bildausgabe der Präsentation auf sei
 
 Die Funktion AirView steht in einem belebigen Web Browser zur Verfügung. Verbinden Sie einfach Ihr Gerät mit demselben WLAN-Netzwerk wie der QuattroPod:
 
-* Notieren Sie sich die IP-Adresse, die unten links angezeigt wird.
+* Notieren Sie sich die IP-Adresse, die unten links auf der Startseite angezeigt wird.
 
 ![](/assets/img/QuattroPod_IP.png)
 

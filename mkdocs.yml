@@ -189,6 +189,7 @@ nav:
         - "Anleitung: AirPlay": standard/airplay.md     
         - "Anleitung: Chromecast": standard/chromecast.md
     - Internetzugang: standard/internet.md
+    - Einrichtungshinweise: standard/setup-tipps.md
     - Erweiterte Funktionen:
         - AirView: standard/airview.md
         - Captive Portal: standard/captiveportal.md

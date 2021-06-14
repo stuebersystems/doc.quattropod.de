@@ -14,7 +14,7 @@ Mit den Erweiterten Einstellungen können Sie die Firmware aktualisieren und vie
 
 ## Anmeldung
 
-* Notieren Sie sich die IP-Adresse, die unten links angezeigt wird.
+* Notieren Sie sich die IP-Adresse, die unten links auf der Startseite angezeigt wird.
 
 ![](/assets/img/QuattroPod_IP.png)
 

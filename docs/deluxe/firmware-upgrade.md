@@ -18,7 +18,7 @@ Bei einer Firmware-Aktualisierung ist es wichtig, die Sender nicht zu übersehen
 
 Die Aktualisierung wird über die Web-Oberfläche in einem beliebigen Web-Browser durchgeführt.
 
-* Notieren Sie sich die IP-Adresse, die unten links angezeigt wird.
+* Notieren Sie sich die IP-Adresse, die unten links auf der Startseite angezeigt wird.
 
 ![](/assets/img/QuattroPod_IP.png)
 

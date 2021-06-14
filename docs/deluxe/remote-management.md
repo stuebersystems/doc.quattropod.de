@@ -2,7 +2,7 @@
 
 Wenn der QuattroPod entweder per Netzwerkkabel oder drahtlos mit Ihrem Router verbunden ist, können Sie per Web-Oberfläche die Firmware aktualisieren, und viele Einstellungen des QuattroPods bequem per Fernzugriff anpassen.
 
-* Notieren Sie sich die IP-Adresse, die unten links angezeigt wird.
+* Notieren Sie sich die IP-Adresse, die unten links auf der Startseite angezeigt wird.
 
 ![](/assets/img/QuattroPod_IP.png)
 
