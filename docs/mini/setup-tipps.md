@@ -2,7 +2,7 @@
 
 ## Internet-Router-Signalstärke
 
-Der QuattroPod hat eine Funkreichweite (Sichtlinie) von bis 30m. Eine geringe Signalanzeige bezieht sich auf eine schlechte Signalstärke zwischen dem QuattroPod und Ihrem Router bzw. Ihrem Access-Point. Dies kann zu einer abgehackten Wiedergabe von Videos und Inhalten führen, wenn die Inhalte vom Internet abhängig sind oder wenn Ihre Mobilgeräte mit dem QuattroPod über Ihre Infrastruktur verbinden.
+Der QuattroPod hat eine Funkreichweite (Sichtlinie) von bis zu 30m. Eine geringe Signalanzeige bezieht sich auf eine schlechte Signalstärke zwischen dem QuattroPod und Ihrem Router bzw. Ihrem Access-Point. Dies kann zu einer abgehackten Wiedergabe von Videos und Inhalten führen, wenn die Inhalte vom Internet abhängig sind oder wenn Ihre Mobilgeräte mit dem QuattroPod über Ihre Infrastruktur verbinden.
 
 ![QuattroPod](/assets/img/QuattroPod.poorsignal.png)
 
