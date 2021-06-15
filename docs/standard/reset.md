@@ -50,7 +50,7 @@ Mit Hilfe der Funktion [Erweiterte Einstellungen](adv.settings.md) können Sie s
 
 * Die folgenden Funktionen stehen zur Verfügung. Wählen Sie den Menüpunkt `Admineinstellungen`:
 
-![](/assets/img/Menu_AdminSettings.png)
+![](/assets/img/quattropod.select.admin.png)
 
 * Führen Sie die Funktion `Auf Standardeinstellungen zurücksetzen` aus. Der Empfänger startet sich neu:
 

@@ -43,7 +43,7 @@ Die Aktualisierung wird über die Web-Oberfläche in einem beliebigen Web-Browse
 
 * Klicken Sie auf `Admineinstellungen`:
 
-![](/assets/img/Menu_AdminSettings.png)
+![](/assets/img/quattropod.select.admin.png)
 
 * Klicken Sie auf `Update`:
 

@@ -52,7 +52,7 @@ Der Host kann auch die Rolle als „Host“ an andere Teilnehmer zuordnen.
 
 * Wählen Sie den Menüpunkt `Admineinstellungen`:
 
-![](/assets/img/Menu_AdminSettings.png)
+![](/assets/img/quattropod.select.admin.png)
 
 * Wählen Sie den Menüpunkt `Konferenzsteuerung`:
 
