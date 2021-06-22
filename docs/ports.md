@@ -102,7 +102,7 @@ Der Port auf dem ausgewählten QuattroPod Gerät wird gefiltert. PortQueryUI.exe
 
 Nahezu überall spielt das Datum und die Uhrzeit eine wichtige Rolle. NTP (Network Time Protocol) ist ein Netzwerkprotokoll, mit dem die Uhren von Geräten sich über ein Netzwerk synchronisieren können. Es arbeitet mit einem oder mehreren NTP-Servern, die eine hochpräzise Zeit beibehalten, und erlaubt Clients, diese Zeit abzufragen. Diese Client-Geräte fragen den Server ab und stellen dann automatisch ihre eigene interne Uhr so ein, dass sie den NTP-Server widerspiegelt. QuattroPod Geräte versuchen, die folgenden NTP-Server in der unten angegebenen Reihenfolge abzufragen:
 
-QuattroPod Gerät -> Router -> Internet NTP Server (d.h. time.google.com) 
+QuattroPod Gerät -> Router -> Internet NTP-Server (d.h. time.google.com) 
 
 ````
 time.google.com
@@ -116,4 +116,4 @@ ntp3.aliyun.com
 
 Für Netzwerkinfrastrukturen, die den Geräten keinen direkten Zugriff auf das Internet erlauben, wird ein eigener lokaler Zeitserver eingesetzt. Um die Zeitsynchronisation der QuattroPod Geräte mit Ihrem NTP-Server zu integrieren, erstellen Sie bitte einen oder mehrere Einträge auf Ihrem DNS-Server, die auf den entsprechenden lokalen NTP-Server verweisen:
 
-QuattroPod Gerät -> Router/DNS (d.h. time.google.com) -> Interner NTP Server -> Internet NTP Server
+QuattroPod Gerät -> Interner DNS-Server (d.h. time.google.com) -> Interner NTP-Server -> Internet NTP-Server
