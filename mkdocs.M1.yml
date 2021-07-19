@@ -257,6 +257,7 @@ nav:
     - Anleitungen nach<br>Streamingprotokoll:
         - "Anleitung: AirPlay": m1/airplay.md     
         - "Anleitung: Chromecast": m1/chromecast.md
+    - CMS: m1/cms.md    
     - Internetzugang: m1/internet.md
     - Einrichtungshinweise: m1/setup-tipps.md
     - Erweiterte Funktionen:
@@ -270,6 +271,5 @@ nav:
         - Multicast: m1/multicast.md
         - Remote-Verwaltung: m1/remote-management.md
         - Sender bedienen: m1/TX-controls.md
-        - Sender koppeln: m1/pairing.md
         - Touch-Back-Funktion: m1/touchback.md
-    - CMS: m1/cms.md
+    - Pairing des Sender: m1/pairing.md
