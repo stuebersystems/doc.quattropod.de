@@ -172,7 +172,6 @@ nav:
         - Multicast: mini/multicast.md
         - Remote-Verwaltung: mini/remote-management.md
         - Sender bedienen: mini/TX-controls.md
-        - Sender koppeln: mini/pairing.md
         - Touch-Back-Funktion: mini/touchback.md
     - Firmware aktualisieren: mini/firmware-upgrade.md
     - Problembehandlung: 
@@ -244,4 +243,4 @@ nav:
     - Problembehandlung: 
         - Einstellungen zurücksetzen: deluxe/reset.md
         - Firmware neu installieren: deluxe/firmware-reinstall.md
-    - Sender koppeln: deluxe/pairing.md
+    - Pairing des Senders: deluxe/pairing.md
