@@ -96,7 +96,6 @@ nav:
         - "Anleitung: AirPlay": usb/airplay.md     
         - "Anleitung: Chromecast": usb/chromecast.md
     - CMS: usb/cms.md    
-    - Internetzugang: usb/internet.md
     - Einrichtungshinweise: lite/setup-tipps.md    
     - Erweiterte Funktionen: 
         - AirView: usb/airview.md
@@ -111,6 +110,7 @@ nav:
         - Sender bedienen: usb/TX-controls.md
         - Touch-Back-Funktion: usb/touchback.md
     - Firmware aktualisieren: usb/firmware-upgrade.md
+    - Internetzugang: usb/internet.md
     - Problembehandlung:
         - Einstellungen zurücksetzen: usb/reset.md
         - Firmware neu installieren: usb/firmware-reinstall.md
@@ -129,7 +129,6 @@ nav:
         - "Anleitung: AirPlay": lite/airplay.md     
         - "Anleitung: Chromecast": lite/chromecast.md
     - CMS: lite/cms.md    
-    - Internetzugang: lite/internet.md
     - Einrichtungshinweise: lite/setup-tipps.md
     - Erweiterte Funktionen:
         - AirView: lite/airview.md
@@ -141,6 +140,7 @@ nav:
         - Remote-Verwaltung: lite/remote-management.md
         - Touch-Back-Funktion: lite/touchback.md
     - Firmware aktualisieren: lite/firmware-upgrade.md
+    - Internetzugang: lite/internet.md
     - Problembehandlung:
         - Einstellungen zurücksetzen: lite/reset.md
         - Firmware neu installieren: lite/firmware-reinstall.md
@@ -159,7 +159,6 @@ nav:
         - "Anleitung: AirPlay": mini/airplay.md     
         - "Anleitung: Chromecast": mini/chromecast.md
     - CMS: mini/cms.md        
-    - Internetzugang: mini/internet.md
     - Einrichtungshinweise: mini/setup-tipps.md
     - Erweiterte Funktionen:
         - AirView: mini/airview.md
@@ -174,6 +173,7 @@ nav:
         - Sender bedienen: mini/TX-controls.md
         - Touch-Back-Funktion: mini/touchback.md
     - Firmware aktualisieren: mini/firmware-upgrade.md
+    - Internetzugang: mini/internet.md
     - Problembehandlung: 
         - Einstellungen zurücksetzen: mini/reset.md
         - Firmware neu installieren: mini/firmware-reinstall.md
@@ -192,7 +192,6 @@ nav:
         - "Anleitung: AirPlay": standard/airplay.md     
         - "Anleitung: Chromecast": standard/chromecast.md
     - CMS: standard/cms.md
-    - Internetzugang: standard/internet.md
     - Einrichtungshinweise: standard/setup-tipps.md
     - Erweiterte Funktionen:
         - AirView: standard/airview.md
@@ -207,6 +206,7 @@ nav:
         - Sender bedienen: standard/TX-controls.md
         - Touch-Back-Funktion: standard/touchback.md
     - Firmware aktualisieren: standard/firmware-upgrade.md
+    - Internetzugang: standard/internet.md
     - Problembehandlung: 
         - Einstellungen zurücksetzen: standard/reset.md
         - Firmware neu installieren: standard/firmware-reinstall.md
@@ -225,7 +225,6 @@ nav:
         - "Anleitung: AirPlay": deluxe/airplay.md     
         - "Anleitung: Chromecast": deluxe/chromecast.md
     - CMS: deluxe/cms.md    
-    - Internetzugang: deluxe/internet.md
     - Einrichtungshinweise: deluxe/setup-tipps.md
     - Erweiterte Funktionen:
         - AirView: deluxe/airview.md
@@ -240,6 +239,7 @@ nav:
         - Sender bedienen: deluxe/TX-controls.md
         - Touch-Back-Funktion: deluxe/touchback.md
     - Firmware aktualisieren: deluxe/firmware-upgrade.md
+    - Internetzugang: deluxe/internet.md
     - Problembehandlung: 
         - Einstellungen zurücksetzen: deluxe/reset.md
         - Firmware neu installieren: deluxe/firmware-reinstall.md
