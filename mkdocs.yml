@@ -96,7 +96,7 @@ nav:
         - "Anleitung: AirPlay": usb/airplay.md     
         - "Anleitung: Chromecast": usb/chromecast.md
     - CMS: usb/cms.md    
-    - Einrichtungshinweise: lite/setup-tipps.md    
+    - Einrichtungshinweise: usb/setup-tipps.md    
     - Erweiterte Funktionen: 
         - AirView: usb/airview.md
         - Captive Portal: usb/captiveportal.md
