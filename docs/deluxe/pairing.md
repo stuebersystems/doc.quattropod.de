@@ -1,6 +1,6 @@
 # Sender koppeln
 
-Der QuattroPod-Empfänger kann mit bis zu 64 Sendern gleichzeitig gekoppelt werden. Die Sender sind mit dem mitgelieferten Empfänger standardmäßig gekoppelt. Sie können jedoch zusätzliche Sender erwerben oder aber Sender mit einem anderen Empfänger benutzen. Dazu müssen die Sender mit dem entsprechenden Empfänger gekoppelt werden.
+Der QuattroPod-Empfänger kann mit bis zu 32 Sendern gleichzeitig gekoppelt werden. Die Sender sind mit dem mitgelieferten Empfänger standardmäßig gekoppelt. Sie können jedoch zusätzliche Sender erwerben oder aber Sender mit einem anderen Empfänger benutzen. Dazu müssen die Sender mit dem entsprechenden Empfänger gekoppelt werden.
 
 Es gibt zwei Möglichkeiten, einen Sender mit einem Empfänger zu koppeln
 
