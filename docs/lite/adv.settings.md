@@ -106,14 +106,14 @@ Mit Vollbild-Modus wird die Eingabe des Endgeräts automatisch angepasst, um das
 
 ### Zeitgesteuerter Neustart {#timedrestart}
 
-Um die Leistung des QuattroPods zu optimieren, insbesondere bei Geräten, die dauerhaft im Betrieb sind, schalten Sie die Option `Zeitgesteurter Neustart` **EIN**. Der Empfänger startet sich automatisch neu, wenn die folgenden Bedingungen zutreffen:
+Um die Leistung des QuattroPods zu optimieren, insbesondere bei Geräten, die dauerhaft im Betrieb sind, aktivieren Sie die Funktion `Zeitgesteurter Neustart`. Der Empfänger startet sich automatisch neu, wenn die folgenden Bedingungen zutreffen:
 
-* Der QuattroPod war 8 Stunden nicht im Betrieb. 
-* Alle Sender sind mind. 8 Stunden ausgeschaltet.
+* Der QuattroPod war war 2/4/8 Stunden nicht im Betrieb. 
+* Alle Sender sind mind. 2/4/8 Stunden ausgeschaltet.
 * Weder AirPlay noch die Android App wurden seit 8 Stunden verwendet.
 * Die Web-Oberfläche der Einstellungen wurde 8 Stunden nicht verwendet.
 
-![Zeitgesteuerter Neustart einschalten](/assets/img/receive.autorestart.png)
+![Zeitgesteuerter Neustart einschalten](/assets/img/timed.restart.png)
 
 ## Admineinstellungen {#Admineinstellungen}
 

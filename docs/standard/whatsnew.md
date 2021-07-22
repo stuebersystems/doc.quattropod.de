@@ -6,6 +6,37 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des Quattr
 
     Immer auf dem neuesten Stand: Melden Sie sich zu unserem [Newsletter](https://www.stueber.de/newsletter.php) an und erfahren Sie [hier](firmware-upgrade.md) wie Sie die Firmware auf Ihrem Gerät aktualisieren.
 
+
+# QuattroPod R01 Firmware - Firmware - 1.12412.27
+2021.06.18
+
+**Neue Funktionen:**
+
+* Unterstützung des Pairings durch HDMI
+* Unterstützung für Router über den WLAN-Sicherheitsstandard WPA3
+* Timing Pass-through hinzugefügt
+* HDCP pass-through hinzugefügt
+* WLAN-Signalstärke einstellbar
+* Neue Einstellung des WLANs 40Mhz hinzugefügt
+
+**Fixes:**
+
+Verbesserte Web-Einstellungen:
+* Standardauflösung des QuattroPod-Empfängers auf 1080P gesetzt
+* Einstellungen `2` und `4` Stunden in der Funktion [Zeitgesteuerter Neustart](adv.settings.md#timedrestart) hinzugefügt
+
+**Behobene Systemfehler und Verbesserungen:**
+
+* Improve mirror latency
+* Improve Wi-Fi stability
+* Improve AirView performance
+* Improve compatibility with 4K monitor
+* Add OSD notification “Capture” during AirView
+* Support more time resolution for QuattroPod receiver
+* Support YUV 422 for QuattroPod transmitter
+* Update Android APK 1.4.56
+
+
 # QuattroPod Firmware - 1.9598.72
 2020.08.28
 
