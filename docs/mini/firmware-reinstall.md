@@ -189,7 +189,7 @@ Am Ende der Aktualisierung wird der Status „Upgrade Success“ angezeigt:
 
 Schalten Sie den Sender aus und wieder ein. Der Sender ist wieder einsatzbereit.
 
-### Andere Firmware installieren  {#T01_install_other_fw}
+### Andere Firmware installieren  {#T02_install_other_fw}
 
 Um eine vorherige bzw. eine Betafirmware zu installieren, laden Sie eine der folgenden Dateien herunter:
 
