@@ -39,7 +39,7 @@ Im Kontrollzentrum tippen Sie auf `Bildschirmsynchronisierung`, anschließend w�
 
 !!! tip "Hinweis"
 
-     Wenn der QuattroPod Empfänger unter AirPlay nicht zu sehen ist, stellen Sie sicher, dass Ihr iOS-Gerät mit dem Empfänger verbunden ist.
+     Wenn der QuattroPod Empfänger unter AirPlay nicht zu sehen ist, stellen Sie sicher, dass Ihr iOS-Gerät mit dem Empfänger verbunden ist. AWDL (Apple Wireless Direct Link) ist Apples proprietäres Mesh-Netzwerkprotokoll, mit dem Apple-Geräte im Nahbereich Ad-hoc-Peer-to-Peer-Mesh-Netzwerke nutzen können. Dieses Protokoll wird für QuattroPod Geräte nicht verwendet.
 
 ![Der QuattroPod Empfänger](/assets/img/iOS_AirPlay_select.png)
 
