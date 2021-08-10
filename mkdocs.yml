@@ -244,3 +244,5 @@ nav:
         - Einstellungen zurücksetzen: deluxe/reset.md
         - Firmware neu installieren: deluxe/firmware-reinstall.md
     - Pairing des Senders: deluxe/pairing.md
+- CMS: 
+    - Einführung: cms.md    
