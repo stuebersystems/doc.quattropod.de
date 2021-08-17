@@ -31,16 +31,26 @@ Die folgende Startseite erscheint auf Ihrem Bildschirm:
 
 !!! tip "Hinweis"
 
-	Der Sender ermöglicht ein einfaches Spiegeln Ihres Bildschirms. Wenn Sie Ihre Inhalte jedoch lieber ohne einen Sender spiegeln möchten, können Sie ein [Streamingprotokoll](#a-streamingprotokollen) verwenden.
-	 
-* Ziehen Sie den USB-A-Adapter vom Sender ab und schalten Sie den Sender auf `Type-C` um. Schließen Sie den Sender an einen USB-C-Port Ihres Windows/macOS-Rechners an:
+     Stellen Sie sicher, dass Ihr Windows / macOS Gerät die Videoübertragung per USB-C-Anschluss [DP Alt Mode](https://en.everybodywiki.com/List_of_devices_with_video_output_over_USB-C) unterstützt. Im Zweifelsfall nutzen Sie bitte die Methode [Type-A](#SenderTypeA) oder [Streamingprotokoll](#a-streamingprotokollen).
 
-![](/assets/img/QSG-TypeC.Windows.png)   
+* Ziehen Sie den USB-A-Adapter vom Sender ab und schalten Sie den Sender auf `Type-C` um. Schließen Sie den Sender an einen USB-C-Port Ihres Windows/macOS-Rechners an:
+	 
+	 ![](/assets/img/QSG-TypeC.Windows.png) 
+	 
+### Android
+	
+!!! tip "Hinweis"
+
+     Stellen Sie sicher, dass Ihr Android Gerät die Videoübertragung per USB-C-Anschluss [DP Alt Mode](https://en.everybodywiki.com/List_of_devices_with_video_output_over_USB-C) unterstützt. Im Zweifelsfall nutzen Sie bitte die Methode [Mobil-Modus](#SenderTypeA) oder [Streamingprotokoll](#a-streamingprotokollen).
+	 
+* Ziehen Sie den USB-A-Adapter vom Sender ab und schalten Sie den Sender auf `Type-C` um. Schließen Sie den Sender an einen USB-C-Port Ihres Android Rechners an:
+
+  ![](/assets/img/QSG-QP.USBC.Android.png) 
 
 !!! tip "Hinweis"
 
-     Stellen Sie sicher, dass Ihr Windows / macOS Gerät die Videoübertragung per USB-C-Anschluss unterstützt. Im Zweifelsfall nutzen Sie bitte die Methode [Type-A](#SenderTypeA).	 
-
+	Der Sender ermöglicht ein einfaches Spiegeln Ihres Bildschirms. Wenn Sie Ihre Inhalte jedoch lieber ohne einen Sender spiegeln möchten, können Sie ein [Streamingprotokoll](#a-streamingprotokollen) verwenden.
+	 
 ## Bildschirmübertragung im Type-A Sendermodus {#SenderTypeA}
 
 ### Windows / macOS
