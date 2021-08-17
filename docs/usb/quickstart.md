@@ -43,7 +43,7 @@ Die folgende Startseite erscheint auf Ihrem Bildschirm:
 
      Stellen Sie sicher, dass Ihr Android Gerät die Videoübertragung per USB-C-Anschluss [DP Alt Mode](https://en.everybodywiki.com/List_of_devices_with_video_output_over_USB-C) unterstützt. Im Zweifelsfall nutzen Sie bitte die Methode [Mobil-Modus](#SenderTypeA) oder [Streamingprotokoll](#a-streamingprotokollen).
 	 
-* Ziehen Sie den USB-A-Adapter vom Sender ab und schalten Sie den Sender auf `Type-C` um. Schließen Sie den Sender an einen USB-C-Port Ihres Android Rechners an:
+* Ziehen Sie den USB-A-Adapter vom Sender ab und schalten Sie den Sender auf `Type-C` um. Schließen Sie den Sender an den USB-C-Port Ihres Android Rechners an:
 
   ![](/assets/img/QSG-QP.USBC.Android.png) 
 
