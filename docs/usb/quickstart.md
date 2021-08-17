@@ -25,9 +25,9 @@ Die folgende Startseite erscheint auf Ihrem Bildschirm:
 
 ![QuattroPod USB Startseite](/assets/img/quattropod.landingpage.png)
 
-## Bildschirmübertragung im Type-C Sendermodus {#SenderTypeC}
+## Bildschirmübertragung im Type-C Sendermodus
 
-### Windows / macOS
+### Windows / macOS im Type-C Sendermodus
 
 !!! tip "Hinweis"
 
@@ -37,7 +37,7 @@ Die folgende Startseite erscheint auf Ihrem Bildschirm:
 	 
 	 ![](/assets/img/QSG-TypeC.Windows.png) 
 	 
-### Android
+### Android im Type-C Sendermodus
 	
 !!! tip "Hinweis"
 
@@ -47,27 +47,24 @@ Die folgende Startseite erscheint auf Ihrem Bildschirm:
 
   ![](/assets/img/QSG-QP.USBC.Android.png) 
 
-!!! tip "Hinweis"
+ 
+## Bildschirmübertragung im Type-A Sendermodus
 
-	Der Sender ermöglicht ein einfaches Spiegeln Ihres Bildschirms. Wenn Sie Ihre Inhalte jedoch lieber ohne einen Sender spiegeln möchten, können Sie ein [Streamingprotokoll](#a-streamingprotokollen) verwenden.
-	 
-## Bildschirmübertragung im Type-A Sendermodus {#SenderTypeA}
-
-### Windows / macOS
+### Windows / macOS im Type-A Sendermodus
 
 !!! tip "Hinweis"
 
 	Der Sender ermöglicht ein einfaches Spiegeln Ihres Bildschirms. Wenn Sie Ihre Inhalte jedoch lieber ohne einen Sender spiegeln möchten, können Sie ein [Streamingprotokoll](#a-streamingprotokollen) verwenden.
 	 
-* Schließen Sie den USB-A-Adapter an den Sender an und schalten Sie den Sender auf `Type-A` um. Schließen Sie den Sender an einen USB-A-Port Ihres Windows/macOS-Rechners an:
+* Schließen Sie den USB-A-Adapter an den Sender an und schalten Sie den Sender auf `Type-A` um. Schließen Sie den Sender an einen USB-A-Port Ihres Windows/macOS-Rechners an. Die Bildschirmübertragung erfolgt automatisch:
 
 ![](/assets/img/QSG-TypeA.Windows.png)
 
-#### Software: USB WiFi Cast
+**Software: USB WiFi Cast**
 
-Sie müssen einmalig die Software **USB WiFi Cast** installieren. Beim Anschließen des Senders im Type-A öffnet sich ein CD-Laufwerk. Unter macOS führen Sie `USB WiFi Cast` aus. Unter Windows führen Sie [USB Launcher](https://download.stueber.de/doc/de/quattropod/USB-WiFi-Cast/USB.WiFi.Cast-1.0.0.66.exe) aus.
+* Sie müssen einmalig die Software **USB WiFi Cast** installieren. Beim Anschließen des Senders im Type-A öffnet sich ein CD-Laufwerk. Unter macOS führen Sie `USB WiFi Cast` aus. Unter Windows führen Sie [USB Launcher](https://download.stueber.de/doc/de/quattropod/USB-WiFi-Cast/USB.WiFi.Cast-1.0.0.66.exe) aus.
 
-Wenn die Software **USB WiFi Cast** auf Ihrem Gerät bereits vorhanden ist, erfolgt die Bildschirmübertragung standardmäßig automatisch. Sie kann auch aus Ihrem Programme-Menü manuell gestartet werden.
+Wenn die Software **USB WiFi Cast** auf Ihrem Gerät bereits vorhanden ist, erfolgt die Bildschirmübertragung standardmäßig automatisch. Sie kann auch aus Ihrem Programme-Menü manuell gestartet werden. 
 
 ## Bildschirmübertragung im Mobil-Modus {#SenderMobile}
 
