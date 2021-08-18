@@ -37,10 +37,3 @@ Wählen Sie Ihr Gerät aus, um sich über die neusten Updates Ihres Gerät zu in
 		<p><a href="/deluxe/whatsnew">Updates für den QuattroPod Deluxe</a></p>
 	</div>
 </div>
-<div class="md-showcase">
-	<img src="/assets/img/quattropod.m1.png" alt="Abbildung: QuattroPod M1"></a>
-	<div>
-		<img src="/assets/img/quattropod-m1.black.logo.png" alt="Logo: QuattroPod M1">
-		<p><a href="/m1/whatsnew">Updates für den QuattroPod M1</a></p>
-	</div>
-</div>
