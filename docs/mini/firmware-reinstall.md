@@ -233,7 +233,7 @@ Schalten Sie den Sender aus und wieder ein. Der Sender ist wieder einsatzbereit.
 
 ## Firmware mit dem CMS installieren
 
-Mit dem CMS (Central Management System) kann man nicht nur die aktuelle Firmware vom Internet auf mehreren EZCast Pro II Geräten bzw. QuattroPod installieren, sondern auch eine vorherige Version bzw. eine Beta-Firmware.
+Mit dem CMS ([Central Management System](cms.md)) kann man nicht nur die aktuelle Firmware vom Internet auf mehreren EZCast Pro II Geräten bzw. QuattroPod installieren, sondern auch eine vorherige Version bzw. eine Beta-Firmware.
 
 * Laden Sie eine Firmware von der obigen Tabelle [andere Firmware](#R01_install_other_fw) herunter.
 
@@ -253,9 +253,9 @@ Die neue Firmware wird heruntergeladen und automatisch installiert.
 
 ![](/assets/img/ProIIStick_Firmware_installing.png)
 
-### Problembehandlung
+## Problembehandlung
 
-#### Fehlermeldung: Tool must be in a directory where there are no spaces
+### Fehlermeldung: Tool must be in a directory where there are no spaces
 
 * Das Repair Tool muss sich in einem Dateipfad ohne Leerzeichen befinden z.B. `C:\Repair_Tool\EZCastUpdate.exe`. Um diese Fehlermeldung zu vermeiden, verschieben Sie die Software auf einen Pfad ohne Leerzeichen.
 
