@@ -72,15 +72,16 @@ Mit Hilfe der Funktion [Erweiterte Einstellungen](adv.settings.md) können Sie s
 
 Wir empfehlen die folgenden Einstellungen:
 
-Firmware-Version: 1.9598.75
+Firmware-Version: [1.12412.42](whatsnew.md#20210712-11241242)
 
 **Gerätemanagement**
 
 * [Sprache](adv.settings.md#Sprache): `DEUTSCH`
-* [Zeitgesteuerter Neustart](adv.settings.md#timedrestart): `EIN`
+* [Android Audioübertragung](adv.settings.md#Androidsoundstreaming): `EIN`
+* [Zeitgesteuerter Neustart](adv.settings.md#timedrestart): `2 Stunden`
 
 **Admineinstellungen**
 
-* [WLAN-Modus](adv.settings.md#Wifi-Channel): `Land = EUROPE`, `Kanal = Auto`, `Bandbreite = 20MHz`
+* [WLAN-Modus](adv.settings.md#WiFi-Mode): `Land = EUROPE`, `Kanal = Auto`, `Bandbreite = 20MHz`
+* [Zentrales Managementsystem](adv.settings.md#AirView): `EIN`
 * [Mein Bildschirm](adv.settings.md#Mein-Bildschirm): unsere [Startseite](https://download.stueber.de/doc/de/quattropod/QuattroPod.Lite_Startseite.DE.png) in der deutschen Sprache
-

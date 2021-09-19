@@ -72,13 +72,13 @@ Mit Hilfe der Funktion [Erweiterte Einstellungen](adv.settings.md) können Sie s
 
 Wir empfehlen die folgenden Einstellungen:
 
-Firmware-Version: 1.9598.72
+Firmware-Version: [1.12412.42](whatsnew.md#20210712-11241242)
 
 **Gerätemanagement**
 
 * [Sprache](adv.settings.md#Sprache): `DEUTSCH`
-* [Android Audioübertragung](adv.settings.md#Android-Audio-Streaming): `EIN`
-* [Zeitgesteuerter Neustart](adv.settings.md#timedrestart): `EIN`
+* [Android Audioübertragung](adv.settings.md#Androidsoundstreaming): `EIN`
+* [Zeitgesteuerter Neustart](adv.settings.md#timedrestart): `2 Stunden`
 
 **Admineinstellungen**
 

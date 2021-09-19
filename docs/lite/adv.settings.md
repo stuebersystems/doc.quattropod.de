@@ -80,7 +80,7 @@ Hier wählen Sie die Ausgabeauflösung des QuattroPods aus. Sie können entweder
 
 ![](/assets/img/resolution.png)
 
-### Auslösungsmodus {#resolutionmode}
+### Auflösungsmodus {#resolutionmode}
 
 Legen Sie fest, ob die von Ihnen angegebene Auflösungseinstellung nur für den aktuell angeschlossenen Bildschirm oder für alle Bildschirme gelten soll.
 
