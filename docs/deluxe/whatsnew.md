@@ -5,9 +5,46 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des Quattr
 !!! tip "Newsletter"
 
     Immer auf dem neuesten Stand: Melden Sie sich zu unserem [Newsletter](https://www.stueber.de/newsletter.php) an und erfahren Sie [hier](firmware-upgrade.md) wie Sie die Firmware auf Ihrem Gerät aktualisieren.
+
+## Empfänger R01
+
+### 2021.07.12 | 1.12412.42
+
+**Fixes:**
+
+* Beseitigung der chromatischen Aberration des RGB-Farbraums
+* Die Auflösung 4K-30hz für die als Standardausgabe des Empfängers, wenn der Monitor 4K unterstützt.
+* Systemfehler behoben
+
+### 2021.06.18 | 1.12412.27
+
+**Neue Funktionen:**
+
+* Unterstützung des Pairings durch HDMI
+* Unterstützung für Router über den WLAN-Sicherheitsstandard WPA3
+* Timing Pass-through hinzugefügt
+* HDCP pass-through hinzugefügt
+* WLAN-Signalstärke einstellbar
+* Neue Einstellung des WLANs 40Mhz hinzugefügt
+
+**Fixes:**
+
+Verbesserte Web-Einstellungen:
+* Standardauflösung des QuattroPod-Empfängers auf 1080P gesetzt
+* Einstellungen `2` und `4` Stunden in der Funktion [Zeitgesteuerter Neustart](adv.settings.md#timedrestart) hinzugefügt
+
+**Behobene Systemfehler und Verbesserungen:**
+
+* Improve mirror latency
+* Improve Wi-Fi stability
+* Improve AirView performance
+* Improve compatibility with 4K monitor
+* Add OSD notification “Capture” during AirView
+* Support more time resolution for QuattroPod receiver
+* Support YUV 422 for QuattroPod transmitter
+* Update Android APK 1.4.56
 	
-# QuattroPod Firmware - 1.9598.72
-2020.08.28
+### 2020.08.28 | 1.9598.72
 
 **Neue Funktionen:**
 
@@ -30,9 +67,7 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des Quattr
 * Optimierter RGB-Farbraum und HDMI-Timing
 * Optimierter Energieverbrauch
 
-
-# QuattroPod Firmware - 1.8529.10
-2020.05.14
+### 2020.05.14 | 1.8529.10
 
 **Neue Funktionen:**
 
@@ -49,4 +84,15 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des Quattr
 * Bei der Erstinstallation wurde zur Optimierung der WLAN-Adapter-Einstellungen folgende Auswahl hinzugefügt:
 
 ![](/assets/img/wifi.land.selection.DE.png)
+
+## Sender T01
+
+### 2021.07.12 | 1.12412.42
+
+**Fixes:**
+
+* Beseitigung der chromatischen Aberration des RGB-Farbraums
+* Systemfehler behoben
+
+
 

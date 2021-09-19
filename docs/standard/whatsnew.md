@@ -6,9 +6,17 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des Quattr
 
     Immer auf dem neuesten Stand: Melden Sie sich zu unserem [Newsletter](https://www.stueber.de/newsletter.php) an und erfahren Sie [hier](firmware-upgrade.md) wie Sie die Firmware auf Ihrem Gerät aktualisieren.
 
+## Empfänger R01 
 
-# QuattroPod R01 Firmware - Firmware - 1.12412.27
-2021.06.18
+### 2021.07.12 | 1.12412.42
+
+**Fixes:**
+
+* Beseitigung der chromatischen Aberration des RGB-Farbraums
+* Die Auflösung 4K-30hz für die als Standardausgabe des Empfängers, wenn der Monitor 4K unterstützt.
+* Systemfehler behoben
+
+### 2021.06.18 | 1.12412.27
 
 **Neue Funktionen:**
 
@@ -36,9 +44,7 @@ Verbesserte Web-Einstellungen:
 * Support YUV 422 for QuattroPod transmitter
 * Update Android APK 1.4.56
 
-
-# QuattroPod Firmware - 1.9598.72
-2020.08.28
+### 2020.08.28 | 1.9598.72
 
 **Neue Funktionen:**
 
@@ -61,9 +67,7 @@ Verbesserte Web-Einstellungen:
 * Optimierter RGB-Farbraum und HDMI-Timing
 * Optimierter Energieverbrauch
 
-
-# QuattroPod Firmware - 1.8529.10
-2020.05.14
+### 2020.05.14 | 1.8529.10
 
 **Neue Funktionen:**
 
@@ -80,4 +84,13 @@ Verbesserte Web-Einstellungen:
 * Bei der Erstinstallation wurde zur Optimierung der WLAN-Adapter-Einstellungen folgende Auswahl hinzugefügt:
 
 ![](/assets/img/wifi.land.selection.DE.png)
+
+## Sender T01
+
+### 2021.07.12 | 1.12412.42
+
+**Fixes:**
+
+* Beseitigung der chromatischen Aberration des RGB-Farbraums
+* Systemfehler behoben
 

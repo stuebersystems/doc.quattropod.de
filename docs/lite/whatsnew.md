@@ -6,8 +6,45 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des Quattr
 
     Immer auf dem neuesten Stand: Melden Sie sich zu unserem [Newsletter](https://www.stueber.de/newsletter.php) an und erfahren Sie [hier](firmware-upgrade.md) wie Sie die Firmware auf Ihrem Gerät aktualisieren.
 
-# QuattroPod Firmware - 1.9598.75
-2020.08.28
+## Empfänger LR01 
+
+### 2021.07.12 | 1.12412.42
+
+**Fixes:**
+
+* Beseitigung der chromatischen Aberration des RGB-Farbraums
+* Die Auflösung 4K-30hz für die als Standardausgabe des Empfängers, wenn der Monitor 4K unterstützt.
+* Systemfehler behoben
+
+### 2021.06.18 | 1.12412.27
+
+**Neue Funktionen:**
+
+* Unterstützung des Pairings durch HDMI
+* Unterstützung für Router über den WLAN-Sicherheitsstandard WPA3
+* Timing Pass-through hinzugefügt
+* HDCP pass-through hinzugefügt
+* WLAN-Signalstärke einstellbar
+* Neue Einstellung des WLANs 40Mhz hinzugefügt
+
+**Fixes:**
+
+Verbesserte Web-Einstellungen:
+* Standardauflösung des QuattroPod-Empfängers auf 1080P gesetzt
+* Einstellungen `2` und `4` Stunden in der Funktion [Zeitgesteuerter Neustart](adv.settings.md#timedrestart) hinzugefügt
+
+**Behobene Systemfehler und Verbesserungen:**
+
+* Improve mirror latency
+* Improve Wi-Fi stability
+* Improve AirView performance
+* Improve compatibility with 4K monitor
+* Add OSD notification “Capture” during AirView
+* Support more time resolution for QuattroPod receiver
+* Support YUV 422 for QuattroPod transmitter
+* Update Android APK 1.4.56
+
+### 2020.08.28 | 1.9598.75
 
 **Behobene Systemfehler und Verbesserungen:**
 
@@ -16,8 +53,7 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des Quattr
 * Verbesserter Web-Zugangsschutz
 * Optimierter Energieverbrauch
 
-# QuattroPod Firmware - 1.9598.44
-2020.08.13
+### 2020.08.13 | 1.9598.44
 
 **Neue Funktionen:**
 
@@ -31,16 +67,15 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des Quattr
 * Überhitzungsproblem behoben
 * Problem mit WLAN behoben
 
-# QuattroPod Firmware - 1.8530.15
-2020.05.20
+### 2020.05.20 | 1.8530.15
 
 **Behobene Systemfehler und Verbesserungen:**
 
 * HDMI-Signal-Problem behoben
 * Verbesserte WLAN-Konnektivität
 
-# QuattroPod Firmware - 1.8436.2
-2020.04.30
+### 2020.04.30 | 1.8436.2
+
 
 **Neue Funktionen:**
 
@@ -51,3 +86,12 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des Quattr
 * Verbesserte mehrsprachige Übersetzung
 * Verbesserte Weboberfläche der Einstellungen
 * Verbesserte Stabilität der Touch-Back-Funktion
+
+## Sender LT01
+
+### 2021.07.12 | 1.12412.42
+
+**Fixes:**
+
+* Beseitigung der chromatischen Aberration des RGB-Farbraums
+* Systemfehler behoben
