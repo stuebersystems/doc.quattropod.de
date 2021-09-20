@@ -54,7 +54,7 @@ Die folgende Startseite erscheint auf Ihrem Bildschirm:
 
 !!! tip "Hinweis"
 
-	Der Sender ermöglicht ein einfaches Spiegeln Ihres Bildschirms. Wenn Sie Ihre Inhalte jedoch lieber ohne einen Sender spiegeln möchten, können Sie ein [Streamingprotokoll](#a-streamingprotokollen) verwenden.
+	Zur Installation der USB WiFi Cast Software unter Type-A Modus sind **Administratorrechte erforderlich**.
 	 
 * Schließen Sie den USB-A-Adapter an den Sender an und schalten Sie den Sender auf `Type-A` um. Schließen Sie den Sender an einen USB-A-Port Ihres Windows/macOS-Rechners an. Die Bildschirmübertragung erfolgt automatisch:
 
