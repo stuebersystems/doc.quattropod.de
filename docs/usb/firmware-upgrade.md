@@ -114,6 +114,6 @@ Die Aktualisierung wird über die Web-Oberfläche in einem beliebigen Web-Browse
 
 !!! tip "Hinweis"
     
-	Sollten die Sender nach der Firmware-Aktualisierung nicht mit dem Empfänger verbinden können, müssen sie neu [gekoppelt](pairing.md) werden.
+	Sollten der Sender nach der Firmware-Aktualisierung nicht mit dem Empfänger verbinden können, müssen sie neu [gekoppelt](pairing.md) werden.
 
 
