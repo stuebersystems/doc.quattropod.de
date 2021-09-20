@@ -36,6 +36,15 @@ Verbesserte Web-Einstellungen:
 
 **Behobene Systemfehler und Verbesserungen:**
 
+* Reduzierte Latenzzeit der Bildschirmübertragung
+* Verbesserte Stabilität des WLANs
+* Verbesserte AirView-Leistung
+* Verbesserte Kompatibilität mit 4K-Monitoren
+* Hinzufügen der OSD-Benachrichtigung "Capture" während AirView
+* Unterstützung von mehr Zeitauflösungen für QuattroPod-Empfänger
+* Unterstützung von YUV 422 für QuattroPod-Sender
+* Android APK 1.4.56 aktualisieren
+
 * Improve mirror latency
 * Improve Wi-Fi stability
 * Improve AirView performance
