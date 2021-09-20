@@ -269,7 +269,7 @@ Nutzen Sie diese Funktion, um den Empfänger neu zu starten.
 
 Nutzen Sie diese Funktion, um den Empfänger und die Sender auf die Standardeinstellungen zurückzusetzen. Dies beeinflusst weder das [Hintergrundbild](#Mein-Bildschirm) der Startseite, die [SSID](#SSID), noch die Firmware-Version.
 
-Wenn Ihr Sender sich dach dem Zurücksetzen nicht freischalten lässt, überprüfen Sie den [Empfänger](quickstart.md#setup) und [kopplen](pairing.md) Sie den Sender mit dem Empfänger neu.
+Wenn Ihr Sender sich nach dem Zurücksetzen nicht freischalten lässt, überprüfen Sie den [Empfänger](quickstart.md#setup) und [koppeln](pairing.md) Sie den Sender mit dem Empfänger neu.
 
 ![Auf Standardeinstellungen zurücksetzen](/assets/img/reset_settings.png)
 

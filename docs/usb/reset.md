@@ -66,7 +66,7 @@ Mit Hilfe der Funktion [Erweiterte Einstellungen](adv.settings.md) können Sie s
 
 !!! tip "Hinweis"
     
-	Wenn Ihr Sender sich dach dem Zurücksetzen nicht freischalten lässt, überprüfen Sie den [Empfänger](quickstart.md#setup) und [kopplen](pairing.md) Sie den Sender mit dem Empfänger neu.
+	Wenn Ihr Sender sich nach dem Zurücksetzen nicht freischalten lässt, überprüfen Sie den [Empfänger](quickstart.md#setup) und [koppeln](pairing.md) Sie den Sender mit dem Empfänger neu.
 	
 ## Einstellungen nach dem Zurücksetzen {#recommendedsettings}
 
