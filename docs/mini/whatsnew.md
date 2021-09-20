@@ -30,6 +30,7 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des Quattr
 **Fixes:**
 
 Verbesserte Web-Einstellungen:
+
 * Standardauflösung des QuattroPod-Empfängers auf 1080P gesetzt
 * Einstellungen `2` und `4` Stunden in der Funktion [Zeitgesteuerter Neustart](adv.settings.md#timedrestart) hinzugefügt
 
