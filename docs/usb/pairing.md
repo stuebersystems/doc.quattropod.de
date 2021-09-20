@@ -39,7 +39,7 @@ Nach ein paar Sekunden erscheint die Meldung **"Pairing OK"** auf der Startseite
 
 ![Koppeln abgeschlossen](/assets/img/Pairing5.jpg)
 
-* Wenn Sie den Sender unter Type-A und Type-C Modus kann ist er jetzt beriebsbereit. Eine umfassende Anleitung zu den einzelnen Senderfunktionen `Type-A`, `Type-C` und `Mobile` schauen Sie sich bitte die  [Schnellstartanleitung](quickstart.md).
+* Wenn Sie den Sender unter Type-A und Type-C Modus haben, ist er jetzt betriebsbereit. Eine umfassende Anleitung zu den einzelnen Senderfunktionen `Type-A`, `Type-C` und `Mobile` ist in der [Schnellstartanleitung](quickstart.md) zu finden.
 
 
 
