@@ -68,7 +68,7 @@ Wenn die Software **USB WiFi Cast** auf Ihrem Gerät bereits vorhanden ist, erfo
 
 ## Bildschirmübertragung im Mobil-Modus {#SenderMobile}
 
-### iOS
+### iOS im Mobil-Modus
 
 !!! tip "Hinweis"
 
@@ -82,7 +82,7 @@ Wenn die Software **USB WiFi Cast** auf Ihrem Gerät bereits vorhanden ist, erfo
 
 ![iOS verbinden](/assets/img/QSG-Trust-this-computer.png)
 
-### Android
+### Android im Mobil-Modus
 
 !!! tip "Hinweis"
 

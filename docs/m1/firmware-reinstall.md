@@ -87,7 +87,7 @@ Die Firmware wird installiert:
 
 ![Die Firmware wird installiert](/assets/img/EZCastUpdate.Firmware.Updating.jpg)
 
-Am Ende der Aktualisierung wird der Status „Upgrade Success“ angezeigt:
+Am Ende der Aktualisierung wird der Status **Upgrade Success** angezeigt:
 
 * Sie können das USB-Kabel nun herausziehen und den Empfänger neustarten, indem Sie ihn über die Power-Taste aus- und einschalten.
 
@@ -95,11 +95,11 @@ Am Ende der Aktualisierung wird der Status „Upgrade Success“ angezeigt:
 
 Schalten Sie den Empfänger aus und wieder ein. Der Empfänger ist wieder einsatzbereit.
 
-#### Andere Firmware installieren {#R01_install_other_fw}
+#### Andere Firmware installieren {#M1_install_other_fw}
 
 Um eine vorherige bzw. eine Betafirmware zu installieren, laden Sie eine der folgenden Dateien herunter:
 
-Firmware                       | Herunterladen
+Firmware                       | Empfänger M1
 ------------------------- | ------------
 1.9598.72 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.9598.72.gz)
 1.8529.10 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.8529.10.gz)
@@ -113,7 +113,7 @@ Das folgende Fenster erscheint. Wenn der QuattroPod im Update-Modus ist, wird im
 
 * Mit Hilfe der Schaltfläche `Firmware` wählen Sie die gewünschte Firmwaredatei aus.
 
-![Firmware auswählen](/assets/img/EZCastUpdate.SelectFirmware.jpg)
+![Firmware auswählen](/assets/img/EZCastUpdate.SelectFirmware.png)
 
 * Um die Installation der Firmware zu starten, wählen Sie `Upgrade`.
 
@@ -183,19 +183,19 @@ Die Firmware wird installiert:
 
 ![Die Firmware wird installiert](/assets/img/EZCastUpdate.Firmware.Updating.jpg)
 
-Am Ende der Aktualisierung wird der Status „Upgrade Success“ angezeigt:
+Am Ende der Aktualisierung wird der Status **Upgrade Success** angezeigt:
 
 * Sie können das USB-Kabel nun herausziehen und den Empfänger neustarten, indem Sie ihn über die Power-Taste aus- und einschalten.
 
 ![Die Installation war erfolgreich](/assets/img/EZCastUpdate_Upgrade.Success.jpg)
 
-Schalten Sie den Sender aus und wieder ein. Der Sender ist wieder einsatzbereit.
+Sie können nun den Sender vom Computer trennen und die Software schließen.
 
 #### Andere Firmware installieren  {#T01_install_other_fw}
 
 Um eine vorherige bzw. eine Betafirmware zu installieren, laden Sie eine der folgenden Dateien herunter:
 
-Firmware                       | Herunterladen
+Firmware                  | Sender M01
 ------------------------- | ------------
 1.9598.72 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/T01/T01_1.9598.72.gz)
 1.8529.10 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/T01/T01_1.8529.10.gz)
@@ -209,7 +209,7 @@ Das folgende Fenster erscheint. Wenn der QuattroPod im Update-Modus ist, wird im
 
 * Mit Hilfe der Schaltfläche `Firmware` wählen Sie die gewünschte Firmwaredatei aus.
 
-![Firmware auswählen](/assets/img/EZCastUpdate.SelectFirmware.jpg)
+![Firmware auswählen](/assets/img/EZCastUpdate.SelectFirmware.png)
 
 * Um die Installation der Firmware zu starten, wählen Sie `Upgrade`.
 
@@ -223,7 +223,7 @@ Wenn die Installation erfolgreich durchgeführt wurde, erscheint die folgende Me
 
 ![Die Installation war erfolgreich](/assets/img/EZCastUpdate_localfile.Upgrade.Success.jpg)
 
-Schalten Sie den Sender aus und wieder ein. Der Sender ist wieder einsatzbereit.
+Sie können nun den Sender vom Computer trennen und die Software schließen.
 
 !!! tip "Hinweis"
 
