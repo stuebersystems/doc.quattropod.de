@@ -28,7 +28,7 @@ Hier finden Sie eine Tabelle aller Tastenkombinationen:
 
 #  Host-Steuerung
 
-| Seitetaste (Steuertaste) | Host | Gast
+| Kontrolltaste (Steuertaste) | Host | Gast
 | :----: | :----: |:----: |
 | ![](/assets/img/Side-button_Single-Click.png)<br>Einmal drücken | Dem Gast das Senden freischalten
 | ![](/assets/img/Side-button_Double-click.png)<br>Zweimal drücken | Anforderung ablehnen

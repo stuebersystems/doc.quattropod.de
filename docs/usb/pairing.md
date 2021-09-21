@@ -2,7 +2,7 @@
 
 !!! tip "Hinweis"
 
-	Der Sender muss sowohl unter Type-A als auch unter Type-C Modus mit dem Empfänger gekoppelt werden. Dies ist erforderlich, weil der Sender aus zwei separaten Chipsätzen besteht.
+	Der Sender muss sowohl unter Type-A als auch unter Type-C Modus mit dem Empfänger gekoppelt werden. Dies ist erforderlich, weil der Sender zwei separate Chipsätze besitzt.
 	
 Der QuattroPod-Empfänger kann mit bis zu 32 Sendern gleichzeitig gekoppelt werden. Die Sender sind mit dem mitgelieferten Empfänger standardmäßig gekoppelt. Sie können zusätzliche Sender erwerben bzw. Sender mit einem anderen Empfänger benutzen. Dazu müssen die Sender mit dem entsprechenden Empfänger gekoppelt werden.
 

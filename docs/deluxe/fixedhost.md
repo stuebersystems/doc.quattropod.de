@@ -6,12 +6,12 @@ Aber Sie können einen bestimmten Sender als permanenter Host des QuattroPods fe
 
 ## Bin ich gerade Host oder Gast?
 
-Die Seitetaste auf dem Sender zeigt den Status. Grün = `Host` rot = `Gast`.
+Die Kontrolltaste auf dem Sender zeigt den Status. Grün = `Host` rot = `Gast`.
 
 LED                       | Beschreibung           
 ------------------------- | ------------
-![](/assets/img/sender-9_host.png) | Seitetaste leuchtet grün. Host in Bereitschaft.
-![](/assets/img/sender-3_gast.png) | Seitetaste leuchtet rot. Gast in Bereitschaft.
+![](/assets/img/sender-9_host.png) | Kontrolltaste leuchtet grün. Host in Bereitschaft.
+![](/assets/img/sender-3_gast.png) | Kontrolltaste leuchtet rot. Gast in Bereitschaft.
 
 ## Erweiterte Einstellungen öffnen
 

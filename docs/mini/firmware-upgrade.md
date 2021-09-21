@@ -49,7 +49,7 @@ Die Aktualisierung wird über die Web-Oberfläche in einem beliebigen Web-Browse
 
 ![](/assets/img/Admineinstellungen_Update.png)
 
-* Um die Aktualisierung zu starten, setzen Sie ein Häkchen bei `Alle auswählen` ein, anschließend klicken Sie auf `Upgrade`.
+* Um die Aktualisierung zu starten, setzen Sie ein Häkchen bei `Alle auswählen`, anschließend klicken Sie auf `Upgrade`.
 
 ![Firmware-Version aktualisieren](/assets/img/Update.jpg)
 

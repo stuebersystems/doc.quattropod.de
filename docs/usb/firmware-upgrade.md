@@ -2,7 +2,7 @@
 
 ## Warum aktualisiert man die Firmware? 
 
-Um von den neusten Funktionen des QuattroPods zu profitieren, können Sie das neuste Firmware-Update schnell und bequem über das Internet installieren. Bei der Installation einer neuen Firmware werden die bisherigen Einstellungen mitgenommen.
+Um von den neusten Funktionen des QuattroPods zu profitieren, können Sie das neuste Firmware-Update schnell und bequem über das Internet installieren. Bei der Installation einer neuen Firmware werden die bisherigen Einstellungen übernommen.
 
 Dabei benötigen Sie einen [Internetzugang](internet.md) zum Internet bzw. mit Ihrem Router.  Wenn der QuattroPod mit Ihrem LAN bzw. mit Ihrem WLAN verbunden ist, wird eine von Ihrem Netzwerk vergebenen IP-Adressen mit der Bezeichnung `Infrustructure IP` auf dem Bildschirm angezeigt, wie unten abgebildet:
 
@@ -10,7 +10,7 @@ Dabei benötigen Sie einen [Internetzugang](internet.md) zum Internet bzw. mit I
 
 !!! tip "Hinweis"
 
-	Die Firmware des USB-Senders muss sowohl unter Type-A als auch unter Type-C Modus aktualisiert werden. Dies ist erforderlich, weil der Sender aus zwei separaten Chipsätzen besteht.
+	Die Firmware des USB-Senders muss sowohl unter Type-A als auch unter Type-C Modus aktualisiert werden. Dies ist erforderlich, weil der Sender zwei separate Chipsätze besitzt.
 
 
 ## Empfänger und Sender Type-C aktualisieren
@@ -50,7 +50,7 @@ Die Aktualisierung wird über die Web-Oberfläche in einem beliebigen Web-Browse
 
 ![](/assets/img/Admineinstellungen_Update.png)
 
-* Um die Aktualisierung zu starten, setzen Sie ein Häkchen bei `Alle auswählen` ein, anschließend klicken Sie auf `Upgrade`.
+* Um die Aktualisierung zu starten, setzen Sie ein Häkchen bei `Alle auswählen`, anschließend klicken Sie auf `Upgrade`.
 
 ![Firmware-Version aktualisieren](/assets/img/Update.R01.U01c.png)
 
@@ -104,11 +104,11 @@ Die Aktualisierung wird über die Web-Oberfläche in einem beliebigen Web-Browse
 
 ![](/assets/img/Admineinstellungen_Update.png)
 
-* Um die Aktualisierung zu starten, setzen Sie ein Häkchen bei `U01-TypeA` ein, anschließend klicken Sie auf `Upgrade`.
+* Um die Aktualisierung zu starten, setzen Sie ein Häkchen bei `U01-TypeA`, anschließend klicken Sie auf `Upgrade`.
 
 ![Firmware-Version aktualisieren](/assets/img/Update.U01a.png)
 
-* Während der Aktualisierung des Senders (Type-A) blinkt der Sender grün und rot. Der Aktualisierungsvorgang dauert 2-3 Minuten. Am Ende der Aktualiserung leuchtet der Sender weiß:
+* Während der Aktualisierung des Senders (Type-A) blinkt der Sender grün und rot. Der Aktualisierungsvorgang dauert 2-3 Minuten. Am Ende der Aktualisierung leuchtet der Sender weiß:
 
 ![Koppeln abgeschlossen](/assets/img/type.a.ready.png)
 

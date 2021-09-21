@@ -19,7 +19,7 @@ LED                       | Beschreibung
 
 Hier finden Sie eine Tabelle aller Tastenkombinationen:
 
-| Seitetaste | Beschreibung
+| Kontrolltaste | Beschreibung
 | :----: | :----: |
 | ![](/assets/img/Main-Button_Single-click.USB.png)<br>Einmal drücken | Dem Gast das Senden freischalten
 | ![](/assets/img/Main-Button_Double-click.USB.png)<br>Zweimal drücken | Anforderung ablehnen

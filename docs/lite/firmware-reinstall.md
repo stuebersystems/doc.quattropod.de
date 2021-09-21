@@ -4,7 +4,7 @@ Sie können den QuattroPod wiederherstellen, indem Sie die Firmware manuell neu 
 
 * Der QuattroPod lässt sich nicht einschalten. Die Stromversorgung wurde bereits kontrolliert. In diesem Fall kann es an einem unterbrochenen Upgrade der Firmware liegen.
 
-* Der QuattroPod läuft unstabil und ein [Reset](reset.md) hat nicht geholfen.
+* Der QuattroPod läuft nicht stabil und ein [Reset](reset.md) hat nicht geholfen.
 
 * Sie haben die Wahl: Installieren Sie entweder einfach die neuste Firmware oder eine andere Firmware
 

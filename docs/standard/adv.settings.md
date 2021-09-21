@@ -173,7 +173,7 @@ Eine umfassende Anleitung zur Verwendung von Dynamisches Hintergrundbild finden 
 
 **Antrag automatisch genehmigen**
 
-Der erste sich verbindende Benutzer wird als Gastgeber (Host) bezeichnet und die anderen als Gäste. Standardmäßig muss jeder Antrag zum Senden vom Host genehmigt werden, im dem er die Seitetaste seines Senders drückt. Wenn `Antrag automatisch genehmigen` auf `On` eingestellt ist, wird der Antrag zum Senden automatisch genehmigt. Mehr zu diesem Thema finden Sie im Kapitel [Sender bedienen](TX-controls.md).
+Der erste sich verbindende Benutzer wird als Gastgeber (Host) bezeichnet und die anderen als Gäste. Standardmäßig muss jeder Antrag zum Senden vom Host genehmigt werden, im dem er die Kontrolltaste seines Senders drückt. Wenn `Antrag automatisch genehmigen` auf `On` eingestellt ist, wird der Antrag zum Senden automatisch genehmigt. Mehr zu diesem Thema finden Sie im Kapitel [Sender bedienen](TX-controls.md).
 
 **Bildschirm teilen**
 
