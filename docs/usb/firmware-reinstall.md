@@ -149,11 +149,11 @@ Schalten Sie den Empfänger aus und wieder ein. Der Empfänger ist wieder einsat
 
 ![Klicken Sie auf Installieren, um die Treiber zu installieren](/assets/img/install_drivers.jpg)
 
-#### Sender in den **Update-Modus** versetzen
+#### Sender in den **U01-TypeC-Update-Modus** versetzen
 
-* Um den Sender in den **Update-Modus** zu versetzen, drücken und halten Sie einfach die `Kontrolltaste` (1), anschließend schließen Sie das USB-Kabel des Senders an einen USB-Port Ihres `Rechners` (2) an. Nach einer Sekunde können Sie die Kontrolltaste loslassen.
+* Um den Sender in den **U01-TypeC-Update-Modus** zu versetzen, drücken und halten Sie einfach die `Kontrolltaste` (1), anschließend schließen Sie das USB-Kabel des Senders an einen USB-Port Ihres `Rechners` (2) an. Nach einer Sekunde können Sie die Kontrolltaste loslassen.
 
-![Sender in den Update-Modus versetzen](/assets/img/QuattroPod_TX_Update-Mode.jpg)
+![Sender in den U01-TypeC-Update-Modus versetzen](/assets/img/QuattroPod_TX_Update-Mode.jpg)
 
 #### Neuste Firmware installieren  {#U01-TypeC_install_latest_fw}
 
@@ -161,7 +161,7 @@ Schalten Sie den Empfänger aus und wieder ein. Der Empfänger ist wieder einsat
  
 ![EZCastUpdate.exe ausführen](/assets/img/T01.Repair_Tool_Update.exe.png)
 
-Das folgende Fenster erscheint. Wenn der QuattroPod-Empfänger erfolgreich im Update-Modus ist, wird im Tool der Status `Device connected`  angezeigt:
+Das folgende Fenster erscheint. Wenn der QuattroPod-Empfänger erfolgreich im U01-TypeC-Update-Modus ist, wird im Tool der Status `Device connected`  angezeigt:
 
 * Wählen Sie `Download`, um die neuste Firmware herunterzuladen.
  
@@ -204,7 +204,7 @@ Firmware                       | Herunterladen
 
 ![Update_for_localfile.exe ausführen](/assets/img/T01.localfile.exe.png)
 
-Das folgende Fenster erscheint. Wenn der QuattroPod im Update-Modus ist, wird im Tool **Device connected** angezeigt.
+Das folgende Fenster erscheint. Wenn der QuattroPod im U01-TypeC-Update-Modus ist, wird im Tool **Device connected** angezeigt.
 
 * Mit Hilfe der Schaltfläche `Firmware` wählen Sie die gewünschte Firmwaredatei aus.
 
@@ -246,11 +246,11 @@ Schalten Sie den Sender aus und wieder ein. Der Sender ist wieder einsatzbereit.
 
 ![Klicken Sie auf Installieren, um die Treiber zu installieren](/assets/img/install_drivers.jpg)
 
-#### Sender in den **Update-Modus** versetzen
+#### Sender in den **U01-TypeA-Update-Modus** versetzen
 
-* Um den Sender in den **Update-Modus** zu versetzen, drücken und halten Sie einfach die `Kontrolltaste` (1), anschließend schließen Sie das USB-Kabel des Senders an einen USB-Port Ihres `Rechners` (2) an. Nach einer Sekunde können Sie die Kontrolltaste loslassen.
+* Um den Sender in den **U01-TypeA-Update-Modus** zu versetzen, drücken und halten Sie einfach die `Kontrolltaste` (1), anschließend schließen Sie das USB-Kabel des Senders an einen USB-Port Ihres `Rechners` (2) an. Nach einer Sekunde können Sie die Kontrolltaste loslassen.
 
-![Sender in den Update-Modus versetzen](/assets/img/QuattroPod_TX_Update-Mode.jpg)
+![Sender in den U01-TypeA-Update-Modus versetzen](/assets/img/QuattroPod_TX_Update-Mode.jpg)
 
 #### Neuste Firmware installieren  {#U01-TypeA_install_latest_fw}
 
@@ -258,7 +258,7 @@ Schalten Sie den Sender aus und wieder ein. Der Sender ist wieder einsatzbereit.
  
 ![EZCastUpdate.exe ausführen](/assets/img/T01.Repair_Tool_Update.exe.png)
 
-Das folgende Fenster erscheint. Wenn der QuattroPod-Empfänger erfolgreich im Update-Modus ist, wird im Tool der Status `Device connected`  angezeigt:
+Das folgende Fenster erscheint. Wenn der QuattroPod-Empfänger erfolgreich im U01-TypeA-Update-Modus ist, wird im Tool der Status `Device connected`  angezeigt:
 
 * Wählen Sie `Download`, um die neuste Firmware herunterzuladen.
  
@@ -301,7 +301,7 @@ Firmware                       | Herunterladen
 
 ![Update_for_localfile.exe ausführen](/assets/img/T01.localfile.exe.png)
 
-Das folgende Fenster erscheint. Wenn der QuattroPod im Update-Modus ist, wird im Tool **Device connected** angezeigt.
+Das folgende Fenster erscheint. Wenn der QuattroPod im U01-TypeA-Update-Modus ist, wird im Tool **Device connected** angezeigt.
 
 * Mit Hilfe der Schaltfläche `Firmware` wählen Sie die gewünschte Firmwaredatei aus.
 
