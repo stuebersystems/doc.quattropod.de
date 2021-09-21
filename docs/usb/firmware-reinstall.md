@@ -149,7 +149,7 @@ Schalten Sie den Empfänger aus und wieder ein. Der Empfänger ist wieder einsat
 
 ![Klicken Sie auf Installieren, um die Treiber zu installieren](/assets/img/install_drivers.jpg)
 
-### Sender in den **Update-Modus** versetzen
+#### Sender in den **Update-Modus** versetzen
 
 * Um den Sender in den **Update-Modus** zu versetzen, drücken und halten Sie einfach die `Seitetaste` (1), anschließend schließen Sie das USB-Kabel des Senders an einen USB-Port Ihres `Rechners` (2) an. Nach einer Sekunde können Sie die Seitetaste loslassen.
 
@@ -228,29 +228,6 @@ Schalten Sie den Sender aus und wieder ein. Der Sender ist wieder einsatzbereit.
 
      Nach der Firmware-Aktualisierung muss jeder Sender mit dem Empfänger [neu gekoppelt](pairing.md) werden.
 
-
-## Firmware mit dem CMS installieren
-
-Mit dem CMS ([Central Management System](cms.md)) kann man nicht nur die aktuelle Firmware vom Internet auf mehreren EZCast Pro II Geräten bzw. QuattroPod installieren, sondern auch eine vorherige Version bzw. eine Beta-Firmware.
-
-* Laden Sie eine Firmware von der obigen Tabelle [andere Firmware](#LR01_install_other_fw) herunter.
-
-* Wählen Sie die gewünschten Geräte aus, anschließend klicken Sie auf die Schaltfläche `Remote` -> und die Funktion `Device Firmware upgrade`.
-
-![Die Firmware wird installiert](/assets/img/CMS-firmware.upgrade1.png)
-
-* Unter der Registerkarte `FILE`, wählen die Schaltfläche `File` und wählen Sie die Firmwaredatei aus, die Sie im ersten Schritt heruntergeladen haben.
-
-![Die Firmware wird installiert](/assets/img/CMS-firmware.upgrade2.png)
-
-Die neue Firmware wird heruntergeladen und automatisch installiert. 
-
-!!! warning "Achtung"
-    
-	Unterbrechen Sie während des Updates nicht die Stromversorgung.
-
-![](/assets/img/ProIIStick_Firmware_installing.png)
-
 ### Sender U01-TypeA - Firmware neu installieren
 
 #### U01-TypeA Repair Tool herunterladen
@@ -269,13 +246,11 @@ Die neue Firmware wird heruntergeladen und automatisch installiert.
 
 ![Klicken Sie auf Installieren, um die Treiber zu installieren](/assets/img/install_drivers.jpg)
 
-### Sender in den **Update-Modus** versetzen
+#### Sender in den **Update-Modus** versetzen
 
 * Um den Sender in den **Update-Modus** zu versetzen, drücken und halten Sie einfach die `Seitetaste` (1), anschließend schließen Sie das USB-Kabel des Senders an einen USB-Port Ihres `Rechners` (2) an. Nach einer Sekunde können Sie die Seitetaste loslassen.
 
 ![Sender in den Update-Modus versetzen](/assets/img/QuattroPod_TX_Update-Mode.jpg)
-
-
 
 #### Neuste Firmware installieren  {#U01-TypeA_install_latest_fw}
 
@@ -349,6 +324,28 @@ Schalten Sie den Sender aus und wieder ein. Der Sender ist wieder einsatzbereit.
 !!! tip "Hinweis"
 
 	Nach einer Neuinstallation der Firmware muss der Sender sowohl unter Type-A als auch unter Type-C Modus mit dem Empfänger [neu gekoppelt](pairing.md) werden. Dies ist erforderlich, weil der Sender aus zwei separaten Chipsätzen besteht.
+
+## Firmware mit dem CMS installieren
+
+Mit dem CMS ([Central Management System](cms.md)) kann man nicht nur die aktuelle Firmware vom Internet auf mehreren EZCast Pro II Geräten bzw. QuattroPod installieren, sondern auch eine vorherige Version bzw. eine Beta-Firmware.
+
+* Laden Sie eine Firmware von der obigen Tabelle [andere Firmware](#LR01_install_other_fw) herunter.
+
+* Wählen Sie die gewünschten Geräte aus, anschließend klicken Sie auf die Schaltfläche `Remote` -> und die Funktion `Device Firmware upgrade`.
+
+![Die Firmware wird installiert](/assets/img/CMS-firmware.upgrade1.png)
+
+* Unter der Registerkarte `FILE`, wählen die Schaltfläche `File` und wählen Sie die Firmwaredatei aus, die Sie im ersten Schritt heruntergeladen haben.
+
+![Die Firmware wird installiert](/assets/img/CMS-firmware.upgrade2.png)
+
+Die neue Firmware wird heruntergeladen und automatisch installiert. 
+
+!!! warning "Achtung"
+    
+	Unterbrechen Sie während des Updates nicht die Stromversorgung.
+
+![](/assets/img/ProIIStick_Firmware_installing.png)
 
 ## Problembehandlung
 
