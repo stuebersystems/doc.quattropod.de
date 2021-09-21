@@ -95,11 +95,11 @@ Am Ende der Aktualisierung wird der Status **Upgrade Success** angezeigt:
 
 Schalten Sie den Empfänger aus und wieder ein. Der Empfänger ist wieder einsatzbereit.
 
-#### Andere Firmware installieren {#R01_install_other_fw}
+#### Andere Firmware installieren {#M1_install_other_fw}
 
 Um eine vorherige bzw. eine Betafirmware zu installieren, laden Sie eine der folgenden Dateien herunter:
 
-Firmware                       | Herunterladen
+Firmware                       | Empfänger M1
 ------------------------- | ------------
 1.9598.72 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.9598.72.gz)
 1.8529.10 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.8529.10.gz)
@@ -195,7 +195,7 @@ Sie können nun den Sender vom Computer trennen und die Software schließen.
 
 Um eine vorherige bzw. eine Betafirmware zu installieren, laden Sie eine der folgenden Dateien herunter:
 
-Firmware                       | Herunterladen
+Firmware                  | Sender M01
 ------------------------- | ------------
 1.9598.72 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/T01/T01_1.9598.72.gz)
 1.8529.10 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/T01/T01_1.8529.10.gz)

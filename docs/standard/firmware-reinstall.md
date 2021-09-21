@@ -99,7 +99,7 @@ Schalten Sie den Empfänger aus und wieder ein. Der Empfänger ist wieder einsat
 
 Um eine vorherige bzw. eine Betafirmware zu installieren, laden Sie eine der folgenden Dateien herunter:
 
-Firmware                  | Herunterladen
+Firmware                  | Empfänger R01
 ------------------------- | ------------
 1.12412.42 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.12412.42.gz)
 1.12412.27 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.12412.27.gz)
@@ -197,7 +197,7 @@ Sie können nun den Sender vom Computer trennen und die Software schließen.
 
 Um eine vorherige bzw. eine Betafirmware zu installieren, laden Sie eine der folgenden Dateien herunter:
 
-Firmware                       | Herunterladen
+Firmware                  | Sender T01
 ------------------------- | ------------
 1.12412.42 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/T01/T01_1.12412.42.gz)
 1.12412.27 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/T01/T01_1.12412.27.gz)
