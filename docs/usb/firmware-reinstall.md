@@ -87,7 +87,7 @@ Die Firmware wird installiert:
 
 ![Die Firmware wird installiert](/assets/img/EZCastUpdate.Firmware.Updating.jpg)
 
-Am Ende der Aktualisierung wird der Status „Upgrade Success“ angezeigt:
+Am Ende der Aktualisierung wird der Status **Upgrade Success** angezeigt:
 
 * Sie können das USB-Kabel nun herausziehen und den Empfänger neustarten, indem Sie ihn über die Power-Taste aus- und einschalten.
 
@@ -183,7 +183,7 @@ Die Firmware wird installiert:
 
 ![Die Firmware wird installiert](/assets/img/EZCastUpdate.Firmware.Updating.jpg)
 
-Am Ende der Aktualisierung wird der Status „Upgrade Success“ angezeigt:
+Am Ende der Aktualisierung wird der Status **Upgrade Success** angezeigt:
 
 * Sie können das USB-Kabel nun herausziehen und den Empfänger neustarten, indem Sie ihn über die Power-Taste aus- und einschalten.
 
@@ -268,7 +268,7 @@ Wenn der QuattroPod-USB-Sender erfolgreich im Type-A-Update-Modus ist, wird im T
 
 Um eine U01-Type-A-Firmware zu installieren, laden Sie eine der folgenden Dateien herunter:
 
-Firmware                       | Sender U01-TypeA
+Firmware                  | Sender U01-TypeA
 ------------------------- | ------------
 19424000 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/U01-TypeA/U01-Type-A-19424000.gz)
 19415000 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/U01-TypeA/U01-Type-A-19415000.gz)

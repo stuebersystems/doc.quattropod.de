@@ -87,7 +87,7 @@ Die Firmware wird installiert:
 
 ![Die Firmware wird installiert](/assets/img/EZCastUpdate.Firmware.Updating.jpg)
 
-Am Ende der Aktualisierung wird der Status „Upgrade Success“ angezeigt:
+Am Ende der Aktualisierung wird der Status **Upgrade Success** angezeigt:
 
 * Sie können das USB-Kabel nun herausziehen und den Empfänger neustarten, indem Sie ihn über die Power-Taste aus- und einschalten.
 
@@ -99,7 +99,7 @@ Schalten Sie den Empfänger aus und wieder ein. Der Empfänger ist wieder einsat
 
 Um eine vorherige bzw. eine Betafirmware zu installieren, laden Sie eine der folgenden Dateien herunter:
 
-Firmware                       | Herunterladen
+Firmware                  | Herunterladen
 ------------------------- | ------------
 1.12412.42 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.12412.42.gz)
 1.12412.27 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.12412.27.gz)
@@ -184,7 +184,7 @@ Die Firmware wird installiert:
 
 ![Die Firmware wird installiert](/assets/img/EZCastUpdate.Firmware.Updating.jpg)
 
-Am Ende der Aktualisierung wird der Status „Upgrade Success“ angezeigt:
+Am Ende der Aktualisierung wird der Status **Upgrade Success** angezeigt:
 
 * Sie können das USB-Kabel nun herausziehen und den Empfänger neustarten, indem Sie ihn über die Power-Taste aus- und einschalten.
 

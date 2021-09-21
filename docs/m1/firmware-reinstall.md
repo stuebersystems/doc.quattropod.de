@@ -87,7 +87,7 @@ Die Firmware wird installiert:
 
 ![Die Firmware wird installiert](/assets/img/EZCastUpdate.Firmware.Updating.jpg)
 
-Am Ende der Aktualisierung wird der Status „Upgrade Success“ angezeigt:
+Am Ende der Aktualisierung wird der Status **Upgrade Success** angezeigt:
 
 * Sie können das USB-Kabel nun herausziehen und den Empfänger neustarten, indem Sie ihn über die Power-Taste aus- und einschalten.
 
@@ -183,7 +183,7 @@ Die Firmware wird installiert:
 
 ![Die Firmware wird installiert](/assets/img/EZCastUpdate.Firmware.Updating.jpg)
 
-Am Ende der Aktualisierung wird der Status „Upgrade Success“ angezeigt:
+Am Ende der Aktualisierung wird der Status **Upgrade Success** angezeigt:
 
 * Sie können das USB-Kabel nun herausziehen und den Empfänger neustarten, indem Sie ihn über die Power-Taste aus- und einschalten.
 
