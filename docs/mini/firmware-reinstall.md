@@ -159,7 +159,7 @@ Schalten Sie den Empfänger aus und wieder ein. Der Empfänger ist wieder einsat
 
 * Im Ordner `QuattroPod.T02.Repair.Tool` führen Sie die Datei **EZCastUpdate.exe** aus.
  
-![EZCastUpdate.exe ausführen](/assets/img/T01.Repair_Tool_Update.exe.png)
+![EZCastUpdate.exe ausführen](/assets/img/T02.Repair_Tool_Update.exe.png)
 
 Das folgende Fenster erscheint. Wenn der QuattroPod-Empfänger erfolgreich im Update-Modus ist, wird im Tool der Status `Device connected`  angezeigt:
 
@@ -205,7 +205,7 @@ Firmware                  | Sender T02
 
 * Im Ordner `QuattroPod.T02.Repair.Tool` führen Sie die Datei **Update_for_localfile.exe** aus.
 
-![Update_for_localfile.exe ausführen](/assets/img/T01.localfile.exe.png)
+![Update_for_localfile.exe ausführen](/assets/img/T02.localfile.exe.png)
 
 Das folgende Fenster erscheint. Wenn der QuattroPod im Update-Modus ist, wird im Tool **Device connected** angezeigt.
 
