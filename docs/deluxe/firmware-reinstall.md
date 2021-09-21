@@ -116,7 +116,7 @@ Das folgende Fenster erscheint. Wenn der QuattroPod im Update-Modus ist, wird im
 
 * Mit Hilfe der Schaltfläche `Firmware` wählen Sie die gewünschte Firmwaredatei aus.
 
-![Firmware auswählen](/assets/img/EZCastUpdate.SelectFirmware.jpg)
+![Firmware auswählen](/assets/img/EZCastUpdate.SelectFirmware.png)
 
 * Um die Installation der Firmware zu starten, wählen Sie `Upgrade`.
 
@@ -212,7 +212,7 @@ Das folgende Fenster erscheint. Wenn der QuattroPod im Update-Modus ist, wird im
 
 * Mit Hilfe der Schaltfläche `Firmware` wählen Sie die gewünschte Firmwaredatei aus.
 
-![Firmware auswählen](/assets/img/EZCastUpdate.SelectFirmware.jpg)
+![Firmware auswählen](/assets/img/EZCastUpdate.SelectFirmware.png)
 
 * Um die Installation der Firmware zu starten, wählen Sie `Upgrade`.
 
