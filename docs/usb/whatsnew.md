@@ -13,7 +13,7 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des Quattr
 **Fixes:**
 
 * Beseitigung der chromatischen Aberration des RGB-Farbraums
-* Bei 4K-Monitoren ist die Standardausgabe des Empfängers 4K @ 30Hz.
+* Bei 4K-Monitoren ist die Standardausgabe des Empfängers 4K @ 30Hz
 * Systemfehler behoben
 
 ### 2021.06.25 | 1.12412.27

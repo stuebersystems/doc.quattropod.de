@@ -189,7 +189,7 @@ Am Ende der Aktualisierung wird der Status „Upgrade Success“ angezeigt:
 
 ![Die Installation war erfolgreich](/assets/img/EZCastUpdate_Upgrade.Success.jpg)
 
-Schalten Sie den Sender aus und wieder ein. Der Sender ist wieder einsatzbereit.
+Sie können nun den Sender vom Computer trennen und die Software schließen.
 
 #### Andere Firmware installieren  {#T01_install_other_fw}
 
@@ -223,7 +223,7 @@ Wenn die Installation erfolgreich durchgeführt wurde, erscheint die folgende Me
 
 ![Die Installation war erfolgreich](/assets/img/EZCastUpdate_localfile.Upgrade.Success.jpg)
 
-Schalten Sie den Sender aus und wieder ein. Der Sender ist wieder einsatzbereit.
+Sie können nun den Sender vom Computer trennen und die Software schließen.
 
 !!! tip "Hinweis"
 

@@ -119,7 +119,7 @@ Das folgende Fenster erscheint. Wenn der QuattroPod im Update-Modus ist, wird im
 
 * Um die Installation der Firmware zu starten, wählen Sie `Upgrade`.
 
-![Wählen Sie Upgrade, um die Installation zu starten](/assets/img/EZCastUpdate.Upgrade.jpg)
+![Wählen Sie Upgrade, um die Installation zu starten](/assets/img/EZCastUpdate.localfile.Upgrade.jpg)
 
 Die Firmware wird installiert.
 
@@ -139,7 +139,7 @@ Schalten Sie den Empfänger aus und wieder ein. Der Empfänger ist wieder einsat
 
 Mit dem CMS ([Central Management System](cms.md)) kann man nicht nur die aktuelle Firmware vom Internet auf mehreren EZCast Pro II Geräten bzw. QuattroPod installieren, sondern auch eine vorherige Version bzw. eine Beta-Firmware.
 
-* Laden Sie eine Firmware von der obigen Tabelle [andere Firmware](#R01_install_other_fw) herunter.
+* Laden Sie eine Firmware für den [Empfänger](#LR01_install_other_fw) herunter.
 
 * Wählen Sie die gewünschten Geräte aus, anschließend klicken Sie auf die Schaltfläche `Remote` -> und die Funktion `Device Firmware upgrade`.
 
