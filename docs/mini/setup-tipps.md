@@ -53,17 +53,17 @@ Mit einem [C14 to C13+Euro Y Type Splitter Adapter](https://www.amazon.de/dp/B07
 
 ![C14 to C13+Euro Y Type Splitter Adapter](/assets/img/C14toC13undEuroYType2.png)
 
-### Den Empfänger befestigen: Tesa Montagepads
+### Den Empfänger befestigen: UHU Doppelband
 
-Klar kann man den Empfänger mit [Tesa Montagepads](https://www.amazon.de/dp/B08XY33P7Z/ref=cm_sw_em_r_mt_dp_ATTVGNT009VNJK1MEE60?_encoding=UTF8&psc=1) gut befestigen, ohne den Bildschirm kaputt zu machen:
+Klar kann man den Empfänger mit [UHU Doppelband](https://www.amazon.de/dp/B08XY33P7Z/ref=cm_sw_em_r_mt_dp_ATTVGNT009VNJK1MEE60?_encoding=UTF8&psc=1) gut befestigen, ohne den Bildschirm kaputt zu machen:
 
-![Tesa Montagepads](/assets/img/tesa1.png)
+![UHU Doppelband](/assets/img/UHU1.png)
 
-![Tesa Montagepads](/assets/img/tesa2.png)
+![UHU Doppelband](/assets/img/UHU2.png)
 
 !!! tip "Hinweis"
     
-	Bitte beachten: Stellen Sie bei der Befestigung des Empfängers sicher, dass zwischen der Antenne und dem Wireless Access Point sowie den Endgeräten eine direkte Sichtlinie besteht, um WLAN-Signalstörung zu vermeiden.
+	Bitte beachten: Stellen Sie bei der Befestigung des Empfängers sicher, dass zwischen der Antenne und dem Wireless Access Point sowie den Sendern bzw. den Endgeräten eine direkte Sichtlinie besteht, um WLAN-Signalstörung zu vermeiden.
 	
 ![tesa montagepads](/assets/img/RX_mounted.png)
 
