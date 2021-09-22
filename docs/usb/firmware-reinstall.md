@@ -4,7 +4,7 @@ Sie können den QuattroPod wiederherstellen, indem Sie die Firmware manuell neu 
 
 * Der QuattroPod lässt sich nicht einschalten. Die Stromversorgung wurde bereits kontrolliert. In diesem Fall kann es an einem unterbrochenen Upgrade der Firmware liegen.
 
-* Der QuattroPod läuft unstabil und ein [Reset](reset.md) hat nicht geholfen.
+* Der QuattroPod läuft nicht stabil und ein [Reset](reset.md) hat nicht geholfen.
 
 * Sie haben die Wahl: Installieren Sie entweder einfach die neuste Firmware oder eine andere Firmware
 
@@ -151,7 +151,7 @@ Schalten Sie den Empfänger aus und wieder ein. Der Empfänger ist wieder einsat
 
 #### Sender in den **Type-C-Update-Modus** versetzen
 
-* Um den Sender in den **Type-C-Update-Modus** zu versetzen, drücken und halten Sie einfach die `Seitetaste` (1), anschließend schließen Sie das USB-Kabel des Senders an einen USB-Port Ihres `Rechners` (2) an. Nach einer Sekunde können Sie die Seitetaste loslassen.
+* Um den Sender in den **Type-C-Update-Modus** zu versetzen, drücken und halten Sie einfach die `Kontrolltaste` (1), anschließend schließen Sie das USB-Kabel des Senders an einen USB-Port Ihres `Rechners` (2) an. Nach einer Sekunde können Sie die Kontrolltaste loslassen.
 
 ![Sender U01-TypeC in den Update-Modus versetzen](/assets/img/U01-C-Update-Mode.png)
 
@@ -256,7 +256,7 @@ Sie können nun den Sender vom Computer trennen und die Software schließen.
 
 #### Sender in den **Type-A-Update-Modus** versetzen
 
-* Um den Sender in den **Type-A-Update-Modus** zu versetzen, schalten Sie den Sender auf `Type-A` um. Drücken und halten Sie einfach die `Seitetaste` (1), anschließend schließen Sie das USB-Kabel des Senders an einen USB-Port Ihres `Rechners` (2) an. Nach einer Sekunde können Sie die Seitetaste loslassen.
+* Um den Sender in den **Type-A-Update-Modus** zu versetzen, schalten Sie den Sender auf `Type-A` um. Drücken und halten Sie einfach die `Kontrolltaste` (1), anschließend schließen Sie das USB-Kabel des Senders an einen USB-Port Ihres `Rechners` (2) an. Nach einer Sekunde können Sie die Kontrolltaste loslassen.
 
 ![Sender in den Type-A-Update-Modus versetzen](/assets/img/U01-A-Update-Mode.png)
 
