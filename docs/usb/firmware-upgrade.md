@@ -151,3 +151,7 @@ Die neue Firmware wird heruntergeladen und automatisch installiert.
 	Unterbrechen Sie während des Updates nicht die Stromversorgung.
 
 ![](/assets/img/ProIIStick_Firmware_installing.png)
+
+!!! tip "Hinweis"
+
+     Sollten die Sender nach der Firmware-Aktualisierung nicht mit dem Empfänger verbinden können, müssen sie neu [gekoppelt](pairing.md) werden.
