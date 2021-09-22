@@ -226,7 +226,7 @@ Sie können nun den Sender vom Computer trennen und die Software schließen.
 
 !!! tip "Hinweis"
 
-	Nach einer Neuinstallation der Firmware muss der Sender sowohl unter Type-A als auch unter Type-C Modus mit dem Empfänger [neu gekoppelt](pairing.md) werden. Dies ist erforderlich, weil der Sender aus zwei separaten Chipsätzen besteht.
+	Nach einer Neuinstallation der Firmware muss der Sender sowohl unter Type-A als auch unter Type-C Modus mit dem Empfänger [neu gekoppelt](pairing.md) werden. Dies ist erforderlich, weil der Sender zwei separate Chipsätze besitzt.
 
 ### Sender U01-TypeA - Firmware neu installieren
 
@@ -294,7 +294,7 @@ Sie können nun den Sender vom Computer trennen und die Software schließen.
 
 !!! tip "Hinweis"
 
-	Nach einer Neuinstallation der Firmware muss der Sender sowohl unter Type-A als auch unter Type-C Modus mit dem Empfänger [neu gekoppelt](pairing.md) werden. Dies ist erforderlich, weil der Sender aus zwei separaten Chipsätzen besteht.
+	Nach einer Neuinstallation der Firmware muss der Sender sowohl unter Type-A als auch unter Type-C Modus mit dem Empfänger [neu gekoppelt](pairing.md) werden. Dies ist erforderlich, weil der Sender zwei separate Chipsätze besitzt.
 	
 ## Firmware mit dem CMS installieren
 
