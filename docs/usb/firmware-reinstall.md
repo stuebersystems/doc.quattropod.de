@@ -87,7 +87,7 @@ Die Firmware wird installiert:
 
 ![Die Firmware wird installiert](/assets/img/EZCastUpdate.Firmware.Updating.jpg)
 
-Am Ende der Aktualisierung wird der Status „Upgrade Success“ angezeigt:
+Am Ende der Aktualisierung wird der Status **Upgrade Success** angezeigt:
 
 * Sie können das USB-Kabel nun herausziehen und den Empfänger neustarten, indem Sie ihn über die Power-Taste aus- und einschalten.
 
@@ -99,7 +99,7 @@ Schalten Sie den Empfänger aus und wieder ein. Der Empfänger ist wieder einsat
 
 Um eine vorherige bzw. eine Betafirmware zu installieren, laden Sie eine der folgenden Dateien herunter:
 
-Firmware                       | Herunterladen
+Firmware                  | Empfänger R01
 ------------------------- | ------------
 1.12412.42 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.12412.42.gz)
 1.12412.27 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.12412.27.gz)
@@ -115,11 +115,11 @@ Das folgende Fenster erscheint. Wenn der QuattroPod im Update-Modus ist, wird im
 
 * Mit Hilfe der Schaltfläche `Firmware` wählen Sie die gewünschte Firmwaredatei aus.
 
-![Firmware auswählen](/assets/img/EZCastUpdate.SelectFirmware.jpg)
+![Firmware auswählen](/assets/img/EZCastUpdate.SelectFirmware.png)
 
 * Um die Installation der Firmware zu starten, wählen Sie `Upgrade`.
 
-![Wählen Sie Upgrade, um die Installation zu starten](/assets/img/EZCastUpdate.Upgrade.jpg)
+![Wählen Sie Upgrade, um die Installation zu starten](/assets/img/EZCastUpdate.localfile.Upgrade.jpg)
 
 Die Firmware wird installiert.
 
@@ -139,29 +139,29 @@ Schalten Sie den Empfänger aus und wieder ein. Der Empfänger ist wieder einsat
 
 * Extrahieren Sie die Datei **QuattroPod.U01-TypeC.Repair.Tool.zip**.
 
-![Sender Repair Tool extrahieren](/assets/img/T01.Repair_Tool_Extract.png)
+![Sender Repair Tool extrahieren](/assets/img/U01-TypeC.Repair_Tool_Extract.png)
 
 * Installieren Sie **die Treiber**, indem Sie die Batchdatei **QuattroPod.U01-TypeC.Repair.Tool\usb_driver\install.bat** als Administrator ausführen. 
 
-![install.bat als Administrator ausführen](/assets/img/T01.install.bat.png)
+![install.bat als Administrator ausführen](/assets/img/U01-TypeC.install.bat.png)
 
 * Wenn die folgende Sicherheitsmeldung erscheint, wählen Sie `Installieren`:
 
 ![Klicken Sie auf Installieren, um die Treiber zu installieren](/assets/img/install_drivers.jpg)
 
-#### Sender in den **U01-TypeC-Update-Modus** versetzen
+#### Sender in den **Type-C-Update-Modus** versetzen
 
-* Um den Sender in den **U01-TypeC-Update-Modus** zu versetzen, drücken und halten Sie einfach die `Kontrolltaste` (1), anschließend schließen Sie das USB-Kabel des Senders an einen USB-Port Ihres `Rechners` (2) an. Nach einer Sekunde können Sie die Kontrolltaste loslassen.
+* Um den Sender in den **Type-C-Update-Modus** zu versetzen, drücken und halten Sie einfach die `Kontrolltaste` (1), anschließend schließen Sie das USB-Kabel des Senders an einen USB-Port Ihres `Rechners` (2) an. Nach einer Sekunde können Sie die Kontrolltaste loslassen.
 
-![Sender in den U01-TypeC-Update-Modus versetzen](/assets/img/QuattroPod_TX_Update-Mode.jpg)
+![Sender U01-TypeC in den Update-Modus versetzen](/assets/img/U01-C-Update-Mode.png)
 
 #### Neuste Firmware installieren  {#U01-TypeC_install_latest_fw}
 
 * Im Ordner `QuattroPod.U01-TypeC.Repair.Tool` führen Sie die Datei **EZCastUpdate.exe** aus.
  
-![EZCastUpdate.exe ausführen](/assets/img/T01.Repair_Tool_Update.exe.png)
+![EZCastUpdate.exe ausführen](/assets/img/U01-TypeC.Repair_Tool_Update.exe.png)
 
-Das folgende Fenster erscheint. Wenn der QuattroPod-Empfänger erfolgreich im U01-TypeC-Update-Modus ist, wird im Tool der Status `Device connected`  angezeigt:
+Das folgende Fenster erscheint. Wenn der QuattroPod-USB-Sender erfolgreich im Type-C-Update-Modus ist, wird im Tool der Status `Device connected`  angezeigt:
 
 * Wählen Sie `Download`, um die neuste Firmware herunterzuladen.
  
@@ -183,32 +183,32 @@ Die Firmware wird installiert:
 
 ![Die Firmware wird installiert](/assets/img/EZCastUpdate.Firmware.Updating.jpg)
 
-Am Ende der Aktualisierung wird der Status „Upgrade Success“ angezeigt:
+Am Ende der Aktualisierung wird der Status **Upgrade Success** angezeigt:
 
 * Sie können das USB-Kabel nun herausziehen und den Empfänger neustarten, indem Sie ihn über die Power-Taste aus- und einschalten.
 
 ![Die Installation war erfolgreich](/assets/img/EZCastUpdate_Upgrade.Success.jpg)
 
-Schalten Sie den Sender aus und wieder ein. Der Sender ist wieder einsatzbereit.
+Sie können nun den Sender vom Computer trennen und die Software schließen.
 
 #### Andere Firmware installieren  {#U01-TypeC_install_other_fw}
 
 Um eine vorherige bzw. eine Betafirmware zu installieren, laden Sie eine der folgenden Dateien herunter:
 
-Firmware                       | Herunterladen
+Firmware                  | Sender U01-TypeC
 ------------------------- | ------------
 1.12412.42 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/U01-TypeC/U01-Type-C_1.12412.42.gz)
 1.12412.27 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/U01-TypeC/U01-Type-C_1.12412.27.gz)
 
 * Im Ordner `QuattroPod.U01-TypeC.Repair.Tool` führen Sie die Datei **Update_for_localfile.exe** aus.
 
-![Update_for_localfile.exe ausführen](/assets/img/T01.localfile.exe.png)
+![Update_for_localfile.exe ausführen](/assets/img/U01-TypeC.localfile.exe.png)
 
-Das folgende Fenster erscheint. Wenn der QuattroPod im U01-TypeC-Update-Modus ist, wird im Tool **Device connected** angezeigt.
+Das folgende Fenster erscheint. Wenn der QuattroPod-USB-Sender erfolgreich im Type-C-Update-Modus ist, wird im Tool **Device connected** angezeigt.
 
 * Mit Hilfe der Schaltfläche `Firmware` wählen Sie die gewünschte Firmwaredatei aus.
 
-![Firmware auswählen](/assets/img/EZCastUpdate.SelectFirmware.jpg)
+![Firmware auswählen](/assets/img/EZCastUpdate.SelectFirmware.png)
 
 * Um die Installation der Firmware zu starten, wählen Sie `Upgrade`.
 
@@ -222,11 +222,11 @@ Wenn die Installation erfolgreich durchgeführt wurde, erscheint die folgende Me
 
 ![Die Installation war erfolgreich](/assets/img/EZCastUpdate_localfile.Upgrade.Success.jpg)
 
-Schalten Sie den Sender aus und wieder ein. Der Sender ist wieder einsatzbereit.
+Sie können nun den Sender vom Computer trennen und die Software schließen.
 
 !!! tip "Hinweis"
 
-     Nach der Firmware-Aktualisierung muss jeder Sender mit dem Empfänger [neu gekoppelt](pairing.md) werden.
+	Nach einer Neuinstallation der Firmware muss der Sender sowohl unter Type-A als auch unter Type-C Modus mit dem Empfänger [neu gekoppelt](pairing.md) werden. Dies ist erforderlich, weil der Sender zwei separate Chipsätze besitzt.
 
 ### Sender U01-TypeA - Firmware neu installieren
 
@@ -234,102 +234,77 @@ Schalten Sie den Sender aus und wieder ein. Der Sender ist wieder einsatzbereit.
 
 * Laden Sie das [QuattroPod Sender (U01-TypeA) Repair Tool](https://download.stueber.de/doc/de/quattropod/repair_tools/QuattroPod.U01-TypeA.Repair.Tool.zip) herunter.
 
-* Extrahieren Sie die Datei **QuattroPod.U01-TypeC.Repair.Tool.zip**.
+* Extrahieren Sie die Datei **QuattroPod.U01-TypeA.Repair.Tool.zip**.
 
-![Sender Repair Tool extrahieren](/assets/img/T01.Repair_Tool_Extract.png)
+![Sender Repair Tool extrahieren](/assets/img/U01-TypeA.Repair_Tool_Extract.png)
 
-* Installieren Sie **die Treiber**, indem Sie die Batchdatei **QuattroPod.U01-TypeA.Repair.Tool\usb_driver\install.bat** als Administrator ausführen. 
-
-![install.bat als Administrator ausführen](/assets/img/T01.install.bat.png)
-
-* Wenn die folgende Sicherheitsmeldung erscheint, wählen Sie `Installieren`:
-
-![Klicken Sie auf Installieren, um die Treiber zu installieren](/assets/img/install_drivers.jpg)
-
-#### Sender in den **U01-TypeA-Update-Modus** versetzen
-
-* Um den Sender in den **U01-TypeA-Update-Modus** zu versetzen, drücken und halten Sie einfach die `Kontrolltaste` (1), anschließend schließen Sie das USB-Kabel des Senders an einen USB-Port Ihres `Rechners` (2) an. Nach einer Sekunde können Sie die Kontrolltaste loslassen.
-
-![Sender in den U01-TypeA-Update-Modus versetzen](/assets/img/QuattroPod_TX_Update-Mode.jpg)
-
-#### Neuste Firmware installieren  {#U01-TypeA_install_latest_fw}
-
-* Im Ordner `QuattroPod.U01-TypeA.Repair.Tool` führen Sie die Datei **EZCastUpdate.exe** aus.
+* Im Ordner `QuattroPod.U01-TypeA.Repair.Tool` führen Sie die Datei **ActionsMPUpdate.exe** aus, um die Software zu öffnen.
  
-![EZCastUpdate.exe ausführen](/assets/img/T01.Repair_Tool_Update.exe.png)
+![EZCastUpdate.exe ausführen](/assets/img/U01-TypeA.Repair_Tool_Update.exe.png)
 
-Das folgende Fenster erscheint. Wenn der QuattroPod-Empfänger erfolgreich im U01-TypeA-Update-Modus ist, wird im Tool der Status `Device connected`  angezeigt:
-
-* Wählen Sie `Download`, um die neuste Firmware herunterzuladen.
+* Wenn die folgende Sicherheitsmeldung erscheint, klicken Sie zuerst auf den Link `Weitere Informationen`.
  
-![Die Schaltfläche Download wählen](/assets/img/EZCastUpdate.DeviceConnected.jpg)
+![EZCastUpdate.exe ausführen](/assets/img/launch.furtherinfo.png)
+
+* Klicken Sie anschließend auf die Schaltfläche `Trotzdem ausführen`.
  
-Das Downloaden der Firmware wird durchgeführt:
+![EZCastUpdate.exe ausführen](/assets/img/launch.anyway.png)
 
-!!! tip "Hinweis"
+* Das folgende Fenster erscheint:
 
-    Sie dürfen den Strom während der Aktualisierung nicht unterbrechen.
+![EZCastUpdate.exe ausführen](/assets/img/ActionsMPUpdate.NoTx.Connected.png)
 
-![QuattroPod Firmware wird heruntergefahren](/assets/img/EZCastUpdate.Firmware.Downloading.jpg)
+#### Sender in den **Type-A-Update-Modus** versetzen
 
-* Um die Installation der Firmware zu starten, wählen Sie `Upgrade`:
+* Um den Sender in den **Type-A-Update-Modus** zu versetzen, schalten Sie den Sender auf `Type-A` um. Drücken und halten Sie einfach die `Kontrolltaste` (1), anschließend schließen Sie das USB-Kabel des Senders an einen USB-Port Ihres `Rechners` (2) an. Nach einer Sekunde können Sie die Kontrolltaste loslassen.
 
-![Wählen Sie Upgrade, um die Installation zu starten](/assets/img/EZCastUpdate.Upgrade.jpg)
+![Sender in den Type-A-Update-Modus versetzen](/assets/img/U01-A-Update-Mode.png)
 
-Die Firmware wird installiert:
+Wenn der QuattroPod-USB-Sender erfolgreich im Type-A-Update-Modus ist, wird im Tool der Status `Connect 1 ADFU device`  angezeigt:
 
-![Die Firmware wird installiert](/assets/img/EZCastUpdate.Firmware.Updating.jpg)
+![EZCastUpdate.exe ausführen](/assets/img/U01-TypeA.Connect1ADFUdevice.png)
 
-Am Ende der Aktualisierung wird der Status „Upgrade Success“ angezeigt:
+#### Firmware installieren  {#U01-TypeA_install_fw}
 
-* Sie können das USB-Kabel nun herausziehen und den Empfänger neustarten, indem Sie ihn über die Power-Taste aus- und einschalten.
+Um eine U01-Type-A-Firmware zu installieren, laden Sie eine der folgenden Dateien herunter:
 
-![Die Installation war erfolgreich](/assets/img/EZCastUpdate_Upgrade.Success.jpg)
-
-Schalten Sie den Sender aus und wieder ein. Der Sender ist wieder einsatzbereit.
-
-#### Andere Firmware installieren  {#U01-TypeA_install_other_fw}
-
-Um eine vorherige bzw. eine Betafirmware zu installieren, laden Sie eine der folgenden Dateien herunter:
-
-Firmware                       | Herunterladen
+Firmware                  | Sender U01-TypeA
 ------------------------- | ------------
 19424000 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/U01-TypeA/U01-Type-A-19424000.gz)
+19415000 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/U01-TypeA/U01-Type-A-19415000.gz)
 
-
-* Im Ordner `QuattroPod.U01-TypeA.Repair.Tool` führen Sie die Datei **Update_for_localfile.exe** aus.
-
-![Update_for_localfile.exe ausführen](/assets/img/T01.localfile.exe.png)
-
-Das folgende Fenster erscheint. Wenn der QuattroPod im U01-TypeA-Update-Modus ist, wird im Tool **Device connected** angezeigt.
 
 * Mit Hilfe der Schaltfläche `Firmware` wählen Sie die gewünschte Firmwaredatei aus.
 
-![Firmware auswählen](/assets/img/EZCastUpdate.SelectFirmware.jpg)
+![Firmware auswählen](/assets/img/ActionsMPUpdate.SelectFirmware.png)
 
-* Um die Installation der Firmware zu starten, wählen Sie `Upgrade`.
+* Um die Installation der Firmware zu starten, wählen Sie `Download`.
 
-![Wählen Sie Upgrade, um die Installation zu starten](/assets/img/EZCastUpdate.Upgrade.jpg)
+![Wählen Sie Download, um die Installation zu starten](/assets/img/U01-TypeA.Start.Firmware.Install.png)
 
 Die Firmware wird installiert.
 
-![Die Firmware wird installiert](/assets/img/EZCastUpdate.Firmware.localfile.Updating.jpg)
+![Die Firmware wird installiert](/assets/img/U01-TypeA.Start.Firmware.Installing.png)
 
-Wenn die Installation erfolgreich durchgeführt wurde, erscheint die folgende Meldung:
+Wenn die Installation erfolgreich durchgeführt wurde, leuchtet der Status grün und zeigt die Meldung `100%` an.
 
-![Die Installation war erfolgreich](/assets/img/EZCastUpdate_localfile.Upgrade.Success.jpg)
+![Die Installation war erfolgreich](/assets/img/U01-TypeA.Start.Firmware.Install.Success.png)
 
-Schalten Sie den Sender aus und wieder ein. Der Sender ist wieder einsatzbereit.
+Sie können nun den Sender vom Computer trennen und die Software schließen.
 
 !!! tip "Hinweis"
 
 	Nach einer Neuinstallation der Firmware muss der Sender sowohl unter Type-A als auch unter Type-C Modus mit dem Empfänger [neu gekoppelt](pairing.md) werden. Dies ist erforderlich, weil der Sender zwei separate Chipsätze besitzt.
-
+	
 ## Firmware mit dem CMS installieren
 
+!!! tip "Hinweis"
+
+	Aktuell wird die Installation bzw. die Aktualisierung der Firmware mit dem CMS nur unter Type-C Modus unterstützt.
+	
 Mit dem CMS ([Central Management System](cms.md)) kann man nicht nur die aktuelle Firmware vom Internet auf mehreren EZCast Pro II Geräten bzw. QuattroPod installieren, sondern auch eine vorherige Version bzw. eine Beta-Firmware.
 
-* Laden Sie eine Firmware von der obigen Tabelle [andere Firmware](#LR01_install_other_fw) herunter.
+* Laden Sie eine Firmware für den [Empfänger](#R01_install_other_fw) oder für den [Sender (TypeC)](#U01-TypeC_install_other_fw) herunter.
 
 * Wählen Sie die gewünschten Geräte aus, anschließend klicken Sie auf die Schaltfläche `Remote` -> und die Funktion `Device Firmware upgrade`.
 

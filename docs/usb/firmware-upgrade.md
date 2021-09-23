@@ -116,4 +116,42 @@ Die Aktualisierung wird über die Web-Oberfläche in einem beliebigen Web-Browse
     
 	Sollten der Sender nach der Firmware-Aktualisierung nicht mit dem Empfänger verbinden können, müssen sie neu [gekoppelt](pairing.md) werden.
 
+## Firmware mit dem CMS installieren
 
+!!! tip "Hinweis"
+
+	Aktuell wird die Aktualisierung der Firmware mit dem CMS nur unter Type-C Modus unterstützt.
+	
+Mit dem CMS ([Central Management System](cms.md)) kann man die neuste Firmware vom Internet auf mehreren EZCast Pro II bzw. QuattroPod Geräten installieren.
+
+* Wenn eine neue Firmware für den Empfänger bzw. für den Sender zur Verfügung steht, taucht die Meldung ![](/assets/img/CMS-firmware.available.png) neben dem Gerät auf:
+
+![Die Firmware wird installiert](/assets/img/CMS-firmware.OTA.select.devices.png)
+
+* Wählen Sie die gewünschten Geräte aus, anschließend klicken Sie auf die Schaltfläche `Remote` -> und wählen Sie die Funktion `Device firmware upgrade`.
+
+![Die Firmware wird installiert](/assets/img/CMS-firmware.install.latest.firmware.png)
+
+* Unter der Registerkarte `OTA`, klicken Sie einfach auf die Schaltfläche `Apply`, um die Aktualisierung durchzuführen:
+
+![Die Firmware wird installiert](/assets/img/CMS-firmware.upgrade.OTA.png)
+
+Die neue Firmware wird heruntergeladen und automatisch installiert. 
+
+* Während der Aktualisierung des Senders (Type-C) erscheint folgende Meldung:
+
+![Firmware-Version aktualisieren](/assets/img/Update.U01c.png)
+
+* Während der Aktualisierung des Empfängers erscheint folgende Meldung:
+
+![Firmware-Version aktualisieren](/assets/img/Update.R01.png)
+
+!!! warning "Achtung"
+    
+	Unterbrechen Sie während des Updates nicht die Stromversorgung.
+
+![](/assets/img/ProIIStick_Firmware_installing.png)
+
+!!! tip "Hinweis"
+
+     Sollten die Sender nach der Firmware-Aktualisierung nicht mit dem Empfänger verbinden können, müssen sie neu [gekoppelt](pairing.md) werden.
