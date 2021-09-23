@@ -95,7 +95,7 @@ nav:
     - Anleitungen nach<br>Streamingprotokoll:
         - "Anleitung: AirPlay": usb/airplay.md     
         - "Anleitung: Chromecast": usb/chromecast.md
-    - CMS: usb/cms.md    
+    - CMS (Central Management System): usb/cms.md    
     - Einrichtungshinweise: usb/setup-tipps.md    
     - Erweiterte Funktionen: 
         - AirView: usb/airview.md
@@ -128,7 +128,7 @@ nav:
     - Anleitungen nach<br>Streamingprotokoll:
         - "Anleitung: AirPlay": lite/airplay.md     
         - "Anleitung: Chromecast": lite/chromecast.md
-    - CMS: lite/cms.md    
+    - CMS (Central Management System): lite/cms.md    
     - Einrichtungshinweise: lite/setup-tipps.md
     - Erweiterte Funktionen:
         - AirView: lite/airview.md
@@ -158,7 +158,7 @@ nav:
     - Anleitungen nach<br>Streamingprotokoll:
         - "Anleitung: AirPlay": mini/airplay.md     
         - "Anleitung: Chromecast": mini/chromecast.md
-    - CMS: mini/cms.md        
+    - CMS (Central Management System): mini/cms.md        
     - Einrichtungshinweise: mini/setup-tipps.md
     - Erweiterte Funktionen:
         - AirView: mini/airview.md
@@ -191,7 +191,7 @@ nav:
     - Anleitungen nach<br>Streamingprotokoll:
         - "Anleitung: AirPlay": standard/airplay.md     
         - "Anleitung: Chromecast": standard/chromecast.md
-    - CMS: standard/cms.md
+    - CMS (Central Management System): standard/cms.md
     - Einrichtungshinweise: standard/setup-tipps.md
     - Erweiterte Funktionen:
         - AirView: standard/airview.md
@@ -224,7 +224,7 @@ nav:
     - Anleitungen nach<br>Streamingprotokoll:
         - "Anleitung: AirPlay": deluxe/airplay.md     
         - "Anleitung: Chromecast": deluxe/chromecast.md
-    - CMS: deluxe/cms.md    
+    - CMS (Central Management System): deluxe/cms.md    
     - Einrichtungshinweise: deluxe/setup-tipps.md
     - Erweiterte Funktionen:
         - AirView: deluxe/airview.md
