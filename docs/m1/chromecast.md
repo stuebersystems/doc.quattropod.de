@@ -47,7 +47,7 @@ Per Rechtsklick kann man Cast-Symbol an die Symbolleiste anheften:
 
 ![Streamen-Symbol immer zeigen](/assets/img/Always_show_icon.png)
 
-## Die Google Home App
+## Die Google Home App (Android)
 
 * In der kostenlosen App `Google Home` suchen Sie den QuattroPod, anschließend wählen Sie die Schaltfläche Bildschirm streamen.
 
