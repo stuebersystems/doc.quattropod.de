@@ -1,7 +1,6 @@
 # Linux
 
-Obwohl Linux offiziell nicht von QuattroPod unterstützt wird, stehen Ihnen zwei Möglichkeiten zur Verfügung:
-
+Mit dem QuattroPod stehen Ihnen mit Hilfe des Google Chrome Browsers zwei Möglichkeiten zur Verfügung:
 
 ## Bildschirmübertragung mit dem Sender:
 
