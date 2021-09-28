@@ -1,6 +1,6 @@
 # Linux
 
-Mit dem QuattroPod stehen Ihnen mit Hilfe des Google Chrome Browsers zwei Möglichkeiten zur Verfügung:
+Mit dem QuattroPod stehen Ihnen zwei Möglichkeiten zur Verfügung:
 
 ## Google Cast streamen
 
