@@ -1,6 +1,6 @@
 # Linux
 
-Mit dem QuattroPod stehen Ihnen zwei Möglichkeiten zur Verfügung:
+Mit dem QuattroPod stehen Ihnen zum Übertragen Ihres Bildschirms zwei Möglichkeiten zur Verfügung:
 
 ## Bildschirmübertragung mit dem Sender:
 
