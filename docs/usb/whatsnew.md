@@ -8,6 +8,12 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des Quattr
 
 ## Empfänger R01
 
+### 2021.11.03 | 1.12412.47 
+
+**Fixes:**
+
+* Lichtsignal behoben
+
 ### 2021.07.12 | 1.12412.42
 
 **Fixes:**
@@ -83,6 +89,12 @@ Verbesserte Web-Einstellungen:
 * Optimized CPU resource by adding Dynamic CPU Detection
 
 ## Sender U01 Type-C
+
+### 2021.11.03 | 1.12412.47
+
+**Fixes:**
+
+* Lichtsignal behoben
 
 ### 2021.07.12 | 1.12412.42
 

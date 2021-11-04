@@ -99,8 +99,9 @@ Schalten Sie den Empfänger aus und wieder ein. Der Empfänger ist wieder einsat
 
 Um eine vorherige bzw. eine Betafirmware zu installieren, laden Sie eine der folgenden Dateien herunter:
 
-Firmware                  | Empfänger R01
-------------------------- | ------------
+Firmware                  | Empfänger R01 | Bemerkung
+------------------------- | ------------ | ------------
+1.13830.0 (Beta) | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.13830.0.gz) | Unterstützung für das Protokoll Miracast
 1.12412.42 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.12412.42.gz)
 1.12412.27 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.12412.27.gz)
 1.9598.72 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.9598.72.gz)

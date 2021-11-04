@@ -54,7 +54,7 @@ Die folgende Startseite erscheint auf Ihrem Bildschirm:
 
 !!! tip "Hinweis"
 
-	Zur Installation der USB WiFi Cast Software unter Type-A Modus sind **Administratorrechte erforderlich**.
+	Zur Installation der Software **USB WiFi Cast**  unter Type-A Modus sind **Administratorrechte erforderlich**.
 	 
 * Schließen Sie den USB-A-Adapter an den Sender an und schalten Sie den Sender auf `Type-A` um. Schließen Sie den Sender an einen USB-A-Port Ihres Windows/macOS-Rechners an. Die Bildschirmübertragung erfolgt automatisch:
 
