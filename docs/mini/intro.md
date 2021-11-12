@@ -16,6 +16,13 @@ Für einen kompakten Produktvergleich mit den anderen Modell-Varianten aus der Q
 
 | QuattroPod Mini | |
 | :---- | :---- |
+| CPU |  AM8270 |
+| DRAM | DDR3 1GB |
+| FLASH | NAND Flash 512MB |
+| I/O | HDMI-out (HDMI 1.4) |
+|     | USB-A |
+|     | 5,5/2,1 mm DC |
+|     | RJ45 (PoE), Gigabit LAN |
 | Funkreichweite (Sichtlinie) | Bis zu 30m |
 | Stromversorgung des Empfängers | DC-in 5V 2A |
 | Stromverbrauch des Empfängers | 10 W / 10000 mW |
@@ -31,6 +38,9 @@ Für einen kompakten Produktvergleich mit den anderen Modell-Varianten aus der Q
 | WLAN-Standard | 802.11ac 2T2R | 
 | WLAN-Frequenzblock (5 GHz-Band) |  5150-5825 MHz |
 | WLAN-Übertragungsrate |  866 MBit/s |
+| DRM und Link Protection | HDCP 2.2 für Miracast | 
+| Betriebstemperatur | 0~40°C | 
+| Lagertemperatur | -20~70°C | 
 
 ## Datenblatt
 
