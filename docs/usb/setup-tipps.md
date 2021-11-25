@@ -8,13 +8,13 @@ Der QuattroPod hat eine Funkreichweite (Sichtlinie) von bis zu 30m. Eine geringe
 
 Dies kann verschiedene Ursachen und somit verschiedene Lösungen haben:
 
-**Der Abstand zwischen dem QuattroPod und dem Router bzw. Wireless-Access-Point ist zu groß.**
+**1. Problem:** Der Abstand zwischen der EZCast Pro Box II und dem Router bzw. Wireless-Access-Point ist zu groß.
 
-* Versuchen Sie den Abstand zu reduzieren oder installieren Sie einen zusätzlichen Wireless-Access-Point.
+Lösung: Versuchen Sie den Abstand zu reduzieren oder installieren Sie einen zusätzlichen Wireless-Access-Point.
 
-**Es liegen Wände oder andere Gegenstände zwischen dem QuattroPod und dem Router bzw. dem Wireless-Access-Point, welche die Signalstärke verschlechtern.**
+**2. Problem:** Es liegen Wände oder andere Gegenstände zwischen der EZCast Pro Box II und dem Router bzw. dem Wireless-Access-Point, welche die Signalstärke verschlechtern.
 
-* Stellen Sie sicher, dass der QuattroPod keine Hindernisse zum Router bzw. zum Access-Point hat. Wenn notwendig, installieren Sie einen zusätzlichen Access-Point.
+Lösung: Stellen Sie sicher, dass die EZCast Pro Box II keine Hindernisse zum Router bzw. zum Access-Point hat. Wenn notwendig, installieren Sie einen zusätzlichen Access-Point.
 
 ## Ersatzteile
 
