@@ -1,21 +1,5 @@
 # Einrichtungshinweise
 
-## Internet-Router-Signalstärke
-
-Der QuattroPod hat eine Funkreichweite (Sichtlinie) von bis zu 30m. Eine geringe Signalanzeige bezieht sich auf eine schlechte Signalstärke zwischen dem QuattroPod und Ihrem Router bzw. Ihrem Access-Point. Dies kann zu einer abgehackten Wiedergabe von Videos und Inhalten führen, wenn die Inhalte vom Internet abhängig sind oder wenn Ihre Mobilgeräte mit dem QuattroPod über Ihre Infrastruktur verbinden.
-
-![QuattroPod](/assets/img/QuattroPod.poorsignal.png)
-
-Dies kann verschiedene Ursachen und somit verschiedene Lösungen haben:
-
-**1. Problem:** Der Abstand zwischen der EZCast Pro Box II und dem Router bzw. Wireless-Access-Point ist zu groß.
-
-Lösung: Versuchen Sie den Abstand zu reduzieren oder installieren Sie einen zusätzlichen Wireless-Access-Point.
-
-**2. Problem:** Es liegen Wände oder andere Gegenstände zwischen der EZCast Pro Box II und dem Router bzw. dem Wireless-Access-Point, welche die Signalstärke verschlechtern.
-
-Lösung: Stellen Sie sicher, dass die EZCast Pro Box II keine Hindernisse zum Router bzw. zum Access-Point hat. Wenn notwendig, installieren Sie einen zusätzlichen Access-Point.
-
 ## Ersatzteile
 
 ### Netzteile {#powersupply}
