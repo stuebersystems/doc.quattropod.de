@@ -8,6 +8,27 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des Quattr
 
 ## Empfänger R01 
 
+### 2022.01.11 | 1.14366.62
+
+**Neue Funktionen:**
+
+* Unterstützung des AirPlay 'On Screen Code' für iOS, macOS, iPadOS Geräte
+* Unterstützung das Streamingprotokoll Miracast
+* Warnmeldung bei Überhitzung des Geräts hinzugefügt
+
+**Behobene Systemfehler und Verbesserungen:**
+
+Verbesserte Web-Einstellungen:
+
+* Hinzufügen eines Verlaufs der zuvor verbundenen WLAN-Router auf der 5Ghz-WLAN-Weboberfläche
+
+System-Verbesserungen:
+
+* Das LED-Verhalten der Sender behoben
+* Verbesserte Reverse Control
+* Verbesserte WLAN-Sicherheit gegen FragAttacks
+* Bevor auf der Startseite die Meldung "Pairing OK" angezeigt wird, überprüft das System die WLAN-Verbindung zwischen dem Emfänger und dem Sender
+
 ### 2021.11.03 | 1.12412.47 
 
 **Fixes:**
@@ -93,6 +114,15 @@ Verbesserte Web-Einstellungen:
 ![](/assets/img/wifi.land.selection.DE.png)
 
 ## Sender T01
+
+### 2022.01.11 | 1.14366.62
+
+**System-Verbesserungen:**
+
+* Das LED-Verhalten der Sender behoben
+* Verbesserte Reverse Control
+* Verbesserte WLAN-Sicherheit gegen FragAttacks
+* Bevor auf der Startseite die Meldung "Pairing OK" angezeigt wird, überprüft das System die WLAN-Verbindung zwischen dem Emfänger und dem Sender
 
 ### 2021.11.03 | 1.12412.47 
 

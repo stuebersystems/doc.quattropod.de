@@ -101,7 +101,8 @@ Um eine vorherige bzw. eine Betafirmware zu installieren, laden Sie eine der fol
 
 Firmware                  | Empfänger R01 | Bemerkung
 ------------------------- | ------------ | ------------
-1.13830.0 (Beta) | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.13830.0.gz) | Unterstützung für das Protokoll Miracast
+1.14366.62 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.14366.62.gz)
+1.12412.47 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.12412.47.gz)
 1.12412.42 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.12412.42.gz)
 1.12412.27 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.12412.27.gz)
 1.9598.72 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.9598.72.gz)
@@ -198,6 +199,8 @@ Um eine vorherige bzw. eine Betafirmware zu installieren, laden Sie eine der fol
 
 Firmware                  | Sender U01-TypeC
 ------------------------- | ------------
+1.14366.62 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/U01-TypeC/U01-Type-C_1.14366.62.gz)
+1.12412.47 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/U01-TypeC/U01-Type-C_1.12412.47.gz)
 1.12412.42 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/U01-TypeC/U01-Type-C_1.12412.42.gz)
 1.12412.27 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/U01-TypeC/U01-Type-C_1.12412.27.gz)
 
