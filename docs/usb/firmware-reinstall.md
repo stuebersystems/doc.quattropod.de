@@ -274,6 +274,7 @@ Um eine U01-Type-A-Firmware zu installieren, laden Sie eine der folgenden Dateie
 
 Firmware                  | Sender U01-TypeA
 ------------------------- | ------------
+19428000 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/U01-TypeA/U01-Type-A-19428000.gz)
 19424000 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/U01-TypeA/U01-Type-A-19424000.gz)
 19415000 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/U01-TypeA/U01-Type-A-19415000.gz)
 
