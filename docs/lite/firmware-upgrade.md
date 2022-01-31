@@ -56,7 +56,7 @@ Die Aktualisierung wird über die Web-Oberfläche in einem beliebigen Web-Browse
 
      Sollten die Sender nach der Firmware-Aktualisierung nicht mit dem Empfänger verbinden können, müssen sie neu [gekoppelt](pairing.md) werden.
 
-## Firmware mit dem CMS installieren
+## Firmware per Internet mit dem CMS installieren
 
 Mit dem CMS ([Central Management System](cms.md)) kann man die neueste Firmware vom Internet auf mehreren EZCast Pro II bzw. QuattroPod Geräten installieren.
 
@@ -91,3 +91,43 @@ Die neue Firmware wird heruntergeladen und automatisch installiert.
 !!! tip "Hinweis"
 
      Sollten die Sender nach der Firmware-Aktualisierung nicht mit dem Empfänger verbinden können, müssen sie neu [gekoppelt](pairing.md) werden.
+	 
+	 
+## Firmware ohne Internet mit dem CMS installieren
+
+Mit dem CMS ([Central Management System](cms.md)) ermöglicht es Ihnen auch, die neueste Firmware auf Geräten zu installieren, die nicht mit dem Internet verbunden sind. Bitte nutzen Sie die untenstehenden Links, um die Firmware für Ihre Geräte vorab herunterzuladen:
+
+Geräte               | Herunterladen      |
+------------------------- | ------------------------- | 
+QuattroPod Lite-Empfänger (LR01) | [Herunterladen](firmware-reinstall.md#LR01_install_other_fw)
+
+* Wählen Sie die gewünschten Geräte aus, klicken Sie dann auf die Schaltfläche `Remote` und wählen Sie die Option `Device firmware upgrade`.
+
+![](/assets/img/CMS-firmware.install.latest.firmware.png)
+
+* Unter Registerkarte `FILE`, wählen Sie die Firmware-Datei aus, die Sie zuvor heruntergeladen haben:
+
+![](/assets/img/CMS-firmware.upgrade.FILE.png)
+
+* Klicken Sie auf die Schaltfläche `Apply`, um die Aktualisierung durchzuführen:
+
+![](/assets/img/CMS-firmware.upgrade.FILE.apply.png)
+
+* Während der Aktualisierung des Senders erscheint folgende Meldung:
+
+![](/assets/img/Update.U01c.png)
+
+* Während der Aktualisierung des Empfängers erscheint folgende Meldung:
+
+![](/assets/img/Update.R01.png)
+
+!!! warning "Achtung"
+    
+	Unterbrechen Sie während des Updates nicht die Stromversorgung.
+
+
+![](/assets/img/ProIIStick_Firmware_installing.png)
+
+!!! tip "Hinweis"
+
+     Sollten die Sender nach der Firmware-Aktualisierung nicht mit dem Empfänger verbinden können, müssen sie neu [gekoppelt](pairing.md) werden.	 
