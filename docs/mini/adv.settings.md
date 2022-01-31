@@ -111,7 +111,7 @@ Um die Leistung des QuattroPods zu optimieren, insbesondere bei Geräten, die da
 
 ## Admineinstellungen {#Admineinstellungen}
 
-In diesem Bereich können Sie den QuattroPod auf die neuste Firmware aktualisieren, auf Standardeinstellungen zurücksetzen und andere erweiterten Einstellungen setzen.
+In diesem Bereich können Sie den QuattroPod auf die neueste Firmware aktualisieren, auf Standardeinstellungen zurücksetzen und andere erweiterten Einstellungen setzen.
 
 ### WLAN-Kanal {#WiFi-Mode}
 

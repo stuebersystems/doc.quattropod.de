@@ -2,7 +2,7 @@
 
 ## Warum aktualisiert man die Firmware? 
 
-Um von den neusten Funktionen des QuattroPods zu profitieren, können Sie das neuste Firmware-Update schnell und bequem über das Internet installieren. Bei der Installation einer neuen Firmware werden die bisherigen Einstellungen übernommen.
+Um von den neuesten Funktionen des QuattroPods zu profitieren, können Sie das neueste Firmware-Update schnell und bequem über das Internet installieren. Bei der Installation einer neuen Firmware werden die bisherigen Einstellungen übernommen.
 
 Dabei benötigen Sie einen [Internetzugang](internet.md) zum Internet bzw. mit Ihrem Router.  Wenn der QuattroPod mit Ihrem WLAN verbunden ist, wird eine von Ihrem Netzwerk vergebenen IP-Adressen mit der Bezeichnung `Infrustructure IP` auf dem Bildschirm angezeigt, wie unten abgebildet:
 
@@ -58,7 +58,7 @@ Die Aktualisierung wird über die Web-Oberfläche in einem beliebigen Web-Browse
 
 ## Firmware mit dem CMS installieren
 
-Mit dem CMS ([Central Management System](cms.md)) kann man die neuste Firmware vom Internet auf mehreren EZCast Pro II bzw. QuattroPod Geräten installieren.
+Mit dem CMS ([Central Management System](cms.md)) kann man die neueste Firmware vom Internet auf mehreren EZCast Pro II bzw. QuattroPod Geräten installieren.
 
 * Wenn eine neue Firmware für den Empfänger bzw. für den Sender zur Verfügung steht, taucht die Meldung ![](/assets/img/CMS-firmware.available.png) neben dem Gerät auf:
 

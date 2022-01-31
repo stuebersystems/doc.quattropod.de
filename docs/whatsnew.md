@@ -1,6 +1,6 @@
 # Was ist neu?
 
-Wählen Sie Ihr Gerät aus, um sich über die neusten Updates Ihres Gerät zu informieren:
+Wählen Sie Ihr Gerät aus, um sich über die neuesten Updates Ihres Gerät zu informieren:
 
 <div class="md-showcase">
 	<img src="/assets/img/quattropod.usb.png" alt="Abbildung: QuattroPod USB"></a>

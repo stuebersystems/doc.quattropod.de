@@ -21,7 +21,7 @@ Standardmäßig ist Chromecast auf QuattroPod-Geräten aktiviert. Sollten Sie di
 
 ## Aus dem Chrome-Browser Streamen
 
-Rufen Sie Chrome auf Ihrem Computer auf. Mit dem neusten Google Chrome Browser wird die Funktion **Streamen...** mitgeliefert. Falls der Chrome Browser auf Ihrem Computer nicht vorhanden ist, installieren Sie die Software [hier](http://google.de/chrome) kostenlos.
+Rufen Sie Chrome auf Ihrem Computer auf. Mit dem neuesten Google Chrome Browser wird die Funktion **Streamen...** mitgeliefert. Falls der Chrome Browser auf Ihrem Computer nicht vorhanden ist, installieren Sie die Software [hier](http://google.de/chrome) kostenlos.
 
 Wählen Sie über die drei Punkte oben rechts den Menüpunkt `Streamen...`
 

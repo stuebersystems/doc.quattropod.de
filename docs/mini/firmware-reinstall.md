@@ -6,7 +6,7 @@ Sie können den QuattroPod wiederherstellen, indem Sie die Firmware manuell neu 
 
 * Der QuattroPod läuft nicht stabil und ein [Reset](reset.md) hat nicht geholfen.
 
-* Sie haben die Wahl: Installieren Sie entweder einfach die neuste Firmware oder eine andere Firmware
+* Sie haben die Wahl: Installieren Sie entweder einfach die neueste Firmware oder eine andere Firmware
 
 !!! tip "Hinweis"
     
@@ -59,7 +59,7 @@ Wenn der Treiber richtig installiert ist und der Empfänger angeschlossen ist, s
 
 !["Realtek generic USB Device“ erscheint im Geräte-Manager](/assets/img/device_manager.jpg)
 
-#### Neuste Firmware installieren {#R01_install_latest_fw}
+#### Neueste Firmware installieren {#R01_install_latest_fw}
 
 * Im Ordner `QuattroPod.R01.Repair.Tool` führen Sie die Datei **EZCastUpdate.exe** aus.
  
@@ -67,7 +67,7 @@ Wenn der Treiber richtig installiert ist und der Empfänger angeschlossen ist, s
 
 Das folgende Fenster erscheint. Wenn der QuattroPod-Empfänger erfolgreich im Update-Modus ist, wird im Tool der Status `Device connected`  angezeigt:
 
-* Wählen Sie `Download`, um die neuste Firmware herunterzuladen.
+* Wählen Sie `Download`, um die neueste Firmware herunterzuladen.
  
 ![Die Schaltfläche Download wählen](/assets/img/EZCastUpdate.DeviceConnected.jpg)
  
@@ -157,7 +157,7 @@ Schalten Sie den Empfänger aus und wieder ein. Der Empfänger ist wieder einsat
 
 ![Sender in den Update-Modus versetzen](/assets/img/IQuattroPod_TX_Update-Mode_mini1.png) 
 
-#### Neuste Firmware installieren  {#T02_install_latest_fw}
+#### Neueste Firmware installieren  {#T02_install_latest_fw}
 
 * Im Ordner `QuattroPod.T02.Repair.Tool` führen Sie die Datei **EZCastUpdate.exe** aus.
  
@@ -165,7 +165,7 @@ Schalten Sie den Empfänger aus und wieder ein. Der Empfänger ist wieder einsat
 
 Das folgende Fenster erscheint. Wenn der QuattroPod-Empfänger erfolgreich im Update-Modus ist, wird im Tool der Status `Device connected`  angezeigt:
 
-* Wählen Sie `Download`, um die neuste Firmware herunterzuladen.
+* Wählen Sie `Download`, um die neueste Firmware herunterzuladen.
  
 ![Die Schaltfläche Download wählen](/assets/img/EZCastUpdate.DeviceConnected.jpg)
  

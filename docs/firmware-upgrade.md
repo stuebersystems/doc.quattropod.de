@@ -1,6 +1,6 @@
 # Firmware aktualisieren
 
-Wählen Sie Ihr Gerät aus, um zu erfahren, wie Sie Ihr Gerät auf den neusten Stand bringen:
+Wählen Sie Ihr Gerät aus, um zu erfahren, wie Sie Ihr Gerät auf den neuesten Stand bringen:
 
 <div class="md-showcase">
 	<img src="/assets/img/quattropod.usb.png" alt="Abbildung: QuattroPod USB"></a>
