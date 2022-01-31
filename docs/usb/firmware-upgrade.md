@@ -168,7 +168,7 @@ Mit dem CMS ([Central Management System](cms.md)) ermöglicht es Ihnen auch, die
 Geräte               | Herunterladen      |
 ------------------------- | ------------------------- | 
 QuattroPod Standard-Empfänger (R01) | [Herunterladen](firmware-reinstall.md#R01_install_other_fw)
-QuattroPod Standard-Sender (U01) | [Herunterladen](firmware-reinstall.md##U01-TypeC_install_other_fw
+QuattroPod Standard-Sender (U01) | [Herunterladen](firmware-reinstall.md#U01-TypeC_install_other_fw
 
 * Wählen Sie die gewünschten Geräte aus, klicken Sie dann auf die Schaltfläche `Remote` und wählen Sie die Option `Device firmware upgrade`.
 
