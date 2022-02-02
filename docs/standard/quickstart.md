@@ -1,6 +1,6 @@
 # Schnellstartanleitung
 
-!!! info "Schnellstartanleitung als PDF"
+!!! info "Schnellstartanleitung als PDF".
 	
     Die Schnellstartanleitung steht Ihnen auch als PDF-Dokument im [A4-Format][1] und [A6-Format][2] zur Verfügung.
 
