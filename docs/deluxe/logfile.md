@@ -16,7 +16,7 @@ Mit dem Verfahren **Debug Over IP** werden die Debug-Informationen über Ihre Ne
 
 ## Debug Logdatei herunterladen {#download.logfile}
 
-Dabei müssen Sie den `Engineer Mode` aktivieren und die Funktion `Download Debug Log` wählen. Mit Hilfe der Funktion **Erweiterte Einstellungen** können Sie sich anmelden und mit einem beliebigen Webbrowser die Logdatei herunterladen.
+Dabei müssen Sie den `Developer Options` aktivieren und die Funktion `Download Debug Log` wählen. Mit Hilfe der Funktion **Erweiterte Einstellungen** können Sie sich anmelden und mit einem beliebigen Webbrowser die Logdatei herunterladen.
 
 ### Erweiterte Einstellungen öffnen 
 
@@ -48,9 +48,9 @@ Dabei müssen Sie den `Engineer Mode` aktivieren und die Funktion `Download Debu
 
 ![](/assets/img/click.adminsettings.png)
 
-* Klicken Sie auf `Zurück`, wählen Sie anschließend den Menüpunkt `Engineer Mode`:
+* Klicken Sie auf `Zurück`, wählen Sie anschließend den Menüpunkt `Developer Options`:
 
-![](/assets/img/proII.select.engineermode.png)
+![](/assets/img/qp.select.developermode.png)
 
 * Klicken Sie auf die Funktion `Download Debug Log`. Eine Logdatei wird heruntergeladen:
 
@@ -97,9 +97,9 @@ Mit Hilfe der Funktion **Erweiterte Einstellungen** können Sie sich anmelden un
 
 ![](/assets/img/click.adminsettings.png)
 
-* Klicken Sie auf `Zurück`, wählen Sie anschließend den Menüpunkt `Engineer Mode`:
+* Klicken Sie auf `Zurück`, wählen Sie anschließend den Menüpunkt `Developer Options`:
 
-![](/assets/img/proII.select.engineermode.png)
+![](/assets/img/qp.select.developermode.png)
 
 * Klicken Sie auf die Funktion `Debug Over IP`, um den Netzwerkdienst zu aktivieren. Eine Logdatei wird heruntergeladen:
 
