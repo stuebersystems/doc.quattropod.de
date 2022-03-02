@@ -16,7 +16,7 @@ Mit dem Verfahren **Debug Over IP** werden die Debug-Informationen über Ihre Ne
 
 ## Debug Logdatei herunterladen {#download.logfile}
 
-Dabei müssen Sie den `Developer Options` aktivieren und die Funktion `Download Debug Log` wählen. Mit Hilfe der Funktion **Erweiterte Einstellungen** können Sie sich anmelden und mit einem beliebigen Webbrowser die Logdatei herunterladen.
+Dabei müssen Sie die `Developer Options` aktivieren und die Funktion `Download Debug Log` wählen. Mit Hilfe der Funktion **Erweiterte Einstellungen** können Sie sich anmelden und mit einem beliebigen Webbrowser die Logdatei herunterladen.
 
 ### Erweiterte Einstellungen öffnen 
 
@@ -85,7 +85,7 @@ Mit Hilfe der Funktion **Erweiterte Einstellungen** können Sie sich anmelden un
 
 * Geben Sie das Admin-Kennwort ein und klicken Sie auf OK, um sich anzumelden. Standardmäßig lautet das Kennwort `000000`. Wenn dieses Kennwort nicht akzeptiert wird setzen Sie das Gerät per [Reset-Schalter](reset.md#hardreset) zurück.
 
-![](/assets/img/QuattroPod_Login.png)
+![](/assets/img/QuattroPod-Login.png)
 
 ### Debug Over IP aktivieren
 
@@ -105,9 +105,9 @@ Mit Hilfe der Funktion **Erweiterte Einstellungen** können Sie sich anmelden un
 
 ![](/assets/img/proII.select.debugviaip.on.png)
 
-* Um die Einstellung freizuschalten, müssen Sie den QuattroPod neu starten. Im Hauptmenü wählen Sie `Neustarten`.
+* Um die Einstellung freizuschalten, müssen Sie den QuattroPod neu starten. Im Menü `Admineinstellungen` wählen Sie `Neustarten`.
 
-![](/assets/img/prostickII_menu.neustart.png)
+![](/assets/img/restart.png)
 
 * Dann wählen Sie erneut die Schaltfläche `Neustarten`.
 
@@ -131,7 +131,7 @@ Laden Sie die Terminal-Software [Tera Term](https://osdn.net/projects/ttssh2/rel
 
 * Notieren Sie sich die IP-Adresse, die unten links auf der Startseite angezeigt wird.
 
-![](/assets/img/ProIIDongle_IP.png)
+![](/assets/img/QuattroPod_IP.png)
 
 * Im Dialogfenster `Neue Verbindung` geben Sie die IP-Adresse Ihres QuattroPod Gerätes sowie den TCP-Port `8700` ein und wählen Sie den Dienst `Telnet` aus. Ihr Rechner muss sich im gleichen Netzwerk wie das QuattroPod Gerät befinden:
 
