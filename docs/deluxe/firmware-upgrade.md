@@ -1,4 +1,4 @@
-# Firmware aktualisieren 
+# Firmware aktualisieren
 
 ## Warum aktualisiert man die Firmware? 
 
@@ -34,11 +34,6 @@ Die Aktualisierung wird über die Web-Oberfläche in einem beliebigen Web-Browse
 
 ![](/assets/img/QuattroPod-Login.png)
 
-* Während der ersten Anmeldung, müssen Sie das Admin-Kennwort ändern. Danach müssen Sie sich noch einmal anmelden.
-
-![](/assets/img/new_password.jpg)
-
-
 ## Aktualisierung starten
 
 * Klicken Sie auf `Admineinstellungen`:
@@ -56,7 +51,6 @@ Die Aktualisierung wird über die Web-Oberfläche in einem beliebigen Web-Browse
 !!! tip "Hinweis"
     
 	Sollten die Sender nach der Firmware-Aktualisierung nicht mit dem Empfänger verbinden können, müssen sie neu [gekoppelt](pairing.md) werden.
-
 
 ## Firmware per Internet mit dem CMS installieren
 
@@ -93,6 +87,7 @@ Die neue Firmware wird heruntergeladen und automatisch installiert.
 !!! tip "Hinweis"
 
      Sollten die Sender nach der Firmware-Aktualisierung nicht mit dem Empfänger verbinden können, müssen sie neu [gekoppelt](pairing.md) werden.
+
 
 ## Firmware ohne Internet mit dem CMS installieren
 
@@ -133,5 +128,3 @@ QuattroPod Standard-Sender (T01) | [Herunterladen](firmware-reinstall.md#T01_ins
 !!! tip "Hinweis"
 
      Sollten die Sender nach der Firmware-Aktualisierung nicht mit dem Empfänger verbinden können, müssen sie neu [gekoppelt](pairing.md) werden.
-	 
-	 
