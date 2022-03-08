@@ -113,6 +113,8 @@ nav:
     - Firmware aktualisieren: usb/firmware-upgrade.md
     - Internetzugang: usb/internet.md
     - Problembehandlung:
+        - DxDiag-Bericht erstellen: usb/dxdiag.md  
+        - Logdatei herunterladen: usb/logfile.md  
         - Einstellungen zurücksetzen: usb/reset.md
         - Firmware neu installieren: usb/firmware-reinstall.md
     - Pairing des Senders: usb/pairing.md
@@ -143,6 +145,8 @@ nav:
     - Firmware aktualisieren: lite/firmware-upgrade.md
     - Internetzugang: lite/internet.md
     - Problembehandlung:
+        - DxDiag-Bericht erstellen: lite/dxdiag.md  
+        - Logdatei herunterladen: lite/logfile.md  
         - Einstellungen zurücksetzen: lite/reset.md
         - Firmware neu installieren: lite/firmware-reinstall.md
     - Pairing des Senders: lite/pairing.md    
@@ -175,7 +179,9 @@ nav:
         - Touch-Back-Funktion: mini/touchback.md
     - Firmware aktualisieren: mini/firmware-upgrade.md
     - Internetzugang: mini/internet.md
-    - Problembehandlung: 
+    - Problembehandlung:
+        - DxDiag-Bericht erstellen: mini/dxdiag.md  
+        - Logdatei herunterladen: mini/logfile.md    
         - Einstellungen zurücksetzen: mini/reset.md
         - Firmware neu installieren: mini/firmware-reinstall.md
     - Pairing des Senders: mini/pairing.md
@@ -209,6 +215,8 @@ nav:
     - Firmware aktualisieren: standard/firmware-upgrade.md
     - Internetzugang: standard/internet.md
     - Problembehandlung: 
+        - DxDiag-Bericht erstellen: standard/dxdiag.md  
+        - Logdatei herunterladen: standard/logfile.md
         - Einstellungen zurücksetzen: standard/reset.md
         - Firmware neu installieren: standard/firmware-reinstall.md
     - Pairing des Senders: standard/pairing.md
@@ -242,6 +250,8 @@ nav:
     - Firmware aktualisieren: deluxe/firmware-upgrade.md
     - Internetzugang: deluxe/internet.md
     - Problembehandlung: 
+        - DxDiag-Bericht erstellen: deluxe/dxdiag.md  
+        - Logdatei herunterladen: deluxe/logfile.md
         - Einstellungen zurücksetzen: deluxe/reset.md
         - Firmware neu installieren: deluxe/firmware-reinstall.md
     - Pairing des Senders: deluxe/pairing.md
