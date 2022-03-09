@@ -32,15 +32,21 @@ Mehrere Teilnehmer haben die Möglichkeit, per Knopfdruck ihren Bildschirminhalt
 
 ![Die Funktion Multicast steht ab der Firmware-Version 1.8529.10 zur Verfügung](/assets/img/quattropod.landingpage.fw.png)
 
-## Erweiterte Einstellungen öffnen
+## Multicast per Web-Oberfläche einstellen
 
-* Um die Web-Oberfläche zu erreichen, verbinden Sie Ihr Endgerät mit der SSID des QuattroPods. Die Zugangsdaten werden oben auf dem Bildschirm angezeigt:
+Mit der Web-Oberfläche kann man die Funktion Multicast auf einem QuattroPod einstellen. Anschließend muss man das Verfahren auf jedem QuattroPod-Gerät wiederholen, das in derselben Multicast-Gruppe verwendet werden soll.
 
-![](/assets/img/quattropod.ssid.connect.png)
+* Um die Web-Oberfläche zu erreichen, notieren Sie sich die `Infrastruktur-IP-Adresse`, die unten links auf der Startseite angezeigt wird.
 
-* In die Adressleiste eines Webbrowsers geben Sie die `Direct Link IP` des QuattroPods ein. Die Einstellungsoberfläche des QuattroPods erscheint:
+![](/assets/img/QuattroPod_IP.png)
 
-![](/assets/img/quattropod_directIP.connect.png)
+* Rufen Sie nun Ihren Web-Browser auf.
+
+![](/assets/img/Google_Chrome.png)
+
+* Klicken Sie mit der Maus in die Adressleiste des Browsers und geben Sie die IP-Adresse des QuattroPod Gerätes ein.
+
+![](/assets/img/IP-Address.png)
 
 ### Sich als Admin anmelden
 
@@ -48,7 +54,7 @@ Mehrere Teilnehmer haben die Möglichkeit, per Knopfdruck ihren Bildschirminhalt
 
 ![](/assets/img/QuattroPod-Login.png)
 
-## Multicast aktivieren
+### Multicast aktivieren
 
 * Wählen Sie den Menüpunkt `Admineinstellungen`:
 
@@ -58,9 +64,9 @@ Mehrere Teilnehmer haben die Möglichkeit, per Knopfdruck ihren Bildschirminhalt
 
 ![](/assets/img/multicast_option.png)
 
-* Aktivieren Sie die Option `Multicast`. Anschließend geben Sie einen Namen für die Cast-Gruppe im Feld `Besetzungsgruppe` ein. Schließlich geben Sie die SSID und das Kennwort eines WLANs ein z.B. das WLAN Ihrer Schule, über das die Multicast-Daten gesendet werden sollen:
+* Aktivieren Sie die Option `Multicast`. Anschließend geben Sie einen Namen für die Cast-Gruppe im Feld `Besetzungsgruppe` ein. Schließlich geben Sie die `SSID` und das `Kennwort` eines WLANs ein z.B. das WLAN Ihrer Schule, über das die Multicast-Daten gesendet werden sollen:
 
-![](/assets/img/Cast-Gruppe.png)
+![](/assets/img/multicast.websetting.on.png)
 
 * Die Einstellungen werden erst nach einem Neustart wirksam:
 
@@ -70,9 +76,118 @@ Mehrere Teilnehmer haben die Möglichkeit, per Knopfdruck ihren Bildschirminhalt
 
 ![](/assets/img/Multicast_activated.png)
 
+### Multicast deaktivieren
+
+* Wählen Sie den Menüpunkt `Admineinstellungen`:
+
+![](/assets/img/quattropod.select.admin.png)
+
+* Wählen Sie den Menüpunkt `Multicast`aus:
+
+![](/assets/img/multicast_option.png)
+
+* Schalten Sie die Funktion `Multicast` aus:
+
+![](/assets/img/multicast.websetting.off.png)
+
+* Die Einstellungen werden erst nach einem Neustart wirksam:
+
+![](/assets/img/restart.png)
+
+* Nach dem Neustart startet der Empfänger im Multicast-Modus. Die angegebene Cast-Gruppe und das verbundene WLAN werden oben angezeigt:
+
+![](/assets/img/Multicast_activated.png)
+
+#### Host/Casting Einstellungen überprüfen
+
+Nach der Deaktivierung der Funktion Multicast müssen vier Einstellungen zur Host-Kontrolle und zu den Streamingprotokollen überprüft werden. 
+
+* In der Web-Oberfläche wählen Sie den Menüpunkt `Admineinstellungen` aus:
+
+![](/assets/img/quattropod.select.admin.png)
+
+Überprüfen Sie die folgenden empfohlenen Einstellungen:
+
+* [Antrag automatisch genehmigen](adv.settings.md#Host-Control): `AUS`
+* [Bildschim teilen](adv.settings.md#Host-Control): `EIN`
+* [AirPlay](adv.settings.md#AirPlay): `EIN`
+* [Google Cast](adv.settings.md#google-cast): `EIN`
+
+## Multicast per CMS einstellen
+
+Mit dem CMS ([Central Management System](cms.md)) kann man Multicast auf mehreren QuattroPod-Geräten gleichzeitig einstellen.
+
+* Wählen Sie alle QuattroPod-Empfänger aus, die einstellt werden sollen:
+
+![](/assets/img/multicast.select.all.png)
+
+* Klicken Sie auf die Schaltfläche `Device` -> und wählen Sie die Funktion `Multicast setup` aus.
+
+![](/assets/img/multicast.select.multicastsetup.png)
+
+### Multicast aktivieren
+
+* Schalten Sie die Funktion `Multicast` ein:
+
+![](/assets/img/multicast.enable.multicastsetup.png)
+
+* Geben Sie einen Namen für die Cast-Gruppe im Feld `Group ID` ein. Schließlich geben Sie die `SSID` und das `Kennwort` eines WLANs ein z.B. das WLAN Ihrer Schule, über das die Multicast-Daten gesendet werden sollen. Zum Übernehmen der Einstellungen klicken Sie auf `Apply`:
+
+![](/assets/img/multicast.settings.png)
+
+* Die Einstellungen werden erst nach einem Neustart wirksam:
+
+![](/assets/img/multicast.reboot.png)
+
+* Nach dem Neustart startet der Empfänger im Multicast-Modus. Die angegebene Cast-Gruppe und das verbundene WLAN werden oben angezeigt:
+
+![](/assets/img/Multicast_activated.png)
+
+### Multicast deaktivieren
+
+* Wählen Sie alle QuattroPod-Empfänger aus, auf denen die Funktion Multicast deaktiviert werden sollen:
+
+![](/assets/img/multicast.select.all2.png)
+
+* Klicken Sie auf die Schaltfläche `Device` -> und wählen Sie die Funktion `Multicast setup` aus.
+
+![](/assets/img/multicast.select.multicastsetup.png)
+
+* Schalten Sie oben die Funktion `Multicast` aus:
+
+![](/assets/img/multicast.settings2.png)
+
++ Zum Bestätigen klicken Sie auf `Apply`:
+
+![](/assets/img/multicast.apply.deactivate.png)
+
+* Die Einstellungen werden erst nach einem Neustart wirksam. Bestätigen Sie mit `Confirm`:
+
+![](/assets/img/multicast.reboot.png)
+
+* Nach dem Neustart startet der Empfänger im Standard-Modus. Die SSID des QuatroPod-Empfängers wird wieder angezeigt:
+
+![](/assets/img/quattropod.landingpage.ssid.png)
+
+#### Host/Casting Einstellungen überprüfen
+
+Nach der Deaktivierung der Funktion Multicast müssen vier Einstellungen zur Host-Kontrolle und zu den Streamingprotokollen überprüft werden. 
+
+* Wählen Sie Ihre Geräte noch einmal aus:
+
+![](/assets/img/multicast.select.all.png)
+
+* Klicken Sie auf die Schaltfläche `Device` -> und wählen Sie die Funktion `Host/Casting` aus.
+
+![](/assets/img/multicast.select.hostcasting.png)
+
+Überprüfen Sie die folgenden empfohlenen Einstellungen:
+
+![](/assets/img/multicast.settings.hostcasting.png)
+
 ## Sender koppeln
 
-* Schalten Sie den Standard-Sender  bzw. den Mini-Sender auf `PC` um:
+* Schalten Sie den Sender auf `PC` um:
 
 ![](/assets/img/Sender_koppeln.png)
 
