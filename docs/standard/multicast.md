@@ -60,7 +60,7 @@ Mit der Web-Oberfläche kann man die Funktion Multicast auf einem QuattroPod ein
 
 ![](/assets/img/multicast_option.png)
 
-* Aktivieren Sie die Option `Multicast`. Anschließend geben Sie einen Namen für die Cast-Gruppe im Feld `Besetzungsgruppe` ein. Schließlich geben Sie die SSID und das Kennwort eines WLANs ein z.B. das WLAN Ihrer Schule, über das die Multicast-Daten gesendet werden sollen:
+* Aktivieren Sie die Option `Multicast`. Anschließend geben Sie einen Namen für die Cast-Gruppe im Feld `Besetzungsgruppe` ein. Schließlich geben Sie die `SSID` und das `Kennwort` eines WLANs ein z.B. das WLAN Ihrer Schule, über das die Multicast-Daten gesendet werden sollen:
 
 ![](/assets/img/Cast-Gruppe.png)
 
@@ -86,11 +86,11 @@ Mit dem CMS ([Central Management System](cms.md)) kann man Multicast auf mehrere
 
 ### Multicast aktivieren
 
-* Schalten Sie die Funktion Multicast ein:
+* Schalten Sie die Funktion `Multicast` ein:
 
 ![](/assets/img/multicast.enable.multicastsetup.png)
 
-* Geben Sie einen Namen für die Cast-Gruppe im Feld `Group ID` ein. Schließlich geben Sie die SSID und das Kennwort eines WLANs ein z.B. das WLAN Ihrer Schule, über das die Multicast-Daten gesendet werden sollen. Zum Übernehmen der Einstellungen klicken Sie auf `Apply`:
+* Geben Sie einen Namen für die Cast-Gruppe im Feld `Group ID` ein. Schließlich geben Sie die `SSID` und das `Kennwort` eines WLANs ein z.B. das WLAN Ihrer Schule, über das die Multicast-Daten gesendet werden sollen. Zum Übernehmen der Einstellungen klicken Sie auf `Apply`:
 
 ![](/assets/img/multicast.settings.png)
 
@@ -101,6 +101,32 @@ Mit dem CMS ([Central Management System](cms.md)) kann man Multicast auf mehrere
 * Nach dem Neustart startet der Empfänger im Multicast-Modus. Die angegebene Cast-Gruppe und das verbundene WLAN werden oben angezeigt:
 
 ![](/assets/img/Multicast_activated.png)
+
+### Multicast deaktivieren
+
+* Wählen Sie alle QuattroPod-Empfänger aus, auf denen die Funktion Multicast deaktiviert werden sollen:
+
+![](/assets/img/multicast.select.all2.png)
+
+* Klicken Sie auf die Schaltfläche `Device` -> und wählen Sie die Funktion `Multicast setup` aus.
+
+![](/assets/img/multicast.select.multicastsetup.png)
+
+* Schalten Sie oben die Funktion `Multicast` aus:
+
+![](/assets/img/multicast.settings2.png)
+
++ Zum Bestätigen klicken Sie auf `Apply`:
+
+![](/assets/img/multicast.apply.deactivate.png)
+
+* Die Einstellungen werden erst nach einem Neustart wirksam:
+
+![](/assets/img/multicast.reboot.png)
+
+* Nach dem Neustart startet der Empfänger im Standard-Modus. Die SSID des QuatroPod-Empfängers wird wieder angezeigt:
+
+![](/assets/img/quattropod.landingpage.ssid.png)
 
 ## Sender koppeln
 
