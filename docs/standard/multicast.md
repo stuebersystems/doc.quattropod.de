@@ -32,7 +32,9 @@ Mehrere Teilnehmer haben die Möglichkeit, per Knopfdruck ihren Bildschirminhalt
 
 ![Die Funktion Multicast steht ab der Firmware-Version 1.8529.10 zur Verfügung](/assets/img/quattropod.landingpage.fw.png)
 
-## Erweiterte Einstellungen öffnen
+## Multicast per Web-Oberfläche einstellen
+
+Mit der Web-Oberfläche kann man die Funktion Multicast auf einem QuattroPod einstellen. Anschließend muss man das Verfahren auf jedem QuattroPod-Gerät wiederholen, das in derselben Multicast-Gruppe verwendet werden soll.
 
 * Um die Web-Oberfläche zu erreichen, verbinden Sie Ihr Endgerät mit der SSID des QuattroPods. Die Zugangsdaten werden oben auf dem Bildschirm angezeigt:
 
@@ -48,7 +50,7 @@ Mehrere Teilnehmer haben die Möglichkeit, per Knopfdruck ihren Bildschirminhalt
 
 ![](/assets/img/QuattroPod-Login.png)
 
-## Multicast aktivieren
+### Multicast aktivieren
 
 * Wählen Sie den Menüpunkt `Admineinstellungen`:
 
@@ -65,6 +67,36 @@ Mehrere Teilnehmer haben die Möglichkeit, per Knopfdruck ihren Bildschirminhalt
 * Die Einstellungen werden erst nach einem Neustart wirksam:
 
 ![](/assets/img/restart.png)
+
+* Nach dem Neustart startet der Empfänger im Multicast-Modus. Die angegebene Cast-Gruppe und das verbundene WLAN werden oben angezeigt:
+
+![](/assets/img/Multicast_activated.png)
+
+## Multicast per CMS einstellen
+
+Mit dem CMS ([Central Management System](cms.md)) kann man Multicast auf mehreren QuattroPod-Geräten gleichzeitig einstellen.
+
+* Wählen Sie alle QuattroPod-Empfänger aus, die einstellt werden sollen:
+
+![](/assets/img/multicast.select.all.png)
+
+* Klicken Sie auf die Schaltfläche `Device` -> und wählen Sie die Funktion `Multicast setup` aus.
+
+![](/assets/img/multicast.select.multicastsetup.png)
+
+### Multicast aktivieren
+
+* Schalten Sie die Funktion Multicast ein:
+
+![](/assets/img/multicast.enable.multicastsetup.png)
+
+* Geben Sie einen Namen für die Cast-Gruppe im Feld `Group ID` ein. Schließlich geben Sie die SSID und das Kennwort eines WLANs ein z.B. das WLAN Ihrer Schule, über das die Multicast-Daten gesendet werden sollen. Zum Übernehmen der Einstellungen klicken Sie auf `Apply`:
+
+![](/assets/img/multicast.settings.png)
+
+* Die Einstellungen werden erst nach einem Neustart wirksam:
+
+![](/assets/img/multicast.reboot.png)
 
 * Nach dem Neustart startet der Empfänger im Multicast-Modus. Die angegebene Cast-Gruppe und das verbundene WLAN werden oben angezeigt:
 
