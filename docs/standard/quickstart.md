@@ -1,11 +1,9 @@
 # Schnellstartanleitung
 
-!!! info "Schnellstartanleitung als PDF".
+!!! info "Schnellstartanleitung als PDF"
 	
-    Die Schnellstartanleitung steht Ihnen auch als PDF-Dokument im [A4-Format][1] und [A6-Format][2] zur Verfügung.
+    Die Schnellstartanleitung steht Ihnen auch als PDF-Dokument im [A6-Format](https://download.stueber.de/doc/de/quattropod/schnellstartanleitungen/A6_QPSt.pdf) zur Verfügung.
 
-  [1]: https://download.stueber.de/doc/de/quattropod/schnellstartanleitungen/A4_QPSt.pdf
-  [2]: https://download.stueber.de/doc/de/quattropod/schnellstartanleitungen/A6_QPSt.pdf
 
 ## Inhalt des QuattroPod Standard
 
