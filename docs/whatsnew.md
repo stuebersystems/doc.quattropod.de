@@ -1,7 +1,5 @@
 # Was ist neu?
 
-test
-
 Wählen Sie Ihr Gerät aus, um sich über die neuesten Updates Ihres Gerät zu informieren:
 
 <div class="md-showcase">
