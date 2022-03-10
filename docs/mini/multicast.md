@@ -32,7 +32,7 @@ Mehrere Teilnehmer haben die Möglichkeit, per Knopfdruck ihren Bildschirminhalt
 
 ![Die Funktion Multicast steht ab der Firmware-Version 1.8529.10 zur Verfügung](/assets/img/quattropod.landingpage.fw.png)
 
-## Multicast per Web-Oberfläche einstellen
+## Multicast mit Web-Oberfläche einstellen
 
 Mit der Web-Oberfläche kann man die Funktion Multicast auf einem QuattroPod einstellen. Anschließend muss man das Verfahren auf jedem QuattroPod-Gerät wiederholen, das in derselben Multicast-Gruppe verwendet werden soll.
 
@@ -113,7 +113,7 @@ Nach der Deaktivierung der Funktion Multicast müssen vier Einstellungen zur Hos
 * [AirPlay](adv.settings.md#AirPlay): `EIN`
 * [Google Cast](adv.settings.md#google-cast): `EIN`
 
-## Multicast per CMS einstellen
+## Multicast mit CMS einstellen
 
 Mit dem CMS ([Central Management System](cms.md)) kann man Multicast auf mehreren QuattroPod-Geräten gleichzeitig einstellen.
 
