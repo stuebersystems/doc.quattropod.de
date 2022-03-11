@@ -64,7 +64,7 @@ Mit der Web-Oberfläche kann man die Funktion Multicast auf einem QuattroPod ein
 
 ![](/assets/img/multicast_option.png)
 
-* Aktivieren Sie die Option `Multicast`. Anschließend geben Sie einen Namen für die Cast-Gruppe im Feld `Besetzungsgruppe` ein. Schließlich geben Sie die `SSID` und das `Kennwort` eines WLANs ein z.B. das WLAN Ihrer Schule, über das die Multicast-Daten gesendet werden sollen:
+* Aktivieren Sie die Option `Multicast`. Anschließend geben Sie einen Namen für die Multicast-Gruppe im Feld `Besetzungsgruppe` ein. Schließlich geben Sie die `SSID` und das `Kennwort` eines WLANs ein z.B. das WLAN Ihrer Schule, über das die Multicast-Daten gesendet werden sollen:
 
 ![](/assets/img/multicast.websetting.on.png)
 
@@ -72,7 +72,7 @@ Mit der Web-Oberfläche kann man die Funktion Multicast auf einem QuattroPod ein
 
 ![](/assets/img/restart.png)
 
-* Nach dem Neustart startet der Empfänger im Multicast-Modus. Die angegebene Cast-Gruppe und das verbundene WLAN werden oben angezeigt:
+* Nach dem Neustart startet der Empfänger im Multicast-Modus. Die angegebene Multicast-Gruppe und das verbundene WLAN werden oben angezeigt:
 
 ![](/assets/img/Multicast_activated.png)
 
@@ -94,7 +94,7 @@ Mit der Web-Oberfläche kann man die Funktion Multicast auf einem QuattroPod ein
 
 ![](/assets/img/restart.png)
 
-* Nach dem Neustart startet der Empfänger im Multicast-Modus. Die angegebene Cast-Gruppe und das verbundene WLAN werden oben angezeigt:
+* Nach dem Neustart startet der Empfänger im Multicast-Modus. Die angegebene Multicast-Gruppe und das verbundene WLAN werden oben angezeigt:
 
 ![](/assets/img/Multicast_activated.png)
 
@@ -117,7 +117,7 @@ Nach der Deaktivierung der Funktion Multicast müssen vier Einstellungen zur Hos
 
 Mit dem CMS ([Central Management System](cms.md)) kann man Multicast auf mehreren QuattroPod-Geräten gleichzeitig einstellen.
 
-* Wählen Sie alle QuattroPod-Empfänger aus, die einstellt werden sollen:
+* Wählen Sie alle QuattroPod-Empfänger aus, die eingestellt werden sollen:
 
 ![](/assets/img/multicast.select.all.png)
 
@@ -131,7 +131,7 @@ Mit dem CMS ([Central Management System](cms.md)) kann man Multicast auf mehrere
 
 ![](/assets/img/multicast.enable.multicastsetup.png)
 
-* Geben Sie einen Namen für die Cast-Gruppe im Feld `Group ID` ein. Schließlich geben Sie die `SSID` und das `Kennwort` eines WLANs ein z.B. das WLAN Ihrer Schule, über das die Multicast-Daten gesendet werden sollen. Zum Übernehmen der Einstellungen klicken Sie auf `Apply`:
+* Geben Sie einen Namen für die Multicast-Gruppe im Feld `Group ID` ein. Schließlich geben Sie die `SSID` und das `Kennwort` eines WLANs ein z.B. das WLAN Ihrer Schule, über das die Multicast-Daten gesendet werden sollen. Zum Übernehmen der Einstellungen klicken Sie auf `Apply`:
 
 ![](/assets/img/multicast.settings.png)
 
@@ -139,7 +139,7 @@ Mit dem CMS ([Central Management System](cms.md)) kann man Multicast auf mehrere
 
 ![](/assets/img/multicast.reboot.png)
 
-* Nach dem Neustart startet der Empfänger im Multicast-Modus. Die angegebene Cast-Gruppe und das verbundene WLAN werden oben angezeigt:
+* Nach dem Neustart startet der Empfänger im Multicast-Modus. Die angegebene Multicast-Gruppe und das verbundene WLAN werden oben angezeigt:
 
 ![](/assets/img/Multicast_activated.png)
 

@@ -257,7 +257,7 @@ Laden Sie die Kopplungsdatei herunter, um einen Sender mit dem Empfänger per US
 
 Nutzen Sie diese Funktion, um den Empfänger im Multicast-Modus zu starten. Eine umfassende Anleitung zu diesem Thema finden Sie [hier](multicast.md).
 
-![Neustarten](/assets/img/Cast-Gruppe.png)
+![Neustarten](/assets/img/Multicast-Gruppe.png)
 
 ### Neustarten {#Neustarten}
 
