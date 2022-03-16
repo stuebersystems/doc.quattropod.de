@@ -72,7 +72,7 @@ Mit Hilfe der Funktion [Erweiterte Einstellungen](adv.settings.md) können Sie s
 
 Wir empfehlen die folgenden Einstellungen:
 
-Firmware-Version: [1.12412.42](whatsnew.md#20210712-11241242)
+Firmware-Version: [1.14366.90](whatsnew.md#20220302-11436690)
 
 **Gerätemanagement**
 

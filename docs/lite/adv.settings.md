@@ -161,7 +161,7 @@ Wenn gewünscht, kann man das Bild der Startseite austauschen. Dies ist eine dau
 
 Einen Download der von uns mitgelieferten Startseite finden Sie [hier](https://download.stueber.de/doc/de/quattropod/QuattroPod.Lite_Startseite.DE.png).
 
-![](/assets/img/My_Screen.jpg)
+![](/assets/img/My_Screen.png)
 
 ### Dynamisches Hintergrundbild {#Dynamicwallpaper}
 

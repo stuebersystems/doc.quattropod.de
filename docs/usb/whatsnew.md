@@ -8,6 +8,19 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des Quattr
 
 ## Empfänger R01
 
+### 2022.03.02 | 1.14366.90
+
+**Neue Funktionen:**
+
+* Unterstützung der Auslösung 1920x1200
+* Unterstützung von zwei Hintergrundbildern
+
+**Fixes:**
+
+* Das LED-Verhalten des Empfängers behoben
+* Verbesserte Reverse Control
+* Verbesserte Stabilität
+
 ### 2022.01.11 | 1.14366.62
 
 **Neue Funktionen:**

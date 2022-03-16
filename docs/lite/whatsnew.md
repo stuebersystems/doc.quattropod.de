@@ -8,6 +8,21 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des Quattr
 
 ## Empfänger LR01 
 
+### 2022.03.02 | 1.14366.90
+
+**Neue Funktionen:**
+
+* Unterstützung des AirPlay 'On Screen Code' für iOS, macOS, iPadOS Geräte
+* Unterstützung das Streamingprotokoll Miracast
+* Warnmeldung bei Überhitzung des Geräts hinzugefügt
+
+**Fixes:**
+
+* Das LED-Verhalten der Sender behoben
+* Verbesserte Reverse Control
+* Verbesserte WLAN-Sicherheit gegen FragAttacks
+* Bevor auf der Startseite die Meldung "Pairing OK" angezeigt wird, überprüft das System die WLAN-Verbindung zwischen dem Emfänger und dem Sender
+
 ### 2021.07.12 | 1.12412.42
 
 **Fixes:**

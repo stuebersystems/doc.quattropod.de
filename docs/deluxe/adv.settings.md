@@ -157,11 +157,11 @@ Eine umfassende Information zu diesem Thema finden Sie [hier](conference-control
 
 ### Mein Bildschirm {#Mein-Bildschirm}
 
-Wenn gewünscht, kann man das Bild der Startseite austauschen. Dies ist eine dauerhafte Änderung. Nach dem Einspielen eines neuen Bildes kann das vorherige Bild nicht wiederhergestellt werden, auch bei einem [Zurücksetzen der Einstellungen](reset.md) des Empfängers.
+Das Hintergrundbild des Startbildschirm können Sie mit bis zu zwei eigenen Hintergrundbildern ersetzen. Bei zwei Hintergrundbildern blättern diese automatisch alle 10 Sekunden.
 
-Einen Download der von uns mitgelieferten Startseite finden Sie [hier](https://download.stueber.de/doc/de/quattropod/QuattroPod_StartseiteDE.png).
+Einen Download der von uns mitgelieferten Hintergrundsbildern finden Sie auf unseren [empfohlenen Einstellungen](reset.md#recommendedsettings).
 
-![](/assets/img/My_Screen.jpg)
+![](/assets/img/My_Screen.png)
 
 ### Dynamisches Hintergrundbild {#Dynamicwallpaper}
 
@@ -193,6 +193,11 @@ Mit einem iOS/macOS Gerät können Sie Ihren Bildschirminhalt auch direkt per Ap
 
 ![](/assets/img/AirPlay.png)
 
+#### Miracast {#Miracast}
+
+Die Übertragung von Miracast-Geräten unterstützen. Eine umfassende Anleitung zur Verwendung von Miracast finden Sie [hier](miracast.md).
+
+![](/assets/img/Miracast.png)
 
 ### Admin-Kennwort {#AdminKennwort}
 
