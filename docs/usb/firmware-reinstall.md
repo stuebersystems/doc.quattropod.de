@@ -101,13 +101,10 @@ Um eine vorherige bzw. eine Betafirmware zu installieren, laden Sie eine der fol
 
 Firmware                  | Empfänger R01 | Bemerkung
 ------------------------- | ------------ | ------------
+1.14366.90 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.14366.90.gz)
 1.14366.62 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.14366.62.gz)
 1.12412.47 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.12412.47.gz)
 1.12412.42 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.12412.42.gz)
-1.12412.27 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.12412.27.gz)
-1.9598.72 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.9598.72.gz)
-1.8529.10 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.8529.10.gz)
-1.6468.5 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.6468.5.gz)
 
 * Im Ordner `QuattroPod.R01.Repair.Tool` führen Sie die Datei **Update_for_localfile.exe** aus.
 
@@ -199,10 +196,10 @@ Um eine vorherige bzw. eine Betafirmware zu installieren, laden Sie eine der fol
 
 Firmware                  | Sender U01-TypeC
 ------------------------- | ------------
+1.14366.91 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/U01-TypeC/U01-Type-C_1.14366.91.gz)
 1.14366.62 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/U01-TypeC/U01-Type-C_1.14366.62.gz)
 1.12412.47 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/U01-TypeC/U01-Type-C_1.12412.47.gz)
 1.12412.42 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/U01-TypeC/U01-Type-C_1.12412.42.gz)
-1.12412.27 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/U01-TypeC/U01-Type-C_1.12412.27.gz)
 
 * Im Ordner `QuattroPod.U01-TypeC.Repair.Tool` führen Sie die Datei **Update_for_localfile.exe** aus.
 
