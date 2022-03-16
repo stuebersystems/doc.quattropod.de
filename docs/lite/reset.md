@@ -68,11 +68,11 @@ Mit Hilfe der Funktion [Erweiterte Einstellungen](adv.settings.md) können Sie s
 
      Wenn Ihr Sender sich dach dem Zurücksetzen nicht freischalten lässt, überprüfen Sie Ihre [Einrichtung](quickstart.md#setup) und [koppeln](pairing.md) Sie den Sender mit dem Empfänger neu.
 
-## Einstellungen nach dem Zurücksetzen {#recommendedsettings}
+## Empfohlene Einstellungen {#recommendedsettings}
 
-Wir empfehlen die folgenden Einstellungen:
+Nach dem Zurücksetzen Ihres Gerätes sollen die Einstellungen kontrolliert werden. Wir empfehlen folgende Einstellungen:
 
-Firmware-Version: [1.12412.42](whatsnew.md#20210712-11241242)
+Firmware-Version: [1.14366.90](whatsnew.md#20220302-11436690)
 
 **Gerätemanagement**
 
