@@ -101,11 +101,11 @@ Um eine vorherige bzw. eine Betafirmware zu installieren, laden Sie eine der fol
 
 Firmware                  | Empfänger LR01
 ------------------------- | ------------
+1.14366.90 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/LR01/LR01_1.14366.90.gz)
 1.12412.42 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/LR01/LR01_1.12412.42.gz)
 1.12412.27 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/LR01/LR01_1.12412.27.gz)
 1.9598.75 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/LR01/LR01_1.9598.75.gz)
-1.9598.44 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/LR01/LR01_1.9598.44.gz)
-1.8530.15 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/LR01/LR01_1.8530.15.gz)
+
 
 * Im Ordner `QuattroPod.TR01.Repair.Tool` führen Sie die Datei **Update_for_localfile.exe** aus.
 

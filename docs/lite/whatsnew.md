@@ -105,6 +105,15 @@ Verbesserte Web-Einstellungen:
 
 ## Sender LT01
 
+### 2022.03.02 | 1.14366.87
+
+**Behobene Systemfehler und Verbesserungen:**
+
+* Das LED-Verhalten der Sender behoben
+* Verbesserte Reverse Control
+* Verbesserte WLAN-Sicherheit gegen FragAttacks
+* Bevor auf der Startseite die Meldung "Pairing OK" angezeigt wird, überprüft das System die WLAN-Verbindung zwischen dem Emfänger und dem Sender
+
 ### 2021.07.12 | 1.12412.42
 
 **Fixes:**
