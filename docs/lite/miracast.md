@@ -12,7 +12,7 @@ Aktivieren Sie die Funktion `Miracast Support` unter `Admineinstellungen` über 
 
 Um Miracast mit dem QuattroPod zu verbinden, stellen Sie sicher, dass der Empfänger eingeschalten ist und die Startseite auf dem Bildschirm angezeigt ist.
 
-![QuattroPod](/assets/img/quattropod.landingpage.direct.png)
+![QuattroPod](/assets/img/quattropod.lite.landingpage.png)
 
 Drücken Sie die Tastenkombination `[Windows]` + `[K]`, um das Dialogfenster `VERBINDEN` aufzurufen. Wählen Sie den QuattroPod aus:
 
@@ -34,7 +34,7 @@ Um die Miracast-Anzeige zu trennen, rufen Sie das Dialogfenster erneut `VERBINDE
 
 Um Miracast mit dem QuattroPod zu verbinden, stellen Sie sicher, dass der Empfänger eingeschalten ist und die Startseite auf dem Bildschirm angezeigt ist.
 
-![QuattroPod Startseite](/assets/img/quattropod.landingpage.direct.png)
+![QuattroPod Startseite](/assets/img/quattropod.lite.landingpage.png)
 
 Auf Ihrem Android-Gerät streichen Sie vom unteren Bildschirmrand nach oben, um das **Kontrollzentrum** aufzurufen und wählen Sie die Anwendung zur Bildschirmübertragung. Bei den meisten Geräten heißt es `Drahtlosprojektion`, `Smart View` oder auch `Screen Mirroring`. Wählen Sie anschließend Ihr QuattroPod Gerät aus. Um die Bildschirmübertragung zum beenden, wählen Sie `Trennen` in selben Bereich.
 
