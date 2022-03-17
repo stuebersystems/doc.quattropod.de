@@ -13,7 +13,7 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des Quattr
 **Neue Funktionen:**
 
 * Unterstützung des AirPlay 'On Screen Code' für iOS, macOS, iPadOS Geräte
-* Unterstützung das Streamingprotokoll Miracast
+* Unterstützung das Streamingprotokoll [Miracast](miracast.md)
 * Warnmeldung bei Überhitzung des Geräts hinzugefügt
 
 **Fixes:**

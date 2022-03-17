@@ -96,6 +96,7 @@ nav:
     - Anleitungen nach<br>Streamingprotokoll:
         - "Anleitung: AirPlay": usb/airplay.md     
         - "Anleitung: Chromecast": usb/chromecast.md
+        - "Anleitung: Miracast": usb/miracast.md
     - CMS (Central Management System): usb/cms.md    
     - Einrichtungshinweise: usb/setup-tipps.md    
     - Erweiterte Funktionen: 
@@ -113,10 +114,11 @@ nav:
     - Firmware aktualisieren: usb/firmware-upgrade.md
     - Internetzugang: usb/internet.md
     - Problembehandlung:
-        - DxDiag-Bericht erstellen: usb/dxdiag.md  
-        - Logdatei herunterladen: usb/logfile.md  
+        - DxDiag-Bericht erstellen: usb/dxdiag.md
         - Einstellungen zurücksetzen: usb/reset.md
         - Firmware neu installieren: usb/firmware-reinstall.md
+        - Logdatei herunterladen: usb/logfile.md
+        - Projizieren auf diesen PC: usb/project2PC.md
     - Pairing des Senders: usb/pairing.md
 - Lite:
     - Überblick: lite/intro.md
@@ -131,6 +133,7 @@ nav:
     - Anleitungen nach<br>Streamingprotokoll:
         - "Anleitung: AirPlay": lite/airplay.md     
         - "Anleitung: Chromecast": lite/chromecast.md
+        - "Anleitung: Miracast": lite/miracast.md
     - CMS (Central Management System): lite/cms.md    
     - Einrichtungshinweise: lite/setup-tipps.md
     - Erweiterte Funktionen:
@@ -145,10 +148,11 @@ nav:
     - Firmware aktualisieren: lite/firmware-upgrade.md
     - Internetzugang: lite/internet.md
     - Problembehandlung:
-        - DxDiag-Bericht erstellen: lite/dxdiag.md  
-        - Logdatei herunterladen: lite/logfile.md  
+        - DxDiag-Bericht erstellen: lite/dxdiag.md
         - Einstellungen zurücksetzen: lite/reset.md
         - Firmware neu installieren: lite/firmware-reinstall.md
+        - Logdatei herunterladen: lite/logfile.md
+        - Projizieren auf diesen PC: lite/project2PC.md
     - Pairing des Senders: lite/pairing.md    
 - Mini: 
     - Überblick: mini/intro.md
@@ -163,6 +167,7 @@ nav:
     - Anleitungen nach<br>Streamingprotokoll:
         - "Anleitung: AirPlay": mini/airplay.md     
         - "Anleitung: Chromecast": mini/chromecast.md
+        - "Anleitung: Miracast": mini/miracast.md
     - CMS (Central Management System): mini/cms.md        
     - Einrichtungshinweise: mini/setup-tipps.md
     - Erweiterte Funktionen:
@@ -180,10 +185,11 @@ nav:
     - Firmware aktualisieren: mini/firmware-upgrade.md
     - Internetzugang: mini/internet.md
     - Problembehandlung:
-        - DxDiag-Bericht erstellen: mini/dxdiag.md  
-        - Logdatei herunterladen: mini/logfile.md    
+        - DxDiag-Bericht erstellen: mini/dxdiag.md
         - Einstellungen zurücksetzen: mini/reset.md
         - Firmware neu installieren: mini/firmware-reinstall.md
+        - Logdatei herunterladen: mini/logfile.md
+        - Projizieren auf diesen PC: mini/project2PC.md
     - Pairing des Senders: mini/pairing.md
 - Standard: 
     - Überblick: standard/intro.md
@@ -198,6 +204,7 @@ nav:
     - Anleitungen nach<br>Streamingprotokoll:
         - "Anleitung: AirPlay": standard/airplay.md     
         - "Anleitung: Chromecast": standard/chromecast.md
+        - "Anleitung: Miracast": standard/miracast.md
     - CMS (Central Management System): standard/cms.md
     - Einrichtungshinweise: standard/setup-tipps.md
     - Erweiterte Funktionen:
@@ -215,10 +222,11 @@ nav:
     - Firmware aktualisieren: standard/firmware-upgrade.md
     - Internetzugang: standard/internet.md
     - Problembehandlung: 
-        - DxDiag-Bericht erstellen: standard/dxdiag.md  
-        - Logdatei herunterladen: standard/logfile.md
+        - DxDiag-Bericht erstellen: standard/dxdiag.md
         - Einstellungen zurücksetzen: standard/reset.md
         - Firmware neu installieren: standard/firmware-reinstall.md
+        - Logdatei herunterladen: standard/logfile.md
+        - Projizieren auf diesen PC: standard/project2PC.md
     - Pairing des Senders: standard/pairing.md
 - Deluxe:
     - Überblick: deluxe/intro.md
@@ -233,6 +241,7 @@ nav:
     - Anleitungen nach<br>Streamingprotokoll:
         - "Anleitung: AirPlay": deluxe/airplay.md     
         - "Anleitung: Chromecast": deluxe/chromecast.md
+        - "Anleitung: Miracast": deluxe/miracast.md
     - CMS (Central Management System): deluxe/cms.md    
     - Einrichtungshinweise: deluxe/setup-tipps.md
     - Erweiterte Funktionen:
@@ -250,10 +259,11 @@ nav:
     - Firmware aktualisieren: deluxe/firmware-upgrade.md
     - Internetzugang: deluxe/internet.md
     - Problembehandlung: 
-        - DxDiag-Bericht erstellen: deluxe/dxdiag.md  
-        - Logdatei herunterladen: deluxe/logfile.md
-        - Einstellungen zurücksetzen: deluxe/reset.md
+        - DxDiag-Bericht erstellen: deluxe/dxdiag.md 
+        - Einstellungen zurücksetzen: deluxe/reset.md        
         - Firmware neu installieren: deluxe/firmware-reinstall.md
+        - Logdatei herunterladen: deluxe/logfile.md
+        - Projizieren auf diesen PC: deluxe/project2PC.md
     - Pairing des Senders: deluxe/pairing.md
 - CMS: 
     - Einführung: cms.md    

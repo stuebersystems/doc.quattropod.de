@@ -175,6 +175,18 @@ AirView ein- oder ausschalten. Eine umfassende Anleitung zur Verwendung von AirV
 
 ![](/assets/img/AirView.png)
 
+### AirPlay {#AirPlay}
+
+Mit einem iOS/macOS Gerät können Sie Ihren Bildschirminhalt auch direkt per Apple AirPlay übertragen. Das bedeutet, Sie benötigen in diesem Fall keinen QuattroPod-Sender.
+
+![](/assets/img/AirPlay.png)
+
+### Miracast {#Miracast}
+
+Die Übertragung von Miracast-Geräten unterstützen. Eine umfassende Anleitung zur Verwendung von Miracast finden Sie [hier](miracast.md).
+
+![](/assets/img/Miracast.png)
+
 ### Admin-Kennwort {#AdminKennwort}
 
 Das Admin-Kennwort des Empfängers ändern.
