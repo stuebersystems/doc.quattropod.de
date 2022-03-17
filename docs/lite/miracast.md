@@ -8,10 +8,6 @@ Aktivieren Sie die Funktion `Miracast Support` unter `Admineinstellungen` über 
 
 ![](/assets/img/Miracast.png)
 
-Nach dem Neustart wird der Gerätename bzw. die auf der Startseite angezeige SSID mit dem Präfix `DIRECT-` ergänzt. Dies ist erforderlich, um das Miracast-Protokoll sowie die Hardware-Sender gemeinsam zu unterstützen:
-
-![](/assets/img/direct_prefix.png)
-
 ## Miracast auf Windows
 
 Um Miracast mit dem QuattroPod zu verbinden, stellen Sie sicher, dass der Empfänger eingeschalten ist und die Startseite auf dem Bildschirm angezeigt ist.
