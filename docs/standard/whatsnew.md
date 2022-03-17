@@ -13,7 +13,7 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des Quattr
 **Neue Funktionen:**
 
 * Unterstützung der Auslösung 1920x1200
-* Unterstützung von [zwei Hintergrundbildern](#Mein-Bildschirm)
+* Unterstützung von [zwei Hintergrundbildern](adv.settings.md#Mein-Bildschirm)
 
 **Fixes:**
 

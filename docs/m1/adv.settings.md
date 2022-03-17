@@ -104,8 +104,8 @@ Um die Leistung des QuattroPods zu optimieren, insbesondere bei Geräten, die da
 
 * Der QuattroPod war war 2/4/8 Stunden nicht im Betrieb. 
 * Alle Sender sind mind. 2/4/8 Stunden ausgeschaltet.
-* Weder AirPlay noch die Android App wurden seit 8 Stunden verwendet.
-* Die Web-Oberfläche der Einstellungen wurde 8 Stunden nicht verwendet.
+* Weder AirPlay noch die Android App wurden seit 2/4/8 Stunden verwendet.
+* Die Web-Oberfläche der Einstellungen wurde 2/4/8 Stunden nicht verwendet.
 
 ![Zeitgesteuerter Neustart einschalten](/assets/img/timed.restart.png)
 
