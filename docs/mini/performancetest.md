@@ -43,7 +43,7 @@ Damit der Windows-PC während des Test nicht in den Energiesparmodus wechselt, l
 
 ![](/assets/img/mediaplayer.repeat.png)
 
-* Das Video wird wiederholt abgespielt und auf das große Display übertragen:
+* Das Video wird wiederholt abgespielt:
 
 ![](/assets/img/video.playing.png)
 
