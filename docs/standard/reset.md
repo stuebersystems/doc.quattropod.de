@@ -77,15 +77,19 @@ Firmware-Version: [1.14366.90](whatsnew.md#20220302-11436690)
 **Gerätemanagement**
 
 * [Sprache](adv.settings.md#Sprache): `DEUTSCH`
-* [Android Audioübertragung](adv.settings.md#Androidsoundstreaming): `EIN`
 * [Zeitgesteuerter Neustart](adv.settings.md#timedrestart): `2 Stunden`
 
 **Admineinstellungen**
 
 * [WLAN-Modus](adv.settings.md#WiFi-Mode): `Land = EUROPE`, `Kanal = Auto`, `Bandbreite = 20MHz`
-* [Zentrales Managementsystem](adv.settings.md#AirView): `EIN`
-* [Mein Bildschirm](adv.settings.md#Mein-Bildschirm): unsere [Startseite](https://download.stueber.de/doc/de/quattropod/QuattroPod_StartseiteDE.png) in der deutschen Sprache
-* [AirPlay](adv.settings.md#AirPlay): `EIN`
+* [AirView](adv.settings.md#AirView): `EIN`
+* [Miracast Support](miracast.md): `EIN`
+* [Miracast PIN](miracast.md): `EIN`
 * [Castcode](adv.settings.md#castcode): `Zufällig`
-* [Google Cast](adv.settings.md#google-cast): `EIN`
+* [Mein Bildschirm](adv.settings.md#Mein-Bildschirm): Unsere Hintergrundbilder in der deutschen Sprache:
 
+Hintergrundbild | Herunterladen |
+------------------------- | ------------ |
+QuattroPod Standard | [Herunterladen](https://download.stueber.de/doc/de/quattropod/QuattroPod.Standard_Startseite.DE.png)
+QuattroPod USB | [Herunterladen](https://download.stueber.de/doc/de/quattropod/QuattroPod.USB_Startseite.DE.png)
+QuattroPod Lite | [Herunterladen](https://download.stueber.de/doc/de/quattropod/QuattroPod.Lite_Startseite.DE.png)
