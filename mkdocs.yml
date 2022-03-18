@@ -117,6 +117,7 @@ nav:
         - DxDiag-Bericht erstellen: usb/dxdiag.md
         - Einstellungen zurücksetzen: usb/reset.md
         - Firmware neu installieren: usb/firmware-reinstall.md
+        - Leistungstest durchführen: usb/performancetest.md
         - Logdatei herunterladen: usb/logfile.md
         - Projizieren auf diesen PC: usb/project2PC.md
     - Pairing des Senders: usb/pairing.md
@@ -151,6 +152,7 @@ nav:
         - DxDiag-Bericht erstellen: lite/dxdiag.md
         - Einstellungen zurücksetzen: lite/reset.md
         - Firmware neu installieren: lite/firmware-reinstall.md
+        - Leistungstest durchführen: lite/performancetest.md
         - Logdatei herunterladen: lite/logfile.md
         - Projizieren auf diesen PC: lite/project2PC.md
     - Pairing des Senders: lite/pairing.md    
@@ -188,6 +190,7 @@ nav:
         - DxDiag-Bericht erstellen: mini/dxdiag.md
         - Einstellungen zurücksetzen: mini/reset.md
         - Firmware neu installieren: mini/firmware-reinstall.md
+        - Leistungstest durchführen: mini/performancetest.md
         - Logdatei herunterladen: mini/logfile.md
         - Projizieren auf diesen PC: mini/project2PC.md
     - Pairing des Senders: mini/pairing.md
@@ -225,6 +228,7 @@ nav:
         - DxDiag-Bericht erstellen: standard/dxdiag.md
         - Einstellungen zurücksetzen: standard/reset.md
         - Firmware neu installieren: standard/firmware-reinstall.md
+        - Leistungstest durchführen: standard/performancetest.md
         - Logdatei herunterladen: standard/logfile.md
         - Projizieren auf diesen PC: standard/project2PC.md
     - Pairing des Senders: standard/pairing.md
@@ -262,6 +266,7 @@ nav:
         - DxDiag-Bericht erstellen: deluxe/dxdiag.md 
         - Einstellungen zurücksetzen: deluxe/reset.md        
         - Firmware neu installieren: deluxe/firmware-reinstall.md
+        - Leistungstest durchführen: deluxe/performancetest.md
         - Logdatei herunterladen: deluxe/logfile.md
         - Projizieren auf diesen PC: deluxe/project2PC.md
     - Pairing des Senders: deluxe/pairing.md
