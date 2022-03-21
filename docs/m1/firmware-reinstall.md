@@ -95,15 +95,16 @@ Am Ende der Aktualisierung wird der Status **Upgrade Success** angezeigt:
 
 Schalten Sie den Empfänger aus und wieder ein. Der Empfänger ist wieder einsatzbereit.
 
-#### Andere Firmware installieren {#M1_install_other_fw}
+#### Andere Firmware installieren {#R01_install_other_fw}
 
 Um eine vorherige bzw. eine Betafirmware zu installieren, laden Sie eine der folgenden Dateien herunter:
 
-Firmware                       | Empfänger M1
-------------------------- | ------------
-1.9598.72 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.9598.72.gz)
-1.8529.10 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.8529.10.gz)
-1.6468.5 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.6468.5.gz)
+Firmware                  | Empfänger R01 | Bemerkung
+------------------------- | ------------ | ------------
+1.14366.90 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.14366.90.gz)
+1.14366.62 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.14366.62.gz)
+1.12412.47 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.12412.47.gz)
+1.12412.42 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.12412.42.gz)
 
 * Im Ordner `QuattroPod.R01.Repair.Tool` führen Sie die Datei **Update_for_localfile.exe** aus.
 
@@ -117,7 +118,7 @@ Das folgende Fenster erscheint. Wenn der QuattroPod im Update-Modus ist, wird im
 
 * Um die Installation der Firmware zu starten, wählen Sie `Upgrade`.
 
-![Wählen Sie Upgrade, um die Installation zu starten](/assets/img/EZCastUpdate.Upgrade.jpg)
+![Wählen Sie Upgrade, um die Installation zu starten](/assets/img/EZCastUpdate.localfile.Upgrade.jpg)
 
 Die Firmware wird installiert.
 
@@ -195,11 +196,12 @@ Sie können nun den Sender vom Computer trennen und die Software schließen.
 
 Um eine vorherige bzw. eine Betafirmware zu installieren, laden Sie eine der folgenden Dateien herunter:
 
-Firmware                  | Sender M01
+Firmware                  | Sender T01
 ------------------------- | ------------
-1.9598.72 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/T01/T01_1.9598.72.gz)
-1.8529.10 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/T01/T01_1.8529.10.gz)
-1.6468.5 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/T01/T01_1.6468.5.gz)
+1.14366.87 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/T01/T01_1.14366.87.gz)
+1.14366.62 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/T01/T01_1.14366.62.gz)
+1.12412.47 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/T01/T01_1.12412.47.gz)
+1.12412.42 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/T01/T01_1.12412.42.gz)
 
 * Im Ordner `QuattroPod.T01.Repair.Tool` führen Sie die Datei **Update_for_localfile.exe** aus.
 
@@ -231,31 +233,9 @@ Sie können nun den Sender vom Computer trennen und die Software schließen.
 
 ## Firmware mit dem CMS installieren
 
-Mit dem CMS (Central Management System) kann man nicht nur die aktuelle Firmware vom Internet auf mehreren EZCast Pro II Geräten bzw. QuattroPod installieren, sondern auch eine vorherige Version bzw. eine Beta-Firmware.
-
-* Laden Sie eine Firmware von der obigen Tabelle [andere Firmware](#R01_install_other_fw) herunter.
-
-* Wählen Sie die gewünschten Geräte aus, anschließend klicken Sie auf die Schaltfläche `Remote` -> und die Funktion `Device Firmware upgrade`.
-
-![Die Firmware wird installiert](/assets/img/CMS-firmware.upgrade1.png)
-
-* Unter der Registerkarte `FILE`, wählen die Schaltfläche `File` und wählen Sie die Firmwaredatei aus, die Sie im ersten Schritt heruntergeladen haben.
-
-![Die Firmware wird installiert](/assets/img/CMS-firmware.upgrade2.png)
-
-Die neue Firmware wird heruntergeladen und automatisch installiert. 
-
-!!! warning "Achtung"
-    
-	Unterbrechen Sie während des Updates nicht die Stromversorgung.
-
-![](/assets/img/ProIIStick_Firmware_installing.png)
-
-## Firmware mit dem CMS installieren
-
 Mit dem CMS ([Central Management System](cms.md)) kann man nicht nur die aktuelle Firmware vom Internet auf mehreren EZCast Pro II Geräten bzw. QuattroPod installieren, sondern auch eine vorherige Version bzw. eine Beta-Firmware.
 
-* Laden Sie eine Firmware von der obigen Tabelle [andere Firmware](#R01_install_other_fw) herunter.
+* Laden Sie eine Firmware für den [Empfänger](#R01_install_other_fw) oder für den [Sender](#T01_install_other_fw) herunter.
 
 * Wählen Sie die gewünschten Geräte aus, anschließend klicken Sie auf die Schaltfläche `Remote` -> und die Funktion `Device Firmware upgrade`.
 

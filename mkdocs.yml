@@ -270,5 +270,42 @@ nav:
         - Logdatei herunterladen: deluxe/logfile.md
         - Projizieren auf diesen PC: deluxe/project2PC.md
     - Pairing des Senders: deluxe/pairing.md
+- M1: 
+    - Überblick: m1/intro.md
+    - Schnellstartanleitung: m1/quickstart.md
+    - Was ist neu?: m1/whatsnew.md
+    - Anleitungen nach<br>Betriebssystem:
+        - "Anleitung: Android": m1/quickstart/#android
+        - "Anleitung: iOS": m1/quickstart/#ios
+        - "Anleitung: macOS": m1/quickstart/#windows-macos-linux
+        - "Anleitung: Linux": m1/linux.md
+        - "Anleitung: Windows": m1/quickstart/#windows-macos-linux
+    - Anleitungen nach<br>Streamingprotokoll:
+        - "Anleitung: AirPlay": m1/airplay.md     
+        - "Anleitung: Chromecast": m1/chromecast.md
+    - CMS (Central Management System): m1/cms.md    
+    - Einrichtungshinweise: m1/setup-tipps.md
+    - Erweiterte Funktionen:
+        - AirView: m1/airview.md
+        - Captive Portal: m1/captiveportal.md    
+        - Dynamisches Hintergrundbild: m1/dynamicwallpaper.md
+        - Erweiterte Einstellungen: m1/adv.settings.md
+        - Festgelegter Host: m1/fixedhost.md
+        - Konferenzsteuerung: m1/conference-control.md
+        - Monitor-Modus: m1/monitor-setup.md
+        - Multicast: m1/multicast.md
+        - Remote-Verwaltung: m1/remote-management.md
+        - Sender bedienen: m1/TX-controls.md
+        - Touch-Back-Funktion: m1/touchback.md
+    - Firmware aktualisieren: m1/firmware-upgrade.md
+    - Internetzugang: m1/internet.md
+    - Problembehandlung: 
+        - DxDiag-Bericht erstellen: m1/dxdiag.md 
+        - Einstellungen zurücksetzen: m1/reset.md        
+        - Firmware neu installieren: m1/firmware-reinstall.md
+        - Leistungstest durchführen: m1/performancetest.md
+        - Logdatei herunterladen: m1/logfile.md
+        - Projizieren auf diesen PC: m1/project2PC.md
+    - Pairing des Senders: m1/pairing.md    
 - CMS: 
-    - Einführung: cms.md    
+    - Einführung: cms.md

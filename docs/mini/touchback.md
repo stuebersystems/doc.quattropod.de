@@ -41,7 +41,7 @@ Wenn auf einen anderen Teilnehmer gewechselt wird, steht ihm auch die Touch-Back
 
 * Schalten Sie den Sender auf `PC` um. Schließen Sie den Sender an einen der USB-Ports Ihres Windows-Computers an. Schließen Sie anschließend das mitgelieferte HDMI- oder DisplayPort-Kabel an.
 
-![Sender auf PC umschalten](/assets/img/quattropod.mini.tx.pc.jpg)
+![Sender auf PC umschalten](/assets/img/quattropod.mini.tx.pc.png)
 
 * Wenn der Empfänger und der Sender richtig angeschlossen sind, wird die Startseite auf dem Bildschirm angezeigt und die große Taste auf dem Sender leuchtet rot. Wenn Ihr Sender noch nicht freigeschaltet ist, [überprüfen Sie den Empfänger](quickstart.md#setup) und [koppeln](pairing.md) Sie den Sender mit dem Empfänger neu.
 

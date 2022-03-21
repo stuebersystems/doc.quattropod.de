@@ -24,7 +24,6 @@ Dies wird mit **"Pairing OK"** auf der Startseite bestätigt.
 
 * Der Sender kann nun mit diesem Empfänger benutzt werden.
 
-![Sender auf Mobile umschalten](/assets/img/Pairing6.jpg)
 
 
 

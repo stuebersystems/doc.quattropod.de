@@ -54,7 +54,7 @@ und kopieren Sie die Datei auf einen USB-Stick. Sie müssen keine anderen Dateie
 
 * Bevor Sie den Empfänger an der Decke montieren oder auch wenn der Empfänger leicht erreichbar ist, können Sie einen USB-Stick in den USB-Anschluss des Empfängers einstecken und den Kopplungsknopf auf der Oberseite des Empfängers drücken. Nach ein Paar Sekunden ist die Kopplungsdatei auf den USB-Stick kopiert und der Kopplungsknopf des Empfängers leuchtet weiß. Diese Datei können Sie in Ihrem Netzwerk bzw. auf dem USB-Stick aufbewahren, bis eine Kopplung benötigt wird.
 
-![Kopplungsdatei vom Empfänger auf USB-Stick kopieren](/assets/img/Pairing9.jpg)
+![Kopplungsdatei vom Empfänger auf USB-Stick kopieren](/assets/img/Pairing9.png)
 
 ### USB-Stick an den Sender anschließen
 
