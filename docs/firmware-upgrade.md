@@ -37,3 +37,10 @@ Wählen Sie Ihr Gerät aus, um zu erfahren, wie Sie Ihr Gerät auf den neuesten 
 		<p><a href="/deluxe/firmware-upgrade">Updates für den QuattroPod Deluxe</a></p>
 	</div>
 </div>
+<div class="md-showcase">
+	<img src="/assets/img/quattropod.m1.png" alt="Abbildung: QuattroPod M1">
+	<div>
+		<img src="/assets/img/quattropod-m1.black.logo.png" alt="Logo: QuattroPod M1">
+		<p><a href="/m1/firmware-upgrade">Updates für den QuattroPod M1</a></p>
+	</div>
+</div>
