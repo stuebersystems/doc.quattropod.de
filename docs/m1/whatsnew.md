@@ -10,6 +10,20 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des Quattr
 
 ### 2021.11.03 | 1.12412.51
 
+## Sender U01 Type-A
+
+### 2021.07.13 | 19424000
+
+* Behobene Systemfehler und Verbesserte Stabilität
+
+### 2021.07.12 | 19420000
+
+* Behobene Systemfehler und Verbesserte Stabilität
+
+### 2021.06.25 | 19415000
+
+* Optimized CPU resource by adding Dynamic CPU Detection
+
 ## Sender U01 Type-C
 
 ### 2021.11.03 | 1.12412.47
