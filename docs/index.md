@@ -44,7 +44,14 @@ Die QuattroPod Serie gibt es in einer Reihe von verschiedenen Modellen:
 		<p><a href="deluxe/intro">Zum QuattroPod Deluxe</a></p>
 	</div>
 </div>
-
+<div class="md-showcase">
+	<img src="assets/img/quattropod.m1.png" alt="Abbildung: QuattroPod M1">
+	<div>
+		<img src="assets/img/quattropod-m1.black.logo.png" alt="Logo: QuattroPod M1">
+		<p>Das QuattroPod M1 Paket bietet die gesamte Funktionalität von QuattroPod Standard/Deluxe im neuesten kleinen Formfaktor - Intel® Smart Display Module (Intel® SDM-S). Das Design verzichtet auf ein Gehäuse, damit das Modul vollständig in das schlankste All-in-One-Display-Design integriert werden kann.</p>
+		<p><a href="m1/intro">Zum QuattroPod M1</a></p>
+	</div>
+</div>
 
 Eine Entscheidungshilfe:
 

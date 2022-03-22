@@ -10,7 +10,7 @@ Für den QuattroPod wird eine Internet-Verbindung in folgenden Fällen benötigt
 
 * Sie möchten per Fernzugriff auf die Funktion [Erweiterte Einstellungen](adv.settings.md) zugreifen, um den QuattroPod zu verwalten.
   
-* Integriertes Netzwerk: Wenn alle Ihre Endgeräte und QuattroPod-Geräte im gleichen Netzwerk sind, entfällt die Notwendigkeit, jedes Mal zur SSID des QuattroPods zu wechseln, wenn Sie Ihren Bildschirm in einen anderen Raum übertragen möchten.
+* Integriertes Netzwerk: Wenn alle Ihre Endgeräte und QuattroPod-Geräte im gleichen Netzwerk sind, entfällt die Notwendigkeit, jedes Mal zur SSID des QuattroPods zu wechseln, um ein Mobilgerät in unterschiedlichen Räumen zu übertragen.
 
 ## QuattroPod mit LAN verbinden
 

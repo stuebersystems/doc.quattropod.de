@@ -26,7 +26,7 @@ Die folgende Startseite erscheint auf Ihrem Bildschirm:
 
 ## Bildschirmübertragung mit Sender {#Sender}
 
-Für eine ausführliche Anleitung, wie Sie Ihren Bildschirm über einen Sender zum QuattroPod M1 übertragen, schauen Sie sich die Online-Dokumentation für Ihren Sender an.
+Wie Sie Ihrem Bildschirm über einen Sender zum QuattroPod M1 übertragen, können Sie der ausführlichen Dokumentation für Ihren Sender entnehmen.
 
 ## Bildschirmübertragung ohne Sender
 
