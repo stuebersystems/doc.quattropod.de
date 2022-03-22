@@ -35,7 +35,7 @@ Wenn auf einen anderen Teilnehmer gewechselt wird, steht ihm auch die Touch-Back
 
 * Schließen Sie den Sender an einen der USB-Ports Ihres Windows-Computers an. Schließen Sie anschließend das mitgelieferte HDMI-Kabel an.
 
-![Sender auf PC umschalten](/assets/img/Pairing1.jpg)
+![Sender auf PC umschalten](/assets/img/Pairing1.png)
 
 * Die Bildschirmübertragung erfolgt automatisch. Wenn Ihr Sender noch nicht freigeschaltet ist, [überprüfen Sie den Empfänger](quickstart.md#setup) und [koppeln](pairing.md) Sie den Sender mit dem Empfänger neu.
 

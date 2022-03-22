@@ -8,11 +8,11 @@ Der Sender wird an den USB-Anschluss des Empfänger anschlossen und die Geräte 
 
 * Schalten Sie den Sender auf `PC` um. 
 
-![Sender auf PC umschalten](/assets/img/Pairing1.jpg)
+![Sender auf PC umschalten](/assets/img/Pairing1.png)
 
 * Schließen Sie den Sender an den USB-Anschluss des Empfängers an und schalten Sie den Empfänger ein.
 
-![](/assets/img/Pairing2.jpg)
+![](/assets/img/Pairing2.png)
 
 Die Meldung **"Pairing..."** erscheint automatisch auf der Startseite des QuattroPods.
 
@@ -20,11 +20,11 @@ Die Meldung **"Pairing..."** erscheint automatisch auf der Startseite des Quattr
 
 Während des Koppelns blinkt der Sender rot und der Empfänger blinkt weiß.
 
-![Sender blinkt rot](/assets/img/Pairing4.jpg)
+![Sender blinkt rot](/assets/img/Pairing4.png)
 
 Nach ein paar Sekunden ist der Sender mit dem QuattroPod gekoppelt. Der Empfänger und der Sender leuchten weiß. 
 
-![Koppeln abgeschlossen. Sender leuchtet weiß](/assets/img/Transmitter_white.jpg)
+![Koppeln abgeschlossen. Sender leuchtet weiß](/assets/img/Transmitter_white.png)
 
 Dies wird mit **"Pairing OK"** auf der Startseite bestätigt.
 
@@ -32,7 +32,7 @@ Dies wird mit **"Pairing OK"** auf der Startseite bestätigt.
 
 * Der Sender kann nun mit entsprechenden Empfänger benutzt werden. Schalten Sie zum Schluss den Sender auf den gewünschten Modus um: `Mobile` = Smartgeräte, `PC` = Windows/macOS und schließen Sie den Sender mit Ihrem gewünschten Endgerät an.
 
-![Sender auf Mobile umschalten](/assets/img/Pairing6.jpg)
+![Sender auf Mobile umschalten](/assets/img/Pairing6.png)
 
 
 ## Sender per USB-Stick koppeln
@@ -64,15 +64,15 @@ und kopieren Sie die Datei auf einen USB-Stick. Sie müssen keine anderen Dateie
 	 
 * Um die Kopplung per USB-Stick zu beginnen, schalten Sie den Sender auf `Mobile` um.
 
-![Sender auf Mobile umschalten](/assets/img/Pairing6.jpg)
+![Sender auf Mobile umschalten](/assets/img/Pairing6.png)
 
 * Schließen Sie das USB-Kabel des Senders mit einer USB-Stromversorgung (5V1A) an und stecken Sie den USB-Stick in den USB-Anschluss des Senders ein. Die Kopplung beginnt automatisch. Der Sender blinkt rot, weiß, und grün mehrfach in Folge während des Koppelns. Nach ca. 30 Sekunden ist der Sender mit dem QuattroPod-Empfänger gekoppelt. Wenn díe Kopplung fertig ist, leuchtet  der Sender weiß.
 
-![Kopplung abgeschlossen. Sender leuchtet weiß](/assets/img/Pairing10.jpg)
+![Kopplung abgeschlossen. Sender leuchtet weiß](/assets/img/Pairing10.png)
 
 * Der Sender kann nun mit dem entsprechenden Empfänger benutzt werden. Schalten Sie zum Schluss den Sender auf den gewünschten Modus um: `Mobile` = Smartgeräte, `PC` = Windows/macOS und schließen Sie den Sender mit Ihrem gewünschten Endgerät an.
 
-![Sender ist jetzt betriebsbereit](/assets/img/Pairing6.jpg)
+![Sender ist jetzt betriebsbereit](/assets/img/Pairing6.png)
 
 
 

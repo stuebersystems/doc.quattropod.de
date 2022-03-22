@@ -89,7 +89,7 @@ Der Sender blinkt rot, weiß, und grün mehrfach in Folge während des Koppelns.
 
 ![Kopplung abgeschlossen. Sender leuchtet weiß](/assets/img/quattropod.mini.usb.paired.png)
 
-Der Sender kann nun mit entsprechenden Empfänger benutzt werden. Schalten Sie zum Schluss den Sender auf den gewünschten Modus um und schließen Sie den Sender an das gewünschte Endgerät an: 
+Der Sender kann nun mit dem Empfänger benutzt werden. Schalten Sie zum Schluss den Sender auf den gewünschten Modus um und schließen Sie den Sender an das gewünschte Endgerät an: 
 
 * `Mobile` = Smartgeräte
 
