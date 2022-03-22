@@ -26,7 +26,34 @@ Die folgende Startseite erscheint auf Ihrem Bildschirm:
 
 ![QuattroPod Mini Startseite](/assets/img/quattropod.landingpage.png)
 
-## Bildschirmübertragung mit Sender {#Sender}
+## Bildschirmübertragung mit Sender {#transmitter}
+
+### Windows / macOS / Linux
+
+!!! tip "Hinweis"
+
+     Der Sender ermöglicht ein einfaches Spiegeln Ihres Bildschirms. Wenn Sie Ihre Inhalte jedoch lieber ohne einen Sender spiegeln möchten, können Sie ein [Streamingprotokoll](#a-streamingprotokollen) verwenden.
+	 
+* Schließen Sie den Sender an einen der USB-Ports Ihres Rechners an. Schließen Sie anschließend das mitgelieferte HDMI-Kabel an. Die Bildschirmübertragung erfolgt automatisch.
+
+![Windows / macOS](/assets/img/QSG-Mini.Windows.png)
+
+
+!!! info "Sender an Notebooks mit USB-C anschließen"
+
+    ![USB C Digital AV Multiport Adapter][3]{: align=left }
+	
+	Bei MacBooks bzw. Notebooks, die sich nur über einen USB-C-Anschluss verfügen, ist es dennoch möglich den Sender mit Hilfe eines Multiport Adapters von [Apple](https://www.amazon.de/dp/B00VUKM322/ref=cm_sw_em_r_mt_dp_BVRENJDNW5P2AVABV2VD ) oder [Satechi](https://www.amazon.de/dp/B01J4BO0X8/ref=cm_sw_em_r_mt_dp_5CK2Q5Q6W2VZCBJYEEEB?_encoding=UTF8&psc=1) anzuschließen. 
+
+  [3]: /assets/img/thumbnail.USB-C_Multiport-Adapter.png
+
+Wenn der Empfänger und der Sender richtig angeschlossen sind, wird die Startseite auf dem Bildschirm angezeigt und die große Taste auf dem Sender leuchtet rot. Wenn Ihr Sender noch nicht freigeschaltet ist, [überprüfen Sie den Empfänger](quickstart.md#setup) und [koppeln](pairing.md) Sie den Sender mit dem Empfänger neu.
+
+![iOS verbinden](/assets/img/NEC_E506_QuattroPod_Startseite.png)
+
+* Um Ihren Bildschirm zu übertragen, drücken Sie einfach die rote Haupttaste.
+
+![Haupttaste drücken und Inhalte zeigen](/assets/img/QSG-Mini.Transmitter.png)
 
 ### Android
 
@@ -98,33 +125,6 @@ Wenn der Empfänger und der Sender richtig angeschlossen sind, wird die Startsei
 
 ![Haupttaste drücken und Inhalte zeigen](/assets/img/QSG-Mini.Transmitter.png)
 
-### Windows / macOS / Linux
-
-!!! tip "Hinweis"
-
-     Der Sender ermöglicht ein einfaches Spiegeln Ihres Bildschirms. Wenn Sie Ihre Inhalte jedoch lieber ohne einen Sender spiegeln möchten, können Sie ein [Streamingprotokoll](#a-streamingprotokollen) verwenden.
-	 
-* Schließen Sie den Sender an einen der USB-Ports Ihres Rechners an. Schließen Sie anschließend das mitgelieferte HDMI-Kabel an. Die Bildschirmübertragung erfolgt automatisch.
-
-![Windows / macOS](/assets/img/QSG-Mini.Windows.png)
-
-
-!!! info "Sender an Notebooks mit USB-C anschließen"
-
-    ![USB C Digital AV Multiport Adapter][3]{: align=left }
-	
-	Bei MacBooks bzw. Notebooks, die sich nur über einen USB-C-Anschluss verfügen, ist es dennoch möglich den Sender mit Hilfe eines Multiport Adapters von [Apple](https://www.amazon.de/dp/B00VUKM322/ref=cm_sw_em_r_mt_dp_BVRENJDNW5P2AVABV2VD ) oder [Satechi](https://www.amazon.de/dp/B01J4BO0X8/ref=cm_sw_em_r_mt_dp_5CK2Q5Q6W2VZCBJYEEEB?_encoding=UTF8&psc=1) anzuschließen. 
-
-  [3]: /assets/img/thumbnail.USB-C_Multiport-Adapter.png
-
-Wenn der Empfänger und der Sender richtig angeschlossen sind, wird die Startseite auf dem Bildschirm angezeigt und die große Taste auf dem Sender leuchtet rot. Wenn Ihr Sender noch nicht freigeschaltet ist, [überprüfen Sie den Empfänger](quickstart.md#setup) und [koppeln](pairing.md) Sie den Sender mit dem Empfänger neu.
-
-![iOS verbinden](/assets/img/NEC_E506_QuattroPod_Startseite.png)
-
-* Um Ihren Bildschirm zu übertragen, drücken Sie einfach die rote Haupttaste.
-
-![Haupttaste drücken und Inhalte zeigen](/assets/img/QSG-Mini.Transmitter.png)
-
 ## Bildschirmübertragung ohne Sender
 
 Mit QuattroPod stehen Ihnen zwei Möglichkeiten ohne den Sender zur Verfügung:
@@ -140,6 +140,8 @@ Unterstützt werden alle gängigen Streamingprotokollen. Umfassende Anleitungen 
 * [AirPlay](airplay.md) unter iOS und macOS.
 
 * [Google Cast](chromecast.md) unter Google Chrome OS, Windows, Android und Linux.
+
+* [Miracast](miracast.md) unter Windows und Android.
 
 ### b) Die QuattroPod App unter Android
 

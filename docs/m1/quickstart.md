@@ -24,9 +24,40 @@ Die folgende Startseite erscheint auf Ihrem Bildschirm:
 ![QuattroPod M1 Startseite](/assets/img/quattropod.landingpage.png)
 
 
-## Bildschirmübertragung mit Sender {#Sender}
+## Bildschirmübertragung mit Sender {#transmitter}
 
-Wie Sie Ihrem Bildschirm über einen Sender zum QuattroPod M1 übertragen, können Sie der ausführlichen Dokumentation für Ihren Sender entnehmen.
+Wie Sie Ihrem Bildschirn über einen Sender zum QuattroPod M1 übertragen, können Sie der ausführlichen Dokumentation für Ihren Sender entnehmen.
+
+
+<div class="md-showcase">
+	<img src="/assets/img/quattropod.usb.png" alt="Abbildung: QuattroPod USB"></a>
+	<div>
+		<img src="/assets/img/quattropod-usb.black.logo.png" alt="Logo: QuattroPod USB">
+		<p><a href="/usb/quickstart/#transmitter">Bildschirmübertragung mit dem QuattroPod USB Sender</a></p>
+	</div>
+</div>
+<div class="md-showcase">
+	<img src="/assets/img/quattropod.mini.png" alt="Abbildung: QuattroPod Mini">
+	<div>
+		<img src="/assets/img/quattropod-mini.black.logo.png" alt="Logo: QuattroPod Mini">
+		<p><a href="/mini/quickstart/#transmitter">Bildschirmübertragung mit dem QuattroPod Mini Sender</a></p>
+	</div>
+</div>
+<div class="md-showcase">
+	<img src="/assets/img/quattropod.standard.png" alt="Abbildung: QuattroPod Standard">
+	<div>
+		<img src="/assets/img/quattropod-standard.black.logo.png" alt="Logo: QuattroPod Standard">
+		<p><a href="/standard/quickstart/#transmitter">Bildschirmübertragung mit dem QuattroPod Standard Sender</a></p>
+	</div>
+</div>
+<div class="md-showcase">
+	<img src="/assets/img/quattropod.deluxe.png" alt="Abbildung: QuattroPod Deluxe">
+	<div>
+		<img src="/assets/img/quattropod-deluxe.black.logo.png" alt="Logo: QuattroPod Deluxe">
+		<p><a href="/deluxe/quickstart/#transmitter">Bildschirmübertragung mit dem QuattroPod Deluxe Sender</a></p>
+	</div>
+</div>
+
 
 ## Bildschirmübertragung ohne Sender
 

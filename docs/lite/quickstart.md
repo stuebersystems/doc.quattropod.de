@@ -26,7 +26,7 @@ Die folgende Startseite erscheint auf Ihrem Bildschirm:
 
 ![QuattroPod Lite Startseite](/assets/img/quattropod.lite.landingpage.png)
 
-## Bildschirmübertragung mit Sender {#Sender}
+## Bildschirmübertragung mit Sender {#transmitter}
 
 ### Windows / macOS / Linux
 

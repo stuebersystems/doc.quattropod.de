@@ -137,6 +137,8 @@ Unterstützt werden alle gängigen Streamingprotokollen. Umfassende Anleitungen 
 
 * [Google Cast](chromecast.md) unter Google Chrome OS, Windows, Android und Linux.
 
+* [Miracast](miracast.md) unter Windows und Android.
+
 ### b) Die QuattroPod App unter Android
 
 * Suchen Sie auf Ihrem Gerät die SSID, die auf dem Bildschirm angezeigt wird:
