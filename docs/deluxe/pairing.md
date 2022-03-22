@@ -1,28 +1,30 @@
 # Sender koppeln
 
-Der QuattroPod-Empfänger kann mit bis zu 32 Sendern gleichzeitig gekoppelt werden. Die Sender sind mit dem mitgelieferten Empfänger standardmäßig gekoppelt. Sie können jedoch zusätzliche Sender erwerben oder aber Sender mit einem anderen Empfänger benutzen. Dazu müssen die Sender mit dem entsprechenden Empfänger gekoppelt werden.
+Der QuattroPod-Empfänger kann mit bis zu 32 Sendern gleichzeitig gekoppelt werden. Die Sender sind mit dem mitgelieferten Empfänger standardmäßig gekoppelt. Sie können jedoch zusätzliche Sender erwerben bzw. Sender mit einem anderen Empfänger verwenden. Es gibt zwei Möglichkeiten, einen Sender mit einem Empfänger zu koppeln:
 
-Es gibt zwei Möglichkeiten, einen Sender mit einem Empfänger zu koppeln
+* [Sender an den Empfänger anschließen](#rx_usbport)
 
-## Sender an den Empfänger anschließen
+Der Sender wird an den USB-Anschluss des Empfänger anschlossen.
+
+* [Sender per USB-Stick koppeln](#usbstick)
+
+Eine Kopplungsdatei wird heruntergeladen und per USB-Stick auf den Sender kopiert.
+
+## Sender an den Empfänger anschließen {#rx_usbport}
 
 Der Sender wird an den USB-Anschluss des Empfänger anschlossen und die Geräte koppeln sich automatisch. Manche finden diese Option am einfachsten, wenn der Empfänger leicht zu erreichen ist. Falls der Empfänger an der Decke montiert ist oder einfach schwer zu erreichen ist, koppeln Sie den [Sender per USB-Stick](#sender-per-usb-stick-koppeln).
 
 * Schalten Sie den Sender auf `PC` um. 
 
-![Sender auf PC umschalten](/assets/img/Pairing1.png)
+![Sender auf PC umschalten](/assets/img/quattropod.standard.tx.pc.png)
 
 * Schließen Sie den Sender an den USB-Anschluss des Empfängers an und schalten Sie den Empfänger ein.
 
-![](/assets/img/Pairing2.png)
+![](/assets/img/quattropod.standard.tx.pairing.png)
 
-Die Meldung **"Pairing..."** erscheint automatisch auf der Startseite des QuattroPods.
+Die Meldung **"Pairing..."** erscheint automatisch auf der Startseite des QuattroPods. Während des Koppelns blinkt der Sender rot und der Empfänger blinkt weiß.
 
 ![Sender wird mit Empfänger gekoppelt](/assets/img/Pairing3.jpg)
-
-Während des Koppelns blinkt der Sender rot und der Empfänger blinkt weiß.
-
-![Sender blinkt rot](/assets/img/Pairing4.png)
 
 Nach ein paar Sekunden ist der Sender mit dem QuattroPod gekoppelt. Der Empfänger und der Sender leuchten weiß. 
 
@@ -32,28 +34,44 @@ Dies wird mit **"Pairing OK"** auf der Startseite bestätigt.
 
 ![Koppeln abgeschlossen](/assets/img/Pairing5.jpg)
 
-* Der Sender kann nun mit entsprechenden Empfänger benutzt werden. Schalten Sie zum Schluss den Sender auf den gewünschten Modus um: `Mobile` = Smartgeräte, `PC` = Windows/macOS und schließen Sie den Sender mit Ihrem gewünschten Endgerät an.
+Der Sender kann nun mit entsprechenden Empfänger benutzt werden. Schalten Sie zum Schluss den Sender auf den gewünschten Modus um und schließen Sie den Sender an das gewünschte Endgerät an: 
 
-![Sender auf Mobile umschalten](/assets/img/Pairing6.png)
+* `Mobile` = Smartgeräte
 
-## Sender per USB-Stick koppeln
+* `PC` = Windows/macOS
 
-### Kopplungsdatei per Web-Oberfläche herunterladen
 
-Bei manchen Anlagen, ist der Empfänger außerhalb der Reichweite und benötigt einen großen Aufwand, um zu erreichen. Sie haben aber die Möglichkeit eine Kopplungsdatei herunterzuladen und die Informationen des Empfängers per USB-Stick auf den Sender zu kopieren. Als Dateisystem des USB-Sticks können Sie FAT, FAT32, oder NTFS verwenden.
+## Sender per USB-Stick koppeln {#usbstick}
 
-* Entweder laden Sie die Kopplungsdatei `pairingInfo.json` aus dem Menüpunkt `Gerätemanagement` der [Web-Oberfläche](adv.settings.md) herunter 
+Ist der Empfänger außerhalb der Reichweite und benötigt einen großen Aufwand, um zu erreichen, können Sie eine Kopplungsdatei herunterzuladen und mit einem USB-Stick auf den Sender zu kopieren. 
+
+* Formatieren Sie den Stick `FAT32`.
+
+![](/assets/img/format.usb.png)
+
+![](/assets/img/format.fat32.png)
+
+Es gibt zwei Möglichkeiten, die Kopplungsdatei auf dem USB-Stick abzuspeichern:
+
+* [Kopplungsdatei per Web-Oberfläche herunterladen](#pairingfile_download_web)
+
+* [Kopplungsdatei per Empfänger herunterladen](#pairingfile_download_rx)
+
+### Kopplungsdatei per Web-Oberfläche herunterladen {#pairingfile_download_web}
+
+* Laden Sie die Kopplungsdatei `pairingInfo.json` aus dem Menüpunkt `Admineinstellungen` der [Web-Oberfläche](adv.settings.md) herunter: 
 
 ![Kopplungsdatei herunterladen](/assets/img/Pairing7.png)
 
-und kopieren Sie die Datei auf einen USB-Stick. Sie müssen keine anderen Dateien erst löschen.
+* Kopieren Sie anschließend die Datei auf einen USB-Stick. Sie müssen keine anderen Dateien löschen.
+
 **WICHTIG:** Die Kopplungsdatei muss unbedingt an der **Wurzel des USB-Sticks** gespeichert werden. 
 
 ![Kopplungsdatei auf einen USB-Stick kopieren](/assets/img/Pairing8.png)
 
-### Kopplungsdatei per Empfänger herunterladen
+### Kopplungsdatei per Empfänger herunterladen {#pairingfile_download_rx}
 
-* Bevor Sie den Empfänger an der Decke montieren oder auch wenn der Empfänger leicht erreichbar ist, können Sie einen USB-Stick in den USB-Anschluss des Empfängers einstecken und den Kopplungsknopf auf der Oberseite des Empfängers drücken. Nach ein Paar Sekunden ist die Kopplungsdatei auf den USB-Stick kopiert und der Kopplungsknopf des Empfängers leuchtet weiß. Diese Datei können Sie in Ihrem Netzwerk bzw. auf dem USB-Stick aufbewahren, bis eine Kopplung benötigt wird.
+* Schließen Sie den USB-Stick an den USB-Anschluss des Empfängers an und drücken Sie den Kopplungsknopf auf der Oberseite des Empfängers. Nach ein Paar Sekunden ist die Kopplungsdatei auf den USB-Stick kopiert und der Kopplungsknopf des Empfängers leuchtet weiß.
 
 ![Kopplungsdatei vom Empfänger auf USB-Stick kopieren](/assets/img/Pairing9.png)
 
@@ -65,17 +83,17 @@ und kopieren Sie die Datei auf einen USB-Stick. Sie müssen keine anderen Dateie
 
 * Um die Kopplung per USB-Stick zu beginnen, schalten Sie den Sender auf `Mobile` um.
 
-![Sender auf Mobile umschalten](/assets/img/Pairing6.png)
+![Sender auf Mobile umschalten](/assets/img/quattropod.standard.tx.mobile.png)
 
-* Schließen Sie das USB-Kabel des Senders mit einer USB-Stromversorgung (5V1A) an und stecken Sie den USB-Stick in den USB-Anschluss des Senders ein. Die Kopplung beginnt automatisch. Der Sender blinkt rot, weiß, und grün mehrfach in Folge während des Koppelns. Nach ca. 30 Sekunden ist der Sender mit dem QuattroPod-Empfänger gekoppelt. Wenn díe Kopplung fertig ist, leuchtet  der Sender weiß.
+* Schließen Sie das USB-Kabel des Senders an eine USB-Stromversorgung (5V1A) an und stecken Sie den USB-Stick in den USB-Anschluss des Senders ein. Die Kopplung beginnt automatisch. Der Sender blinkt rot, weiß, und grün mehrfach in Folge während des Koppelns. Nach ca. 30 Sekunden ist der Sender mit dem QuattroPod-Empfänger gekoppelt. Wenn díe Kopplung fertig ist, leuchtet  der Sender weiß:
 
-![Kopplung abgeschlossen. Sender leuchtet weiß](/assets/img/Pairing10.png)
+![Sender blinkt rot](/assets/img/quattropod.standard.usb.paired.png)
 
-* Der Sender kann nun mit dem entsprechenden Empfänger benutzt werden. Schalten Sie zum Schluss den Sender auf den gewünschten Modus um: `Mobile` = Smartgeräte, `PC` = Windows/macOS und schließen Sie den Sender mit Ihrem gewünschten Endgerät an.
+Der Sender kann nun mit dem Empfänger benutzt werden. Schalten Sie zum Schluss den Sender auf den gewünschten Modus um und schließen Sie den Sender an das gewünschte Endgerät an: 
 
-![Sender ist jetzt betriebsbereit](/assets/img/Pairing6.png)
+* `Mobile` = Smartgeräte
 
-
+* `PC` = Windows/macOS
 
 
 

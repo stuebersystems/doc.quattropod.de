@@ -10,19 +10,19 @@ Die Meldung **"Pairing..."** erscheint automatisch auf der Startseite des Quattr
 
 ![Sender wird mit Empfänger gekoppelt](/assets/img/Pairing3.jpg)
 
-Während des Koppelns blinkt der Sender rot und der Empfänger blinkt weiß.
+Während des Koppelns blinkt der Sender rot und der Empfänger blinkt weiß:
 
-![Sender blinkt rot](/assets/img/Pairing4.png)
+![Sender blinkt rot](/assets/img/quattropod.lite.tx.pairing.png)
 
-Nach ein paar Sekunden ist der Sender mit dem QuattroPod gekoppelt. Der Empfänger und der Sender leuchten weiß. 
+Nach ein paar Sekunden ist der Sender mit dem QuattroPod gekoppelt. Der Empfänger und der Sender leuchten weiß:
 
-![Koppeln abgeschlossen. Sender leuchtet weiß](/assets/img/Transmitter_white.png)
+![Koppeln abgeschlossen. Sender leuchtet weiß](/assets/img/quattropod.lite.tx.paired.png)
 
 Dies wird mit **"Pairing OK"** auf der Startseite bestätigt.
 
 ![Koppeln abgeschlossen](/assets/img/Pairing5.jpg)
 
-* Der Sender kann nun mit diesem Empfänger benutzt werden.
+* Der Sender kann nun mit dem Empfänger benutzt werden.
 
 
 

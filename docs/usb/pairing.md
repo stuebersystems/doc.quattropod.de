@@ -13,7 +13,7 @@ Der Sender wird an den USB-Anschluss des Empfängers anschlossen. Die Kopplung e
 
 * Schließen Sie den USB-A-Adapter an den Sender an und schalten Sie den Sender auf `Type-A` um. Schließen Sie den Sender an den USB-A-Port des Empfängers an:
 
-![Sender auf PC umschalten](/assets/img/Pairing.USBA.jpg)
+![Sender auf PC umschalten](/assets/img/Pairing.USBA.png)
 
 Die Meldung **"Pairing..."** erscheint automatisch auf der Startseite des QuattroPods. Während des Kopplungsvorgangs blinkt der Sender rot und der Empfänger blinkt weiß.
 
@@ -29,7 +29,7 @@ Nach ein paar Sekunden erscheint die Meldung **"Pairing OK"** auf der Startseite
 
 * Schließen Sie den USB-A-Adapter an den Sender an und schalten Sie den Sender auf `Type-C` um. Schließen Sie den Sender an den USB-A-Port des Empfängers an:
 
-![Sender auf PC umschalten](/assets/img/Pairing.USBC.jpg)
+![Sender auf PC umschalten](/assets/img/Pairing.USBC.png)
 
 Die Meldung **"Pairing..."** erscheint automatisch auf der Startseite des QuattroPods. Während des Kopplungsvorgangs blinkt der Sender rot und der Empfänger blinkt weiß.
 

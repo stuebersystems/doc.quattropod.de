@@ -46,7 +46,7 @@ Legt fest, ob der QuattroPod mit dem [Wireless Access Point](#Wireless_Access_Po
 
 ## Gerätemanagement {#Geraetemanagement}
 
-Dieser Bereich hilft Ihnen, die [Sprache](#Sprache) der Benutzeroberfläche, die [Auflösung](#Auflösung) oder die Angabe [Max. Verbindungen](#MaxVerbindungen) zu wechseln. Außerdem können Sie für Empfänger und Sender die [Kopplungsdatei herunterladen](#Kopplungsdatei_herunterladen).
+Dieser Bereich hilft Ihnen, die [Sprache](#Sprache) der Benutzeroberfläche, die [Auflösung](#Auflösung) oder die Angabe [Max. Verbindungen](#MaxVerbindungen) zu wechseln.
 
 ### Sprache {#Sprache}
 
@@ -111,7 +111,7 @@ Um die Leistung des QuattroPods zu optimieren, insbesondere bei Geräten, die da
 
 ## Admineinstellungen {#Admineinstellungen}
 
-In diesem Bereich können Sie den QuattroPod auf die neueste Firmware aktualisieren, auf Standardeinstellungen zurücksetzen und andere erweiterten Einstellungen setzen.
+In diesem Bereich können Sie den QuattroPod auf die neueste Firmware aktualisieren, auf Standardeinstellungen zurücksetzen und andere erweiterten Einstellungen setzen. Außerdem können Sie für Empfänger und Sender die [Kopplungsdatei herunterladen](#DownloadPairingFile).
 
 ### WLAN-Kanal {#WiFi-Mode}
 
@@ -253,17 +253,17 @@ Der Castcode wird hier angezeigt:
 
 Sie können die Firmware der Empfänger und Sender aktualisieren, um die neuesten Erweiterungen und Funktionen nutzen zu können. Eine umfassende Anleitung zur Aktualisierung finden Sie [hier](firmware-upgrade.md).
 
-### Kopplungsdatei herunterladen {#Kopplungsdatei_herunterladen}
-
-Laden Sie die Kopplungsdatei herunter, um einen Sender mit dem Empfänger per USB-Stick zu koppeln, wenn der Empfänger an der Decke montiert ist oder einfach schwer zu erreichen ist. Weitere Informationen hierzu finden Sie im Abschnitt [Sender koppeln](pairing.md).
-
-![](/assets/img/pairing_file.jpg)
-
 ### Multicast {#Multicast}
 
 Nutzen Sie diese Funktion, um den Empfänger im Multicast-Modus zu starten. Eine umfassende Anleitung zu diesem Thema finden Sie [hier](multicast.md).
 
 ![Neustarten](/assets/img/Multicast-Gruppe.png)
+
+### Kopplungsdatei herunterladen {#Kopplungsdatei_herunterladen}
+
+Laden Sie die Kopplungsdatei herunter, um einen Sender mit dem Empfänger per USB-Stick zu koppeln, wenn der Empfänger an der Decke montiert ist oder einfach schwer zu erreichen ist. Weitere Informationen hierzu finden Sie im Abschnitt [Sender koppeln](pairing.md).
+
+![](/assets/img/pairing_file.jpg)
 
 ### Neustarten {#Neustarten}
 
