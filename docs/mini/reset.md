@@ -16,7 +16,7 @@ Wenn Ihnen die Zugangsdaten zu der [Web-Oberfläche](adv.settings.md) nicht beka
 
 * Mit Hilfe eines kleinen "Stifts" halten Sie den Reset-Schalter ca. 10 Sekunden lang gedrückt. 
 
-![Reset-Schalter befindet sich an der Rückseite des QuattroPods](/assets/img/Press-Reset-Button.jpg)
+![Reset-Schalter befindet sich an der Rückseite des QuattroPods](/assets/img/Press-Reset-Button.png)
 
 * Wenn die folgende Meldung erscheint, lassen Sie den Reset-Schalter los.
 

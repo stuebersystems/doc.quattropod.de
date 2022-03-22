@@ -10,5 +10,17 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des Quattr
 
 ### 2021.11.03 | 1.12412.51
 
+## Sender U01 Type-C
 
+### 2021.11.03 | 1.12412.47
 
+**Fixes:**
+
+* Lichtsignal behoben
+
+### 2021.07.12 | 1.12412.42
+
+**Fixes:**
+
+* Beseitigung der chromatischen Aberration des RGB-Farbraums
+* Systemfehler behoben

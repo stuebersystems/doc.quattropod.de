@@ -284,7 +284,6 @@ nav:
         - "Anleitung: AirPlay": m1/airplay.md     
         - "Anleitung: Chromecast": m1/chromecast.md
     - CMS (Central Management System): m1/cms.md    
-    - Einrichtungshinweise: m1/setup-tipps.md
     - Erweiterte Funktionen:
         - AirView: m1/airview.md
         - Captive Portal: m1/captiveportal.md    
@@ -305,7 +304,6 @@ nav:
         - Firmware neu installieren: m1/firmware-reinstall.md
         - Leistungstest durchführen: m1/performancetest.md
         - Logdatei herunterladen: m1/logfile.md
-        - Projizieren auf diesen PC: m1/project2PC.md
     - Pairing des Senders: m1/pairing.md    
 - CMS: 
     - Einführung: cms.md

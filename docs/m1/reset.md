@@ -16,7 +16,7 @@ Wenn Ihnen die Zugangsdaten zu der [Web-Oberfläche](adv.settings.md) nicht beka
 
 * Mit Hilfe eines kleinen "Stifts" halten Sie den Reset-Schalter ca. 10 Sekunden lang gedrückt. 
 
-![Reset-Schalter befindet sich an der Rückseite des QuattroPods](/assets/img/Press-Reset-Button.jpg)
+![Reset-Schalter befindet sich an der Rückseite des QuattroPods](/assets/img/m1.press.reset.button.png)
 
 * Wenn die folgende Meldung erscheint, lassen Sie den Reset-Schalter los.
 
@@ -72,7 +72,7 @@ Mit Hilfe der Funktion [Erweiterte Einstellungen](adv.settings.md) können Sie s
 
 Nach dem Zurücksetzen werden Sie bei der ersten Anmeldung auf der Funktion [Erweiterte Einstellungen](adv.settings.md) aufgefordert, das Admin-Kennwort zu ändern. Standardmäßig lautet es `000000`. Wir empfehlen, dass Sie anschließend die folgenden empfohlenen Einstellungen überprüfen:
 
-Firmware-Version: [1.14366.90](whatsnew.md#20220302-11436690)
+Firmware-Version: [1.12412.51](whatsnew.md#20211103-11241251)
 
 **Gerätemanagement**
 
@@ -82,9 +82,6 @@ Firmware-Version: [1.14366.90](whatsnew.md#20220302-11436690)
 **Admineinstellungen**
 
 * [WLAN-Modus](adv.settings.md#WiFi-Mode): `Land = EUROPE`, `Kanal = Auto`, `Bandbreite = 20MHz`
-* [AirView](adv.settings.md#AirView): `EIN`
-* [Miracast Support](miracast.md): `EIN`
-* [Miracast PIN](miracast.md): `EIN`
 * [Castcode](adv.settings.md#castcode): `Zufällig`
 * [Mein Bildschirm](adv.settings.md#Mein-Bildschirm): Unsere Hintergrundbilder in der deutschen Sprache:
 

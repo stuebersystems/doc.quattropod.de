@@ -8,12 +8,6 @@ Dabei benötigen Sie einen [Internetzugang](internet.md) zum Internet bzw. mit I
 
 ![](/assets/img/QuattroPod_IP.png)
 
-## Sender anschließen und einschalten
-
-Bei einer Firmware-Aktualisierung ist es wichtig, die Sender nicht zu übersehen. Achten Sie bitte darauf, den Empfänger und alle Sender auf dem selben Stand zu halten.
-
-![](/assets/img/QuattroPod_RX_TXs_PoweredON.jpg)
-
 ## In der Web-Oberfläche anmelden
 
 Die Aktualisierung wird über die Web-Oberfläche in einem beliebigen Web-Browser durchgeführt.
@@ -95,8 +89,7 @@ Mit dem CMS ([Central Management System](cms.md)) ermöglicht es Ihnen auch, die
 
 Geräte               | Herunterladen      |
 ------------------------- | ------------------------- | 
-QuattroPod Standard-Empfänger (R01) | [Herunterladen](firmware-reinstall.md#R01_install_other_fw)
-QuattroPod Standard-Sender (T01) | [Herunterladen](firmware-reinstall.md#T01_install_other_fw)
+QuattroPod SDM-Empfänger (M1) | [Herunterladen](firmware-reinstall.md#M1_install_other_fw)
 
 * Wählen Sie die gewünschten Geräte aus, klicken Sie dann auf die Schaltfläche `Remote` und wählen Sie die Option `Device firmware upgrade`.
 

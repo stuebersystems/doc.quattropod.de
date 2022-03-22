@@ -25,13 +25,12 @@ Für einen kompakten Produktvergleich mit den anderen Modell-Varianten aus der Q
 | WLAN-Standard | 802.11ac 2T2R | 
 | WLAN-Frequenzblock (5 GHz-Band) |  4900-5845 MHz |
 | WLAN-Übertragungsrate |  866 MBit/s |
-
+| Betriebstemperatur | 0~40°C | 
+| Lagertemperatur | -20~70°C | 
  
 ## EG Konformitätserklärung
 
-Die EG Konformitätserklärung für den [QuattroPod M1][8] und das [Netzteil des QuattroPod Standard][9] erklärt die Konformität mit europäischen Richtlinien.
+Die EG Konformitätserklärung für den [QuattroPod M1](https://download.stueber.de/doc/de/quattropod/quattropodm1.konformitaetserklaerung.pdf) erklärt die Konformität mit europäischen Richtlinien.
+ 
 
-[8]: https://download.stueber.de/doc/de/quattropod/quattropodm1.konformitaetserklaerung.pdf
-
-[9]: https://download.stueber.de/doc/de/quattropod/netzteil.konformitaetserklaerung.pdf
 

@@ -14,9 +14,9 @@ Für den QuattroPod wird eine Internet-Verbindung in folgenden Fällen benötigt
 
 ## QuattroPod mit LAN verbinden
 
-Schließen Sie dazu ein Netzwerkkabel in den `ETHERNET` Anschluss an der Rückseite des QuattroPods an und verbinden Sie das Kabel mit Ihrem Netzwerk bzw. mit Ihrem Router.
+Schließen Sie dazu ein Netzwerkkabel in den `LAN` Anschluss des QuattroPod an und verbinden Sie das Kabel mit Ihrem Netzwerk bzw. mit Ihrem Router.
 
-![](/assets/img/QuattroPod_ports.png)
+![](/assets/img/m1.connect.lancable.png)
 
 !!! tip "Bitte beachten"
     

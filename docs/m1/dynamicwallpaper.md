@@ -86,7 +86,7 @@ Unsere Beispieldatei `wallpaper_file.json` zum steht Ihnen [hier](https://downlo
 
 * Stecken Sie den USB-Stick an den USB-Anschluss des Empfängers an. Die LED `USB` leuchtet weiß.
 
-![](/assets/img/QP-connect.USBStick.png)
+![](/assets/img/QP-M1.connect.USBStick.png)
 
 * Speichern Sie die Datei als `wallpaper_file.json` ab und laden Sie die Datei auf einen Webserver hoch, auf den das QuattroPod Gerät zugreifen kann.
 	
