@@ -21,7 +21,7 @@ Wenn auf einen anderen Teilnehmer gewechselt wird, steht ihm auch die Touch-Back
 
 * macOS 10.14.6 oder höher wird ab der Firmware-Version `1.9598.72` unterstützt.
 
-* nur ein Bildschirm kann zeitgleich übertragen werden \(keine Splitscreen Funktionalität möglich\)
+* Die Touch-Back Funktion wird nur bei der 1:1- Übertragung eines Bildschirms unterstützt.
 
 ## Firmware-Version prüfen
 
