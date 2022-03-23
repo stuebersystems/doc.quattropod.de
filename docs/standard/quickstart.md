@@ -29,7 +29,7 @@ Die folgende Startseite erscheint auf Ihrem Bildschirm:
 
 !!! tip "Hinweis"
 
-     Der Sender ermöglicht ein einfaches Spiegeln Ihres Bildschirms. ## Bildschirmübertragung ohne Sender {#withouttransmitter}en Sender spiegeln möchten, können Sie ein [Streamingprotokoll](#a-streamingprotokollen) verwenden.
+     Der Sender ermöglicht ein einfaches Spiegeln Ihres Bildschirms. Wenn Sie Ihre Inhalte jedoch lieber ohne einen Sender spiegeln möchten, klicken Sie [hier](#withouttransmitter).
 	 
 * Schließen Sie den Sender an einen der USB-Ports Ihres Rechners an. Schließen Sie anschließend das mitgelieferte HDMI-Kabel an. Die Bildschirmübertragung erfolgt automatisch.
 

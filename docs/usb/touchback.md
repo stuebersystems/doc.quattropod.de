@@ -41,7 +41,7 @@ Wenn auf einen anderen Teilnehmer gewechselt wird, steht ihm auch die Touch-Back
 ![Die Touch-Back-Funktion ist aktiviert](/assets/img/quattropod.touch.icon.png)
 
 
-### Mit Windodws Touch-Back bedienen
+### Touch-Back unter Windows
 
 
 * Schalten Sie den Sender auf `PC` um. Schließen Sie den Sender an einen der USB-Ports Ihres Windows-Computers an. Schließen Sie anschließend das mitgelieferte HDMI- oder DisplayPort-Kabel an.
