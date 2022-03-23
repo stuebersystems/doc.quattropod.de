@@ -88,11 +88,11 @@ nav:
     - Schnellstartanleitung: usb/quickstart.md
     - Was ist neu?: usb/whatsnew.md
     - Anleitungen nach<br>Betriebssystem:
-        - "Anleitung: Android": usb/quickstart/#android
-        - "Anleitung: iOS": usb/quickstart/#ios
-        - "Anleitung: macOS": usb/quickstart/#windows-macos
+        - "Anleitung: Windows": usb/quickstart/#transmitter
+        - "Anleitung: Android": usb/quickstart/#android-ios_typec
+        - "Anleitung: iOS": usb/quickstart/#ios_mobilemode
+        - "Anleitung: macOS": usb/quickstart/#transmitter
         - "Anleitung: Linux": usb/linux.md
-        - "Anleitung: Windows": usb/quickstart/#windows-macos
     - Anleitungen nach<br>Streamingprotokoll:
         - "Anleitung: AirPlay": usb/airplay.md     
         - "Anleitung: Chromecast": usb/chromecast.md
@@ -126,11 +126,11 @@ nav:
     - Schnellstartanleitung: lite/quickstart.md
     - Was ist neu?: lite/whatsnew.md
     - Anleitungen nach<br>Betriebssystem:
+        - "Anleitung: Windows": lite/quickstart/#transmitter
         - "Anleitung: Android": lite/quickstart/#android
         - "Anleitung: iOS": lite/quickstart/#ios
-        - "Anleitung: macOS": lite/quickstart/#windows-macos-linux
+        - "Anleitung: macOS": lite/quickstart/#transmitter
         - "Anleitung: Linux": lite/linux.md
-        - "Anleitung: Windows": lite/quickstart/#windows-macos-linux
     - Anleitungen nach<br>Streamingprotokoll:
         - "Anleitung: AirPlay": lite/airplay.md     
         - "Anleitung: Chromecast": lite/chromecast.md
@@ -161,11 +161,11 @@ nav:
     - Schnellstartanleitung: mini/quickstart.md
     - Was ist neu?: mini/whatsnew.md
     - Anleitungen nach<br>Betriebssystem:
-        - "Anleitung: Android": mini/quickstart/#android
-        - "Anleitung: iOS": mini/quickstart/#ios
-        - "Anleitung: macOS": mini/quickstart/#windows-macos-linux
+        - "Anleitung: Windows": mini/quickstart/#transmitter
+        - "Anleitung: Android": mini/quickstart/#android_tx
+        - "Anleitung: iOS": mini/quickstart/#ios_tx
+        - "Anleitung: macOS": mini/quickstart/#transmitter
         - "Anleitung: Linux": mini/linux.md
-        - "Anleitung: Windows": mini/quickstart/#windows-macos-linux
     - Anleitungen nach<br>Streamingprotokoll:
         - "Anleitung: AirPlay": mini/airplay.md     
         - "Anleitung: Chromecast": mini/chromecast.md
@@ -199,11 +199,11 @@ nav:
     - Schnellstartanleitung: standard/quickstart.md
     - Was ist neu?: standard/whatsnew.md
     - Anleitungen nach<br>Betriebssystem:
-        - "Anleitung: Android": standard/quickstart/#android
-        - "Anleitung: iOS": standard/quickstart/#ios
-        - "Anleitung: macOS": standard/quickstart/#windows-macos-linux
+        - "Anleitung: Windows": standard/quickstart/#transmitter
+        - "Anleitung: Android": standard/quickstart/#android_tx
+        - "Anleitung: iOS": standard/quickstart/#ios_tx
+        - "Anleitung: macOS": standard/quickstart/#transmitter
         - "Anleitung: Linux": standard/linux.md
-        - "Anleitung: Windows": standard/quickstart/#windows-macos-linux
     - Anleitungen nach<br>Streamingprotokoll:
         - "Anleitung: AirPlay": standard/airplay.md     
         - "Anleitung: Chromecast": standard/chromecast.md
@@ -237,11 +237,11 @@ nav:
     - Schnellstartanleitung: deluxe/quickstart.md
     - Was ist neu?: deluxe/whatsnew.md
     - Anleitungen nach<br>Betriebssystem:
-        - "Anleitung: Android": deluxe/quickstart/#android
-        - "Anleitung: iOS": deluxe/quickstart/#ios
-        - "Anleitung: macOS": deluxe/quickstart/#windows-macos-linux
+        - "Anleitung: Windows": deluxe/quickstart/#transmitter
+        - "Anleitung: Android": deluxe/quickstart/#android_tx
+        - "Anleitung: iOS": deluxe/quickstart/#ios_tx
+        - "Anleitung: macOS": deluxe/quickstart/#transmitter
         - "Anleitung: Linux": deluxe/linux.md
-        - "Anleitung: Windows": deluxe/quickstart/#windows-macos-linux
     - Anleitungen nach<br>Streamingprotokoll:
         - "Anleitung: AirPlay": deluxe/airplay.md     
         - "Anleitung: Chromecast": deluxe/chromecast.md
@@ -275,11 +275,11 @@ nav:
     - Schnellstartanleitung: m1/quickstart.md
     - Was ist neu?: m1/whatsnew.md
     - Anleitungen nach<br>Betriebssystem:
+        - "Anleitung: Windows": m1/quickstart/#transmitter
         - "Anleitung: Android": m1/quickstart/#android
         - "Anleitung: iOS": m1/quickstart/#ios
-        - "Anleitung: macOS": m1/quickstart/#windows-macos-linux
+        - "Anleitung: macOS": m1/quickstart/#transmitter
         - "Anleitung: Linux": m1/linux.md
-        - "Anleitung: Windows": m1/quickstart/#windows-macos-linux
     - Anleitungen nach<br>Streamingprotokoll:
         - "Anleitung: AirPlay": m1/airplay.md     
         - "Anleitung: Chromecast": m1/chromecast.md

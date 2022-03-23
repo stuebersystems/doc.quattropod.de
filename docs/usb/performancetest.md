@@ -49,7 +49,7 @@ Damit der Windows-PC während des Test nicht in den Energiesparmodus wechselt, l
 
 ## Sender anschließend und Bildschirm übertragen 
 
-* Schließen Sie den Sender an Ihr Windows-Notebook an und spielgeln Sie den Bildschirm auf das große Display:
+* Schließen Sie den Sender an Ihr Windows-Notebook an und spiegeln Sie den Bildschirm auf das große Display:
 
 ![](/assets/img/QSG-TypeC.Windows.png)
 

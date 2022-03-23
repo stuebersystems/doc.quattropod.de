@@ -1,16 +1,6 @@
 # Linux
 
-Mit dem QuattroPod stehen Ihnen zum Übertragen Ihres Bildschirms zwei Möglichkeiten zur Verfügung:  
-
-## Bildschirmübertragung mit dem Sender:
-
-* Schließen Sie den Sender an einen der USB-Ports Ihres Rechners an. Schließen Sie anschließend das mitgelieferte HDMI an. Die Bildschirmübertragung erfolgt automatisch.
-
-![Bildschirmübertragung mit Sender](/assets/img/QSG-Windows.png)
-
-Bei MacBooks bzw. Notebooks, die sich nur über einen USB-C-Anschluss verfügen, ist es dennoch möglich den Sender mit Hilfe eines Multiport Adapters von [Satechi](https://www.amazon.de/Satechi-Schlanker-Multiport-Adapter-Ladeanschluss-Aluminium/dp/B01J4BO0X8?psc=1&SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duc03-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01J4BO0X8) anzuschließen. 
-
-![USB‑C Digital AV Multiport Adapter](/assets/img/USB-C_Multiport-Adapter.jpg)
+Mit dem QuattroPod stehen Ihnen zum Übertragen Ihres Bildschirms zwei Möglichkeiten zur Verfügung:
 
 ## Google Cast streamen
 

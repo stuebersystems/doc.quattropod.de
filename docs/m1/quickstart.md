@@ -2,9 +2,7 @@
 
 !!! info "Schnellstartanleitung als PDF"
 	
-    Die Schnellstartanleitung steht Ihnen auch als PDF-Dokument im [A6-Format][1] zur Verfügung.
-
-  [1]: https://download.stueber.de/doc/de/quattropod/schnellstartanleitungen/A6_QPM1.pdf
+    Die Schnellstartanleitung steht Ihnen auch als PDF-Dokument im [A6-Format](https://download.stueber.de/doc/de/quattropod/schnellstartanleitungen/A6_QPM1.pdf) zur Verfügung.
 
 ## Inhalt des QuattroPod M1
 
@@ -26,6 +24,10 @@ Die folgende Startseite erscheint auf Ihrem Bildschirm:
 
 ## Bildschirmübertragung mit Sender {#transmitter}
 
+!!! tip "Hinweis"
+
+     Der Sender ermöglicht ein einfaches Spiegeln Ihres Bildschirms. Wenn Sie Ihre Inhalte jedoch lieber ohne einen Sender spiegeln möchten, klicken Sie [hier](#withouttransmitter).
+	 
 Wie Sie Ihrem Bildschirn über einen Sender zum QuattroPod M1 übertragen, können Sie der ausführlichen Dokumentation für Ihren Sender entnehmen.
 
 
@@ -59,7 +61,7 @@ Wie Sie Ihrem Bildschirn über einen Sender zum QuattroPod M1 übertragen, könn
 </div>
 
 
-## Bildschirmübertragung ohne Sender
+## Bildschirmübertragung ohne Sender {#withouttransmitter}
 
 Mit QuattroPod stehen Ihnen zwei Möglichkeiten ohne den Sender zur Verfügung:
 

@@ -2,10 +2,7 @@
 
 !!! info "Schnellstartanleitung als PDF"
 	
-    Die Schnellstartanleitung steht Ihnen auch als PDF-Dokument im [A4-Format][1] und [A6-Format][2] zur Verfügung.
-
-  [1]: https://download.stueber.de/doc/de/quattropod/schnellstartanleitungen/A4_QPLite.pdf
-  [2]: https://download.stueber.de/doc/de/quattropod/schnellstartanleitungen/A6_QPLite.pdf
+    Die Schnellstartanleitung steht Ihnen auch als PDF-Dokument im [A6-Format](https://download.stueber.de/doc/de/quattropod/schnellstartanleitungen/A6_QPLite.pdf) zur Verfügung.
 
 ## Inhalt des QuattroPod Lite
 
@@ -32,7 +29,7 @@ Die folgende Startseite erscheint auf Ihrem Bildschirm:
 
 !!! tip "Hinweis"
 
-     Der Sender ermöglicht ein einfaches Spiegeln Ihres Bildschirms. Wenn Sie Ihre Inhalte jedoch lieber ohne einen Sender spiegeln möchten, können Sie ein [Streamingprotokoll](#a-streamingprotokollen) verwenden.
+     Der Sender ermöglicht ein einfaches Spiegeln Ihres Bildschirms. Wenn Sie Ihre Inhalte jedoch lieber ohne einen Sender spiegeln möchten, klicken Sie [hier](#withouttransmitter).
 	 
 * Schließen Sie den Sender an einen der USB-Ports Ihres Rechners an. Schließen Sie anschließend das mitgelieferte HDMI-Kabel an. Die Bildschirmübertragung erfolgt automatisch.
 
@@ -46,7 +43,7 @@ Die folgende Startseite erscheint auf Ihrem Bildschirm:
 
   [3]: /assets/img/thumbnail.USB-C_Multiport-Adapter.png
 
-## Bildschirmübertragung ohne Sender
+## Bildschirmübertragung ohne Sender {#withouttransmitter}
 
 Mit QuattroPod stehen Ihnen zwei Möglichkeiten ohne den Sender zur Verfügung:
 
@@ -61,6 +58,8 @@ Unterstützt werden alle gängigen Streamingprotokollen. Umfassende Anleitungen 
 * [AirPlay](airplay.md) unter iOS und macOS.
 
 * [Google Cast](chromecast.md) unter Google Chrome OS, Windows, Android und Linux.
+
+* [Miracast](miracast.md) unter Windows und Android.
 
 ### b) Die QuattroPod App unter Android
 

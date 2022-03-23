@@ -2,10 +2,7 @@
 
 !!! info "Schnellstartanleitung als PDF"
 	
-    Die Schnellstartanleitung steht Ihnen auch als PDF-Dokument im [A4-Format][1] und [A6-Format][2] zur Verfügung.
-
-  [1]: https://download.stueber.de/doc/de/quattropod/schnellstartanleitungen/A4_QPMini.pdf
-  [2]: https://download.stueber.de/doc/de/quattropod/schnellstartanleitungen/A6_QPMini.pdf
+    Die Schnellstartanleitung steht Ihnen auch als PDF-Dokument im [A6-Format](https://download.stueber.de/doc/de/quattropod/schnellstartanleitungen/A6_QPMini.pdf) zur Verfügung.
 
 ## Inhalt des QuattroPod Mini
 
@@ -32,7 +29,7 @@ Die folgende Startseite erscheint auf Ihrem Bildschirm:
 
 !!! tip "Hinweis"
 
-     Der Sender ermöglicht ein einfaches Spiegeln Ihres Bildschirms. Wenn Sie Ihre Inhalte jedoch lieber ohne einen Sender spiegeln möchten, können Sie ein [Streamingprotokoll](#a-streamingprotokollen) verwenden.
+     Der Sender ermöglicht ein einfaches Spiegeln Ihres Bildschirms. Wenn Sie Ihre Inhalte jedoch lieber ohne einen Sender spiegeln möchten, klicken Sie [hier](#withouttransmitter).
 	 
 * Schließen Sie den Sender an einen der USB-Ports Ihres Rechners an. Schließen Sie anschließend das mitgelieferte HDMI-Kabel an. Die Bildschirmübertragung erfolgt automatisch.
 
@@ -55,11 +52,11 @@ Wenn der Empfänger und der Sender richtig angeschlossen sind, wird die Startsei
 
 ![Haupttaste drücken und Inhalte zeigen](/assets/img/QSG-Mini.Transmitter.png)
 
-### Android
+### Android mit dem Sender {#android_tx}
 
 !!! tip "Hinweis"
 
-     Der Sender ermöglicht ein einfaches Spiegeln Ihres Bildschirms. Wenn Sie Ihre Inhalte jedoch lieber ohne einen Sender spiegeln möchten, können Sie ein [Streamingprotokoll](#a-streamingprotokollen) verwenden. Außerdem können Sie die kostenlose QuattroPod [App](#b-die-quattropod-app-unter-android) unter Android nutzen.
+     Der Sender ermöglicht ein einfaches Spiegeln Ihres Bildschirms. Wenn Sie Ihre Inhalte jedoch lieber ohne einen Sender spiegeln möchten, klicken Sie [hier](#withouttransmitter).
 
 Sie müssen einmalig USB-Debugging freischalten, anschließend den Sender anschließen und die Haupttaste drücken.
 
@@ -103,11 +100,11 @@ Wenn der Empfänger und der Sender richtig angeschlossen sind, wird die Startsei
 
 ![MirrorService starten](/assets/img/MirrorService.jpg)
 
-### iOS
+### iOS mit dem Sender {#ios_tx}
 
 !!! tip "Hinweis"
 
-     Der Sender ermöglicht ein einfaches Spiegeln Ihres Bildschirms. Wenn Sie Ihre Inhalte jedoch lieber ohne einen Sender spiegeln möchten, können Sie ein [Streamingprotokoll](#a-streamingprotokollen) verwenden.
+     Der Sender ermöglicht ein einfaches Spiegeln Ihres Bildschirms. ## Bildschirmübertragung ohne Sender {#withouttransmitter}en Sender spiegeln möchten, können Sie ein [Streamingprotokoll](#a-streamingprotokollen) verwenden.
 	 
 * Schließen Sie den Sender an einen USB-Port (5V1A) bzw. an das Netzteil Ihres Apple-Geräts an. Schließen Sie anschließend Ihr iOS-Gerät an den USB-Port des Senders an.
 
@@ -125,7 +122,7 @@ Wenn der Empfänger und der Sender richtig angeschlossen sind, wird die Startsei
 
 ![Haupttaste drücken und Inhalte zeigen](/assets/img/QSG-Mini.Transmitter.png)
 
-## Bildschirmübertragung ohne Sender
+## Bildschirmübertragung ohne Sender {#withouttransmitter}
 
 Mit QuattroPod stehen Ihnen zwei Möglichkeiten ohne den Sender zur Verfügung:
 
