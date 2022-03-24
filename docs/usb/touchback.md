@@ -22,7 +22,7 @@ Die Touch-Back Funktion wird nur bei der 1:1- Übertragung eines Bildschirms unt
 
 * Windows 7 / 8 / 10
 
-* macOS 10.14.6 oder höher. Es werden keine Multitouch-Gesten unter macOS unterstützt
+* macOS 10.14.6 oder höher. Es werden keine Multitouch-Gesten unterstützt
 
 * Android Geräte, die die Videoübertragung per USB-C-Anschluss [DP Alt Mode](https://en.everybodywiki.com/List_of_devices_with_video_output_over_USB-C) unterstützen.
 
@@ -34,7 +34,7 @@ Die Touch-Back Funktion wird nur bei der 1:1- Übertragung eines Bildschirms unt
 
 ![](/assets/img/RX_Touch-USB-cable.png)
 
-* Wenn der Empfänger die Touch-Funktionalität Ihres Bildschirms erfolgreich entdeckt hat, errecheint das Maus-Symbol oben rechts auf der Startseite.
+* Wenn der Empfänger die Touch-Funktionalität Ihres Bildschirms erfolgreich entdeckt hat, erscheint das Maus-Symbol oben rechts auf der Startseite.
 
 ![Die Touch-Back-Funktion ist aktiviert](/assets/img/quattropod.touch.icon.png)
 
@@ -42,9 +42,7 @@ Die Touch-Back Funktion wird nur bei der 1:1- Übertragung eines Bildschirms unt
 
 ![](/assets/img/reverse.control.png)
 
-
-
-### Touchback unter Windows/macOS im Type-C Sendermodus
+## Touchback unter Windows/macOS im Type-C Sendermodus
   
 !!! tip "Hinweis"
 
@@ -54,7 +52,7 @@ Die Touch-Back Funktion wird nur bei der 1:1- Übertragung eines Bildschirms unt
 	 
 	 ![](/assets/img/QSG-TypeC.Windows.png) 
 
-* Wenn die Touch-Back-Funktion erfolgreich freigeschaltet wurde, erscheint die Meldung `"Hid Driver loading ..."` für einige Sekunden auf dem Bildschirm.
+* Wenn die Touch-Back-Funktion erfolgreich aktiviert wurde, erscheint die Meldung `"Hid Driver loading ..."` für einige Sekunden auf dem Bildschirm.
 
 ![Die Touch-Back-Funktion wurde erfolgreich freigeschaltet](/assets/img/Hid_Driver_loading.jpg)
 
@@ -77,7 +75,7 @@ Die Touch-Back Funktion wird nur bei der 1:1- Übertragung eines Bildschirms unt
 ![](/assets/img/macOS.open.onscreen.keyboard.png)
 
 
-### Touchback unter Android  im Type-C Sendermodus {#touchback_android}
+## Touchback unter Android  im Type-C Sendermodus {#touchback_android}
 	
 !!! tip "Hinweis"
 
@@ -87,7 +85,7 @@ Die Touch-Back Funktion wird nur bei der 1:1- Übertragung eines Bildschirms unt
 
   ![](/assets/img/QSG-QP.USBC.Android.png) 
   
-* Wenn die Touch-Back-Funktion erfolgreich freigeschaltet wurde, erscheint die Meldung `"Hid Driver loading ..."` für einige Sekunden auf dem Bildschirm.
+* Wenn die Touch-Back-Funktion erfolgreich aktiviert wurde, erscheint die Meldung `"Hid Driver loading ..."` für einige Sekunden auf dem Bildschirm.
 
 ![Die Touch-Back-Funktion wurde erfolgreich freigeschaltet](/assets/img/Hid_Driver_loading.jpg)
 

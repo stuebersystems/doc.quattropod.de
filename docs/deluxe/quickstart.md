@@ -51,7 +51,7 @@ Wenn der Empfänger und der Sender richtig angeschlossen sind, wird die Startsei
 
 * Um Ihren Bildschirm zu übertragen, drücken Sie einfach die rote Haupttaste.
 
-![Haupttaste drücken und Inhalte zeigen](/assets/img/QSG-Transmitter.png)
+![Haupttaste drücken und Inhalte zeigen](/assets/img/QSG-Standard.Transmitter.png)
 
 ### Android mit dem Sender {#android_tx}
 
@@ -95,7 +95,7 @@ Wenn der Empfänger und der Sender richtig angeschlossen sind, wird die Startsei
 
 * Um Ihren Bildschirm zu übertragen, drücken Sie einfach die rote Haupttaste.
 
-![Haupttaste drücken und Inhalte zeigen](/assets/img/QSG-Transmitter.png)
+![Haupttaste drücken und Inhalte zeigen](/assets/img/QSG-Standard.Transmitter.png)
 
 * Wenn die folgende Meldung erscheint, aktivieren Sie das Häkchen `Nicht erneut anzeigen` und wählen Sie `JETZT STARTEN`.
 
@@ -121,7 +121,7 @@ Wenn der Empfänger und der Sender richtig angeschlossen sind, wird die Startsei
 
 * Um Ihren Bildschirm zu übertragen, drücken Sie einfach die rote Haupttaste.
 
-![Haupttaste drücken und Inhalte zeigen](/assets/img/QSG-Transmitter.png)
+![Haupttaste drücken und Inhalte zeigen](/assets/img/QSG-Standard.Transmitter.png)
 
 ## Bildschirmübertragung ohne Sender {#withouttransmitter}
 
