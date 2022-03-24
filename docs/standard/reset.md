@@ -93,3 +93,4 @@ Hintergrundbild | Herunterladen |
 QuattroPod Standard | [Herunterladen](https://download.stueber.de/doc/de/quattropod/QuattroPod.Standard_Startseite.DE.png)
 QuattroPod USB | [Herunterladen](https://download.stueber.de/doc/de/quattropod/QuattroPod.USB_Startseite.DE.png)
 QuattroPod Lite | [Herunterladen](https://download.stueber.de/doc/de/quattropod/QuattroPod.Lite_Startseite.DE.png)
+QuattroPod M1 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/QuattroPod.SDM_Startseite.DE.png)
