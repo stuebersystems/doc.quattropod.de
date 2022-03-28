@@ -104,7 +104,7 @@ Unsere Beispieldatei `wallpaper_file.json` zum steht Ihnen [hier](https://downlo
 
 ### Erweiterte Einstellungen öffnen
 
-* Verbinden Sie Ihr Endgerät mit der auf der SSID des QuattroPods. Die Zugangsdaten werden oben auf dem Bildschirm angezeigt:
+* Verbinden Sie Ihr Endgerät mit der SSID des QuattroPods. Die Zugangsdaten werden oben auf dem Bildschirm angezeigt:
 
 ![](/assets/img/quattropod.lite.ssid.connect.png)
 

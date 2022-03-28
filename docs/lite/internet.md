@@ -16,7 +16,7 @@ Für den QuattroPod wird eine Internet-Verbindung in folgenden Fällen benötigt
 
 ### Erweiterte Einstellungen öffnen
 
-* Verbinden Sie Ihr Endgerät mit der auf der SSID des QuattroPods. Die Zugangsdaten werden oben auf dem Bildschirm angezeigt:
+* Verbinden Sie Ihr Endgerät mit der SSID des QuattroPods. Die Zugangsdaten werden oben auf dem Bildschirm angezeigt:
 
 ![](/assets/img/quattropod.lite.ssid.connect.png)
 
