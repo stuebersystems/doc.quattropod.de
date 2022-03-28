@@ -6,13 +6,13 @@ Mehrere Teilnehmer haben die Möglichkeit, per Knopfdruck ihren Bildschirminhalt
 
 !!! tip "Hinweis"
     
-	Bitte beachten Sie, dass die Funktion Multicast auf dem [QuattroPod Lite](/lite/intro) nicht unterstützt wird. Jeder QuatroPod Empfänger (Standard, Deluxe, oder Mini), der über Multicast betrieben werden soll, muss entsprechend konfiguriert werden.
+	Bitte beachten Sie, dass die Funktion Multicast auf dem [QuattroPod Lite](/lite/intro) nicht unterstützt wird. Jeder QuatroPod Empfänger, der über Multicast betrieben werden soll, muss entsprechend konfiguriert werden.
 	
 ![](/assets/img/Multicast.png)
 
 ## Voraussetzungen
 
-* Unterstützte Empfänger: QuattroPod Standard, QuattroPod Deluxe, oder QuattroPod Mini.
+* Unterstützte Empfänger: QuattroPod USB, Standard/Deluxe, oder Mini.
 
 * Sie benötigen einen WLAN Access Point.
 
@@ -64,7 +64,7 @@ Mit der Web-Oberfläche kann man die Funktion Multicast auf einem QuattroPod ein
 
 ![](/assets/img/multicast_option.png)
 
-* Aktivieren Sie die Option `Multicast`. Anschließend geben Sie einen Namen für die Multicast-Gruppe im Feld `Besetzungsgruppe` ein. Schließlich geben Sie die `SSID` und das `Kennwort` eines WLANs ein z.B. das WLAN Ihrer Schule, über das die Multicast-Daten gesendet werden sollen:
+* Aktivieren Sie die Option `Multicast`. Anschließend geben Sie einen Namen für die Multicast-Gruppe im Feld `Cast-Gruppe` ein. Schließlich geben Sie die `SSID` und das `Kennwort` eines WLANs ein z.B. das WLAN Ihrer Schule, über das die Multicast-Daten gesendet werden sollen:
 
 ![](/assets/img/multicast.websetting.on.png)
 
@@ -76,7 +76,37 @@ Mit der Web-Oberfläche kann man die Funktion Multicast auf einem QuattroPod ein
 
 ![](/assets/img/Multicast_activated.png)
 
+### Sender koppeln
+
+Nachdem Sie die Funktion Multicast auf Ihren QuattroPod-Empfängern eingestellt haben, muss einer Sender mit der selben Multicast-Gruppe gekoppelt werden:
+
+* Schalten Sie den Sender auf `PC` um:
+
+![](/assets/img/Sender_koppeln.png)
+
+* Schließen Sie den Sender an den USB-Anschluss eines der Empfänger an, der für die Multicast eingestellt wurde:
+
+![](/assets/img/Sender_koppeln2.png)
+
+Die Meldung **"Pairing..."** erscheint automatisch auf der Startseite des QuattroPods.
+
+![](/assets/img/pairing.png)
+
+Wenn das Koppeln abgeschlossen ist, erscheint die Meldung **"Pairing OK"**.
+
+![](/assets/img/pairing_ok.png)
+
+### Sendertaste drücken und Inhalte zeigen
+
+* Schließen Sie den Sender an Ihr Endgerät an und drücken Sie einfach die rote Sendertaste:
+
+![](/assets/img/QSG-Mini.Transmitter.png)
+
+Ihr Bildschirm wird auf mehrere Monitore übertragen.
+
 ### Multicast deaktivieren
+
+Um Ihre QuattroPod-Geräte wieder in den Standardmodus zurückzukehren, muss die Funktion Multicast deaktiviert werden:
 
 * Wählen Sie den Menüpunkt `Admineinstellungen`:
 
@@ -143,6 +173,34 @@ Mit dem CMS ([Central Management System](cms.md)) kann man Multicast auf mehrere
 
 ![](/assets/img/Multicast_activated.png)
 
+### Sender koppeln
+
+Nachdem Sie die Funktion Multicast auf Ihren QuattroPod-Empfängern eingestellt haben, muss einer Sender mit der selben Multicast-Gruppe gekoppelt werden:
+
+* Schalten Sie den Sender auf `PC` um:
+
+![](/assets/img/Sender_koppeln.png)
+
+* Schließen Sie den Sender an den USB-Anschluss eines der Empfänger an, der für die Multicast eingestellt wurde:
+
+![](/assets/img/Sender_koppeln2.png)
+
+Die Meldung **"Pairing..."** erscheint automatisch auf der Startseite des QuattroPods.
+
+![](/assets/img/pairing.png)
+
+Wenn das Koppeln abgeschlossen ist, erscheint die Meldung **"Pairing OK"**.
+
+![](/assets/img/pairing_ok.png)
+
+### Sendertaste drücken und Inhalte zeigen
+
+* Schließen Sie den Sender an Ihr Endgerät an und drücken Sie einfach die rote Sendertaste:
+
+![](/assets/img/QSG-Mini.Transmitter.png)
+
+Ihr Bildschirm wird auf mehrere Monitore übertragen.
+
 ### Multicast deaktivieren
 
 * Wählen Sie alle QuattroPod-Empfänger aus, auf denen die Funktion Multicast deaktiviert werden sollen:
@@ -184,31 +242,3 @@ Nach der Deaktivierung der Funktion Multicast müssen vier Einstellungen zur Hos
 Überprüfen Sie die folgenden empfohlenen Einstellungen:
 
 ![](/assets/img/multicast.settings.hostcasting.png)
-
-## Sender koppeln
-
-* Schalten Sie den Sender auf `PC` um:
-
-![](/assets/img/Sender_koppeln.png)
-
-* Schließen Sie den Sender an den USB-Anschluss des Empfängers an und schalten Sie den Empfänger ein:
-
-![](/assets/img/Sender_koppeln2.png)
-
-Die Meldung **"Pairing..."** erscheint automatisch auf der Startseite des QuattroPods.
-
-![](/assets/img/pairing.png)
-
-Wenn das Koppeln abgeschlossen ist, erscheint die Meldung **"Pairing OK"**.
-
-![](/assets/img/pairing_ok.png)
-
-## Sendertaste drücken und Inhalte zeigen
-
-* Schließen Sie den Sender an Ihr Endgerät an und drücken Sie einfach die rote Sendertaste. 
-
-![](/assets/img/QSG-Mini.Transmitter.png)
-
-!!! tip "Hinweis"
-    
-	Eine umfassende Anleitung wie Sie den Sender an Ihr spezifisches Endgerät anschließen finden Sie in der [Schnellstartanleitung](quickstart.md#Sender).
