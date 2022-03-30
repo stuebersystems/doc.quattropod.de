@@ -119,12 +119,9 @@ QuattroPod Lite-Empfänger (LR01) | [Herunterladen](firmware-reinstall.md#LR01_i
 
 * Während der Aktualisierung des Empfängers erscheint folgende Meldung:
 
-![](/assets/img/Update.R01.png)
-
 !!! warning "Achtung"
     
 	Unterbrechen Sie während des Updates nicht die Stromversorgung.
-
 
 ![](/assets/img/ProIIStick_Firmware_installing.png)
 

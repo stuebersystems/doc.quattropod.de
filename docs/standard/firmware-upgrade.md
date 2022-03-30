@@ -122,7 +122,6 @@ QuattroPod Standard-Sender (T01) | [Herunterladen](firmware-reinstall.md#T01_ins
     
 	Unterbrechen Sie während des Updates nicht die Stromversorgung.
 
-
 ![](/assets/img/ProIIStick_Firmware_installing.png)
 
 !!! tip "Hinweis"

@@ -116,12 +116,9 @@ QuattroPod Standard-Sender (T01) | [Herunterladen](firmware-reinstall.md#T01_ins
 
 * Während der Aktualisierung des Empfängers erscheint folgende Meldung:
 
-![](/assets/img/Update.R01.png)
-
 !!! warning "Achtung"
     
 	Unterbrechen Sie während des Updates nicht die Stromversorgung.
-
 
 ![](/assets/img/ProIIStick_Firmware_installing.png)
 

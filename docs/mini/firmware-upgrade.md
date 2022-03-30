@@ -121,12 +121,9 @@ QuattroPod Mini-Sender (T02) | [Herunterladen](firmware-reinstall.md#T02_install
 
 * Während der Aktualisierung des Empfängers erscheint folgende Meldung:
 
-![](/assets/img/Update.R01.png)
-
 !!! warning "Achtung"
     
 	Unterbrechen Sie während des Updates nicht die Stromversorgung.
-
 
 ![](/assets/img/ProIIStick_Firmware_installing.png)
 
