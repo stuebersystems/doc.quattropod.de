@@ -283,6 +283,7 @@ nav:
     - Anleitungen nach<br>Streamingprotokoll:
         - "Anleitung: AirPlay": m1/airplay.md     
         - "Anleitung: Chromecast": m1/chromecast.md
+        - "Anleitung: Miracast": m1/miracast.md
     - CMS (Central Management System): m1/cms.md    
     - Erweiterte Funktionen:
         - AirView: m1/airview.md

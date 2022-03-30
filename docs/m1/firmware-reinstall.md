@@ -10,6 +10,7 @@ Mit dem CMS ([Central Management System](cms.md)) können Sie die Firmware auf d
 
 Firmware                  | Empfänger M1 | Bemerkung
 ------------------------- | ------------ | ------------
+1.14366.99 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/M1/M1_1.14366.99.gz)
 1.12412.51 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/M1/M1_1.12412.51.gz)
 
 * Wählen Sie die gewünschten Geräte aus, anschließend klicken Sie auf die Schaltfläche `Remote` -> und die Funktion `Device Firmware upgrade`.

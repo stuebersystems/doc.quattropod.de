@@ -72,7 +72,7 @@ Mit Hilfe der Funktion [Erweiterte Einstellungen](adv.settings.md) können Sie s
 
 Nach dem Zurücksetzen werden Sie bei der ersten Anmeldung auf der Funktion [Erweiterte Einstellungen](adv.settings.md) aufgefordert, das Admin-Kennwort zu ändern. Standardmäßig lautet es `000000`. Wir empfehlen, dass Sie anschließend die folgenden empfohlenen Einstellungen überprüfen:
 
-Firmware-Version: [1.12412.51](whatsnew.md#20211103-11241251)
+Firmware-Version: [1.14366.99](whatsnew.md#20220301-11436699)
 
 **Gerätemanagement**
 
@@ -82,6 +82,9 @@ Firmware-Version: [1.12412.51](whatsnew.md#20211103-11241251)
 **Admineinstellungen**
 
 * [WLAN-Modus](adv.settings.md#WiFi-Mode): `Land = EUROPE`, `Kanal = Auto`, `Bandbreite = 20MHz`
+* [AirView](adv.settings.md#AirView): `EIN`
+* [Miracast Support](miracast.md): `EIN`
+* [Miracast PIN](miracast.md): `EIN`
 * [Castcode](adv.settings.md#castcode): `Zufällig`
 * [Mein Bildschirm](adv.settings.md#Mein-Bildschirm): Unsere Hintergrundbilder in der deutschen Sprache:
 
