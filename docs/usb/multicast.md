@@ -120,9 +120,13 @@ Um Ihre QuattroPod-Geräte wieder in den Standardmodus zurückzukehren, muss die
 
 ![](/assets/img/restart.png)
 
-* Nach dem Neustart startet der Empfänger im Multicast-Modus. Die angegebene Multicast-Gruppe und das verbundene WLAN werden oben angezeigt:
+* Nach dem Neustart kehrt der QuattroPod in den normalen Betriebsmodus zurück. Die SSID und das Kennwort werden oben angezeigt:
 
-![](/assets/img/Multicast_activated.png)
+![](/assets/img/quattropod.landing.normalmode.png)
+
+!!! tip "Hinweis"
+    
+	Nachdem Sie Multicast deaktiviert haben, muss der Sender mit dem Empfänger neu [gekoppelt](pairing.md) werden.
 
 #### Host/Casting Einstellungen überprüfen
 
@@ -215,9 +219,13 @@ Ihr Bildschirm wird auf mehrere Monitore übertragen.
 
 ![](/assets/img/multicast.reboot.png)
 
-* Nach dem Neustart startet der Empfänger im Standard-Modus. Die SSID des QuatroPod-Empfängers wird wieder angezeigt:
+* Nach dem Neustart kehrt der QuattroPod in den normalen Betriebsmodus zurück. Die SSID und das Kennwort werden oben angezeigt:
 
-![](/assets/img/quattropod.landingpage.ssid.png)
+![](/assets/img/quattropod.landing.normalmode.png)
+
+!!! tip "Hinweis"
+    
+	Nachdem Sie Multicast deaktiviert haben, muss der Sender mit dem Empfänger neu [gekoppelt](pairing.md) werden.
 
 #### Host/Casting Einstellungen überprüfen
 
