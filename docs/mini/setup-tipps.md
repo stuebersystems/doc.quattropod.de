@@ -14,13 +14,13 @@ Der QuattroPod wird mit einem 5V/2A USB-Netzteil geliefert. Als Ersatzteil kann 
 
 Das **Samsung Netzteil (5V/2A)** können Sie bei Bedarf über uns erwerben:
 
-![Samsung USB-Netzteil](/assets/img/Samsung.USB-Netzteil.jpg)
+![Samsung USB-Netzteil](/assets/img/Samsung.USB-power-supply.jpg)
 
 ### Stromkabel USB 2.0 Typ A Stecker zu 5,5/2,1 mm 
 
 USB-Stromkabel für den Empfänger kann durch das **USB 2.0 Typ A Stecker zu 5,5/2,1 mm** können Sie bei Bedarf über uns erwerben:
 
-![USB 2.0 Typ A Stecker zu 5,5/2,1 mm](/assets/img/USB-2.0-TypA-Stecker-to-5.5-2.1mm.jpg)
+![USB 2.0 Typ A Stecker zu 5,5/2,1 mm](/assets/img/USB-2.0-typeA-plug-to-5.5-2.1mm.jpg)
 
 ## Kabel und Zubehöre
 
@@ -30,11 +30,11 @@ Wenn der Beamer an der Decke hängt und nur das Stromkabel vom Beamer zur Verfü
 
 Mit einem **C14 to C13+Euro Y Type Splitter Adapter** können Sie das Kaltgerätekabel in Euro-Steckdose und C13-Kabel verwandeln. Dies in Kombination mit dem [Netzteil](#powersupply) kann Strom für beide Geräte ermöglichen.
 
-![C14 to C13+Euro Y Type Splitter Adapter](/assets/img/C14.to.C13undEuroYType-Splitter-Adapter.png)
+![C14 to C13+Euro Y Type Splitter Adapter](/assets/img/C14.to.C13andEuroYType-Splitter-Adapter.png)
 
-![C14 to C13+Euro Y Type Splitter Adapter](/assets/img/C14toC13undEuroYType1.png)
+![C14 to C13+Euro Y Type Splitter Adapter](/assets/img/C14toC13andEuroYType1.png)
 
-![C14 to C13+Euro Y Type Splitter Adapter](/assets/img/C14toC13undEuroYType2.png)
+![C14 to C13+Euro Y Type Splitter Adapter](/assets/img/C14toC13andEuroYType2.png)
 
 
 ### Befestigung für den Empfänger
