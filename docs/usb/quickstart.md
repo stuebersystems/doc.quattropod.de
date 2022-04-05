@@ -58,7 +58,7 @@ Die folgende Startseite erscheint auf Ihrem Bildschirm:
 
 ![](/assets/img/QSG-TypeA.Windows.png)
 
-**Software: USB WiFi Cast**
+**Software installieren: USB WiFi Cast**
 
 * Sie müssen einmalig die Software **USB WiFi Cast** installieren. Beim Anschließen des Senders im Type-A-Modus öffnet sich ein CD-Laufwerk. Unter macOS führen Sie die `USB WiFi Cast` .pkg-Datei aus. Unter Windows führen Sie die `USB Launcher` .exe-Datei als Administrator aus:
 
