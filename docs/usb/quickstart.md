@@ -54,17 +54,19 @@ Die folgende Startseite erscheint auf Ihrem Bildschirm:
 
 	Zur Installation der Software **USB WiFi Cast**  unter Type-A Modus sind **Administratorrechte erforderlich**.
 	 
-* Schließen Sie den USB-A-Adapter an den Sender an und schalten Sie den Sender auf `Type-A` um. Schließen Sie den Sender an einen USB-A-Port Ihres Windows/macOS-Rechners an. Die Bildschirmübertragung erfolgt automatisch:
+* Schließen Sie den USB-A-Adapter an den Sender an und schalten Sie den Sender auf `Type-A` um. Schließen Sie den Sender an einen USB-A-Port Ihres Windows/macOS-Rechners an:
 
 ![](/assets/img/QSG-TypeA.Windows.png)
 
 **Software: USB WiFi Cast**
 
-* Sie müssen einmalig die Software **USB WiFi Cast** installieren. Beim Anschließen des Senders im Type-A öffnet sich ein CD-Laufwerk. Unter macOS führen Sie `USB WiFi Cast` als Administrator aus. Unter Windows führen Sie `USB Launcher` aus:
+* Sie müssen einmalig die Software **USB WiFi Cast** installieren. Beim Anschließen des Senders im Type-A-Modus öffnet sich ein CD-Laufwerk. Unter macOS führen Sie die `USB WiFi Cast` .pkg-Datei aus. Unter Windows führen Sie die `USB Launcher` .exe-Datei als Administrator aus:
 
 ![](/assets/img/QSG-QP.USB.Launcher.runasadministrator.png)
 
-Wenn die Software **USB WiFi Cast** auf Ihrem Gerät bereits vorhanden ist, erfolgt die Bildschirmübertragung standardmäßig automatisch. Sie kann auch aus Ihrem Programme-Menü manuell gestartet werden. 
+Wenn die Software **USB WiFi Cast** auf Ihrem Gerät bereits vorhanden ist, erfolgt die Bildschirmübertragung standardmäßig automatisch. Sie kann auch aus Ihrem Start-Menü manuell gestartet werden. 
+
+![](/assets/img/USB-WiFi.Cast.icon.png)
 
 ## Bildschirmübertragung im Mobil-Modus {#mobilemode}
 
