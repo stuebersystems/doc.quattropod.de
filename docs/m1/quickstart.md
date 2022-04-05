@@ -28,7 +28,7 @@ Die folgende Startseite erscheint auf Ihrem Bildschirm:
 
      Der Sender ermöglicht ein einfaches Spiegeln Ihres Bildschirms. Wenn Sie Ihre Inhalte jedoch lieber ohne einen Sender spiegeln möchten, klicken Sie [hier](#withouttransmitter).
 	 
-Wie Sie Ihrem Bildschirn über einen Sender zum QuattroPod M1 übertragen, können Sie der ausführlichen Dokumentation für Ihren Sender entnehmen.
+Wie Sie Ihren Bildschirm über einen Sender zum QuattroPod M1 übertragen, können Sie der ausführlichen Dokumentation für Ihren Sender entnehmen.
 
 
 <div class="md-showcase">
