@@ -20,7 +20,7 @@ Dabei benötigen Sie einen [Internetzugang](internet.md) zum Internet bzw. mit I
 ![Sender auf PC umschalten](/assets/img/Pairing.USBC.jpg)
 
 
-### In der Web-Oberfläche anmelden
+### Sich in der Web-Oberfläche anmelden
 
 Die Aktualisierung wird über die Web-Oberfläche in einem beliebigen Web-Browser durchgeführt.
 
@@ -66,15 +66,13 @@ Die Aktualisierung wird über die Web-Oberfläche in einem beliebigen Web-Browse
 
 ![Koppeln abgeschlossen](/assets/img/Pairing5.jpg)
 
-
 ## Sender Type-A aktualisieren
 
 * Schließen Sie den USB-A-Adapter an den Sender an und schalten Sie den Sender auf `Type-A` um. Schließen Sie den Sender an den USB-A-Port des Empfängers an:
 
 ![Sender auf PC umschalten](/assets/img/Pairing.USBA.jpg)
 
-
-### In der Web-Oberfläche anmelden
+### Sich in der Web-Oberfläche anmelden
 
 Die Aktualisierung wird über die Web-Oberfläche in einem beliebigen Web-Browser durchgeführt.
 
@@ -94,7 +92,7 @@ Die Aktualisierung wird über die Web-Oberfläche in einem beliebigen Web-Browse
 
 ![](/assets/img/QuattroPod-Login.png)
 
-### Aktualisierung starten
+### Firmware-Aktualisierung starten
 
 * Klicken Sie auf `Admineinstellungen`:
 
@@ -114,7 +112,15 @@ Die Aktualisierung wird über die Web-Oberfläche in einem beliebigen Web-Browse
 
 !!! tip "Hinweis"
     
-	Sollten der Sender nach der Firmware-Aktualisierung nicht mit dem Empfänger verbinden können, müssen sie neu [gekoppelt](pairing.md) werden.
+	Sollte der Sender nach der Firmware-Aktualisierung nicht mit dem Empfänger verbinden können, müssen sie neu [gekoppelt](pairing.md) werden.
+
+### Software USB WiFi Cast aktualisieren
+
+* Nach der Aktualisierung der Firmware steht ein Update der Software **USB WiFi Cast** zur Verfügung. Beim Anschließen des Senders im Type-A-Modus öffnet sich ein CD-Laufwerk. Unter macOS führen Sie die `USB WiFi Cast` .pkg-Datei aus. Unter Windows führen Sie die `USB Launcher` .exe-Datei als Administrator aus:
+
+![](/assets/img/QSG-QP.USB.Launcher.runasadministrator.png)
+
+* Nach der Installation der Software starten Sie den Computer neu.
 
 ## Firmware über Internet mit dem CMS installieren
 
