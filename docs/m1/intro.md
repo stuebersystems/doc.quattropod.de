@@ -29,6 +29,19 @@ Für einen kompakten Produktvergleich mit den anderen Modell-Varianten aus der Q
 | Betriebstemperatur | 0~40°C | 
 | Lagertemperatur | -20~70°C | 
  
+## Datenblatt
+
+!!! info "QuattroPod M1 - Datenblatt"
+
+    [![QuattroPod M1 Datenblatt][4]{: align=left }][5]
+	
+	Ein doppelseitiges PDF zum Teilen oder Ausdrucken.
+	
+	[Zum Datenblatt (PDF)][5]
+
+  [4]: /assets/img/quattropod.m1.brochure.de.png
+  [5]: https://download.stueber.de/doc/de/quattropod/quattropod-m1.brochure.de.pdf
+  
 ## EG Konformitätserklärung
 
 Die EG Konformitätserklärung für den [QuattroPod M1](https://download.stueber.de/doc/de/quattropod/quattropodm1.konformitaetserklaerung.pdf) erklärt die Konformität mit europäischen Richtlinien.
