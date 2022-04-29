@@ -104,7 +104,7 @@ Wenn der Empfänger und der Sender richtig angeschlossen sind, wird die Startsei
 
 !!! tip "Hinweis"
 
-     Der Sender ermöglicht ein einfaches Spiegeln Ihres Bildschirms. ## Bildschirmübertragung ohne Sender {#withouttransmitter}en Sender spiegeln möchten, können Sie ein [Streamingprotokoll](#a-streamingprotokollen) verwenden.
+     Der Sender ermöglicht ein einfaches Spiegeln Ihres Bildschirms. Wenn Sie Ihre Inhalte jedoch lieber ohne einen Sender spiegeln möchten, klicken Sie [hier](#withouttransmitter).
 	 
 * Schließen Sie den Sender an einen USB-Port (5V1A) bzw. an das Netzteil Ihres Apple-Geräts an. Schließen Sie anschließend Ihr iOS-Gerät an den USB-Port des Senders an.
 
@@ -126,13 +126,13 @@ Wenn der Empfänger und der Sender richtig angeschlossen sind, wird die Startsei
 
 Mit QuattroPod stehen Ihnen zwei Möglichkeiten ohne den Sender zur Verfügung:
 
-* Wer nur schnell seinen Bildschirm übertragen möchte, kann nach dem Prinzip Bring Your Own Device (BYOD) sofort loslegen, indem er die eingebaute Bildschirmübertragungsfunktionalität seines Gerätes bzw. Streamingprotokollen verwendet. Das heißt in diesem Fall müssen Sie gar keine App herunterladen!
+* Wer nur schnell seinen Bildschirm übertragen möchte, kann nach dem Prinzip Bring Your Own Device (BYOD) sofort loslegen, indem er die eingebaute Bildschirmübertragungsfunktionalität seines Gerätes bzw. Streamingprotokolle verwendet. Das heißt in diesem Fall müssen Sie gar keine App herunterladen!
 
 * Die kostenlose QuattroPod App bietet Ihnen eine intuitive Oberfläche zur Bildschirmübertragung Ihres Android-Gerätes.
 
-### a) Streamingprotokollen
+### a) Streamingprotokolle {#streamingprotocols}
  
-Unterstützt werden alle gängigen Streamingprotokollen. Umfassende Anleitungen nach Ihrem gewünschten Protokoll sind unter folgenden Links zu finden:
+Unterstützt werden alle gängigen Streamingprotokolle. Umfassende Anleitungen nach Ihrem gewünschten Protokoll sind unter folgenden Links zu finden:
 
 * [AirPlay](airplay.md) unter iOS und macOS.
 

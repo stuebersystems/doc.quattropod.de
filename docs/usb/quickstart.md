@@ -74,7 +74,7 @@ Wenn die Software **USB WiFi Cast** auf Ihrem Gerät bereits vorhanden ist, erfo
 
 !!! tip "Hinweis"
 
-	Der Sender ermöglicht ein einfaches Spiegeln Ihres Bildschirms über das Lightning-Kabel. Wenn Ihr iOS-Gerät über einen USB-C-Anschluss verfügt, klicken Sie [hier](#android-ios_typec). Bildschirmübertragung ohne Sender {#withouttransmitter}en Sender spiegeln möchten, können Sie ein [Streamingprotokoll](#a-streamingprotokollen) verwenden.
+	Der Sender ermöglicht ein einfaches Spiegeln Ihres Bildschirms über das Lightning-Kabel. Wenn Ihr iOS-Gerät über einen USB-C-Anschluss verfügt, klicken Sie [hier](#android-ios_typec). Bildschirmübertragung ohne Sender {#withouttransmitter}en Sender spiegeln möchten, können Sie ein [Streamingprotokoll](#streamingprotocols) verwenden.
 	 
 * Schließen Sie den USB-A-Adapter an den Sender an und schalten Sie den Sender auf `Mobile` um. Schließen Sie den Sender an einen USB-Port (5V,1A) bzw. an das Netzteil Ihres Apple-Geräts an. Schließen Sie anschließend Ihr iOS-Gerät an den USB-Port des Senders an. 
 
@@ -127,13 +127,13 @@ Sie müssen einmalig USB-Debugging freischalten, anschließend den Sender anschl
 
 Mit QuattroPod stehen Ihnen zwei Möglichkeiten ohne den Sender zur Verfügung:
 
-* Wer nur schnell seinen Bildschirm übertragen möchte, kann nach dem Prinzip Bring Your Own Device (BYOD) sofort loslegen, indem er die eingebaute Bildschirmübertragungsfunktionalität seines Gerätes bzw. Streamingprotokollen verwendet. Das heißt in diesem Fall müssen Sie gar keine App herunterladen!
+* Wer nur schnell seinen Bildschirm übertragen möchte, kann nach dem Prinzip Bring Your Own Device (BYOD) sofort loslegen, indem er die eingebaute Bildschirmübertragungsfunktionalität seines Gerätes bzw. Streamingprotokolle verwendet. Das heißt in diesem Fall müssen Sie gar keine App herunterladen!
 
 * Die kostenlose QuattroPod App bietet Ihnen eine intuitive Oberfläche zur Bildschirmübertragung Ihres Android-Gerätes.
 
-### a) Streamingprotokollen
+### a) Streamingprotokolle {#streamingprotocols}
  
-Unterstützt werden alle gängigen Streamingprotokollen. Umfassende Anleitungen nach Ihrem gewünschten Protokoll sind unter folgenden Links zu finden:
+Unterstützt werden alle gängigen Streamingprotokolle. Umfassende Anleitungen nach Ihrem gewünschten Protokoll sind unter folgenden Links zu finden:
 
 * [AirPlay](airplay.md) unter iOS und macOS.
 

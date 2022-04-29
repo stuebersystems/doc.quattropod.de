@@ -47,13 +47,13 @@ Die folgende Startseite erscheint auf Ihrem Bildschirm:
 
 Mit QuattroPod stehen Ihnen zwei Möglichkeiten ohne den Sender zur Verfügung:
 
-* Wer nur schnell seinen Bildschirm übertragen möchte, kann nach dem Prinzip Bring Your Own Device (BYOD) sofort loslegen, indem er die eingebaute Bildschirmübertragungsfunktionalität seines Gerätes bzw. Streamingprotokollen verwendet. Das heißt in diesem Fall müssen Sie gar keine App herunterladen!
+* Wer nur schnell seinen Bildschirm übertragen möchte, kann nach dem Prinzip Bring Your Own Device (BYOD) sofort loslegen, indem er die eingebaute Bildschirmübertragungsfunktionalität seines Gerätes bzw. Streamingprotokolle verwendet. Das heißt in diesem Fall müssen Sie gar keine App herunterladen!
 
 * Die kostenlose QuattroPod App bietet Ihnen eine intuitive Oberfläche zur Bildschirmübertragung Ihres Android-Gerätes.
 
-### a) Streamingprotokollen
+### a) Streamingprotokolle {#streamingprotocols}
  
-Unterstützt werden alle gängigen Streamingprotokollen. Umfassende Anleitungen nach Ihrem gewünschten Protokoll sind unter folgenden Links zu finden:
+Unterstützt werden alle gängigen Streamingprotokolle. Umfassende Anleitungen nach Ihrem gewünschten Protokoll sind unter folgenden Links zu finden:
 
 * [AirPlay](airplay.md) unter iOS und macOS.
 
