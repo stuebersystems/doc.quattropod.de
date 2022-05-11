@@ -18,7 +18,7 @@ Drücken Sie die Tastenkombination `[Windows]` + `[K]`, um das Dialogfenster `VE
 
 ![QuattroPod auswählen](/assets/img/QP-Windows_Miracast_Select_Device.png)
 
-Der Aufbau der Miracastverbindung dauert 5 bis 10 Sekunden. Es wird dann `Verbunden` angezeigt:
+Der Aufbau der Miracast-Verbindung dauert 5 bis 10 Sekunden. Es wird dann `Verbunden` angezeigt:
 
 ![Miracast-Verbindung wird hergestellt](/assets/img/QP-Windows_Miracast_connected.png)
 
