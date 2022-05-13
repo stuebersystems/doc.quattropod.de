@@ -50,9 +50,16 @@ Die folgende Startseite erscheint auf Ihrem Bildschirm:
 
 ### Windows / macOS im Type-A Sendermodus
 
-!!! tip "Hinweis"
+!!! hint "Anleitung: Bildschirmübertragung mit dem QuattroPod USB-A Sender"
 
-	Zur Installation der Software **USB WiFi Cast**  unter Type-A Modus sind **Administratorrechte erforderlich**.
+    [![CMS Einführungsvideo][1]{: align=left }][2]
+	
+	Anleitung: Bildschirmübertragung mit dem QuattroPod USB-A Sender.
+	
+	[Video ansehen][2]
+
+  [1]: /assets/img/video.QuattroPodUSB.userguide.USBA.png
+  [2]: https://assets.stueber.de/videos/qp-usba.user-guide.de.mp4
 	 
 * Schließen Sie den USB-A-Adapter an den Sender an und schalten Sie den Sender auf `Type-A` um. Schließen Sie den Sender an einen USB-A-Port Ihres Windows/macOS-Rechners an:
 
@@ -60,6 +67,10 @@ Die folgende Startseite erscheint auf Ihrem Bildschirm:
 
 **Software installieren: USB WiFi Cast**
 
+!!! tip "Hinweis"
+
+	Zur Installation der Software **USB WiFi Cast**  unter Type-A Modus sind **Administratorrechte erforderlich**.
+	
 * Sie müssen einmalig die Software **USB WiFi Cast** installieren. Beim Anschließen des Senders im Type-A-Modus öffnet sich ein CD-Laufwerk. Unter macOS führen Sie die `USB WiFi Cast` .pkg-Datei aus. Unter Windows führen Sie die `USB Launcher` .exe-Datei als Administrator aus:
 
 ![](/assets/img/QSG-QP.USB.Launcher.runasadministrator.png)
