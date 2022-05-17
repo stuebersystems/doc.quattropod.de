@@ -1,6 +1,6 @@
 # Über Miracast verbinden
 
-Mit Miracast haben Sie die Möglichkeit, Windows-Geräte (Windows 8.1 oder höher) oder Android-Geräte (Android 4.4 oder höher) mit dem QuattroPod ohne Hardware-Sender zu präsentieren. 
+Mit Miracast haben Sie die Möglichkeit, Windows-Geräte (Windows 8.1 oder höher) oder Android-Geräte (Android 4.4 oder höher) mit dem QuattroPod ohne Hardware-Sender zu präsentieren. Der QuattroPod ermöglicht es bis zu vier Geräte inkl. Geräte über das Miracast-Protokoll auf einem aufgeteilten Bildschirm gemeinsam zu übertragen, ohne einen Sender zu benötigen.
 
 ## Miracast mit QuattroPod aktivieren
 
@@ -44,3 +44,27 @@ Auf Ihrem Android-Gerät streichen Sie vom unteren Bildschirmrand nach oben, um 
 
 ![Screen Mirroring](/assets/img/miracast.android.png)
 
+## Weitere Informationen zur Funktion Miracast Support (AGO-Modus) {#ago-mode}
+
+Mit der Firmware [1.14366.62](whatsnew.md#20220111-11436662) wurde die Unterstützung fürs Streamingprotokoll Miracast, auch bekannt als AGO-Modus (Autonomous Group Owner in englischer Sprache), eingeführt, um eine Bildschirmübertragung nativ, also ohne Sender bzw. zusätzliche App/Software, von bis zu 4 Geräten einschließlich Miracast-Geräten auf einem geteilten Bildschirm zu ermöglichen. In diesem Modus gelten die folgenden Eigenschaften:
+
+* Der geteilte Bildschirm unterstützt alle Streamingprotokolle mit bis zu 4 Geräten einschließlich Miracast-Geräten. 
+* Die SSID bzw. der Gerätename kann geändert werden, aber enthält immer vorne den Präfix "DIRECT-", beispielsweise `DIRECT-Raum_001`. 
+* Das Kennwort kann nicht ausgeblendet werden. Um das Kennwort auszublenden, [deaktivieren](adv.settings.md#Miracast) Sie bitte zuerst die Funktion `Miracast Support`, dann stellen Sie das Ausblenden des Kennworts ein, anschließend [aktivieren](adv.settings.md#Miracast) Sie wieder die Funktion `Miracast Support`.
+* [Infracast](https://docs.microsoft.com/de-de/surface-hub/miracast-over-infrastructure) wird nicht unterstützt.
+* Das Kennwort kann nicht in diesem Modus geändert werden. Um das Kennwort zu ändern, [deaktivieren](adv.settings.md#Miracast) Sie bitte zuerst die Funktion `Miracast Support`, dann nehmen Sie die Änderung des Kennworts vor, anschließend [aktivieren](adv.settings.md#Miracast) Sie wieder die Funktion `Miracast Support`.
+* Während der Bildschirmübertragung eines Miracast-Gerätes bleiben alle Netzwerkschnittstellen erreichbar und alle Funktionen stehen weiterhin zur Verfügung.
+
+## P2P (Peer-to-Peer)
+
+Der QuattroPod-Standard verwendet den WiFi-Direct-Standard P2P (Peer-to-Peer), der ein direktes Verbinden zweier WLAN-fähiger Geräte ohne zwischengeschalteten Access Point (AP) gestattet. Es gelten die folgenden Eigenschaften:
+
+* Wird ab Windows 8.1 oder höher unterstützt.
+* Keine WLAN-Infrastruktur erfolderlich.
+* Maximalabstand von 30 Meter zwischen dem QuattroPod und dem Endbenutzer muss berücksichtigt werden.
+
+Es ist möglich während der Bildschirmübertragung, mithilfe des Windows Task-Managers festzustellen, ob ein PC über P2P verbunden ist: 
+
+* Öffnen Sie den Task-Manager und wählen Sie die Registerkarte `Leistung`. Wenn P2P in Verwendung ist, wird die SSID bzw. der Gerätename des QuattroPods unter einem zusätzlichen Netzwerkadapter **Wi-Fi Direct** angezeigt und wird mit dem Präfix `DIRECT-` ergänzt:
+
+![](/assets/img/D10.BF8E0C84.NGO-mode.Space-in-SSID.png)
