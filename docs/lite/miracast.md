@@ -44,7 +44,7 @@ Auf Ihrem Android-Gerät streichen Sie vom unteren Bildschirmrand nach oben, um 
 
 Es gibt zwei Arten von Miracast-Verbindungen, **P2P** und **Infracast**, die von Windows 10-Geräten aus möglich sind:
 
-## P2P (Peer-to-Peer)
+### P2P (Peer-to-Peer)
 
 Der WiFi-Direct-Standard (Peer-to-Peer), der ein direktes Verbinden zweier WLAN-fähiger Geräte ohne zwischengeschalteten Access Point (AP) gestattet. Es gelten die folgenden Eigenschaften:
 
@@ -58,7 +58,7 @@ Es ist möglich während der Bildschirmübertragung, mithilfe des Windows Task-M
 
 ![](/assets/img/D10.BF8E0C84.NGO-mode.Space-in-SSID.png)
 
-## Infracast (Miracast über Infrastruktur)
+### Infracast (Miracast über Infrastruktur)
 
 Die Daten der Bildschirmübertragung werden über ein lokales Netzwerk anstatt über eine P2P-Verbindung gesendet. Weitere Informationen sind im [Microsoft-Artikel](https://docs.microsoft.com/de-de/surface-hub/miracast-over-infrastructure) zu finden.
 
