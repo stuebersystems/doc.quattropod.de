@@ -12,7 +12,7 @@ Aktivieren Sie die Funktion `Miracast Support` unter `Admineinstellungen` über 
 
 Um Miracast mit dem QuattroPod zu verbinden, stellen Sie sicher, dass der Empfänger eingeschalten ist und die Startseite auf dem Bildschirm angezeigt ist.
 
-![QuattroPod](/assets/img/quattropod.landingpage.direct.png)
+![QuattroPod](/assets/img/quattropod.lite.landingpage.png)
 
 Drücken Sie die Tastenkombination `[Windows]` + `[K]`, um das Dialogfenster `VERBINDEN` aufzurufen. Wählen Sie den QuattroPod aus:
 
