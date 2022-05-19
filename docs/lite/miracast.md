@@ -1,6 +1,6 @@
 # Über Miracast verbinden
 
-Mit Miracast haben Sie die Möglichkeit, Windows-Geräte (Windows 8.1 oder höher) oder Android-Geräte (Android 4.4 oder höher) mit dem QuattroPod ohne Hardware-Sender zu präsentieren. Der QuattroPod Lite unterstützt die Bildschirmübertragung eines Gerätes über das Miracast-Protokoll, ohne einen Sender zu benötigen.
+Mit Miracast haben Sie die Möglichkeit, Windows-Geräte (Windows 8.1 oder höher) oder Android-Geräte (Android 4.4 oder höher) mit dem QuattroPod ohne Hardware-Sender zu präsentieren.
 
 ## Miracast mit QuattroPod aktivieren
 
@@ -34,19 +34,27 @@ Um die Miracast-Anzeige zu trennen, rufen Sie das Dialogfenster erneut `VERBINDE
 
 Um Miracast mit dem QuattroPod zu verbinden, stellen Sie sicher, dass der Empfänger eingeschalten ist und die Startseite auf dem Bildschirm angezeigt ist.
 
-![QuattroPod Startseite](/assets/img/quattropod.landingpage.direct.png)
+![QuattroPod](/assets/img/quattropod.lite.landingpage.png)
 
 Auf Ihrem Android-Gerät streichen Sie vom unteren Bildschirmrand nach oben, um das **Kontrollzentrum** aufzurufen und wählen Sie die Anwendung zur Bildschirmübertragung. Bei den meisten Geräten heißt es `Drahtlosprojektion`, `Smart View` oder auch `Screen Mirroring`. Wählen Sie anschließend Ihr QuattroPod Gerät aus. Um die Bildschirmübertragung zum beenden, wählen Sie `Trennen` in selben Bereich.
 
 ![Screen Mirroring](/assets/img/miracast.android.png)
 
-## P2P vs. Infracast {#p2p_vs_infracast}
+## Weitere Informationen zur Funktion Miracast Support (NGO-Modus) {#ngo-mode}
 
-Es gibt zwei Arten von Miracast-Verbindungen, **P2P** und **Infracast**, die von Windows 10-Geräten aus möglich sind:
+Mit der Firmware [1.14366.90](whatsnew.md#20220302-11436690) wurde die Unterstützung fürs Streamingprotokoll Miracast, auch bekannt als NGO-Modus (Negotiated Group Owner in englischer Sprache), eingeführt, um eine Bildschirmübertragung nativ, also ohne Sender bzw. zusätzliche App/Software, von einem Miracast-Gerät auf den großen Bildschirm/Beamer zu ermöglichen. In diesem Modus gelten die folgenden Eigenschaften:
 
-### P2P (Peer-to-Peer)
+* Mit dem QuattroPod Lite wird die Bildschirmübertragung von nur einem Gerät unterstützt. Gleichzeitiges Senden (Splitscreen mit bis zu 4 Geräten) wird mit QuattroPod [USB](https://www.quattropod.de/usb.php), [Mini](https://www.quattropod.de/mini.php), [Standard](https://www.quattropod.de/standard.php), [Deluxe](https://www.quattropod.de/deluxe.php) und [M1](https://www.quattropod.de/m1.php) unterstützt.
+* [Infracast](https://docs.microsoft.com/de-de/surface-hub/miracast-over-infrastructure) wird nicht unterstützt.
+* Während der Bildschirmübertragung eines Miracast-Gerätes werden alle Netzwerkschnittstellen belegt, kein weiteres Endgerät kann gespiegelt werden und die folgenden Funktionen **stehen nicht zur Verfügung**:
+	* [CMS (Central Management System)](cms.md).
+    * [AirView](airview.md).
+    * [Konferenzsteuerung](conference-control.md).
+    * Die Web-Oberfläche der [Einstellungen](adv.settings.md).
 
-Der WiFi-Direct-Standard (Peer-to-Peer), der ein direktes Verbinden zweier WLAN-fähiger Geräte ohne zwischengeschalteten Access Point (AP) gestattet. Es gelten die folgenden Eigenschaften:
+## P2P (Peer-to-Peer)
+
+Der QuattroPod-Lite verwendet den WiFi-Direct-Standard P2P (Peer-to-Peer), der ein direktes Verbinden zweier WLAN-fähiger Geräte ohne zwischengeschalteten Access Point (AP) gestattet. Es gelten die folgenden Eigenschaften:
 
 * Wird ab Windows 8.1 oder höher unterstützt.
 * Keine WLAN-Infrastruktur erfolderlich.
@@ -54,32 +62,7 @@ Der WiFi-Direct-Standard (Peer-to-Peer), der ein direktes Verbinden zweier WLAN-
 
 Es ist möglich während der Bildschirmübertragung, mithilfe des Windows Task-Managers festzustellen, ob ein PC über P2P verbunden ist: 
 
-* Öffnen Sie den Task-Manager und wählen Sie die Registerkarte `Leistung`. Wenn P2P in Verwendung ist, wird die SSID bzw. der Gerätename des QuattroPods Gerätes unter einem zusätzlichen Netzwerkadapter **Wi-Fi Direct** angezeigt und wird mit dem Präfix `DIRECT-` ergänzt:
+* Öffnen Sie den Task-Manager und wählen Sie die Registerkarte `Leistung`. Wenn P2P in Verwendung ist, wird eine SSID unter einem zusätzlichen Netzwerkadapter **Wi-Fi Direct** angezeigt und wird mit dem Präfix `DIRECT-` ergänzt:
 
-![](/assets/img/D10.BF8E0C84.NGO-mode.Space-in-SSID.png)
-
-### Infracast (Miracast über Infrastruktur)
-
-Die Daten der Bildschirmübertragung werden über ein lokales Netzwerk anstatt über eine P2P-Verbindung gesendet. Weitere Informationen sind im [Microsoft-Artikel](https://docs.microsoft.com/de-de/surface-hub/miracast-over-infrastructure) zu finden.
-
-Eine Miracast-Verbindung mit dem QuattroPod über Infrastruktur wird hergestellt, sofern folgende Voraussetzungen erfüllt sind:
-
-* Wird ab Windows 10 Version 1703 und höher unterstützt.
-* Die SSID bzw. der Gerätename des QuattroPods darf kein Leerzeichen enthalten:
-    * RICHTIG: `Raum_001`
-    * FALSCH: `Raum 001`
-* Es werden auch Windows-Geräte über LAN-Kabel unterstützt.
-* Es wird kein PIN bzw. kein Sicherheitscode unterstützt.
-* Das Windows-Gerät und der QuattroPod müssen sich im gleichen Netzwerk befinden.
-* Maximalabstand von 30 Meter zwischen dem QuattroPod und dem AccessPoint muss berücksichtigt werden.
-	
-Für den Endbenutzer ist der Prozess zur Initiierung einer Miracast-P2P oder Infracast-Verbindung gleich. Man drückt die Tastenkombination `[Windows]` + `[K]`, um das Dialogfenster `VERBINDEN` aufzurufen, dann wählt man den Empfänger aus der Liste der verfügbaren Geräte aus. 
-
-Während der Bildschirmübertragung ist es mithilfe des Windows Task-Managers möglich festzustellen, ob ein PC über Infracast verbunden ist: 
-
-* Öffnen Sie den Task-Manager und wählen Sie die Registerkarte `Leistung`.
-
-Wenn Infracast in Verwendung ist, wird nur der bisherige Netzwerkadapter mit Angaben zu Ihrer Infrastruktur angezeigt:
-
-![](/assets/img/D10_BF8E0C84.NGO-mode.No-Space-in-SSID.png)
+![](/assets/img/ngo_quattropod_lite.png)
 

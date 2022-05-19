@@ -67,4 +67,4 @@ Es ist möglich während der Bildschirmübertragung, mithilfe des Windows Task-M
 
 * Öffnen Sie den Task-Manager und wählen Sie die Registerkarte `Leistung`. Wenn P2P in Verwendung ist, wird die SSID bzw. der Gerätename des QuattroPods unter einem zusätzlichen Netzwerkadapter **Wi-Fi Direct** angezeigt und wird mit dem Präfix `DIRECT-` ergänzt:
 
-![](/assets/img/D10.BF8E0C84.NGO-mode.Space-in-SSID.png)
+![](/assets/img/p2p_direct_quattropod.png)
