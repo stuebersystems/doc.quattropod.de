@@ -229,7 +229,7 @@ Nutzen Sie diese Funktion, um den Empfänger und die Sender auf die Standardeins
 
 Nutzen Sie diese Option, um eine Übersicht des QuattroPods, aller verbundenen Sender und Netzwerkinformationen dazu zu erhalten.
 
-![Über](/assets/img/About.jpg)
+![Über](/assets/img/About.png)
 
 
 

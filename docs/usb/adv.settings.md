@@ -277,7 +277,7 @@ Wenn Ihr Sender sich nach dem Zurücksetzen nicht freischalten lässt, überprü
 
 Nutzen Sie diese Option, um eine Übersicht des QuattroPods, aller verbundenen Sender und Netzwerkinformationen dazu zu erhalten.
 
-![Über](/assets/img/About.jpg)
+![Über](/assets/img/About.png)
 
 
 
