@@ -6,7 +6,7 @@ Mehrere Teilnehmer haben die Möglichkeit, per Knopfdruck ihren Bildschirminhalt
 
 !!! tip "Hinweis"
     
-	Bitte beachten Sie, dass die Funktion Multicast auf dem [QuattroPod Lite](/lite/intro) nicht unterstützt wird. Jeder QuattroPod Empfänger, der über Multicast betrieben werden soll, muss entsprechend konfiguriert werden.
+	Bitte beachten Sie, dass die Funktion Multicast weder mit dem QuattroPod USB-Sender unter Type-A noch mit dem [QuattroPod Lite](/lite/intro) unterstützt wird. Jeder QuattroPod Empfänger, der über Multicast betrieben werden soll, muss entsprechend konfiguriert werden.
 	
 ![](/assets/img/Multicast.png)
 
