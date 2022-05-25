@@ -12,7 +12,7 @@ Mehrere Teilnehmer haben die Möglichkeit, per Knopfdruck ihren Bildschirminhalt
 
 ## Voraussetzungen
 
-* Unterstützte Empfänger: QuattroPod USB unter der Funktion Type-C oder Mobile, QuattroPod Standard/Deluxe, oder QuattroPod Mini.
+* Unterstützte Geräte: QuattroPod USB unter der Funktion Type-C oder Mobile, QuattroPod Standard/Deluxe, oder QuattroPod Mini.
 
 * Sie benötigen einen WLAN Access Point.
 
