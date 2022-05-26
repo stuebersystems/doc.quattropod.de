@@ -8,9 +8,13 @@ Aktivieren Sie die Funktion `Miracast Support` unter `Admineinstellungen` über 
 
 ![](/assets/img/Miracast.png)
 
-Nach dem Neustart wird der Gerätename bzw. die auf der Startseite angezeige SSID mit dem Präfix `DIRECT-` ergänzt. Dies ist erforderlich, um das Miracast-Protokoll sowie die Hardware-Sender gemeinsam zu unterstützen:
+Nach dem Neustart wird der Gerätename bzw. die auf der Startseite angezeigte SSID mit dem Präfix `DIRECT-` ergänzt. Dies gilt für die SSID des QuattroPods, die in Ihren WLAN-Einstellungen zu finden ist, sowie der angezeigte Gerätename unter den Streamingprotokollen AirView und Chromecast:
 
 ![](/assets/img/direct_prefix.png)
+
+Der angezeigte Gerätename bei der Suche nach verfügbaren Geräten unter Miracast wird allerdings **nicht** mit dem Präfix ergänzt. Dies ist erforderlich, um alle Streamingprotokolle inkl. Miracast sowie die Hardware-Sender gemeinsam zu unterstützen:
+
+![](/assets/img/QP-Windows_Miracast_Select_Device.png)
 
 ## Miracast auf Windows
 

@@ -8,9 +8,13 @@ Aktivieren Sie die Funktion `Miracast Support` unter `Admineinstellungen` über 
 
 ![](/assets/img/Miracast.png)
 
-Nach dem Neustart wird der Gerätename bzw. die auf der Startseite angezeige SSID mit dem Präfix `DIRECT-` ergänzt. Dies ist erforderlich, um das Miracast-Protokoll sowie die Hardware-Sender gemeinsam zu unterstützen:
+Nach dem Neustart wird der Gerätename bzw. die auf der Startseite angezeigte SSID mit dem Präfix `DIRECT-` ergänzt. Dies gilt für die SSID des QuattroPods, die in Ihren WLAN-Einstellungen zu finden ist, sowie der angezeigte Gerätename unter den Streamingprotokollen AirView und Chromecast:
 
 ![](/assets/img/direct_prefix.png)
+
+Der angezeigte Gerätename bei der Suche nach verfügbaren Geräten unter Miracast wird allerdings **nicht** mit dem Präfix ergänzt. Dies ist erforderlich, um alle Streamingprotokolle inkl. Miracast sowie die Hardware-Sender gemeinsam zu unterstützen:
+
+![](/assets/img/QP-Windows_Miracast_Select_Device.png)
 
 ## Miracast auf Windows
 
@@ -57,7 +61,7 @@ Mit der Firmware [1.14366.62](whatsnew.md#20220111-11436662) wurde die Unterstü
 
 ## P2P (Peer-to-Peer)
 
-Der QuattroPod-Standard verwendet den WiFi-Direct-Standard P2P (Peer-to-Peer), der ein direktes Verbinden zweier WLAN-fähiger Geräte ohne zwischengeschalteten Access Point (AP) gestattet. Es gelten die folgenden Eigenschaften:
+Der QuattroPod-M1 verwendet den WiFi-Direct-Standard P2P (Peer-to-Peer), der ein direktes Verbinden zweier WLAN-fähiger Geräte ohne zwischengeschalteten Access Point (AP) gestattet. Es gelten die folgenden Eigenschaften:
 
 * Wird ab Windows 8.1 oder höher unterstützt.
 * Keine WLAN-Infrastruktur erfolderlich.
