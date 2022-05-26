@@ -8,7 +8,7 @@ Aktivieren Sie die Funktion `Miracast Support` unter `Admineinstellungen` über 
 
 ![](/assets/img/Miracast.png)
 
-Nach dem Neustart wird der Gerätename bzw. die auf der Startseite angezeigte SSID mit dem Präfix `DIRECT-` ergänzt. Dies gilt für die SSID des QuattroPods, die in Ihren WLAN-Einstellungen zu finden ist, sowie der angezeigte Gerätename unter den Streamingprotokollen AirView und Chromecast:
+Nach dem Neustart wird der Gerätename bzw. die auf der Startseite angezeigte SSID mit dem Präfix `DIRECT-` ergänzt. Dies gilt für die SSID des QuattroPods, die in Ihren WLAN-Einstellungen zu finden ist, sowie den angezeigten Gerätenamen unter den Streamingprotokollen AirView und Chromecast:
 
 ![](/assets/img/direct_prefix.png)
 
