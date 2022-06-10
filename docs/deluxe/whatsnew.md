@@ -12,17 +12,17 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des Quattr
 
 **Neue Funktionen:**
 * Unterstützt 4/8 stelliger PIN
-* 5Min Option im Bildschirmschoner hinzugefügt
+* 5Min Option im [Bildschirmschoner](adv.settings.md#screensaver) hinzugefügt
 
 **Behobene Systemfehler und Verbesserungen:**
-* Chromatische Aberrationen (Farbsäume) unter macOS entfernt
+* Beseitigung der chromatischen Aberration unter macOS
 * Fehler unter Miracast behoben
 * Fehler unter Multicast behoben: Miracast unter Multicast-Modus deaktivieren
 * Verbesserte Kopplungszeit der Sender mit dem Empfänger
 * Verbesserte Funktion zweier Hintergrundbilder für die Startseite
 * Verbesserte Reverse Control
 * Verbesserte Systemstabilität
-* Miracast ist standardmäßig aktiviert
+* [Miracast](miracast.md) ist standardmäßig aktiviert
 
 ### 2022.03.02 | 1.14366.90
 

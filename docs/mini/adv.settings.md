@@ -205,7 +205,7 @@ Das Admin-Kennwort des Empfängers ändern.
 
 ![](/assets/img/admin_password.png)
 
-### Bildschirmschoner {#Bildschirmschoner}
+### Bildschirmschoner {#screensaver}
 
 Bildschirm bzw. die HDMI-Ausgabe des Empfängers nach einer bestimmten Zeit der Inaktivität ausschalten. Standardmäßig ist diese Funktion deaktiviert.
 
