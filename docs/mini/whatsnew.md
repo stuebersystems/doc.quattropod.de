@@ -11,10 +11,12 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des Quattr
 ### 2022.06.02 | 1.14366.129
 
 **Neue Funktionen:**
+
 * Unterstützt 4/8 stelliger PIN
 * 5Min Option im [Bildschirmschoner](adv.settings.md#screensaver) hinzugefügt
 
 **Behobene Systemfehler und Verbesserungen:**
+
 * Beseitigung der chromatischen Aberration unter macOS
 * Fehler unter Miracast behoben
 * Fehler unter Multicast behoben: Miracast unter Multicast-Modus deaktivieren
