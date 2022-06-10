@@ -8,6 +8,22 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des Quattr
 
 ## Empfänger R01 
 
+### 2022.06.02 | 1.14366.129
+
+**Neue Funktionen:**
+* Unterstützt 4/8 stelliger PIN
+* 5Min Option im Bildschirmschoner hinzugefügt
+
+**Behobene Systemfehler und Verbesserungen:**
+* Chromatische Aberrationen (Farbsäume) unter macOS entfernt
+* Fehler unter Miracast behoben
+* Fehler unter Multicast behoben: Miracast unter Multicast-Modus deaktivieren
+* Verbesserte Kopplungszeit der Sender mit dem Empfänger
+* Verbesserte Funktion zweier Hintergrundbilder für die Startseite
+* Verbesserte Reverse Control
+* Verbesserte Systemstabilität
+* Miracast ist standardmäßig aktiviert
+
 ### 2022.03.02 | 1.14366.90
 
 **Neue Funktionen:**
@@ -127,6 +143,12 @@ Verbesserte Web-Einstellungen:
 ![](/assets/img/wifi.land.selection.DE.png)
 
 ## Sender T01
+
+### 2022.06.02 | 1.14366.129
+
+**Behobene Systemfehler und Verbesserungen:**
+* Verbesserte Kopplungszeit der Sender mit dem Empfänger
+* Verbesserte Reverse Control
 
 ### 2022.03.02 | 1.14366.87
 
