@@ -101,6 +101,7 @@ Um eine vorherige bzw. eine Betafirmware zu installieren, laden Sie eine der fol
 
 Firmware                  | Empfänger R01 | Bemerkung
 ------------------------- | ------------ | ------------
+1.14366.129 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.14366.129.gz)
 1.14366.90 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.14366.90.gz)
 1.14366.62 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.14366.62.gz)
 1.12412.47 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.12412.47.gz)
@@ -196,6 +197,7 @@ Um eine vorherige bzw. eine Betafirmware zu installieren, laden Sie eine der fol
 
 Firmware                  | Sender T02
 ------------------------- | ------------
+1.14366.129 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/T01/T02_1.14366.129.gz)
 1.14366.87 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/T02/T02_1.14366.87.gz)
 1.14366.62 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/T02/T02_1.14366.62.gz)
 1.12412.47 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/T02/T02_1.12412.47.gz)
