@@ -8,6 +8,23 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des Quattr
 
 ## Empfänger LR01 
 
+### 2022.06.16 | 1.14366.132
+
+**Neue Funktionen:**
+
+* Unterstützt 4/8 stelliger PIN
+* 5Min Option im [Bildschirmschoner](adv.settings.md#screensaver) hinzugefügt
+* [Miracast](miracast.md) ist standardmäßig aktiviert
+
+**Behobene Systemfehler und Verbesserungen:**
+
+* Beseitigung der chromatischen Aberration unter macOS
+* Verbesserte Kopplungszeit der Sender mit dem Empfänger
+* Verbesserte Funktion zweier Hintergrundbilder für die Startseite
+* Verbesserte Kompatibilität der Funktion Reverse Control
+* Verbesserte Systemstabilität
+
+
 ### 2022.03.02 | 1.14366.90
 
 **Neue Funktionen:**
@@ -104,6 +121,13 @@ Verbesserte Web-Einstellungen:
 * Verbesserte Stabilität der Touch-Back-Funktion
 
 ## Sender LT01
+
+### 2022.06.16 | 1.14366.131
+
+**Behobene Systemfehler und Verbesserungen:**
+
+* Verbesserte Kopplungszeit der Sender mit dem Empfänger
+* Verbesserte Kompatibilität der Funktion Reverse Control
 
 ### 2022.03.02 | 1.14366.87
 

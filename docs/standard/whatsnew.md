@@ -149,6 +149,7 @@ Verbesserte Web-Einstellungen:
 ### 2022.06.02 | 1.14366.129
 
 **Behobene Systemfehler und Verbesserungen:**
+
 * Verbesserte Kopplungszeit der Sender mit dem Empfänger
 * Verbesserte Reverse Control
 
