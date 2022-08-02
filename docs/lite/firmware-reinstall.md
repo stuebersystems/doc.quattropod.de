@@ -135,11 +135,24 @@ Schalten Sie den Empfänger aus und wieder ein. Der Empfänger ist wieder einsat
 
      Nach der Firmware-Aktualisierung muss jeder Sender mit dem Empfänger [neu gekoppelt](pairing.md) werden.
 
-## Firmware mit dem CMS installieren
+### Sender - Firmware neu installieren
+
+#### Firmware hunterladen (LT01)
+
+Da der Lite-Sender (LT01) über keinen Reset-Schalter verfügt, muss die Installation der Firmware über das [CRM](#reinstall_via_CMS) erfolgen.
+
+Um eine vorherige bzw. eine Betafirmware zu installieren, laden Sie eine der folgenden Dateien herunter:
+
+Firmware                  | Sender LT01
+------------------------- | ------------
+1.9598.75 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/LT01/LT02_1.9598.75.img)
+
+
+## Firmware mit dem CMS installieren {#reinstall_via_CMS}
 
 Mit dem CMS ([Central Management System](cms.md)) kann man nicht nur die aktuelle Firmware vom Internet auf mehreren EZCast Pro II Geräten bzw. QuattroPod installieren, sondern auch eine vorherige Version bzw. eine Beta-Firmware.
 
-* Laden Sie eine Firmware für den [Empfänger](#LR01_install_other_fw) herunter.
+* Laden Sie eine Firmware für den [Empfänger](#LR01_install_other_fw) oder für den [Sender](#LT01_install_other_fw) herunter.
 
 * Wählen Sie die gewünschten Geräte aus, anschließend klicken Sie auf die Schaltfläche `Remote` -> und die Funktion `Device Firmware upgrade`.
 
