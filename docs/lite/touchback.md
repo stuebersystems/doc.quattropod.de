@@ -18,11 +18,11 @@ Wenn auf einen anderen Teilnehmer gewechselt wird, steht ihm auch die Touch-Back
 
 ## Voraussetzungen
 
-* Windows 7 / 8 / 10
-
-* macOS 10.14.6 oder höher. Es werden keine Multitouch-Gesten unterstützt
-
 * Das neueste [Firmwareupdate](firmware-upgrade.md) für den QuattroPod.
+
+* Für Windows Geräte mit dem Sender ist Windows 7 / 8 / 10 erforderlich. Für die Verwendung ohne Sender ist ein [Miracast-fähiger Windows 10/11 PC](#touchviamiracast) erforderlich.
+
+* Für macOS Geräte mit dem Sender ist macOS 10.14.6 oder höher erforderlich. Es werden keine Multitouch-Gesten unterstützt.
 
 ## Einrichtung
 
@@ -50,4 +50,22 @@ Schließen Sie den Sender an einen USB-Port Ihres Notebooks an. Schließen Sie a
 
 * Die Touch-Gesten Ihres Displays werden an den Rechner zurückgesendet.
 
-![Touch-Gesten werden an den Rechner zurückgesendet](/assets/img/QuattroPod_TouchBack_using.png)
+![Touch-Gesten werden an den Rechner zurückgesendet](/assets/img/Using.TouchBack.png)
+
+## Touch-Back unter Windows mit Miracast {#touchviamiracast}
+
+!!! tip "Hinweis"
+
+     Mit der Firmware-Version 1.16163.38 und höher unterstützt der QuattroPod Touchback mit Miracast, auch im Englischen als **User Input Back Channel (UIBC)** bekannt. 
+	 
+* Auf einem Windows-Gerät drücken Sie die Tastenkombination `[Windows]` + `[K]`, um das Dialogfenster `VERBINDEN` aufzurufen. Wählen Sie Ihr QuattroPod Pro Gerät aus, auf das Sie übertragen möchten:
+
+![](/assets/img/Windows_Miracast_Select_QP_Device.png)
+
+* Setzen Sie ein Häkchen ein, um die Touchfunktionalität per Miracast zu aktivieren:
+
+![](/assets/img/Windows_Miracast_connect.png)
+
+* Die Touch-Gesten mit bis zu 6-Fingern Ihres Displays werden an den Rechner zurückgesendet.
+
+![](/assets/img/Using.TouchBack.png)

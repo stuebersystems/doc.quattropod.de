@@ -58,7 +58,7 @@ Die Touch-Back Funktion wird nur bei der 1:1- Übertragung eines Bildschirms unt
 
 * Die Touch-Gesten Ihres Displays werden an den Rechner zurückgesendet.
 
-![Touch-Gesten werden an den Rechner zurückgesendet](/assets/img/QuattroPod_TouchBack_using.png)
+![Touch-Gesten werden an den Rechner zurückgesendet](/assets/img/Using.TouchBack.png)
 
 * Unter Windows empfehlen wir die Aktivierung der Bildschirmtastatur an der Tastleiste. Die Tastatur steht dann an der Taskleiste zur Verfügung:
 
@@ -91,4 +91,4 @@ Die Touch-Back Funktion wird nur bei der 1:1- Übertragung eines Bildschirms unt
 
 * Die Touch-Gesten Ihres Displays werden an Ihr Androi-Gerät zurückgesendet:
 
-![Touch-Gesten werden an den Rechner zurückgesendet](/assets/img/QuattroPod_TouchBack_using.png)
+![Touch-Gesten werden an den Rechner zurückgesendet](/assets/img/Using.TouchBack.png)
