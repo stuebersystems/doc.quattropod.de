@@ -6,6 +6,17 @@ Wenn auf einen anderen Teilnehmer gewechselt wird, steht ihm auch die Touch-Back
 
 Die Touch-Back Funktion wird nur bei der 1:1- Übertragung eines Bildschirms unterstützt.
 
+!!! info "Umfangreiche Touch-Back-Unterstützung mit QuattroPod USB"
+
+    [![QuattroPod Touch-Back-Funktion][1]{: align=left }][2]
+	
+	Demonstration: Umfangreiche Touch-Back-Unterstützung mit QuattroPod USB
+	
+	[Video ansehen][2]
+
+  [1]: /assets/img/thumbnail.video.advancedtouch.png
+  [2]: https://assets.stueber.de/videos/touchback.win-android.mp4
+  
 !!! info "Touch-Back-Funktion mit QuattroPod"
 
     [![QuattroPod Touch-Back-Funktion][1]{: align=left }][2]
