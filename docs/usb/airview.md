@@ -14,6 +14,10 @@ Die Funktion AirView steht in einem belebigen Web Browser zur Verfügung. Verbin
 
 ![](/assets/img/URL_AirView.png)
 
+Wenn die Funktion [Castcode](securitycodes.md) aktiviert ist, müssen Sie hier den Code eingeben:
+
+![](/assets/img/AirView.castcode.activated.png)
+
 Mit den Schaltflächen oben rechts können Sie die Bildausgabe starten. Standardmäßig wird ein Bild der Präsentation alle 5 Sekunden aufgenommen, das man Optional herunterladen kann.
 
 ![](/assets/img/airviewapp3.png)
