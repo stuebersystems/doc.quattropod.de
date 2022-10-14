@@ -8,6 +8,27 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des Quattr
 
 ## Empfänger R01 
 
+### 2022.09.08 | 1.16163.41
+
+**Behobene Systemfehler und Verbesserungen:**
+
+* Verbesserte WLAN-Konnektivität.
+* Verbesserte Stabilität der Kopplungsfunktion
+
+### 2022.07.03 | 1.16163.12
+
+**Neue Funktionen:**
+
+* Unterstützung der UVC-Kamera mit dem T03 Sender
+* Unterstützung von MJPEG-Streamen mit dem T02+ Sender
+* Unterstützung von automatischer Kanalumschaltung des WLANs
+* Unterstützung des WPA3-Protokolls
+* Unterstützung von Miracast UIBC unter AGO 1 zu 1 Modus
+
+**Behobene Systemfehler und Verbesserungen:**
+
+* Verbesserte Kompatibilität der Touch-Back-Funktion
+
 ### 2022.06.02 | 1.14366.129
 
 **Neue Funktionen:**
@@ -145,6 +166,22 @@ Verbesserte Web-Einstellungen:
 ![](/assets/img/wifi.land.selection.DE.png)
 
 ## Sender T01
+
+### 2022.08.15 | 1.16163.38
+
+**Behobene Systemfehler und Verbesserungen:**
+
+* Verbesserte Stabilität der Kopplungsfunktion
+
+### 2022.07.03 | 1.16163.12
+
+**Neue Funktionen:**
+
+* Unterstützung des Pairings durch QRCode
+
+**Behobene Systemfehler und Verbesserungen:**
+
+* Systemfehler behoben
 
 ### 2022.06.02 | 1.14366.129
 

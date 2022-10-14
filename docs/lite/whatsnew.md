@@ -8,6 +8,12 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des Quattr
 
 ## Empfänger LR01 
 
+### 2022.07.28 | 1.14366.135
+
+**Behobene Systemfehler und Verbesserungen:**
+
+* Verbesserte Kopplungszeit der Sender mit dem Empfänger
+
 ### 2022.06.16 | 1.14366.132
 
 **Neue Funktionen:**
@@ -121,6 +127,12 @@ Verbesserte Web-Einstellungen:
 * Verbesserte Stabilität der Touch-Back-Funktion
 
 ## Sender LT01
+
+### 2022.07.28 | 1.14366.135
+
+**Behobene Systemfehler und Verbesserungen:**
+
+* Verbesserte Kopplungszeit der Sender mit dem Empfänger
 
 ### 2022.06.16 | 1.14366.131
 
