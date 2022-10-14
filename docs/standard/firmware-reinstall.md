@@ -49,11 +49,11 @@ Um den Empfänger in den **Update-Modus** zu versetzen, führen Sie bitte die fo
 * Schalten Sie das Gerät per die Power-Taste ein
 * Lassen Sie anschließend den Reset-Schalter los
 
-![Empfänger in den Update-Modus versetzen](/assets/img/QuattroPod_press_reset.jpg)
+![Empfänger in den Update-Modus versetzen](/assets/img/QuattroPod_press_reset.png)
 
 * Schließen Sie nun das [USB-Kabel (A/A)](https://www.amazon.de/deleyCON-Super-Speed-Kabel-Stecker/dp/B00WHZ746E/ref=sr_1_3?ie=UTF8&qid=1531928442&sr=8-3&keywords=usb+kabel+male+to+male) an den USB-Port des Empfängers und an einen USB-Port Ihres Rechners unter Microsoft Windows an.
 
-![Empfänger mit Ihrem PC per USB-Kabel (A/A) anschließen](/assets/img/QuattroPod_rear.jpg)
+![Empfänger mit Ihrem PC per USB-Kabel (A/A) anschließen](/assets/img/QuattroPod_rear.png)
 
 Wenn der Treiber richtig installiert ist und der Empfänger angeschlossen ist, sollte das Gerät **Realtek generic USB Device** im Geräte-Manager erscheinen. Wenn nicht, überprüfen Sie die Treiber-Installation, Kabel-Konfiguration, und den Update-Modus, wie im vorherigen Schritt beschrieben.
 
