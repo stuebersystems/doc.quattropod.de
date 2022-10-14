@@ -72,7 +72,7 @@ Mit Hilfe der Funktion [Erweiterte Einstellungen](adv.settings.md) können Sie s
 
 Nach dem Zurücksetzen werden Sie bei der ersten Anmeldung auf der Funktion [Erweiterte Einstellungen](adv.settings.md) aufgefordert, das Admin-Kennwort zu ändern. Standardmäßig lautet es `000000`. Wir empfehlen, dass Sie anschließend die folgenden empfohlenen Einstellungen überprüfen:
 
-Firmware-Version: [1.14366.90](whatsnew.md#20220302-11436690)
+Firmware-Version: [1.16163.41](whatsnew.md#20220908-11616341)
 
 **Gerätemanagement**
 
