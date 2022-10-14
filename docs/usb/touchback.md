@@ -8,7 +8,7 @@ Die Touch-Back Funktion wird nur bei der 1:1- Übertragung eines Bildschirms unt
 
 !!! hint "Umfangreiche Touch-Back-Unterstützung mit QuattroPod USB"
 
-    [![QuattroPod Touch-Back-Funktion][1]{: align=left }][1]
+    [![QuattroPod Touch-Back-Funktion][1]{: align=left }][2]
 	
 	Demonstration: Umfangreiche Touch-Back-Unterstützung mit QuattroPod USB
 	
@@ -19,7 +19,7 @@ Die Touch-Back Funktion wird nur bei der 1:1- Übertragung eines Bildschirms unt
   
 !!! hint "Touch-Back-Funktion mit QuattroPod"
 
-    [![QuattroPod Touch-Back-Funktion][3]{: align=left }][3]
+    [![QuattroPod Touch-Back-Funktion][3]{: align=left }][4]
 	
 	Anleitung: Touch-Back-Funktion mit QuattroPod.
 	
