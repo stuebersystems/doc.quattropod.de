@@ -17,7 +17,7 @@ Dabei benötigen Sie einen [Internetzugang](internet.md) zum Internet bzw. mit I
 
 * Schließen Sie den USB-A-Adapter an den Sender an und schalten Sie den Sender auf `Type-C` um. Schließen Sie den Sender an den USB-A-Port des Empfängers an:
 
-![Sender auf PC umschalten](/assets/img/Pairing.USBC.jpg)
+![Sender auf PC umschalten](/assets/img/Pairing.USBC.png)
 
 
 ### Sich in der Web-Oberfläche anmelden
@@ -70,7 +70,7 @@ Die Aktualisierung wird über die Web-Oberfläche in einem beliebigen Web-Browse
 
 * Schließen Sie den USB-A-Adapter an den Sender an und schalten Sie den Sender auf `Type-A` um. Schließen Sie den Sender an den USB-A-Port des Empfängers an:
 
-![Sender auf PC umschalten](/assets/img/Pairing.USBA.jpg)
+![Sender auf PC umschalten](/assets/img/Pairing.USBA.png)
 
 ### Sich in der Web-Oberfläche anmelden
 
