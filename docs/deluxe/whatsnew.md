@@ -8,6 +8,12 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des Quattr
 
 ## Empfänger R01
 
+### 2022.10.27 | 1.16163.57
+
+**Behobene Systemfehler und Verbesserungen:**
+
+* [Multicast Konfigurationsschutz](multicast.md#config.restore).
+
 ### 2022.09.08 | 1.16163.41
 
 **Behobene Systemfehler und Verbesserungen:**
