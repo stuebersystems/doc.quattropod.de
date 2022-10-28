@@ -187,7 +187,7 @@ Mit einem iOS/macOS Gerät können Sie Ihren Bildschirminhalt auch direkt per Ap
 
 ![](/assets/img/AirPlay.png)
 
-#### Miracast {#Miracast}
+### Miracast {#Miracast}
 
 Die Übertragung von Miracast-Geräten unterstützen. Eine umfassende Anleitung zur Verwendung von Miracast finden Sie [hier](miracast.md).
 
