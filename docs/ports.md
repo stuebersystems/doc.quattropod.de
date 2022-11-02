@@ -20,7 +20,7 @@ Port | Typ
 | 2425 |
 | 63630 |
 
-### ChromeCast
+### Google Cast
 
 | Port | Typ
 | :---- | :---
@@ -73,7 +73,7 @@ Haben Sie festgestellt, dass bestimmte Funktionen von QuattroPod über Ihre Infr
 
 Im Feld `destination IP` geben Sie die Infrastruktur IP-Adresse ein. Geben Sie anschließend die zu prüfenden Ports an und klicken Sie auf `Query`, wie zum Beispiel:
 
-Für die Funktion `ChromeCast`:
+Für die Funktion `Google Cast`:
 
 * `Ports to query` = **80,443,8008,8009**
 * `Protocol` = **TCP**

@@ -12,7 +12,7 @@ In dieser Anleitung wird erklärt, wie man unter Ubuntu 20.04 Google Chrome inst
 
 ### Google Cast auf QuattroPod freischalten
 
-Standardmäßig ist Chromecast auf QuattroPod-Geräten aktiviert. Sollten Sie die Funktion jedoch erneut aktivieren wollen, finden Sie die entsprechende Option `Chromecast` unter [Erweiterte Einstellungen](adv.settings.md#Chromecast):
+Standardmäßig ist Chromecast auf QuattroPod-Geräten aktiviert. Sollten Sie die Funktion jedoch erneut aktivieren wollen, finden Sie die entsprechende Option `Google Cast` unter [Erweiterte Einstellungen](adv.settings.md#Chromecast):
 
 ![](/assets/img/Chromecast-support.png)
 

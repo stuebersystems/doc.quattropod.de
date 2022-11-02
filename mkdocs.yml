@@ -95,7 +95,7 @@ nav:
         - "Anleitung: Linux": usb/linux.md
     - Anleitungen nach<br>Streamingprotokoll:
         - "Anleitung: AirPlay": usb/airplay.md     
-        - "Anleitung: Chromecast": usb/chromecast.md
+        - "Anleitung: Google Cast": usb/googlecast.md
         - "Anleitung: Miracast": usb/miracast.md
     - CMS (Central Management System): usb/cms.md    
     - Einrichtungshinweise: usb/setup-tipps.md    
@@ -134,7 +134,7 @@ nav:
         - "Anleitung: Linux": lite/linux.md
     - Anleitungen nach<br>Streamingprotokoll:
         - "Anleitung: AirPlay": lite/airplay.md     
-        - "Anleitung: Chromecast": lite/chromecast.md
+        - "Anleitung: Google Cast": lite/googlecast.md
         - "Anleitung: Miracast": lite/miracast.md
     - CMS (Central Management System): lite/cms.md    
     - Einrichtungshinweise: lite/setup-tipps.md
@@ -170,7 +170,7 @@ nav:
         - "Anleitung: Linux": mini/linux.md
     - Anleitungen nach<br>Streamingprotokoll:
         - "Anleitung: AirPlay": mini/airplay.md     
-        - "Anleitung: Chromecast": mini/chromecast.md
+        - "Anleitung: Google Cast": mini/googlecast.md
         - "Anleitung: Miracast": mini/miracast.md
     - CMS (Central Management System): mini/cms.md        
     - Einrichtungshinweise: mini/setup-tipps.md
@@ -209,7 +209,7 @@ nav:
         - "Anleitung: Linux": standard/linux.md
     - Anleitungen nach<br>Streamingprotokoll:
         - "Anleitung: AirPlay": standard/airplay.md     
-        - "Anleitung: Chromecast": standard/chromecast.md
+        - "Anleitung: Google Cast": standard/googlecast.md
         - "Anleitung: Miracast": standard/miracast.md
     - CMS (Central Management System): standard/cms.md
     - Einrichtungshinweise: standard/setup-tipps.md
@@ -248,7 +248,7 @@ nav:
         - "Anleitung: Linux": deluxe/linux.md
     - Anleitungen nach<br>Streamingprotokoll:
         - "Anleitung: AirPlay": deluxe/airplay.md     
-        - "Anleitung: Chromecast": deluxe/chromecast.md
+        - "Anleitung: Google Cast": deluxe/googlecast.md
         - "Anleitung: Miracast": deluxe/miracast.md
     - CMS (Central Management System): deluxe/cms.md    
     - Einrichtungshinweise: deluxe/setup-tipps.md
@@ -287,7 +287,7 @@ nav:
         - "Anleitung: Linux": m1/linux.md
     - Anleitungen nach<br>Streamingprotokoll:
         - "Anleitung: AirPlay": m1/airplay.md     
-        - "Anleitung: Chromecast": m1/chromecast.md
+        - "Anleitung: Google Cast": m1/googlecast.md
         - "Anleitung: Miracast": m1/miracast.md
     - CMS (Central Management System): m1/cms.md    
     - Erweiterte Funktionen:

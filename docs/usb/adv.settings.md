@@ -227,7 +227,7 @@ Legen Sie einen bestimmten Benutzer bzw. einen Sender fest, dass sich immer als 
 
 ### Google Cast
 
-Die Übertragung von ChromeCast-Geräten unterstützen. Eine umfassende Anleitung zur Verwendung von Chromecast finden Sie [hier](chromecast.md).
+Die Übertragung von ChromeCast-Geräten unterstützen. Eine umfassende Anleitung zur Verwendung von Chromecast finden Sie [hier](googlecast.md).
 
 ![](/assets/img/Chromecast-support.png)
 

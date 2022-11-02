@@ -158,7 +158,7 @@ Verbesserte Web-Einstellungen:
 
 **Neue Funktionen:**
 
-* Geteilter Bildschirm über [Chromecast](chromecast.md): Bildschirmübertragung nativ von bis zu 4 Google Cast Geräten auf einem geteilten Bildschirm
+* Geteilter Bildschirm über [Chromecast](googlecast.md): Bildschirmübertragung nativ von bis zu 4 Google Cast Geräten auf einem geteilten Bildschirm
 * [Dynamisches Hintergrundbild](dynamicwallpaper.md): Passen Sie die Startseite mit Bildern und Video an
 * [Multicast](multicast.md): Eine Übertragung vom einem Bildschirm bzw. von einem Sender auf mehrere Displays 
 * [Installationstest für drahtloses Netzwerk](wifitest.md): Scannen Sie Ihre WLAN-Umgebung und optimieren Sie die drahtlose Übertragungsleistung

@@ -53,7 +53,7 @@ Wenn Sie die Funktion Multicast aktivieren, stellt der QuattroPod folgende Einst
 * [AirPlay PIN code](airplay.md): `AUS`
 * [Miracast Support](miracast.md): `AUS`
 * [Miracast PIN](miracast.md): `AUS`
-* [Google Cast](chromecast.md): `AUS`
+* [Google Cast](googlecast.md): `AUS`
 * [Antrag automatisch genehmigen](adv.settings.md#Host-Control): `EIN`
 * [Bildschirm teilen](adv.settings.md#Host-Control): `AUS`
 

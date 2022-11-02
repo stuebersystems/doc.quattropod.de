@@ -4,7 +4,7 @@
 
 Für den QuattroPod wird eine Internet-Verbindung in folgenden Fällen benötigt:
 
-* Sie sind mit dem QuattroPod per [Apple AirPlay](airplay.md), [Chromecast](chromecast.md) oder die [Android App](quickstart.md#b-die-quattropod-app-unter-android) verbunden und möchten Inhalte vom Internet präsentieren.
+* Sie sind mit dem QuattroPod per [Apple AirPlay](airplay.md), [Chromecast](googlecast.md) oder die [Android App](quickstart.md#b-die-quattropod-app-unter-android) verbunden und möchten Inhalte vom Internet präsentieren.
 
 * Sie möchten den QuattroPod auf die neueste Firmware-Version [aktualisieren](firmware-upgrade.md).
 

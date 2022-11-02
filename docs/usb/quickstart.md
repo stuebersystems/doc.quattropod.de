@@ -148,7 +148,7 @@ Unterstützt werden alle gängigen Streamingprotokolle. Umfassende Anleitungen n
 
 * [AirPlay](airplay.md) unter iOS und macOS.
 
-* [Google Cast](chromecast.md) unter Google Chrome OS, Windows, Android und Linux.
+* [Google Cast](googlecast.md) unter Google Chrome OS, Windows, Android und Linux.
 
 * [Miracast](miracast.md) unter Windows und Android.
 
