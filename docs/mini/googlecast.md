@@ -1,4 +1,4 @@
-# Was ist Chromecast?
+# Was ist Google Cast?
 
 Chromecast ist die Übertragungstechnologie von Google. Mit dem Google Chrome Browser kann man einen Browser-Tab, eine Audio/Video-Datei, oder sogar den gesamten Computerbildschirm auf den QuattroPod schnell und bequem übertragen. 
 
