@@ -110,6 +110,7 @@ nav:
         - Multicast: usb/multicast.md
         - Remote-Verwaltung: usb/remote-management.md
         - Sender bedienen: usb/TX-controls.md
+        - Sicherheitscodes: usb/securitycodes.md
         - Touch-Back-Funktion: usb/touchback.md
     - Firmware aktualisieren: usb/firmware-upgrade.md
     - Internetzugang: usb/internet.md
@@ -145,6 +146,7 @@ nav:
         - Konferenzsteuerung: lite/conference-control.md
         - Monitor-Modus: lite/monitor-setup.md 
         - Remote-Verwaltung: lite/remote-management.md
+        - Sicherheitscodes: lite/securitycodes.md
         - Touch-Back-Funktion: lite/touchback.md
     - Firmware aktualisieren: lite/firmware-upgrade.md
     - Internetzugang: lite/internet.md
@@ -183,6 +185,7 @@ nav:
         - Multicast: mini/multicast.md
         - Remote-Verwaltung: mini/remote-management.md
         - Sender bedienen: mini/TX-controls.md
+        - Sicherheitscodes: mini/securitycodes.md
         - Touch-Back-Funktion: mini/touchback.md
     - Firmware aktualisieren: mini/firmware-upgrade.md
     - Internetzugang: mini/internet.md
@@ -220,6 +223,7 @@ nav:
         - Monitor-Modus: standard/monitor-setup.md
         - Multicast: standard/multicast.md
         - Remote-Verwaltung: standard/remote-management.md
+        - Sicherheitscodes: standard/securitycodes.md
         - Sender bedienen: standard/TX-controls.md
         - Touch-Back-Funktion: standard/touchback.md
     - Firmware aktualisieren: standard/firmware-upgrade.md
@@ -259,6 +263,7 @@ nav:
         - Multicast: deluxe/multicast.md
         - Remote-Verwaltung: deluxe/remote-management.md
         - Sender bedienen: deluxe/TX-controls.md
+        - Sicherheitscodes: deluxe/securitycodes.md
         - Touch-Back-Funktion: deluxe/touchback.md
     - Firmware aktualisieren: deluxe/firmware-upgrade.md
     - Internetzugang: deluxe/internet.md
@@ -296,6 +301,7 @@ nav:
         - Multicast: m1/multicast.md
         - Remote-Verwaltung: m1/remote-management.md
         - Sender bedienen: m1/TX-controls.md
+        - Sicherheitscodes: m1/securitycodes.md
         - Touch-Back-Funktion: m1/touchback.md
     - Firmware aktualisieren: m1/firmware-upgrade.md
     - Internetzugang: m1/internet.md

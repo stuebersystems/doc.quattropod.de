@@ -237,12 +237,12 @@ Die Übertragung von ChromeCast-Geräten unterstützen. Eine umfassende Anleitun
 
 ![](/assets/img/Chromecast-support.png)
 
-### Castcode
+### Castcode-Kontrolle {#castcode}
 
 Legen Sie fest, ob jeder Gast per die Android-App bzw. per AirPlay einen vierstelligen Code eingeben muss, um Inhalte übertragen zu dürfen.
 
 * `AUS` - Kein Passcode wird benötigt
-* `Zufällig` - Zufällig (erneut sich automatisch beim Einschalten bzw. beim Neustart)
+* `Zufällig` - Erneut sich regelmäßig
 * `Fest` - Einen festen Castcode angeben
 
 Der Castcode wird hier angezeigt:

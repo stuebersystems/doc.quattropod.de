@@ -237,12 +237,12 @@ Die Übertragung von ChromeCast-Geräten unterstützen. Eine umfassende Anleitun
 
 ![](/assets/img/Chromecast-support.png)
 
-### Castcode
+### Castcode-Kontrolle {#castcode}
 
 Legen Sie fest, ob jeder Gast per die Android-App bzw. per AirPlay einen vierstelligen Code eingeben muss, um Inhalte übertragen zu dürfen.
 
 * `AUS` - Kein Passcode wird benötigt
-* `Zufällig` - Zufällig (erneut sich automatisch beim Einschalten bzw. beim Neustart)
+* `Zufällig` - Erneut sich regelmäßig
 * `Fest` - Einen festen Castcode angeben
 
 Der Castcode wird hier angezeigt:
@@ -253,17 +253,17 @@ Der Castcode wird hier angezeigt:
 
 Sie können die Firmware der Empfänger und Sender aktualisieren, um die neuesten Erweiterungen und Funktionen nutzen zu können. Eine umfassende Anleitung zur Aktualisierung finden Sie [hier](firmware-upgrade.md).
 
-### Kopplungsdatei herunterladen {#Kopplungsdatei_herunterladen}
-
-Laden Sie die Kopplungsdatei herunter, um einen Sender mit dem Empfänger per USB-Stick zu koppeln, wenn der Empfänger an der Decke montiert ist oder einfach schwer zu erreichen ist. Weitere Informationen hierzu finden Sie im Abschnitt [Sender koppeln](pairing.md).
-
-![](/assets/img/pairing_file.jpg)
-
 ### Multicast {#Multicast}
 
 Nutzen Sie diese Funktion, um den Empfänger im Multicast-Modus zu starten. Eine umfassende Anleitung zu diesem Thema finden Sie [hier](multicast.md).
 
 ![Neustarten](/assets/img/Multicast-Gruppe.png)
+
+### Kopplungsdatei herunterladen {#Kopplungsdatei_herunterladen}
+
+Laden Sie die Kopplungsdatei herunter, um einen Sender mit dem Empfänger per USB-Stick zu koppeln, wenn der Empfänger an der Decke montiert ist oder einfach schwer zu erreichen ist. Weitere Informationen hierzu finden Sie im Abschnitt [Sender koppeln](pairing.md).
+
+![](/assets/img/pairing_file.jpg)
 
 ### Neustarten {#Neustarten}
 
