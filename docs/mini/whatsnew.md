@@ -12,6 +12,8 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des Quattr
 
 **Behobene Systemfehler und Verbesserungen:**
 
+* Systemfehler behoben
+* Verbesserte Kompatibilität von USB-Kameras
 * [Multicast Konfigurationsschutz](multicast.md#config.restore).
 
 ### 2022.09.08 | 1.16163.41
