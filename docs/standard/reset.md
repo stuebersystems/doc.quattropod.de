@@ -87,6 +87,7 @@ Firmware-Version: [1.16163.57](whatsnew.md#20221027-11616357)
 * [Miracast PIN](miracast.md): `EIN`
 * [Castcode](adv.settings.md#castcode): `Zufällig`
 * [Mein Bildschirm](adv.settings.md#Mein-Bildschirm): Unsere Hintergrundbilder in der deutschen Sprache:
+* [Multicast Konfigurationsschutz](multicast.md#config.restore): `EIN`
 
 Hintergrundbild | Herunterladen |
 ------------------------- | ------------ |
