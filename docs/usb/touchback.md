@@ -39,7 +39,7 @@ Die Touch-Back Funktion wird nur bei der 1:1- Übertragung eines Bildschirms unt
 
 * Für macOS Geräte mit dem Sender ist macOS 10.14.6 oder höher erforderlich. Es werden keine Multitouch-Gesten unterstützt.
 
-* Ein Android Gerät, das die Videoübertragung per USB-C-Anschluss [DP Alt Mode](https://en.everybodywiki.com/List_of_devices_with_video_output_over_USB-C) unterstützen.
+* Ein Android-Gerät, das die Videoübertragung per USB-C-Anschluss [DP Alt Mode](https://en.everybodywiki.com/List_of_devices_with_video_output_over_USB-C) unterstützen.
 
 
 ## Einrichtung

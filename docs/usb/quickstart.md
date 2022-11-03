@@ -170,9 +170,9 @@ Wenn Sie den QuattroPod richtig [angeschlossen](#setup) haben, erscheint folgend
 
 ![Die Startseite](/assets/img/quattropod.landingpage.png)
 
-Gehen Sie jetzt wie folgt vor:
+* Verbinden Sie Ihr Android-Gerät mit dem QuattroPod, entweder mit der SSID des QuattroPods oder mit derselben WLAN- bzw. LAN-Infrastruktur, mit welcher der QuattroPod verbunden ist:
 
-* Von Ihrem Android Gerät verbinden Sie sich mit der SSID, die oben links auf dem Bildschirm angezeigt wird, wie oben abgebildet. Das Kennwort wird standardmäßig ebenfalls angezeigt.
+![](/assets/img/quattropod.ssid.connect.png)
 
 * Rufen Sie nun die App QuattroPod auf Ihrem Android-Gerät auf. Beim ersten Aufruf der App müssen Sie einmalig genehmigen, dass die App über anderen Apps, die Sie verwenden, anzeigt wird. Wählen Sie `OK`.
 

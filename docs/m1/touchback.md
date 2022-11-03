@@ -24,7 +24,7 @@ Die Touch-Back Funktion wird nur bei der 1:1- Übertragung eines Bildschirms unt
 
 * macOS 10.14.6 oder höher. Es werden keine Multitouch-Gesten unterstützt
 
-* Android Geräte, die die Videoübertragung per USB-C-Anschluss [DP Alt Mode](https://en.everybodywiki.com/List_of_devices_with_video_output_over_USB-C) unterstützen.
+* Android-Geräte, die die Videoübertragung per USB-C-Anschluss [DP Alt Mode](https://en.everybodywiki.com/List_of_devices_with_video_output_over_USB-C) unterstützen.
 
 * Das neueste [Firmwareupdate](firmware-upgrade.md) für den QuattroPod.
 

@@ -30,11 +30,11 @@ Wenn der QuattroPod mit Ihrem WLAN verbunden ist, wird eine von Ihrem Netzwerk v
 
 ### Erweiterte Einstellungen öffnen
 
-* Verbinden Sie Ihr Endgerät mit dem QuattroPod, entweder mit der SSID des QuattroPods oder mit derselben WLAN- bzw. LAN-Infrastruktur, mit welcher der QuattroPod verbunden ist:
+* Verbinden Sie Ihr Endgerät mit der SSID des QuattroPods. Die Zugangsdaten werden oben auf der Startseite angezeigt:
 
-![](/assets/img/quattropod.ssid.connect.png)
+![](/assets/img/quattropod.ssid.direct.connect.png)
 
-* In die Adressleiste eines Webbrowsers geben Sie die IP-Adresse des QuattroPods ein. Wenn Sie mit der SSID des QuattroPods verbunden sind, geben Sie die `Direct Link IP` ein. Wenn Sie mit Ihrer WLAN- bzw. LAN-Infrastruktur verbunden sind, geben Sie die `Infrastructure IP` ein. Die Einstellungsoberfläche des QuattroPods erscheint:
+* In die Adressleiste eines Webbrowsers geben Sie die IP-Adresse des QuattroPods mit der Bezeichnung `Direct Link IP` **192.168.168.1** ein. Die Einstellungsoberfläche des QuattroPods erscheint:
 
 ![](/assets/img/quattropod_directIP.connect.png)
 
