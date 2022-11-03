@@ -267,12 +267,6 @@ Laden Sie die Kopplungsdatei herunter, um einen Sender mit dem Empfänger per US
 
 ![](/assets/img/pairing_file.jpg)
 
-### Neustarten {#Neustarten}
-
-Nutzen Sie diese Funktion, um den Empfänger neu zu starten.
-
-![Neustarten](/assets/img/restart.jpg)
-
 ### Auf Standardeinstellungen zurücksetzen {#zuruecksetzen}
 
 Nutzen Sie diese Funktion, um den Empfänger und die Sender auf die Standardeinstellungen zurückzusetzen. Dies beeinflusst weder das [Hintergrundbild](#Mein-Bildschirm) der Startseite, die [SSID](#SSID), noch die Firmware-Version.

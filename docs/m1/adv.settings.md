@@ -267,12 +267,6 @@ Laden Sie die Kopplungsdatei herunter, um einen Sender mit dem Empfänger per US
 
 ![](/assets/img/pairing_file.jpg)
 
-### Multicast {#Multicast}
-
-Nutzen Sie diese Funktion, um den Empfänger im Multicast-Modus zu starten. Eine umfassende Anleitung zu diesem Thema finden Sie [hier](multicast.md).
-
-![Neustarten](/assets/img/Multicast-Gruppe.png)
-
 ### Neustarten {#Neustarten}
 
 Nutzen Sie diese Funktion, um den Empfänger neu zu starten.
