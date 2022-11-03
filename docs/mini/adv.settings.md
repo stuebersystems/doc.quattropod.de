@@ -249,6 +249,8 @@ Der Castcode wird hier angezeigt:
 
 ![Der Castcode](/assets/img/QuattroPod_Castcode.png)
 
+Eine umfassende Anleitung zur Verwendung vom Castcode sowie anderen Sicherheitscodes finden Sie [hier](securitycodes.md).
+
 ### Upgrade
 
 Sie können die Firmware der Empfänger und Sender aktualisieren, um die neuesten Erweiterungen und Funktionen nutzen zu können. Eine umfassende Anleitung zur Aktualisierung finden Sie [hier](firmware-upgrade.md).
