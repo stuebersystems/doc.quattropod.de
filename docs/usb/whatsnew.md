@@ -8,6 +8,12 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des Quattr
 
 ## Empfänger R01
 
+### 2022.11.08 | 1.16163.65
+
+**Behobene Systemfehler und Verbesserungen:**
+
+* Verbesserte Kompatibilität der Touch-Back-Funktion
+
 ### 2022.10.27 | 1.16163.57
 
 **Behobene Systemfehler und Verbesserungen:**
@@ -177,6 +183,12 @@ Verbesserte Web-Einstellungen:
 * Optimized CPU resource by adding Dynamic CPU Detection
 
 ## Sender U01 Type-C
+
+### 2022.11.11 | 1.16163.65
+
+**Behobene Systemfehler und Verbesserungen:**
+
+* Verbesserte Kompatibilität der Touch-Back-Funktion
 
 ### 2022.08.15 | 1.16163.38
 
