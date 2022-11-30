@@ -102,7 +102,7 @@ Um eine vorherige bzw. eine Betafirmware zu installieren, laden Sie eine der fol
 Firmware                  | Empfänger TR01 | Bemerkung
 ------------------------- | ------------ | ------------
 1.14366.135 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/LR01/LR01_1.14366.135.gz)
-1.9598.79 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/LR01/LR01_1.9598.79.gz)
+1.9598.78 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/LR01/LR01_1.9598.78.gz)
 1.8530.15 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/LR01/LR01_1.8530.15.gz)
 
 * Im Ordner `QuattroPod.TR01.Repair.Tool` führen Sie die Datei **Update_for_localfile.exe** aus.
@@ -135,8 +135,9 @@ Um die neueste Firmware, eine vorherige bzw. eine Betafirmware zu installieren, 
 
 Firmware                  | Empfänger LT01 | Bemerkung
 ------------------------- | ------------ | ------------
-1.14366.135 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/LT01/LT01_1.14366.135.img)
-1.9598.75 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/LT01/LT01_1.9598.75.gz)
+1.14366.135 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/LT01/LT01_1.14366.135.gz)
+1.9598.79 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/LT01/LT01_1.9598.79.gz)
+1.8530.15 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/LT01/LT01_1.8530.15.gz)
 
 Zum Installieren der Firmware in den QuattroPod Lite-Sender müssen Sie das [CMS](#install_fw_via_cms) nutzen.
 
