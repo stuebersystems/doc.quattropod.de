@@ -64,11 +64,11 @@ Mithilfe einer kostenloser App/Software senden Sie uns ein Screenshot Ihrer WLAN
 
 ![](/assets/img/wifi.analyzer.windows.install.png)
 
-* Klicken Sie auf die Spalte `Signal strength`, um nach Signalstärke absteigend bzw. zu sortieren:
+* Klicken Sie auf die Spalte `Signal strength`, um nach Signalstärke absteigend zu sortieren:
 
 ![](/assets/img/wifi.analyzer.sortbysignal.strength.png)
 
-* Im unten stehenden Beispiel ist der QuattroPod `DIRECT-QP_Schulungsraum` mit unserem WLAN `z-stueber-guest-EG-5ghz` mit guter Signalstärke über das Kanal 48 (5Ghz-Frequenz) verbunden:
+* Im unten stehenden Beispiel ist der QuattroPod `DIRECT-QP_Schulungsraum` mit der WLAN-Infrastruktur `z-stueber-guest-EG-5ghz` mit guter Signalstärke über das Kanal 48 (5Ghz-Frequenz) verbunden:
 
 ![](/assets/img/wifi.analyzer.windows.png)
 
@@ -78,7 +78,7 @@ Suchen Sie die App **WiFiman** im [Play Store](https://play.google.com/store/app
 
 ![](/assets/img/wifiman.android.install.png)
 
-* Im unten stehenden Beispiel ist der QuattroPod `DIRECT-QP_Schulungsraum` mit unserem WLAN `z-stueber-guest-EG-5ghz` mit guter Signalstärke über das Kanal 48 (5Ghz-Frequenz) verbunden:
+* Im unten stehenden Beispiel ist der QuattroPod `DIRECT-QP_Schulungsraum` mit der WLAN-Infrastruktur `z-stueber-guest-EG-5ghz` mit guter Signalstärke über das Kanal 48 (5Ghz-Frequenz) verbunden:
 
 ![](/assets/img/wifiman.android.networks.png)
 
