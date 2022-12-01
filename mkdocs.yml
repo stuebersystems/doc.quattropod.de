@@ -113,7 +113,7 @@ nav:
         - Sicherheitscodes: usb/securitycodes.md
         - Touch-Back-Funktion: usb/touchback.md
     - Firmware aktualisieren: usb/firmware-upgrade.md
-    - Internetzugang: usb/internet.md
+    - Mit LAN/WLAN verbinden: usb/connect.wifi.lan.md
     - Problembehandlung:
         - DxDiag-Bericht erstellen: usb/dxdiag.md
         - Einstellungen zurücksetzen: usb/reset.md
@@ -121,6 +121,7 @@ nav:
         - Leistungstest durchführen: usb/performancetest.md
         - Logdatei herunterladen: usb/logfile.md
         - Projizieren auf diesen PC: usb/project2PC.md
+        - WLAN-Umgebung scannen: lite/wifi.environment.md
     - Pairing des Senders: usb/pairing.md
 - Lite:
     - Überblick: lite/intro.md
@@ -149,7 +150,7 @@ nav:
         - Sicherheitscodes: lite/securitycodes.md
         - Touch-Back-Funktion: lite/touchback.md
     - Firmware aktualisieren: lite/firmware-upgrade.md
-    - Internetzugang: lite/internet.md
+    - Mit LAN/WLAN verbinden: lite/connect.wifi.lan.md
     - Problembehandlung:
         - DxDiag-Bericht erstellen: lite/dxdiag.md
         - Einstellungen zurücksetzen: lite/reset.md
@@ -157,6 +158,7 @@ nav:
         - Leistungstest durchführen: lite/performancetest.md
         - Logdatei herunterladen: lite/logfile.md
         - Projizieren auf diesen PC: lite/project2PC.md
+        - WLAN-Umgebung scannen: lite/wifi.environment.md
     - Pairing des Senders: lite/pairing.md    
 - Mini: 
     - Überblick: mini/intro.md
@@ -188,7 +190,7 @@ nav:
         - Sicherheitscodes: mini/securitycodes.md
         - Touch-Back-Funktion: mini/touchback.md
     - Firmware aktualisieren: mini/firmware-upgrade.md
-    - Internetzugang: mini/internet.md
+    - Mit LAN/WLAN verbinden: mini/connect.wifi.lan.md
     - Problembehandlung:
         - DxDiag-Bericht erstellen: mini/dxdiag.md
         - Einstellungen zurücksetzen: mini/reset.md
@@ -196,6 +198,7 @@ nav:
         - Leistungstest durchführen: mini/performancetest.md
         - Logdatei herunterladen: mini/logfile.md
         - Projizieren auf diesen PC: mini/project2PC.md
+        - WLAN-Umgebung scannen: mini/wifi.environment.md
     - Pairing des Senders: mini/pairing.md
 - Standard: 
     - Überblick: standard/intro.md
@@ -227,7 +230,7 @@ nav:
         - Sender bedienen: standard/TX-controls.md
         - Touch-Back-Funktion: standard/touchback.md
     - Firmware aktualisieren: standard/firmware-upgrade.md
-    - Internetzugang: standard/internet.md
+    - Mit LAN/WLAN verbinden: standard/connect.wifi.lan.md
     - Problembehandlung: 
         - DxDiag-Bericht erstellen: standard/dxdiag.md
         - Einstellungen zurücksetzen: standard/reset.md
@@ -235,6 +238,7 @@ nav:
         - Leistungstest durchführen: standard/performancetest.md
         - Logdatei herunterladen: standard/logfile.md
         - Projizieren auf diesen PC: standard/project2PC.md
+        - WLAN-Umgebung scannen: standard/wifi.environment.md
     - Pairing des Senders: standard/pairing.md
 - Deluxe:
     - Überblick: deluxe/intro.md
@@ -266,7 +270,7 @@ nav:
         - Sicherheitscodes: deluxe/securitycodes.md
         - Touch-Back-Funktion: deluxe/touchback.md
     - Firmware aktualisieren: deluxe/firmware-upgrade.md
-    - Internetzugang: deluxe/internet.md
+    - Mit LAN/WLAN verbinden: deluxe/connect.wifi.lan.md
     - Problembehandlung: 
         - DxDiag-Bericht erstellen: deluxe/dxdiag.md 
         - Einstellungen zurücksetzen: deluxe/reset.md        
@@ -274,6 +278,7 @@ nav:
         - Leistungstest durchführen: deluxe/performancetest.md
         - Logdatei herunterladen: deluxe/logfile.md
         - Projizieren auf diesen PC: deluxe/project2PC.md
+        - WLAN-Umgebung scannen: deluxe/wifi.environment.md
     - Pairing des Senders: deluxe/pairing.md
 - M1: 
     - Überblick: m1/intro.md
@@ -304,13 +309,14 @@ nav:
         - Sicherheitscodes: m1/securitycodes.md
         - Touch-Back-Funktion: m1/touchback.md
     - Firmware aktualisieren: m1/firmware-upgrade.md
-    - Internetzugang: m1/internet.md
+    - Mit LAN/WLAN verbinden: m1/connect.wifi.lan.md
     - Problembehandlung: 
         - DxDiag-Bericht erstellen: m1/dxdiag.md 
         - Einstellungen zurücksetzen: m1/reset.md        
         - Firmware neu installieren: m1/firmware-reinstall.md
         - Leistungstest durchführen: m1/performancetest.md
         - Logdatei herunterladen: m1/logfile.md
+        - WLAN-Umgebung scannen: m1/wifi.environment.md
     - Pairing des Senders: m1/pairing.md    
 - CMS: 
     - Einführung: cms.md

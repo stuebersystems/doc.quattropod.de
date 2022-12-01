@@ -4,7 +4,7 @@
 
 Um von den neuesten Funktionen des QuattroPods zu profitieren, können Sie das neueste Firmware-Update schnell und bequem über das Internet installieren. Bei der Installation einer neuen Firmware werden die bisherigen Einstellungen übernommen.
 
-Dabei benötigen Sie einen [Internetzugang](internet.md) zum Internet bzw. mit Ihrem Router.  Wenn der QuattroPod mit Ihrem LAN bzw. mit Ihrem WLAN verbunden ist, wird eine von Ihrem Netzwerk vergebenen IP-Adressen mit der Bezeichnung `Infrustructure IP` auf dem Bildschirm angezeigt, wie unten abgebildet:
+Dabei benötigen Sie einen [Internetzugang](connect.wifi.lan.md) zum Internet bzw. mit Ihrem Router.  Wenn der QuattroPod mit Ihrem LAN bzw. mit Ihrem WLAN verbunden ist, wird eine von Ihrem Netzwerk vergebenen IP-Adressen mit der Bezeichnung `Infrustructure IP` auf dem Bildschirm angezeigt, wie unten abgebildet:
 
 ![](/assets/img/QuattroPod_IP.png)
 

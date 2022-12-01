@@ -35,7 +35,7 @@ Mehrere Teilnehmer haben die Möglichkeit, per Knopfdruck ihre Bildschirminhalte
 
 !!! tip "Hinweis"
     
-	Um eine bessere Leistung von Multicast zu erreichen, verbinden Sie den QuattroPod-Empfänger mit dem [Router per LAN-Kabel](internet.md).
+	Um eine bessere Leistung von Multicast zu erreichen, verbinden Sie den QuattroPod-Empfänger mit dem [Router per LAN-Kabel](connect.wifi.lan.md).
 
 ## Firmware-Version prüfen
 
