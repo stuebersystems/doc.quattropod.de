@@ -1,16 +1,24 @@
 # WLAN-Umgebung
 
-Zu Support-Zwecken bitten wir Sie möglicherweise, dass Sie uns mithilfe eines WiFi-Analyzers einige Informationen zu Ihrem QuattroPod-Empfänger und Ihrer WLAN-Umgebung zukommen lassen, damit wir Ihre Anfrage besser beantworten können:
+Zu Support-Zwecken bitten wir Sie möglicherweise, dass Sie uns einige Informationen zu Ihrem QuattroPod-Empfänger und Ihrer WLAN-Umgebung zukommen lassen, damit wir Ihre Anfrage besser beantworten können:
 
-## QuattroPod - Über das Gerät
+Wir bitten um folgende Screenshots:
+
+* [Über das Gerät](#about) - Die Übersicht des QuattroPods, wo alle Netzwerkinformationen des Gerätes zu finden sind.
+
+* [WiFi Analyzer](#wifianalyzer) - Mithilfe einer kostenloser App/Software senden Sie uns eine Ansicht der WLAN-Umgebung, wo die Kanäle des QuattroPods und Ihres WLANs zu sehen sind.
+
+## QuattroPod - Über das Gerät {#about}
 
 !!! tip "Bitte beachten"
     
-	Wenn Sie den QuattroPod mit Ihrem WLAN-Infrastruktur noch nicht verbunden haben, schauen Sie sich [diese](connect.wifi.lan.md) Anelitung an.
+	Wenn Sie den QuattroPod mit Ihrer WLAN-Infrastruktur noch nicht verbunden haben, schauen Sie sich [diese](connect.wifi.lan.md) Anleitung an.
 	
-Wir bitten Sie um folgendes Screenshot, wo die Netzwerkinformationen des QuattroPods zu finden sind:
+Wir bitten Sie um ein Screenshot der unten stehenden Ansicht, wo alle Netzwerkinformationen des QuattroPods zu finden sind:
 
 ![](/assets/img/About.notx.png)
+
+Um diese Ansicht zu erreichen, folgen Sie bitte den folgenden Schritten:
 
 ### Erweiterte Einstellungen öffnen
 
@@ -34,66 +42,44 @@ Wir bitten Sie um folgendes Screenshot, wo die Netzwerkinformationen des Quattro
 
 ![](/assets/img/mainmenu.aboutdevice.png)
 
-## WiFi-Analyzer
+Wir bitten Sie um ein Screenshot der unten stehenden Ansicht, wo alle Netzwerkinformationen des QuattroPods zu finden sind:
 
-müssen Sie einfach einer der folgenden kostenlosen Apps nutzen:
+![](/assets/img/About.notx.png)
 
+## WiFi-Analyzer {#wifianalyzer}
+
+Mithilfe einer kostenloser App/Software senden Sie uns ein Screenshot Ihrer WLAN-Umgebung, wo die Kanäle des QuattroPods und Ihres WLANs zu sehen sind. 
+
+!!! tip "Bitte beachten"
+	
+	Sie müssen unbedingt in der Nähe des QuattroPods stehen, wenn die App/Software ausführen.
+    
 * [Windows - Easy to use WiFi Analyzer](#wifi.analyzer.windows)
 
 * [Android - WiFiman](#wifi.analyzer.android)
 
 ### Windows - Easy to use WiFi Analyzer {#wifi.analyzer.windows}
 
-Suchen Sie die Sofware **Easy to use WiFi Analyzer** im {Microsoft Store](https://www.microsoft.com/store/productId/9N75W2M2D55F) installieren Sie diese von dort: 
+* Suchen Sie die Software **Easy to use WiFi Analyzer** im [Microsoft Store](https://www.microsoft.com/store/productId/9N75W2M2D55F) installieren Sie diese von dort: 
+
+![](/assets/img/wifi.analyzer.windows.install.png)
+
+* Klicken Sie auf die Spalte `Signal strength`, um nach Signalstärke absteigend bzw. zu sortieren:
+
+![](/assets/img/wifi.analyzer.sortbysignal.strength.png)
+
+* Im unten stehenden Beispiel ist der QuattroPod `DIRECT-QP_Schulungsraum` mit unserem WLAN `z-stueber-guest-EG-5ghz` mit guter Signalstärke über das Kanal 48 (5Ghz-Frequenz) verbunden:
+
+![](/assets/img/wifi.analyzer.windows.png)
+
+### Android - WiFiman {#wifi.analyzer.android}
+
+Suchen Sie die App **WiFiman** im [Play Store](https://play.google.com/store/apps/details?id=com.ubnt.usurvey) installieren Sie diese von dort: 
 
 ![](/assets/img/wifiman.android.install.png)
 
+* Im unten stehenden Beispiel ist der QuattroPod `DIRECT-QP_Schulungsraum` mit unserem WLAN `z-stueber-guest-EG-5ghz` mit guter Signalstärke über das Kanal 48 (5Ghz-Frequenz) verbunden:
+
+![](/assets/img/wifiman.android.networks.png)
 
 
-
-### Windows - Easy to use WiFi Analyzer {#wifi.analyzer.android}
-
-https://play.google.com/store/apps/details?id=com.ubnt.usurvey
-
-![](/assets/img/automousemover.extract.png)
-
-* Führen Sie die Datei **AutoMouseMover.exe** aus:
-
-![](/assets/img/AutoMouseMover.exe.png)
-
-* Auf der Lizenzvereinbarung wählen Sie `Accept`:
-
-![](/assets/img/automousemover.agreement.png)
-
-* Sie können die vorgegebenen Einstellungen übernehmen und einfach auf `Save & Hide to System Tray` klicken, um die Software in die Systemleiste zu minimieren:
-
-![](/assets/img/automousemove.settings.png)
-
-
-
-
-* Laden Sie folgendes [MP4-Video](https://assets.stueber.de/videos/cms.quattropod.introduction.de.mp4) auf Ihrem Windows-PC herunter:
-
-[![CMS Einführungsvideo](/assets/img/thumbnail.video.cms.png)](https://assets.stueber.de/videos/cms.quattropod.introduction.de.mp4)
-
-* Öffen Sie das Video im **Windows Media Player**: 
-
-![](/assets/img/video.open.in.mediaplayer.png)
-
-* Aktivieren Sie auf die Wiederholungstaste:
-
-![](/assets/img/mediaplayer.repeat.png)
-
-* Das Video wird wiederholt abgespielt:
-
-![](/assets/img/video.playing.png)
-
-## Sender anschließend und Bildschirm übertragen 
-
-* Schließen Sie den Sender an Ihr Windows-Notebook an und spiegeln Sie den Bildschirm auf das große Display:
-
-![](/assets/img/QSG-TypeC.Windows.png)
-
-!!! tip "Hinweis"
-
-     Lassen Sie die Bildschirmübertragung so lange wie möglich laufen. Sollte die Übertragung abgebrochen wird, lassen Sie uns eine [Log-Datei](logfile.md) zukommen.
