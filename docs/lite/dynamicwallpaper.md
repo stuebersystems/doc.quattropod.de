@@ -108,7 +108,7 @@ Unsere Beispieldatei `wallpaper_file.json` zum steht Ihnen [hier](https://downlo
 
 ![](/assets/img/quattropod.lite.ssid.connect.png)
 
-* In die Adressleiste eines Webbrowsers geben Sie die IP-Adresse des QuattroPods ein. Wenn Sie mit der SSID des QuattroPods verbunden sind, geben Sie die `Direct Link IP` ein. Wenn Sie mit Ihrer WLAN- bzw. LAN-Infrastruktur verbunden sind, geben Sie die `Infrastructure IP` ein. Die Einstellungsoberfläche des QuattroPods erscheint:
+* In die Adressleiste eines Webbrowsers geben Sie die IP-Adresse des QuattroPods ein, entweder die `Direct Link IP` oder die `Infrastructure IP`, je nachdem, mit welcher Ihr Gerät verbunden ist. Die Einstellungsoberfläche des QuattroPods erscheint:
 
 ![](/assets/img/quattropod_lite_directIP.connect.png)
 
