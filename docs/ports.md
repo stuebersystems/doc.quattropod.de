@@ -4,8 +4,8 @@ In der folgenden Tabelle sind die von QuattroPod verwendeten Anschlüsse aufgef�
 
 ## Verwendete Anschlüsse
 
-Port | Typ | Tx / Rx | Beschreibung                
-| :---- | :--- | :---- | :---
+Port | Typ | Tx / Rx | Beschreibung |                 
+| :---- | :--- | :---- | :--- | 
 53 | TCP  | Rx | DNS server    
 53 | UDP  | Rx | ChromeCast
 67 | UDP  | Tx | DHCP server
@@ -15,7 +15,6 @@ Port | Typ | Tx / Rx | Beschreibung
 554 | TCP  | TxRx | RTSP AirPlay
 1900 | UDP  | Rx | ChromeCast / DLNA   
 2425 | TCP  | TxRx | TX <-> RX
-2869 | TCP  | TxRx | DLNA    
 3689 | TCP  | TxRx | AirPlay    
 5297 | TCP  | TxRx | Bonjour    
 5289 | TCP/UDP  | TxRx | Bonjour

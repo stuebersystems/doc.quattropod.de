@@ -26,7 +26,7 @@ Die folgenden Funktionen stehen zur Verfügung:
 
 Nutzen Sie diese Option, um die Android-APK-Datei vom Empfänger herunterzuladen und die QuattroPod-App auf einem Android-Gerät "per Hand" zu installieren. Bei der Ausführung einer APK-Datei könnte eine Genehmigung aus Sicherheitsgründen in z.B. `Einstellungen | Sicherheit` benötigt werden.
 
-![Android APK herunterladen](/assets/img/Android_download.png)
+![][Android APK herunterladen](/assets/img/Android_download.png)
 
 ## Netzwerkmanagement {#Netzwerkmanagement}
 
