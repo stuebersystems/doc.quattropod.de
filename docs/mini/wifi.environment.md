@@ -6,7 +6,7 @@ Wir bitten um folgende Screenshots:
 
 * [Über das Gerät](#about) - Die Übersicht des QuattroPods, wo alle Netzwerkinformationen des Gerätes zu finden sind.
 
-* [WiFi Analyzer](#wifianalyzer) - Mithilfe einer kostenloser App/Software senden Sie uns eine Ansicht der WLAN-Umgebung, wo die Kanäle des QuattroPods und Ihres WLANs zu sehen sind.
+* [WiFi Analyzer](#wifianalyzer) - Mithilfe einer kostenlosen App/Software senden Sie uns eine Ansicht der WLAN-Umgebung, wo die Kanäle des QuattroPods und Ihres WLANs zu sehen sind.
 
 ## QuattroPod - Über das Gerät {#about}
 
@@ -48,7 +48,7 @@ Wir bitten Sie um ein Screenshot der unten stehenden Ansicht, wo alle Netzwerkin
 
 ## WiFi-Analyzer {#wifianalyzer}
 
-Mithilfe einer kostenloser App/Software senden Sie uns ein Screenshot Ihrer WLAN-Umgebung, wo die Kanäle des QuattroPods und Ihres WLANs zu sehen sind. 
+Mithilfe einer kostenlosen App/Software senden Sie uns ein Screenshot Ihrer WLAN-Umgebung, wo die Kanäle des QuattroPods und Ihres WLANs zu sehen sind. 
 
 !!! tip "Bitte beachten"
 	
