@@ -18,7 +18,7 @@ Es gibt mehrere Gründe, warum Sie den QuattroPod mit Ihrer Netzwerkinfrastruktu
 
 !!! tip "Bitte beachten"
     
-	Der QuattroPod unterstützt nur die 5Ghz WLAN Frequenzband. Außerdem ist es empfohlen, den QuattroPod mit keiner Dual-Band 2,4Ghz/5Ghz SSID zu verbinden, sondern mit einer dedizierten SSID, die auf die 5Ghz-Band eingeschränkt ist.
+	Der QuattroPod unterstützt nur das 5Ghz WLAN Frequenzband. Außerdem empfehlen wir, den QuattroPod nicht mit einer Dual-Band 2,4Ghz/5Ghz SSID zu verbinden, sondern mit einer dedizierten SSID, die auf die 5Ghz-Band eingeschränkt ist.
 	
 ### Erweiterte Einstellungen öffnen
 
