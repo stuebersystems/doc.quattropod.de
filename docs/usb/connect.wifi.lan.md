@@ -6,13 +6,13 @@ Sie haben die Möglichkeit den QuattroPod mit Ihrer Netzwerkinfrastruktur entwed
 
 Es gibt mehrere Gründe, warum Sie den QuattroPod mit Ihrer Netzwerkinfrastruktur verbinden sollen:
 
-* Sie sind mit dem QuattroPod per [Apple AirPlay](airplay.md), [Chromecast](googlecast.md) oder die [Android App](quickstart.md#b-die-quattropod-app-unter-android) verbunden und möchten Inhalte vom Internet präsentieren.
+* Sie sind mit dem QuattroPod per [Apple AirPlay](airplay.md), [Chromecast](googlecast.md) oder die [Android App](quickstart.md#b-die-quattropod-app-unter-android) verbunden und möchten **Inhalte vom Internet** präsentieren.
 
-* Sie möchten den QuattroPod auf die neueste Firmware-Version [aktualisieren](firmware-upgrade.md).
+* Sie möchten den QuattroPod auf die **neueste Firmware-Version** [aktualisieren](firmware-upgrade.md).
 
-* Sie möchten per Fernzugriff auf die Funktion [Erweiterte Einstellungen](adv.settings.md) zugreifen, um den QuattroPod zu verwalten.
+* Sie möchten per **Fernzugriff** auf die Funktion [Erweiterte Einstellungen](adv.settings.md) zugreifen, um den QuattroPod zu verwalten.
   
-* Integriertes Netzwerk: Wenn alle Ihre Endgeräte und QuattroPod-Geräte im gleichen Netzwerk sind, entfällt die Notwendigkeit, jedes Mal zur SSID des QuattroPods zu wechseln, um ein Mobilgerät in unterschiedlichen Räumen zu übertragen.
+* **Integriertes Netzwerk**: Wenn alle Ihre Endgeräte und QuattroPod-Geräte im gleichen Netzwerk sind, entfällt die Notwendigkeit, jedes Mal zur SSID des QuattroPods zu wechseln, um ein Mobilgerät in unterschiedlichen Räumen zu übertragen.
 
 ## QuattroPod mit WLAN verbinden
 

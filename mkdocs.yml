@@ -113,7 +113,7 @@ nav:
         - Sicherheitscodes: usb/securitycodes.md
         - Touch-Back-Funktion: usb/touchback.md
     - Firmware aktualisieren: usb/firmware-upgrade.md
-    - Mit LAN/WLAN verbinden: usb/connect.wifi.lan.md
+    - Mit WLAN/LAN verbinden: usb/connect.wifi.lan.md
     - Problembehandlung:
         - DxDiag-Bericht erstellen: usb/dxdiag.md
         - Einstellungen zurücksetzen: usb/reset.md
@@ -150,7 +150,7 @@ nav:
         - Sicherheitscodes: lite/securitycodes.md
         - Touch-Back-Funktion: lite/touchback.md
     - Firmware aktualisieren: lite/firmware-upgrade.md
-    - Mit LAN/WLAN verbinden: lite/connect.wifi.lan.md
+    - Mit WLAN verbinden: lite/connect.wifi.md
     - Problembehandlung:
         - DxDiag-Bericht erstellen: lite/dxdiag.md
         - Einstellungen zurücksetzen: lite/reset.md
@@ -190,7 +190,7 @@ nav:
         - Sicherheitscodes: mini/securitycodes.md
         - Touch-Back-Funktion: mini/touchback.md
     - Firmware aktualisieren: mini/firmware-upgrade.md
-    - Mit LAN/WLAN verbinden: mini/connect.wifi.lan.md
+    - Mit WLAN/LAN verbinden: mini/connect.wifi.lan.md
     - Problembehandlung:
         - DxDiag-Bericht erstellen: mini/dxdiag.md
         - Einstellungen zurücksetzen: mini/reset.md
@@ -230,7 +230,7 @@ nav:
         - Sender bedienen: standard/TX-controls.md
         - Touch-Back-Funktion: standard/touchback.md
     - Firmware aktualisieren: standard/firmware-upgrade.md
-    - Mit LAN/WLAN verbinden: standard/connect.wifi.lan.md
+    - Mit WLAN/LAN verbinden: standard/connect.wifi.lan.md
     - Problembehandlung: 
         - DxDiag-Bericht erstellen: standard/dxdiag.md
         - Einstellungen zurücksetzen: standard/reset.md
@@ -270,7 +270,7 @@ nav:
         - Sicherheitscodes: deluxe/securitycodes.md
         - Touch-Back-Funktion: deluxe/touchback.md
     - Firmware aktualisieren: deluxe/firmware-upgrade.md
-    - Mit LAN/WLAN verbinden: deluxe/connect.wifi.lan.md
+    - Mit WLAN/LAN verbinden: deluxe/connect.wifi.lan.md
     - Problembehandlung: 
         - DxDiag-Bericht erstellen: deluxe/dxdiag.md 
         - Einstellungen zurücksetzen: deluxe/reset.md        
@@ -309,7 +309,7 @@ nav:
         - Sicherheitscodes: m1/securitycodes.md
         - Touch-Back-Funktion: m1/touchback.md
     - Firmware aktualisieren: m1/firmware-upgrade.md
-    - Mit LAN/WLAN verbinden: m1/connect.wifi.lan.md
+    - Mit WLAN/LAN verbinden: m1/connect.wifi.lan.md
     - Problembehandlung: 
         - DxDiag-Bericht erstellen: m1/dxdiag.md 
         - Einstellungen zurücksetzen: m1/reset.md        

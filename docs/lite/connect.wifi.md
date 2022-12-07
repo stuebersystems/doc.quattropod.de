@@ -1,18 +1,18 @@
-# Mit WLAN/LAN verbinden
+# Mit WLAN verbinden
 
-Sie haben die Möglichkeit den QuattroPod mit Ihrer Netzwerkinfrastruktur entweder drahtlos per WLAN oder per LAN-Kabel zu verbinden.
+Sie haben die Möglichkeit den QuattroPod Lite mit Ihrer Netzwerkinfrastruktur entweder drahtlos per WLAN zu verbinden.
 
-## Warum soll man den QuattroPod mit WLAN/LAN verbinden?
+## Warum soll man den QuattroPod mit WLAN verbinden?
 
 Es gibt mehrere Gründe, warum Sie den QuattroPod mit Ihrer Netzwerkinfrastruktur verbinden sollen:
 
-* Sie sind mit dem QuattroPod per [Apple AirPlay](airplay.md), [Chromecast](googlecast.md) oder die [Android App](quickstart.md#b-die-quattropod-app-unter-android) verbunden und möchten Inhalte vom Internet präsentieren.
+* Sie sind mit dem QuattroPod per [Apple AirPlay](airplay.md), [Chromecast](googlecast.md) oder die [Android App](quickstart.md#b-die-quattropod-app-unter-android) verbunden und möchten **Inhalte vom Internet** präsentieren.
 
-* Sie möchten den QuattroPod auf die neueste Firmware-Version [aktualisieren](firmware-upgrade.md).
+* Sie möchten den QuattroPod auf die **neueste Firmware-Version** [aktualisieren](firmware-upgrade.md).
 
-* Sie möchten per Fernzugriff auf die Funktion [Erweiterte Einstellungen](adv.settings.md) zugreifen, um den QuattroPod zu verwalten.
+* Sie möchten per **Fernzugriff** auf die Funktion [Erweiterte Einstellungen](adv.settings.md) zugreifen, um den QuattroPod zu verwalten.
   
-* Integriertes Netzwerk: Wenn alle Ihre Endgeräte und QuattroPod-Geräte im gleichen Netzwerk sind, entfällt die Notwendigkeit, jedes Mal zur SSID des QuattroPods zu wechseln, um ein Mobilgerät in unterschiedlichen Räumen zu übertragen.
+* **Integriertes Netzwerk**: Wenn alle Ihre Endgeräte und QuattroPod-Geräte im gleichen Netzwerk sind, entfällt die Notwendigkeit, jedes Mal zur SSID des QuattroPods zu wechseln, um ein Mobilgerät in unterschiedlichen Räumen zu übertragen.
 
 ## QuattroPod mit WLAN verbinden
 
@@ -49,20 +49,6 @@ Es gibt mehrere Gründe, warum Sie den QuattroPod mit Ihrer Netzwerkinfrastruktu
 * Verbinden Sie den QuattroPod mit Ihrem WLAN-Router.
 
 ![](/assets/img/Wifi_Internet.png)
-
-Wenn der QuattroPod mit Ihrem WLAN verbunden ist, wird eine von Ihrem Netzwerk vergebenen IP-Adressen mit der Bezeichnung `Infrustructure IP` auf dem Bildschirm angezeigt, wie unten abgebildet:
-
-![](/assets/img/QuattroPod_IP.png)
-
-## QuattroPod mit LAN verbinden
-
-Schließen Sie dazu ein Netzwerkkabel in den `ETHERNET` Anschluss an der Rückseite des QuattroPods an und verbinden Sie das Kabel mit Ihrem Netzwerk bzw. mit Ihrem Router.
-
-![](/assets/img/QuattroPod_ports.png)
-
-!!! tip "Bitte beachten"
-    
-	Wenn ein LAN-Kabel an der Box angeschlossen ist, wird der Internetzugang per WLAN automatisch deaktiviert.
 
 Wenn der QuattroPod mit Ihrem WLAN verbunden ist, wird eine von Ihrem Netzwerk vergebenen IP-Adressen mit der Bezeichnung `Infrustructure IP` auf dem Bildschirm angezeigt, wie unten abgebildet:
 
