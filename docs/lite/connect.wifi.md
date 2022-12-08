@@ -56,7 +56,7 @@ Wenn der QuattroPod mit Ihrem WLAN verbunden ist, wird eine von Ihrem Netzwerk v
 
 ## Problembehandlung
 
-### Internet-Router-Signalstärke
+### WLAN-Signalstärke
 
 Der QuattroPod hat eine Funkreichweite (Sichtlinie) von bis zu 30m. Eine geringe Signalanzeige bezieht sich auf eine schlechte Signalstärke zwischen der Box und Ihrem Router bzw. Ihrem Access-Point. Dies kann zu einer abgehackten Wiedergabe von Videos und Inhalten führen, wenn die Inhalte vom Internet abhängig sind oder wenn Ihre Mobilgeräte mit dem Stick über Ihre Infrastruktur verbinden.
 

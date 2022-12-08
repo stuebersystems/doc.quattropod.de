@@ -120,6 +120,7 @@ nav:
         - Firmware neu installieren: usb/firmware-reinstall.md
         - Leistungstest durchführen: usb/performancetest.md
         - Logdatei herunterladen: usb/logfile.md
+        - Mit Hotspot verbinden: usb/hotspot.md
         - Projizieren auf diesen PC: usb/project2PC.md
         - WLAN-Umgebung scannen: lite/wifi.environment.md
     - Pairing des Senders: usb/pairing.md

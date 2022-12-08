@@ -54,23 +54,9 @@ Wenn der QuattroPod mit Ihrem WLAN verbunden ist, wird eine von Ihrem Netzwerk v
 
 ![](/assets/img/QuattroPod_IP.png)
 
-## QuattroPod mit LAN verbinden
-
-Schließen Sie dazu ein Netzwerkkabel in den `ETHERNET` Anschluss an der Rückseite des QuattroPods an und verbinden Sie das Kabel mit Ihrem Netzwerk bzw. mit Ihrem Router.
-
-![](/assets/img/QuattroPod_ports.png)
-
-!!! tip "Bitte beachten"
-    
-	Wenn ein LAN-Kabel an der Box angeschlossen ist, wird der Internetzugang per WLAN automatisch deaktiviert.
-
-Wenn der QuattroPod mit Ihrem WLAN verbunden ist, wird eine von Ihrem Netzwerk vergebenen IP-Adressen mit der Bezeichnung `Infrustructure IP` auf dem Bildschirm angezeigt, wie unten abgebildet:
-
-![](/assets/img/QuattroPod_IP.png)
-
 ## Problembehandlung
 
-### Internet-Router-Signalstärke
+### WLAN-Signalstärke
 
 Der QuattroPod hat eine Funkreichweite (Sichtlinie) von bis zu 30m. Eine geringe Signalanzeige bezieht sich auf eine schlechte Signalstärke zwischen der Box und Ihrem Router bzw. Ihrem Access-Point. Dies kann zu einer abgehackten Wiedergabe von Videos und Inhalten führen, wenn die Inhalte vom Internet abhängig sind oder wenn Ihre Mobilgeräte mit dem Stick über Ihre Infrastruktur verbinden.
 
