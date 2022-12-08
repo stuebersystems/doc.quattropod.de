@@ -1,4 +1,4 @@
-# WLAN-Umgebung
+# WLAN-Umgebung scannen
 
 Zu Support-Zwecken bitten wir Sie möglicherweise, dass Sie uns einige Informationen zu Ihrem QuattroPod-Empfänger und Ihrer WLAN-Umgebung zukommen lassen, damit wir Ihre Anfrage besser beantworten können:
 
