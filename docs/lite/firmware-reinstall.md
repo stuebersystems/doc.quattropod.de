@@ -22,9 +22,9 @@ Sie können den QuattroPod wiederherstellen, indem Sie die Firmware manuell neu 
 
 ![USB-Kabel-AA](/assets/img/USB-Kabel-AA.jpg)
 
-### Empfänger - Firmware neu installieren
+### Empfänger (LR01) - Firmware neu installieren
 
-### Empfänger (LR01) Repair Tool herunterladen 
+### Repair Tool herunterladen 
 
 * Laden Sie das [QuattroPod-Empfänger (LR01) Repair Tool](https://download.stueber.de/doc/de/quattropod/repair_tools/QuattroPod.LR01.Repair.Tool.zip) herunter.
 
