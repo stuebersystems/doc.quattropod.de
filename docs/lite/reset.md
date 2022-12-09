@@ -30,7 +30,7 @@ Wenn Ihnen die Zugangsdaten zu der [Web-Oberfläche](adv.settings.md) nicht beka
 
 Mit Hilfe der Funktion [Erweiterte Einstellungen](adv.settings.md) können Sie sich anmelden und mit einem beliebigen Webbrowser auf die Standardeinstellungen zurücksetzen.
 
-### Anmeldung
+**Anmeldung**
 
 * Notieren Sie sich die IP-Adresse, die unten links auf der Startseite angezeigt wird.
 
