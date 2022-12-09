@@ -8,21 +8,20 @@ Sie können den QuattroPod wiederherstellen, indem Sie die Firmware manuell neu 
 
 * Sie haben die Wahl: Installieren Sie entweder einfach die neueste Firmware oder eine andere Firmware
 
-## Firmware über USB-Kabel installieren
-
 !!! tip "Hinweis"
 
     Bei einer Neuinstallation der Firmware werden **alle** Einstellungen zurückgesetzt.
-	 
-### Voraussetzung
+	
+## Voraussetzung
 
 * Die Firmware-Update-Software wird nur unter Microsoft Windows unterstützt 
 
-* Der Empfänger muss mit Ihrem Windows-PC per [USB-Kabel (A/A)](https://www.amazon.de/deleyCON-Super-Speed-Kabel-Stecker/dp/B00WHZ746E/ref=sr_1_3?ie=UTF8&qid=1531928442&sr=8-3&keywords=usb+kabel+male+to+male) angeschlossen werden
+* Der Empfänger muss an einen Windows-PC mit einem [USB-Kabel (A/A)](https://www.amazon.de/deleyCON-Super-Speed-Kabel-Stecker/dp/B00WHZ746E/ref=sr_1_3?ie=UTF8&qid=1531928442&sr=8-3&keywords=usb+kabel+male+to+male) angeschlossen werden
 
 ![USB-Kabel-AA](/assets/img/USB-Kabel-AA.jpg)
 
-### Empfänger (LR01) - Firmware neu installieren
+ 
+## Empfänger (LR01) - Firmware neu installieren
 
 ### Repair Tool herunterladen 
 
@@ -63,7 +62,7 @@ Wenn der Treiber richtig installiert ist und der Empfänger angeschlossen ist, s
 
 * Im Ordner `QuattroPod.TR01.Repair.Tool` führen Sie die Datei **EZCastUpdate.exe** aus.
  
-![EZCastUpdate.exe ausführen](/assets/img/TR01.Repair_Tool_Update.exe.png)
+![EZCastUpdate.exe ausführen](/assets/img/LR01.Repair_Tool_Update.exe.png)
 
 Das folgende Fenster erscheint. Wenn der QuattroPod-Empfänger erfolgreich im Update-Modus ist, wird im Tool der Status `Device connected`  angezeigt:
 
@@ -95,79 +94,88 @@ Am Ende der Aktualisierung wird der Status **Upgrade Success** angezeigt:
 
 Schalten Sie den Empfänger aus und wieder ein. Der Empfänger ist wieder einsatzbereit.
 
-### Andere Firmware installieren {#TR01_install_other_fw}
+## Sender (LT01) - Firmware neu installieren
 
-Um eine vorherige bzw. eine Betafirmware zu installieren, laden Sie eine der folgenden Dateien herunter:
+### Repair Tool herunterladen
 
-Firmware                  | Empfänger TR01 | Bemerkung
-------------------------- | ------------ | ------------
-1.14366.135 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/LR01/LR01_1.14366.135.gz)
-1.14366.90 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/LR01/LR01_1.14366.90.gz)
-1.12412.42 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/LR01/LR01_1.12412.42.gz)
-1.12412.27 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/LR01/LR01_1.12412.27.gz)
-1.9598.75 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/LR01/LR01_1.9598.75.gz)
-1.9598.44 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/LR01/LR01_1.9598.44.gz)
-1.8530.15 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/LR01/LR01_1.8530.15.gz)
+* Laden Sie das [QuattroPod Lite Sender (LT01) Repair Tool](https://download.stueber.de/doc/de/quattropod/repair_tools/QuattroPod.LT01.Repair.Tool.zip) herunter.
 
-* Im Ordner `QuattroPod.TR01.Repair.Tool` führen Sie die Datei **Update_for_localfile.exe** aus.
+* Extrahieren Sie die Datei **QuattroPod.LT01.Repair.Tool.zip**.
 
-![Update_for_localfile.exe ausführen](/assets/img/TR01.localfile.exe.png)
+![Sender Repair Tool extrahieren](/assets/img/LT01.Repair_Tool_Extract.png)
 
-Das folgende Fenster erscheint. Wenn der QuattroPod im Update-Modus ist, wird im Tool **Device connected** angezeigt.
+* Installieren Sie **die Treiber**, indem Sie die Batchdatei **QuattroPod.LT01.Repair.Tool\usb_driver\install.bat** als Administrator ausführen. 
 
-* Mit Hilfe der Schaltfläche `Firmware` wählen Sie die gewünschte Firmwaredatei aus.
+![install.bat als Administrator ausführen](/assets/img/LT01.install.bat.png) 
 
-![Firmware auswählen](/assets/img/EZCastUpdate.SelectFirmware.png)
+* Wenn die folgende Sicherheitsmeldung erscheint, wählen Sie `Installieren`:
 
-* Um die Installation der Firmware zu starten, wählen Sie `Upgrade`.
+![Klicken Sie auf Installieren, um die Treiber zu installieren](/assets/img/install_drivers.jpg)
 
-![Wählen Sie Upgrade, um die Installation zu starten](/assets/img/EZCastUpdate.localfile.Upgrade.jpg)
+### Sender in den **Update-Modus** versetzen 
 
-Die Firmware wird installiert.
+* Entfernen Sie die Antenne vom Sender:
 
-![Die Firmware wird installiert](/assets/img/EZCastUpdate.Firmware.localfile.Updating.jpg)
+![Sender in den Update-Modus versetzen](/assets/img/QP.lite.remove.antenna.png) 
 
-Wenn die Installation erfolgreich durchgeführt wurde, erscheint die folgende Meldung:
+* Um den Sender in den **Update-Modus** zu versetzen, lösen Sie die Rückseite mit einem Öffnungswerkzeug:
 
-![Die Installation war erfolgreich](/assets/img/EZCastUpdate_localfile.Upgrade.Success.jpg)
+![Sender in den Update-Modus versetzen](/assets/img/QP.lite.open.tx.png) 
 
-Schalten Sie den Empfänger aus und wieder ein. Der Empfänger ist wieder einsatzbereit.
+* Entfernen Sie die 5 Schrauben für das Mainboard:
 
-## Sender - Firmware neu installieren {#LT01_install_other_fw} 
+![Sender in den Update-Modus versetzen](/assets/img/QP.lite.remove.screws.png)
 
-Um die neueste Firmware, eine vorherige bzw. eine Betafirmware zu installieren, laden Sie zuerst eine der folgenden Dateien herunter:
+* Entfernen Sie das Mainboard vorsichtig aus dem Gehäuse und schließen Sie das Micro-USB-Kabel an:
 
-Firmware                  | Empfänger LT01 | Bemerkung
-------------------------- | ------------ | ------------
-1.14366.135 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/LT01/LT01_1.14366.135.img)
-1.9598.75 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/LT01/LT01_1.9598.75.gz)
+![Sender in den Update-Modus versetzen](/assets/img/QP.lite.connect.usb.png) 
 
-Zum Installieren der Firmware in den QuattroPod Lite-Sender müssen Sie das [CMS](#install_fw_via_cms) nutzen.
+* Mithilfe einer Pinzette halten Sie gedrückt Pin 5 und Pin 6 auf dem mainboard:
 
+![Sender in den Update-Modus versetzen](/assets/img/QP.lite.pin5.-6.a.png) 
 
-## Firmware mit dem CMS installieren {#install_fw_via_cms}
+![Sender in den Update-Modus versetzen](/assets/img/QP.lite.pin5.-6.b.png) 
 
-	
-Mit dem CMS ([Central Management System](cms.md)) kann man nicht nur die aktuelle Firmware vom Internet auf mehreren QuattroPod installieren, sondern auch eine vorherige Version bzw. eine Beta-Firmware.
+* Schließen Sie das USB-Kabel an einen USB-Port Ihres Rechners an. Nach einer Sekunde können Sie die Pinzette vom Mainboard des Senders loslassen.
 
-* Laden Sie eine Firmware für den [Empfänger](#TR01_install_other_fw) oder für den [Sender (Lite)](#LT01_install_other_fw) herunter.
+![Sender in den Update-Modus versetzen](/assets/img/QP.lite.TX.connect.USB.png) 
 
-* Wählen Sie die gewünschten Geräte aus, anschließend klicken Sie auf die Schaltfläche `Remote` -> und die Funktion `Device Firmware upgrade`.
+### Neueste Firmware installieren  {#LT01_install_latest_fw}
 
-![Die Firmware wird installiert](/assets/img/CMS-firmware.upgrade1.png)
-
-* Unter der Registerkarte `FILE`, wählen die Schaltfläche `File` und wählen Sie die Firmwaredatei aus, die Sie im ersten Schritt heruntergeladen haben.
-
-![Die Firmware wird installiert](/assets/img/CMS-firmware.upgrade2.png)
-
-Die neue Firmware wird heruntergeladen und automatisch installiert. 
-
-!!! warning "Achtung"
-    
-	Unterbrechen Sie während des Updates nicht die Stromversorgung.
-
-![](/assets/img/ProIIStick_Firmware_installing.png)
+* Im Ordner `QuattroPod.LT01.Repair.Tool` führen Sie die Datei **EZCastUpdate.exe** aus.
  
+![EZCastUpdate.exe ausführen](/assets/img/LT01.Repair_Tool_Update.exe.png)
+
+Das folgende Fenster erscheint. Wenn der QuattroPod-Empfänger erfolgreich im Update-Modus ist, wird im Tool der Status `Device connected`  angezeigt:
+
+* Wählen Sie `Download`, um die neueste Firmware herunterzuladen.
+ 
+![Die Schaltfläche Download wählen](/assets/img/EZCastUpdate.DeviceConnected.jpg)
+ 
+Das Downloaden der Firmware wird durchgeführt:
+
+!!! tip "Hinweis"
+
+    Sie dürfen den Strom während der Aktualisierung nicht unterbrechen.
+
+![QuattroPod Firmware wird heruntergefahren](/assets/img/EZCastUpdate.Firmware.Downloading.jpg)
+
+* Um die Installation der Firmware zu starten, wählen Sie `Upgrade`:
+
+![Wählen Sie Upgrade, um die Installation zu starten](/assets/img/EZCastUpdate.Upgrade.jpg)
+
+Die Firmware wird installiert:
+
+![Die Firmware wird installiert](/assets/img/EZCastUpdate.Firmware.Updating.jpg)
+
+Am Ende der Aktualisierung wird der Status **Upgrade Success** angezeigt:
+
+* Sie können das USB-Kabel nun herausziehen und den Empfänger neustarten, indem Sie ihn über die Power-Taste aus- und einschalten.
+
+![Die Installation war erfolgreich](/assets/img/EZCastUpdate_Upgrade.Success.jpg)
+
+Sie können nun den Sender vom Computer trennen und die Software schließen.
+
 ## Problembehandlung
 
 ### Fehlermeldung: Tool must be in a directory where there are no spaces

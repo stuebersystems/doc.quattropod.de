@@ -18,7 +18,7 @@ Sie können den QuattroPod wiederherstellen, indem Sie die Firmware manuell neu 
 
 * Die Firmware-Update-Software wird nur unter Microsoft Windows unterstützt 
 
-* Der Empfänger muss mit Ihrem Windows-PC per [USB-Kabel (A/A)](https://www.amazon.de/deleyCON-Super-Speed-Kabel-Stecker/dp/B00WHZ746E/ref=sr_1_3?ie=UTF8&qid=1531928442&sr=8-3&keywords=usb+kabel+male+to+male) angeschlossen werden
+* Der Empfänger muss an einen Windows-PC mit einem [USB-Kabel (A/A)](https://www.amazon.de/deleyCON-Super-Speed-Kabel-Stecker/dp/B00WHZ746E/ref=sr_1_3?ie=UTF8&qid=1531928442&sr=8-3&keywords=usb+kabel+male+to+male) angeschlossen werden
 
 ![USB-Kabel-AA](/assets/img/USB-Kabel-AA.jpg)
 
