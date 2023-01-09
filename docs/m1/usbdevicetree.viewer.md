@@ -8,7 +8,7 @@ Zu diesem Test benötigen Sie folgendes Gerät:
 
 ## Bildschirm an den Windows-Rechner anschließen
 
-* Trennen Sie Ihren Bildschirm von der EZCast Pro Box und schließen Sie das USB- und das HDMI-Kabel Ihres touchfähigen Bildschirms an Ihren Windows-Rechner an.
+* Trennen Sie Ihren Bildschirm von dem QuattroPod und schließen Sie das USB- und das HDMI-Kabel Ihres touchfähigen Bildschirms an Ihren Windows-Rechner an.
 
 * Testen Sie die Touch-Funktionen Ihres Bildschirms und prüfen, ob die Touch-Gesten funktionsfähig sind.
 
