@@ -44,5 +44,6 @@ Laden Sie die Software [![USB Device Tree Viewer](/assets/img/usbtreeview.icon.p
 
 ![](/assets/img/logfile.ticket.png)
 
-![](/assets/img/QSG-TypeC.Windows.png)
+!!! tip "Hinweis"
 
+    Aktuell werden die Gerätetypen `Tastatur`, `Maus` und `Touch-Display` unterstützt. Ein Treiber für `Stift` wird derzeit nicht unterstützt. Mit einer [Teststellung](https://www.quattropod.de/test.php) können Sie vorm Kauf testen, ob der QuattroPod mit Ihrem Touch-Display kompatibel ist.

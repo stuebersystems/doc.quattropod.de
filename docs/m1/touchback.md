@@ -6,27 +6,44 @@ Wenn auf einen anderen Teilnehmer gewechselt wird, steht ihm auch die Touch-Back
 
 Die Touch-Back Funktion wird nur bei der 1:1- Übertragung eines Bildschirms unterstützt.
 
-!!! info "Touch-Back-Funktion mit QuattroPod"
+!!! hint "Umfangreiche Touch-Back-Unterstützung mit QuattroPod USB und Multicast"
 
     [![QuattroPod Touch-Back-Funktion][1]{: align=left }][2]
 	
+	Demonstration: Umfangreiche Touch-Back-Unterstützung mit QuattroPod USB und Multicast
+	
+	[Video ansehen][2]
+
+  [1]: /assets/img/thumbnail.video.advancedtouch.png
+  [2]: https://assets.stueber.de/videos/touchback.win-android.mp4
+  
+!!! hint "Touch-Back-Funktion mit QuattroPod"
+
+    [![QuattroPod Touch-Back-Funktion][3]{: align=left }][4]
+	
 	Anleitung: Touch-Back-Funktion mit QuattroPod.
 	
-	[Zum YouTube-Video][2]
+	[Zum YouTube-Video][4]
 
-  [1]: /assets/img/thumbnail.video.touch.png
-  [2]: https://youtu.be/Qky7XQR1rrE
+  [1]: /assets/img/thumbnail.video.advancedtouch.png
+  [2]: https://assets.stueber.de/videos/touchback.win-android.mp4
+  [3]: /assets/img/thumbnail.video.touch.png
+  [4]: https://youtu.be/Qky7XQR1rrE
   
 
 ## Voraussetzungen
 
-* Windows 7 / 8 / 10
-
-* macOS 10.14.6 oder höher. Es werden keine Multitouch-Gesten unterstützt
-
-* Android-Geräte, die die Videoübertragung per USB-C-Anschluss [DP Alt Mode](https://en.everybodywiki.com/List_of_devices_with_video_output_over_USB-C) unterstützen.
-
 * Das neueste [Firmwareupdate](firmware-upgrade.md) für den QuattroPod.
+
+* Für Windows Geräte mit dem Sender ist Windows 7 / 8 / 10 erforderlich. Für die Verwendung ohne Sender ist ein [Miracast-fähiger Windows 10/11 PC](#touchviamiracast) erforderlich.
+
+* Für macOS Geräte mit dem Sender ist macOS 10.14.6 oder höher erforderlich. Es werden keine Multitouch-Gesten unterstützt.
+
+* Ein Android-Gerät, das die Videoübertragung per USB-C-Anschluss [DP Alt Mode](https://en.everybodywiki.com/List_of_devices_with_video_output_over_USB-C) unterstützen.
+
+!!! tip "Hinweis"
+
+    Aktuell werden die Gerätetypen `Tastatur`, `Maus` und `Touch-Display` unterstützt. Ein Treiber für `Stift` wird derzeit nicht unterstützt. Mit einer [Teststellung](https://www.quattropod.de/test.php) können Sie vorm Kauf testen, ob der QuattroPod mit Ihrem Touch-Display kompatibel ist.
 
 ## Einrichtung
 
@@ -42,7 +59,7 @@ Die Touch-Back Funktion wird nur bei der 1:1- Übertragung eines Bildschirms unt
 
 ![](/assets/img/reverse.control.png)
 
-## Touchback unter Windows/macOS im Type-C Sendermodus
+## Touch-Back unter Windows/macOS im Type-C Sendermodus
   
 !!! tip "Hinweis"
 
@@ -75,7 +92,7 @@ Die Touch-Back Funktion wird nur bei der 1:1- Übertragung eines Bildschirms unt
 ![](/assets/img/macOS.open.onscreen.keyboard.png)
 
 
-## Touchback unter Android  im Type-C Sendermodus {#touchback_android}
+## Touch-Back unter Android im Type-C Sendermodus {#touchback_android}
 	
 !!! tip "Hinweis"
 
@@ -92,3 +109,21 @@ Die Touch-Back Funktion wird nur bei der 1:1- Übertragung eines Bildschirms unt
 * Die Touch-Gesten Ihres Displays werden an Ihr Androi-Gerät zurückgesendet:
 
 ![Touch-Gesten werden an den Rechner zurückgesendet](/assets/img/Using.TouchBack.png)
+
+## Touch-Back unter Windows mit Miracast {#touchviamiracast}
+
+!!! tip "Hinweis"
+
+     Mit der Firmware-Version 1.16163.38 und höher unterstützt der QuattroPod Touchback mit Miracast, auch im Englischen als **User Input Back Channel (UIBC)** bekannt. 
+	 
+* Auf einem Windows-Gerät drücken Sie die Tastenkombination `[Windows]` + `[K]`, um das Dialogfenster `VERBINDEN` aufzurufen. Wählen Sie Ihr QuattroPod Pro Gerät aus, auf das Sie übertragen möchten:
+
+![](/assets/img/Windows_Miracast_Select_QP_Device.png)
+
+* Setzen Sie ein Häkchen ein, um die Touchfunktionalität per Miracast zu aktivieren:
+
+![](/assets/img/Windows_Miracast_connect.png)
+
+* Die Touch-Gesten mit bis zu 6-Fingern Ihres Displays werden an den Rechner zurückgesendet.
+
+![](/assets/img/Using.TouchBack.png)
