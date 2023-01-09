@@ -123,6 +123,7 @@ nav:
         - Mit Hotspot verbinden: usb/hotspot.md
         - Projizieren auf diesen PC: usb/project2PC.md
         - Über das Gerät: usb/about.md
+        - USB Device Tree Viewer: usb/usbdevicetree.viewer.md          
         - WLAN-Umgebung scannen: usb/wifi.environment.md
     - Pairing des Senders: usb/pairing.md
 - Lite:
@@ -162,6 +163,7 @@ nav:
         - Mit Hotspot verbinden: lite/hotspot.md
         - Projizieren auf diesen PC: lite/project2PC.md
         - Über das Gerät: lite/about.md
+        - USB Device Tree Viewer: lite/usbdevicetree.viewer.md           
         - WLAN-Umgebung scannen: lite/wifi.environment.md
     - Pairing des Senders: lite/pairing.md    
 - Mini: 
@@ -203,7 +205,8 @@ nav:
         - Logdatei herunterladen: mini/logfile.md
         - Mit Hotspot verbinden: mini/hotspot.md
         - Projizieren auf diesen PC: mini/project2PC.md
-        - Über das Gerät: mini/about.md        
+        - Über das Gerät: mini/about.md  
+        - USB Device Tree Viewer: mini/usbdevicetree.viewer.md        
         - WLAN-Umgebung scannen: mini/wifi.environment.md
     - Pairing des Senders: mini/pairing.md
 - Standard: 
@@ -245,7 +248,8 @@ nav:
         - Logdatei herunterladen: standard/logfile.md
         - Mit Hotspot verbinden: standard/hotspot.md
         - Projizieren auf diesen PC: standard/project2PC.md
-        - Über das Gerät: standard/about.md        
+        - Über das Gerät: standard/about.md   
+        - USB Device Tree Viewer: standard/usbdevicetree.viewer.md         
         - WLAN-Umgebung scannen: standard/wifi.environment.md
     - Pairing des Senders: standard/pairing.md
 - Deluxe:
@@ -288,6 +292,7 @@ nav:
         - Mit Hotspot verbinden: deluxe/hotspot.md
         - Projizieren auf diesen PC: deluxe/project2PC.md
         - Über das Gerät: deluxe/about.md
+        - USB Device Tree Viewer: deluxe/usbdevicetree.viewer.md         
         - WLAN-Umgebung scannen: deluxe/wifi.environment.md
     - Pairing des Senders: deluxe/pairing.md
 - M1: 
@@ -327,7 +332,8 @@ nav:
         - Leistungstest durchführen: m1/performancetest.md
         - Logdatei herunterladen: m1/logfile.md
         - Mit Hotspot verbinden: m1/hotspot.md
-        - Über das Gerät: m1/about.md        
+        - Über das Gerät: m1/about.md    
+        - USB Device Tree Viewer: m1/usbdevicetree.viewer.md          
         - WLAN-Umgebung scannen: m1/wifi.environment.md
     - Pairing des Senders: m1/pairing.md    
 - CMS: 
