@@ -6,16 +6,29 @@ Wenn auf einen anderen Teilnehmer gewechselt wird, steht ihm auch die Touch-Back
 
 Die Touch-Back Funktion wird nur bei der 1:1- Übertragung eines Bildschirms unterstützt.
 
-!!! info "Touch-Back-Funktion mit QuattroPod"
+!!! hint "Umfangreiche Touch-Back-Unterstützung mit QuattroPod USB und Multicast"
 
     [![QuattroPod Touch-Back-Funktion][1]{: align=left }][2]
 	
+	Demonstration: Umfangreiche Touch-Back-Unterstützung mit QuattroPod USB und Multicast
+	
+	[Video ansehen][2]
+
+  [1]: /assets/img/thumbnail.video.advancedtouch.png
+  [2]: https://assets.stueber.de/videos/touchback.win-android.mp4
+  
+!!! hint "Touch-Back-Funktion mit QuattroPod"
+
+    [![QuattroPod Touch-Back-Funktion][3]{: align=left }][4]
+	
 	Anleitung: Touch-Back-Funktion mit QuattroPod.
 	
-	[Zum YouTube-Video][2]
+	[Zum YouTube-Video][4]
 
-  [1]: /assets/img/thumbnail.video.touch.png
-  [2]: https://youtu.be/Qky7XQR1rrE
+  [1]: /assets/img/thumbnail.video.advancedtouch.png
+  [2]: https://assets.stueber.de/videos/touchback.win-android.mp4
+  [3]: /assets/img/thumbnail.video.touch.png
+  [4]: https://youtu.be/Qky7XQR1rrE
   
 
 ## Voraussetzungen
@@ -25,6 +38,12 @@ Die Touch-Back Funktion wird nur bei der 1:1- Übertragung eines Bildschirms unt
 * Für Windows Geräte mit dem Sender ist Windows 7 / 8 / 10 erforderlich. Für die Verwendung ohne Sender ist ein [Miracast-fähiger Windows 10/11 PC](#touchviamiracast) erforderlich.
 
 * Für macOS Geräte mit dem Sender ist macOS 10.14.6 oder höher erforderlich. Es werden keine Multitouch-Gesten unterstützt.
+
+* Ein Android-Gerät, das die Videoübertragung per USB-C-Anschluss [DP Alt Mode](https://en.everybodywiki.com/List_of_devices_with_video_output_over_USB-C) unterstützen.
+
+!!! tip "Hinweis"
+
+    Aktuell werden die Gerätetypen `Tastatur`, `Maus` und `Touch-Display` unterstützt. Ein Treiber für `Stift` wird derzeit nicht unterstützt. Mit einer [Teststellung](https://www.quattropod.de/test.php) können Sie vorm Kauf testen, ob der QuattroPod mit Ihrem Touch-Display kompatibel ist.
 
 ## Einrichtung
 
@@ -40,25 +59,54 @@ Die Touch-Back Funktion wird nur bei der 1:1- Übertragung eines Bildschirms unt
 
 ![](/assets/img/reverse.control.png)
 
-## Touchback unter Windows/macOS
+## Touch-Back unter Windows/macOS im Type-C Sendermodus
   
-* Schalten Sie den Sender auf `PC` um. Schließen Sie den Sender an einen USB-Port Ihres Notebooks an. Schließen Sie anschließend das mitgelieferte HDMI- oder DisplayPort-Kabel an.
+!!! tip "Hinweis"
 
-![Sender auf PC umschalten](/assets/img/quattropod.mini.tx.pc.png)
-
-* Wenn der Empfänger und der Sender richtig angeschlossen sind, wird die Startseite auf dem Bildschirm angezeigt und die große Taste auf dem Sender leuchtet rot. Wenn Ihr Sender noch nicht freigeschaltet ist, [überprüfen Sie den Empfänger](quickstart.md#setup) und [koppeln](pairing.md) Sie den Sender mit dem Empfänger neu.
-
-![QuattroPod-Sender freigeschaltet](/assets/img/Sender_Bildschirm_ready.png)
-
-* Um Ihr Gerät zu verbinden und mit Touch-Back zu arbeiten, drücken Sie einfach die rote Sendertaste. 
-
-![Sendertaste drücken und Inhalte zeigen](/assets/img/QSG-Mini.Transmitter.png)
+     Stellen Sie sicher, dass Ihr Gerät die Videoübertragung per USB-C-Anschluss [DP Alt Mode](https://en.everybodywiki.com/List_of_devices_with_video_output_over_USB-C) unterstützt.
+	 
+* Ziehen Sie den USB-A-Adapter vom Sender ab und schalten Sie den Sender auf `Type-C` um. Schließen Sie den Sender an einen USB-C-Port Ihres Windows/macOS-Rechners an:
+	 
+	 ![](/assets/img/QSG-TypeC.Windows.png) 
 
 * Wenn die Touch-Back-Funktion erfolgreich aktiviert wurde, erscheint die Meldung `"Hid Driver loading ..."` für einige Sekunden auf dem Bildschirm.
 
 ![Die Touch-Back-Funktion wurde erfolgreich freigeschaltet](/assets/img/Hid_Driver_loading.jpg)
 
 * Die Touch-Gesten Ihres Displays werden an den Rechner zurückgesendet.
+
+![Touch-Gesten werden an den Rechner zurückgesendet](/assets/img/Using.TouchBack.png)
+
+* Unter Windows empfehlen wir die Aktivierung der Bildschirmtastatur an der Tastleiste. Die Tastatur steht dann an der Taskleiste zur Verfügung:
+
+![](/assets/img/windows.activate.onscreen.keyboard.png)
+
+![](/assets/img/windows.open.windows.onscreen.keyboard.png)
+
+* Unter macOS aktivieren Sie die Bildschirmtastatur in den Systeneinstellungen unter `Tastatur`:
+
+![](/assets/img/macOS.activate.onscreen.keyboard.png)
+
+* Die Tastatur steht dann an der Taskleiste zur Verfügung:
+
+![](/assets/img/macOS.open.onscreen.keyboard.png)
+
+
+## Touch-Back unter Android im Type-C Sendermodus {#touchback_android}
+	
+!!! tip "Hinweis"
+
+     Stellen Sie sicher, dass Ihr Gerät die Videoübertragung per USB-C-Anschluss [DP Alt Mode](https://en.everybodywiki.com/List_of_devices_with_video_output_over_USB-C) unterstützt.
+	 
+* Ziehen Sie den USB-A-Adapter vom Sender ab und schalten Sie den Sender auf `Type-C` um. Schließen Sie den Sender an den USB-C-Port Ihres Android Rechners an:
+
+  ![](/assets/img/QSG-QP.USBC.Android.png) 
+  
+* Wenn die Touch-Back-Funktion erfolgreich aktiviert wurde, erscheint die Meldung `"Hid Driver loading ..."` für einige Sekunden auf dem Bildschirm.
+
+![Die Touch-Back-Funktion wurde erfolgreich freigeschaltet](/assets/img/Hid_Driver_loading.jpg)
+
+* Die Touch-Gesten Ihres Displays werden an Ihr Androi-Gerät zurückgesendet:
 
 ![Touch-Gesten werden an den Rechner zurückgesendet](/assets/img/Using.TouchBack.png)
 

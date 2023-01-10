@@ -41,6 +41,9 @@ Die Touch-Back Funktion wird nur bei der 1:1- Übertragung eines Bildschirms unt
 
 * Ein Android-Gerät, das die Videoübertragung per USB-C-Anschluss [DP Alt Mode](https://en.everybodywiki.com/List_of_devices_with_video_output_over_USB-C) unterstützen.
 
+!!! tip "Hinweis"
+
+    Aktuell werden die Gerätetypen `Tastatur`, `Maus` und `Touch-Display` unterstützt. Ein Treiber für `Stift` wird derzeit nicht unterstützt. Mit einer [Teststellung](https://www.quattropod.de/test.php) können Sie vorm Kauf testen, ob der QuattroPod mit Ihrem Touch-Display kompatibel ist.
 
 ## Einrichtung
 
