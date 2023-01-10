@@ -1,6 +1,12 @@
 # Leistungstest durchführen
 
-Zu Support-Zwecken bitten wir Sie möglicherweise, dass Sie einen Leistungstest Ihres Gerätes durchführen. Unter normalen Bedienungen beim Testen sollte der QuattroPod die Bildschirmübertragung eines Videos mindestens 6 Stunden ohne Probleme leisten können. Zu diesem Test benötigen Sie folgende Geräte:
+Zu Support-Zwecken bitten wir Sie möglicherweise, dass Sie einen Leistungstest Ihres QuattroPods durchführen. Bei korrekter Bedienung sollte die Latenzzeit bei der drahtlosen Bildschirmübertragung über den QP Sender bei 0,2 Sekunden liegen und das Abspielen eines Videos für mindestens 6 Stunden möglich sein. Ein solcher Test ist im folgenden Video durchgeführt worden.
+
+* Laden Sie folgendes [MP4-Video](https://assets.stueber.de/videos/qp.u01.latencetest.mp4) auf Ihrem Windows-PC herunter:
+
+[![QuattroPod Talency Test](/assets/img/thumbnail.video.performancetest1.png)](https://assets.stueber.de/videos/qp.u01.latencetest.mp4)
+
+Zu diesem Test benötigen Sie folgende Geräte:
 
 * Einen Windows-Notebook, der am Stromnetz angeschlossen ist.
 
@@ -31,15 +37,15 @@ Damit der Windows-PC während des Test nicht in den Energiesparmodus wechselt, l
 
 ## Videodatei wiederholend abspielen
 
-* Laden Sie folgendes [MP4-Video](https://assets.stueber.de/videos/cms.quattropod.introduction.de.mp4) auf Ihrem Windows-PC herunter:
+* Laden Sie folgendes [MP4-Video](https://assets.stueber.de/videos/performancetest.mp4) auf Ihrem Windows-PC herunter:
 
-[![CMS Einführungsvideo](/assets/img/thumbnail.video.cms.png)](https://assets.stueber.de/videos/cms.quattropod.introduction.de.mp4)
+[![Leistungstest-Video](/assets/img/thumbnail.video.performancetest2.png)](https://assets.stueber.de/videos/performancetest.mp4)
 
-* Öffen Sie das Video im **Windows Media Player**: 
+* Öffnen Sie das Video im **Windows Media Player**: 
 
 ![](/assets/img/video.open.in.mediaplayer.png)
 
-* Aktivieren Sie auf die Wiederholungstaste:
+* Aktivieren Sie die Wiederholungstaste:
 
 ![](/assets/img/mediaplayer.repeat.png)
 
@@ -55,4 +61,4 @@ Damit der Windows-PC während des Test nicht in den Energiesparmodus wechselt, l
 
 !!! tip "Hinweis"
 
-     Lassen Sie die Bildschirmübertragung so lange wie möglich laufen. Sollte die Übertragung abgebrochen wird, lassen Sie uns eine [Log-Datei](logfile.md) zukommen.
+     Lassen Sie die Bildschirmübertragung so lange wie möglich laufen. Sollte die Übertragung abgebrochen werden, lassen Sie uns eine [Log-Datei](logfile.md) zukommen.
