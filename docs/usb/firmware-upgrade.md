@@ -15,9 +15,9 @@ Dabei benötigen Sie einen [Internetzugang](connect.wifi.lan.md) zum Internet bz
 
 ## Empfänger und Sender Type-C aktualisieren
 
-* Schließen Sie den USB-A-Adapter an den Sender an und schalten Sie den Sender auf `Type-C` um. Schließen Sie den Sender an den USB-A-Port des Empfängers an:
-
-![Sender auf PC umschalten](/assets/img/Pairing.USBC.png)
+* Ziehen Sie den USB-A-Adapter vom Sender ab und schalten Sie den Sender auf `Type-C` um. Schließen Sie den Sender an einen USB-C-Port Ihres Windows/macOS-Rechners an:
+	 
+![](/assets/img/QSG-TypeC.Windows.png) 
 
 
 ### Sich in der Web-Oberfläche anmelden
