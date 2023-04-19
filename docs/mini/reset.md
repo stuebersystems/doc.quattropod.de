@@ -70,7 +70,7 @@ Mit Hilfe der Funktion [Erweiterte Einstellungen](adv.settings.md) können Sie s
 
 ## Empfohlene Einstellungen {#recommendedsettings}
 
-Nach dem Zurücksetzen werden Sie bei der ersten Anmeldung auf der Funktion [Erweiterte Einstellungen](adv.settings.md) aufgefordert, das Admin-Kennwort zu ändern. Standardmäßig lautet es `000000`. Wir empfehlen, dass Sie anschließend die folgenden Einstellungen überprüfen:
+Nach dem Zurücksetzen werden Sie bei der ersten Anmeldung auf der Funktion [Erweiterte Einstellungen](adv.settings.md) aufgefordert, das Admin-Kennwort zu ändern. Standardmäßig lautet es `000000`. Wir empfehlen, dass Sie anschließend die folgenden empfohlenen Einstellungen überprüfen:
 
 Firmware-Version: [1.16163.65](whatsnew.md#20221027-11616365)
 
@@ -92,7 +92,7 @@ Firmware-Version: [1.16163.65](whatsnew.md#20221027-11616365)
 
 Hintergrundbild | Herunterladen |
 ------------------------- | ------------ |
-QuattroPod Standard | [Herunterladen](https://download.stueber.de/doc/de/quattropod/QuattroPod.Standard_Startseite.DE.png)
+QuattroPod Standard / Deluxe / Mini | [Herunterladen](https://download.stueber.de/doc/de/quattropod/QuattroPod.Standard_Startseite.DE.png)
 QuattroPod USB | [Herunterladen](https://download.stueber.de/doc/de/quattropod/QuattroPod.USB_Startseite.DE.png)
 QuattroPod Lite | [Herunterladen](https://download.stueber.de/doc/de/quattropod/QuattroPod.Lite_Startseite.DE.png)
 QuattroPod M1 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/QuattroPod.SDM_Startseite.DE.png)
