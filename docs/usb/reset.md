@@ -85,6 +85,7 @@ Firmware-Version: [1.16163.65](whatsnew.md#20221027-11616365)
 * [AirView](adv.settings.md#AirView): `EIN`
 * [Miracast Support](miracast.md): `EIN`
 * [Miracast PIN](miracast.md): `EIN`
+* [Miracast PIN-Modus](miracast.md): `4-stelliger Zufallscode`
 * [Castcode](adv.settings.md#castcode): `Zufällig`
 * [Multicast Konfigurationsschutz](multicast.md#config.restore): `EIN`
 * [Mein Bildschirm](adv.settings.md#Mein-Bildschirm): Unsere Hintergrundbilder in der deutschen Sprache:

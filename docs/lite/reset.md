@@ -82,10 +82,11 @@ Firmware-Version: [1.14366.135](whatsnew.md#20220728-114366135)
 **Admineinstellungen**
 
 * [WLAN-Modus](adv.settings.md#WiFi-Mode): `Land = EUROPE`, `Kanal = Auto`, `Bandbreite = 20MHz`
+* [Mein Bildschirm](adv.settings.md#Mein-Bildschirm): Unsere Hintergrundbilder in der deutschen Sprache:
 * [AirView](adv.settings.md#AirView): `EIN`
 * [Miracast Support](miracast.md): `EIN`
 * [Miracast PIN](miracast.md): `EIN`
-* [Mein Bildschirm](adv.settings.md#Mein-Bildschirm): Unsere Hintergrundbilder in der deutschen Sprache:
+* [Miracast PIN-Modus](miracast.md): `4-stelliger Zufallscode`
 
 Hintergrundbild | Herunterladen |
 ------------------------- | ------------ |
