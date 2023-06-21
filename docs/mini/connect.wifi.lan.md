@@ -27,9 +27,9 @@ Bevor Sie den QuattroPod mit Ihrem WLAN verbinden, prüfen Sie bitte die empfohl
 * **Access Point unterstützt** WLAN-Standard **802.11ac**.
 * **Nicht mit einer Dual-Band 2,4Ghz/5Ghz SSID verbinden**, sondern mit einer dedizierten SSID, die auf den [5GHz-Bereich](https://en.wikipedia.org/wiki/List_of_WLAN_channels#5_GHz_(802.11a/h/j/n/ac/ax)) (20Mhz-Kanäle 36,40,44,48) eingeschränkt ist. Benutzen Sie bitte nicht [DFS-Kanäle](https://en.wikipedia.org/wiki/Dynamic_frequency_selection), um Abbrüche durch plötzlichen Kanalwechsel während der Bildschirmübertragung zu vermeiden.
 * Eine **dedizierte SSID für den QuattroPod** z.B. `QuattroPod_5Ghz` auf **Kanal 48** und im gleichen Netzwerk eine **andere SSID für die Benutzer** bzw. die Endgeräte z.B. `Benutzer_5Ghz` auf **Kanal 40** anlegen, damit die verfügbare WLAN-Kanalbandbreite für den QuattroPod mit anderen Clients nicht geteilt werden muss. 
-* Max. 30 Meter **Abstand** von der **Box zum Access Point** sowie von der **Box zu den Endgeräten**. Beim Einrichten bitte die [Signalstärke](wifi.environment.md) prüfen. Zwischen -40 dBm und -50 dBm ist optimal.
-* **Access Point liegt im selben Raum** wie die Box. Dies ist für das 5 GHz-Frequenzband besonders wichtig.
-* Eine sogenannte **Sichtlinie** von der Box zum Access Point und zu den Endgeräten mit möglichst wenigen Hindernissen. **Vermeiden Sie Gegenstände direkt neben dem QuattroPod**, die WLAN-Signale schlucken bzw. reflektieren, beispielsweise: Wände, Metallflächen, reflektierende Flächen und andere elektronische Geräte, etc.
+* Max. 30 Meter **Abstand** vom **QuattroPod zum Access Point** sowie vom **QuattroPod zu den Endgeräten**. Beim Einrichten bitte die [Signalstärke](wifi.environment.md) prüfen. Zwischen -40 dBm und -50 dBm ist optimal.
+* **Access Point liegt im selben Raum** wie der QuattroPod. Dies ist für das 5 GHz-Frequenzband besonders wichtig.
+* Eine sogenannte **Sichtlinie** vom QuattroPod zum Access Point und zu den Endgeräten mit möglichst wenigen Hindernissen. **Vermeiden Sie Gegenstände direkt neben dem QuattroPod**, die WLAN-Signale schlucken bzw. reflektieren, beispielsweise: Wände, Metallflächen, reflektierende Flächen und andere elektronische Geräte, etc.
 
 ![](/assets/img/setup.wifi.box.png)
 
