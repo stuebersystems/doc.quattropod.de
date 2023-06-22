@@ -1,6 +1,6 @@
 # WLAN-Umgebung scannen
 
-Zu Support-Zwecken bitten wir Sie möglicherweise, dass Sie uns mithilfe einer kostenlosen App/Software einen Screenshot der WLAN-Umgebung zukommen lassen, wo die Kanäle des QuattroPods und Ihres WLANs zu sehen sind.
+Zu Support-Zwecken bitten wir Sie möglicherweise, dass Sie uns mithilfe einer kostenlosen App/Software einen Screenshot der WLAN-Umgebung zukommen lassen, wo die Kanäle und Signalstärke des QuattroPods und Ihres WLANs zu sehen sind.
 
 ![](/assets/img/wifi.analyzer.windows.png)
 
@@ -8,9 +8,13 @@ Zu Support-Zwecken bitten wir Sie möglicherweise, dass Sie uns mithilfe einer k
 
 Es handelt sich um zwei wichtige Tests der Signalstärke, für die wir jeweils einen Screenshot benötigen. Für jeden Test sollen Sie den WiFi-Analyzer erneut öffnen:
 
+### Test 1. RSSI des Senders
+
 **Test 1. An der Stelle, wo man am meisten präsentiert**, um die Signalstärke vom Endgerät bis zum QuattroPod und vom Endgerät zum Access Point zu prüfen. In beide Richtungen darf maximal 30 Meter sein.
 
 ![](/assets/img/wifi.test.1.png)
+
+### Test 2. RSSI des Empfängers
 
 **Test 2. Direkt neben dem QuattroPod**, um die Signalstärke vom QuattroPod bis zum Access Point zu prüfen. Dieser Abstand darf maximal 30 Meter sein.
 
@@ -51,5 +55,6 @@ Suchen Sie die App **WiFiman** im [Play Store](https://play.google.com/store/app
 * Im unten stehenden Beispiel ist der QuattroPod `DIRECT-QP_Schulungsraum` mit der WLAN-Infrastruktur `z-stueber-guest-EG-5ghz` mit guter Signalstärke über das Kanal 48 (5Ghz-Frequenz) verbunden:
 
 ![](/assets/img/wifiman.android.networks.png)
+
 
 
