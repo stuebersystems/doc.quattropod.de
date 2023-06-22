@@ -53,6 +53,10 @@ Es handelt sich um zwei wichtige Tests der Signalstärke, auch bekannt als **RSS
 
 ### Test 2. RSSI des Empfängers prüfen
 
+!!! tip "Vorm Beginn eines jeden Tests schließen Sie und öffnen Sie den [Wifi-Analyzer](#wifianalyzer) erneut"
+    
+	Falls der WiFi-Analzer auf Ihrem Gerät bereits offen ist, schließen Sie die App kurz vorm Beginn eines jeden Tests und öffnen Sie sie wieder, damit die Daten immer auf dem neuesten Stand sind:
+	
 **Bitte direkt neben dem QuattroPod stehen**, um die Signalstärke vom QuattroPod bis zum Access-Point zu prüfen. Dieser Abstand darf maximal 30 Meter sein.
 
 ![](/assets/img/wifi.test.2.png)
