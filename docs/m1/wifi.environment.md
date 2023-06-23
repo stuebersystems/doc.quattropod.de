@@ -36,14 +36,13 @@ Suchen Sie die App **WiFiman** im [Play Store](https://play.google.com/store/app
 
 ![](/assets/img/wifiman.android.networks.png)
 
-
 ## RSSI prüfen - was ist das? {#stand}
 
 Es handelt sich um zwei wichtige Tests der Signalstärke, auch bekannt als **RSSI** (Received Signal Strength Indicator in englisher Sprache). Dies ist eine wichtige Messgrösse, wenn es um die WLAN-Leistung geht. Für jeden Test bitten wir um ein Screenshot.
 
 ### Was ist ein guter RSSI-Wert?
 
-Je höher der RSSI-Wert, desto stärker das Signal. In Zahlen ausgedrückt, bedeutet die Zahl, die näher an Null liegt normalerweise ein besseres Signal. Zum Beispiel ist `-50` ein ziemlich gutes Signal, `-75` ist halbwegs annehmbar und `100` wäre überhaupt kein Signal.
+Je höher der RSSI-Wert, desto stärker das Signal. In Zahlen ausgedrückt, bedeutet die Zahl, die näher an Null liegt normalerweise ein besseres Signal. Zum Beispiel zwischen `-40` und `-50` dBm ist optimal, `-75` ist halbwegs annehmbar und `100` wäre überhaupt kein Signal.
 
 ### Test 1. RSSI des Senders prüfen
 
