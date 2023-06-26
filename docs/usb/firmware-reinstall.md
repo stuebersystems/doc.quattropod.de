@@ -101,7 +101,10 @@ Um eine vorherige bzw. eine Betafirmware zu installieren, laden Sie eine der fol
 
 Firmware                  | Empfänger R01 | Bemerkung
 ------------------------- | ------------ | ------------
+1.16163.65 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.16163.65.gz)
+1.16163.57 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.16163.57.gz)
 1.16163.41 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.16163.41.gz)
+1.16163.12 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.16163.12.gz)
 1.14366.129 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.14366.129.gz)
 1.14366.90 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.14366.90.gz)
 1.14366.62 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.14366.62.gz)
@@ -198,6 +201,7 @@ Um eine vorherige bzw. eine Betafirmware zu installieren, laden Sie eine der fol
 
 Firmware                  | Sender U01-TypeC
 ------------------------- | ------------
+1.16163.65 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/U01-TypeC/U01-Type-C_1.16163.65.gz)
 1.16163.38 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/U01-TypeC/U01-Type-C_1.16163.38.gz)
 1.16163.12 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/U01-TypeC/U01-Type-C_1.16163.12.gz)
 1.14366.129 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/U01-TypeC/U01-Type-C_1.14366.129.gz)
