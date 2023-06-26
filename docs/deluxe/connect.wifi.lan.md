@@ -61,7 +61,7 @@ Wir empfehlen die Verwendung eines WLAN-Analyzers, um Ihre  [WLAN-Umgebung zu sc
 
 ![](/assets/img/quattropod.select.connect5ghz.png)
 
-* Verbinden Sie die Pro Box mit Ihrem WLAN-Router.
+* Verbinden Sie den QuattroPod mit Ihrem WLAN-Router.
 
 ![](/assets/img/Wifi_Internet.png)
 
@@ -81,7 +81,7 @@ Schließen Sie dazu ein Netzwerkkabel in den `ETHERNET` Anschluss an der Rückse
 
 !!! tip "Bitte beachten"
     
-	Wenn ein LAN-Kabel an der Box angeschlossen ist, wird der Internetzugang per WLAN automatisch deaktiviert.
+	Wenn ein LAN-Kabel an dem QuattroPod angeschlossen ist, wird der Internetzugang per WLAN automatisch deaktiviert.
 
 Wenn den QuattroPod mit Ihrem Netzwerk bzw. Ihrem Router verbunden ist, wird eine von Ihrem Netzwerk vergebenen IP-Adressen mit der Bezeichnung `Infrustructure IP` auf dem Bildschirm angezeigt, wie unten abgebildet:
 
@@ -95,7 +95,7 @@ Wenn den QuattroPod mit Ihrem Netzwerk bzw. Ihrem Router verbunden ist, wird ein
 
 ### Internet-Router-Signalstärke
 
-Der QuattroPod hat eine Funkreichweite (Sichtlinie) von bis zu 30m. Eine geringe Signalanzeige bezieht sich auf eine schlechte Signalstärke zwischen der Box und Ihrem Router bzw. Ihrem Access-Point. Dies kann zu einer abgehackten Wiedergabe von Videos und Inhalten führen, wenn die Inhalte vom Internet abhängig sind oder wenn Ihre Mobilgeräte mit der Box über Ihre Infrastruktur verbinden.
+Der QuattroPod hat eine Funkreichweite (Sichtlinie) von bis zu 30m. Eine geringe Signalanzeige bezieht sich auf eine schlechte Signalstärke zwischen dem QuattroPod und Ihrem Router bzw. Ihrem Access-Point. Dies kann zu einer abgehackten Wiedergabe von Videos und Inhalten führen, wenn die Inhalte vom Internet abhängig sind oder wenn Ihre Mobilgeräte mit dem QuattroPod über Ihre Infrastruktur verbinden.
 
 Dies kann verschiedene Ursachen und somit verschiedene Lösungen haben:
 

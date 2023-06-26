@@ -4,29 +4,9 @@ Zu Support-Zwecken bitten wir Sie möglicherweise, dass Sie uns mithilfe einer k
 
 ![](/assets/img/wifi.analyzer.windows.png)
 
-## Wo muss ich im Raum stehen? {#stand}
-
-Es handelt sich um zwei wichtige Tests der Signalstärke, für die wir jeweils einen Screenshot benötigen. Für jeden Test sollen Sie den WiFi-Analyzer erneut öffnen:
-
-### Test 1. RSSI des Senders
-
-**Test 1. An der Stelle, wo man am meisten präsentiert**, um die Signalstärke vom Endgerät bis zum QuattroPod und vom Endgerät zum Access Point zu prüfen. In beide Richtungen darf maximal 30 Meter sein.
-
-![](/assets/img/wifi.test.1.png)
-
-### Test 2. RSSI des Empfängers
-
-**Test 2. Direkt neben dem QuattroPod**, um die Signalstärke vom QuattroPod bis zum Access Point zu prüfen. Dieser Abstand darf maximal 30 Meter sein.
-
-![](/assets/img/wifi.test.2.png)
-
 ## WiFi-Analyzer {#wifianalyzer}
 
 Mithilfe einer kostenlosen App/Software senden Sie uns ein Screenshot Ihrer WLAN-Umgebung, wo die Kanäle des QuattroPods und Ihres WLANs zu sehen sind. 
-
-!!! tip "Bitte beachten"
-	
-	Sie müssen unbedingt in der Nähe des QuattroPods [stehen](#stand), wenn Sie die App/Software ausführen.
     
 * [Windows - Easy to use WiFi Analyzer](#wifi.analyzer.windows)
 
@@ -55,6 +35,36 @@ Suchen Sie die App **WiFiman** im [Play Store](https://play.google.com/store/app
 * Im unten stehenden Beispiel ist der QuattroPod `DIRECT-QP_Schulungsraum` mit der WLAN-Infrastruktur `z-stueber-guest-EG-5ghz` mit guter Signalstärke über das Kanal 48 (5Ghz-Frequenz) verbunden:
 
 ![](/assets/img/wifiman.android.networks.png)
+
+
+## RSSI prüfen - was ist das? {#stand}
+
+Es handelt sich um zwei wichtige Tests der Signalstärke, auch bekannt als **RSSI** (Received Signal Strength Indicator in englisher Sprache). Dies ist eine wichtige Messgrösse, wenn es um die WLAN-Leistung geht. Für jeden Test bitten wir um ein Screenshot.
+
+### Was ist ein guter RSSI-Wert?
+
+Je höher der RSSI-Wert, desto stärker das Signal. In Zahlen ausgedrückt, bedeutet die Zahl, die näher an Null liegt normalerweise ein besseres Signal. Zum Beispiel zwischen `-40` und `-50` dBm ist optimal, `-75` ist halbwegs annehmbar und `100` wäre überhaupt kein Signal.
+
+### Test 1. RSSI des Senders prüfen
+
+!!! tip "Vorm Beginn eines jeden Tests schließen Sie und öffnen Sie den [Wifi-Analyzer](#wifianalyzer) erneut"
+    
+	Falls der WiFi-Analzer auf Ihrem Gerät bereits offen ist, schließen Sie die App kurz vorm Beginn eines jeden Tests und öffnen Sie sie wieder, damit die Daten immer auf dem neuesten Stand sind:
+
+**Bitte an der Stelle stehen, wo man am meisten präsentiert**, um die Signalstärke vom Endgerät bis zum QuattroPod und vom Endgerät zum Access Point zu prüfen. In beide Richtungen darf maximal 30 Meter sein.
+
+![](/assets/img/wifi.test.1.png)
+
+### Test 2. RSSI des Empfängers prüfen
+
+!!! tip "Vorm Beginn eines jeden Tests schließen Sie und öffnen Sie den [Wifi-Analyzer](#wifianalyzer) erneut"
+    
+	Falls der WiFi-Analzer auf Ihrem Gerät bereits offen ist, schließen Sie die App kurz vorm Beginn eines jeden Tests und öffnen Sie sie wieder, damit die Daten immer auf dem neuesten Stand sind:
+	
+**Bitte direkt neben dem QuattroPod stehen**, um die Signalstärke vom QuattroPod bis zum Access-Point zu prüfen. Dieser Abstand darf maximal 30 Meter sein.
+
+![](/assets/img/wifi.test.2.png)
+
 
 
 
