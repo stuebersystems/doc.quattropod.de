@@ -32,7 +32,7 @@ Suchen Sie die App **WiFiman** im [Play Store](https://play.google.com/store/app
 
 ![](/assets/img/wifiman.android.install.png)
 
-* Im unten stehenden Beispiel ist der QuattroPod `DIRECT-QP_Schulungsraum` mit der WLAN-Infrastruktur `z-stueber-guest-EG-5ghz` mit guter Signalstärke über das Kanal 48 (5Ghz-Frequenz) verbunden:
+* Im unten stehenden Beispiel ist der QuattroPod `DIRECT-QP_Schulungsraum` mit der WLAN-Infrastruktur `stueber-guest-5ghz` mit guter Signalstärke über das Kanal 48 (5Ghz-Frequenz) verbunden:
 
 ![](/assets/img/wifiman.android.networks.png)
 
