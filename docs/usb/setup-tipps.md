@@ -59,12 +59,14 @@ Mit eine HDMI-Verlängerung können Sie bei großen Displays die Signalstörung 
 
 ![HDMI-Verlängerung 1M](/assets/img/deleycon.hdmi.extension.jpg)
 
-### HDMI Stecker auf USB-C Buchse
+### HDMI-Stecker auf USB-C-Buchse
 
 Möchten Sie Geräte wie Dokumentenkameras übertragen, die über keinen USB-C-Anschluss verfügen, sondern HDMI?
 
-Mit einem HDMI-Stecker auf USB-C-Buchse können Sie den HDMI-Ausgang der Dokumentenkamera in einen USB-C-Eingang des QuattroPod-USB-Senders übertragen. (Hinweis: Es wird keinen Ton übertragen, sondern nur Video. Der Adapter muss mit einem 5V/2A USB Netzteil und dem mitgelieften Micro-USB-Ladekabel mit Strom versorgt werden. Das [Samsung Netzteil (5V/2A)](#powersupply) können Sie bei Bedarf über uns erwerben.
+Mit einem **HDMI-Stecker auf USB-C-Buchse** können Sie den HDMI-Ausgang der Dokumentenkamera in einen USB-C-Eingang des QuattroPod-USB-Senders übertragen.
 
 ![](/assets/img/HDMI-male.2.USB-C-female.adapter.jpg)
+
+HINWEIS: Es wird keinen Ton übertragen, sondern nur Video. Der Adapter muss mit einem 5V/2A USB Netzteil und dem mitgelieften Micro-USB-Ladekabel mit Strom versorgt werden. Das [Samsung Netzteil (5V/2A)](#powersupply) können Sie bei Bedarf über uns erwerben.
 
 ![](/assets/img/HDMI-male.2.USB-C-female.U01.png)
