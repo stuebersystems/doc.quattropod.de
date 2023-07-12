@@ -65,6 +65,6 @@ Mit einem **HDMI-Stecker auf USB-C-Buchse** können Sie den HDMI-Ausgang der Dok
 
 ![](/assets/img/HDMI-male.2.USB-C-female.adapter.jpg)
 
-HINWEIS: Es wird keinen Ton übertragen, sondern nur Video. Der Adapter muss mit einem USB-Netzteil (5V/2A) und dem mitgelieferten Micro-USB-Ladekabel mit Strom versorgt werden. Das [Samsung Netzteil (5V/2A)](#samsung-usb-charger) können Sie bei Bedarf über uns [erwerben](https://www.stueber.de/contact.php?from=quattropod).
+HINWEIS: Es wird keinen Ton übertragen, sondern nur Video. Der Adapter muss mit einem USB-Netzteil (5V/2A) und dem mitgelieferten Micro-USB-Ladekabel mit Strom versorgt werden. Diesen Adapter sowie das [Samsung Netzteil (5V/2A)](#samsung-usb-charger) können Sie bei Bedarf über uns [erwerben](https://www.stueber.de/contact.php?from=quattropod).
 
 ![](/assets/img/HDMI-male.2.USB-C-female.U01.png)
