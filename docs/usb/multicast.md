@@ -1,6 +1,6 @@
 # Was ist Multicast?
 
-Die Funktion Multicast erlaubt es Ihnen die Bildschirminhalte eines Gerätes mit Hilfe eines gekoppelten Senders auf mehrere Displays gleichzeitig zu übertragen. 
+Die Funktion Multicast erlaubt es Ihnen die Bildschirminhalte einschließlich Ton eines Gerätes mit Hilfe eines gekoppelten Senders auf mehrere Displays gleichzeitig zu übertragen. 
 
 !!! hint "Umfangreiche Touch-Back-Unterstützung mit QuattroPod USB und Multicast"
 
@@ -27,7 +27,7 @@ Mehrere Teilnehmer haben die Möglichkeit, per Knopfdruck ihre Bildschirminhalte
 
 * Sie benötigen einen WLAN Access Point.
 
-* Ihr Router muss die `QuattroPod Sender / Empfänger` [Broadcast-Pakete](/ports.md) annehmen.
+* Ihr Router muss die `QuattroPod Sender / Empfänger` [Broadcast-Pakete](/ports/) annehmen.
 
 * Alle QuattroPod-Empfänger müssen sich im gleichen Netzwerk befinden.
 
@@ -35,7 +35,7 @@ Mehrere Teilnehmer haben die Möglichkeit, per Knopfdruck ihre Bildschirminhalte
 
 !!! tip "Hinweis"
     
-	Um eine bessere Leistung von Multicast zu erreichen, verbinden Sie den QuattroPod-Empfänger mit dem [Router per LAN-Kabel](connect.wifi.lan.md).
+	Um eine bessere Leistung von Multicast zu erreichen, verbinden Sie den QuattroPod-Empfänger mit dem [Router per LAN-Kabel](connect.wifi.lan.md#ethernet).
 
 ## Firmware-Version prüfen
 

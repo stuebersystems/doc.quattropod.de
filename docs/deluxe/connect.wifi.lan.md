@@ -73,7 +73,7 @@ Wenn den QuattroPod mit Ihrem Netzwerk bzw. Ihrem Router verbunden ist, wird ein
 
     Eine Miracast-Verbindung mit dem QuattroPod wird als zusätzliche WLAN-Verbindung nur zur Übertragung des Bildschirms ausgebaut. Für die Internetinhalte verwendet das Endgerät die bisherige bzw. die zuletzt verbundene WLAN/LAN Internetverbindung oder es nutzt den mobilen Datenzugang eines Providers. Weitere Informationen zu Miracast [finden Sie hier](miracast.md).
 
-## Mit LAN verbinden
+## Mit LAN verbinden {#ethernet}
 
 Schließen Sie dazu ein Netzwerkkabel in den `ETHERNET` Anschluss an der Rückseite des QuattroPods an und verbinden Sie das Kabel mit Ihrem Netzwerk bzw. mit Ihrem Router.
 
