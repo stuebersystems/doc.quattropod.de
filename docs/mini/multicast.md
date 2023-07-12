@@ -125,7 +125,7 @@ Mit der Web-Oberfläche kann man die Funktion Multicast auf einem QuattroPod ein
 
 ![](/assets/img/Multicast_activated.png)
 
-### Sender an den Empfänger anschließen {#rx_usbport}
+### Sender mit dem Empfänger koppeln {#t02-web-pairing}
 
 * Schalten Sie den Sender auf `PC` um. 
 
@@ -223,27 +223,39 @@ Mit dem CMS ([Central Management System](cms.md)) kann man Multicast auf mehrere
 
 ![](/assets/img/Multicast_activated.png)
 
-### Sender unter Type-C koppeln
+### Sender mit dem Empfänger koppeln {#t02-cms-pairing}
 
-Nachdem Sie die Funktion Multicast auf Ihren QuattroPod-Empfängern eingestellt haben, muss einer Sender mit der selben Multicast-Gruppe gekoppelt werden:
+* Schalten Sie den Sender auf `PC` um. 
 
-* Schließen Sie den USB-A-Adapter an den Sender an und schalten Sie den Sender auf `Type-C` um. Schließen Sie den Sender an den USB-A-Port des Empfängers an:
+![Sender auf PC umschalten](/assets/img/quattropod.mini.tx.pc.png)
 
-![Sender auf PC umschalten](/assets/img/Pairing.USBC.png)
+* Schließen Sie den Sender an den USB-Anschluss des Empfängers an und schalten Sie den Empfänger ein.
 
-Die Meldung **"Pairing..."** erscheint automatisch auf der Startseite des QuattroPods. Während des Kopplungsvorgangs blinkt der Sender rot und der Empfänger blinkt weiß.
+![](/assets/img/quattropod.mini.tx.pairing.png)
+
+Die Meldung **"Pairing..."** erscheint automatisch auf der Startseite des QuattroPods. Während des Koppelns blinkt der Sender rot und der Empfänger blinkt weiß.
 
 ![Sender wird mit Empfänger gekoppelt](/assets/img/Pairing3.jpg)
 
-Nach ein paar Sekunden erscheint die Meldung **"Pairing OK"** auf der Startseite. Der Empfänger und der Sender leuchten weiß:
+Nach ein paar Sekunden ist der Sender mit dem QuattroPod gekoppelt. Der Empfänger und der Sender leuchten weiß. 
+
+![Koppeln abgeschlossen. Sender leuchtet weiß](/assets/img/quattropod.mini.tx.paired.png)
+
+Dies wird mit **"Pairing OK"** auf der Startseite bestätigt.
 
 ![Koppeln abgeschlossen](/assets/img/Pairing5.jpg)
 
+Der Sender kann nun als Multicast-Sender benutzt werden. Schalten Sie zum Schluss den Sender auf den gewünschten Modus um und schließen Sie den Sender an das gewünschte Endgerät an: 
+
+* `Mobile` = Smartgeräte
+
+* `PC` = Windows/macOS
+
 ### Sender anschließen und Inhalte zeigen
 
-* Ziehen Sie den USB-A-Adapter vom Sender ab und schalten Sie den Sender auf `Type-C` um. Schließen Sie den Sender an einen USB-C-Port Ihres Windows/macOS-Rechners an:
+* Schließen Sie den Sender an einen der USB-Ports Ihres Rechners an. Schließen Sie anschließend das mitgelieferte HDMI-Kabel an. Die Bildschirmübertragung erfolgt automatisch:
 	 
-	 ![](/assets/img/QSG-TypeC.Windows.png)
+	 ![](/assets/img/QSG-Mini.Windows.png)
 
 Ihr Bildschirm wird auf mehrere Monitore übertragen.
 

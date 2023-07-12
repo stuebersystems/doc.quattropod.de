@@ -211,7 +211,7 @@ Mit dem CMS ([Central Management System](cms.md)) kann man Multicast auf mehrere
 
 ![](/assets/img/Multicast_activated.png)
 
-### Sender unter Type-C koppeln
+### Sender unter Type-C koppeln {#u01-cms-pairing}
 
 Nachdem Sie die Funktion Multicast auf Ihren QuattroPod-Empfängern eingestellt haben, muss einer Sender mit der selben Multicast-Gruppe gekoppelt werden:
 

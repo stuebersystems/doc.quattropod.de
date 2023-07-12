@@ -125,27 +125,39 @@ Mit der Web-Oberfläche kann man die Funktion Multicast auf einem QuattroPod ein
 
 ![](/assets/img/Multicast_activated.png)
 
-### Sender unter Type-C koppeln
+### Sender mit dem Empfänger koppeln
 
-Nachdem Sie die Funktion Multicast auf Ihren QuattroPod-Empfängern eingestellt haben, muss einer Sender mit der selben Multicast-Gruppe gekoppelt werden:
+* Schalten Sie den Sender auf `PC` um. 
 
-* Schließen Sie den USB-A-Adapter an den Sender an und schalten Sie den Sender auf `Type-C` um. Schließen Sie den Sender an den USB-A-Port des Empfängers an:
+![Sender auf PC umschalten](/assets/img/quattropod.standard.tx.pc.png)
 
-![Sender auf PC umschalten](/assets/img/Pairing.USBC.png)
+* Schließen Sie den Sender an den USB-Anschluss des Empfängers an und schalten Sie den Empfänger ein.
 
-Die Meldung **"Pairing..."** erscheint automatisch auf der Startseite des QuattroPods. Während des Kopplungsvorgangs blinkt der Sender rot und der Empfänger blinkt weiß.
+![](/assets/img/quattropod.standard.tx.pairing.png)
+
+Die Meldung **"Pairing..."** erscheint automatisch auf der Startseite des QuattroPods. Während des Koppelns blinkt der Sender rot und der Empfänger blinkt weiß.
 
 ![Sender wird mit Empfänger gekoppelt](/assets/img/Pairing3.jpg)
 
-Nach ein paar Sekunden erscheint die Meldung **"Pairing OK"** auf der Startseite. Der Empfänger und der Sender leuchten weiß:
+Nach ein paar Sekunden ist der Sender mit dem QuattroPod gekoppelt. Der Empfänger und der Sender leuchten weiß. 
+
+![Koppeln abgeschlossen. Sender leuchtet weiß](/assets/img/Transmitter_white.png)
+
+Dies wird mit **"Pairing OK"** auf der Startseite bestätigt.
 
 ![Koppeln abgeschlossen](/assets/img/Pairing5.jpg)
 
+Der Sender kann nun als Multicast-Sender benutzt werden. Schalten Sie zum Schluss den Sender auf den gewünschten Modus um und schließen Sie den Sender an das gewünschte Endgerät an: 
+
+* `Mobile` = Smartgeräte
+
+* `PC` = Windows/macOS
+
 ### Sender anschließen und Inhalte zeigen
 
-* Ziehen Sie den USB-A-Adapter vom Sender ab und schalten Sie den Sender auf `Type-C` um. Schließen Sie den Sender an einen USB-C-Port Ihres Windows/macOS-Rechners an:
+* Schließen Sie den Sender an einen der USB-Ports Ihres Rechners an. Schließen Sie anschließend das mitgelieferte HDMI-Kabel an. Die Bildschirmübertragung erfolgt automatisch:
 	 
-	 ![](/assets/img/QSG-TypeC.Windows.png)
+	 ![](/assets/img/QSG-Windows.png)
 
 Ihr Bildschirm wird auf mehrere Monitore übertragen.
 
@@ -211,27 +223,48 @@ Mit dem CMS ([Central Management System](cms.md)) kann man Multicast auf mehrere
 
 ![](/assets/img/Multicast_activated.png)
 
-### Sender unter Type-C koppeln
+### Sender mit dem Empfänger koppeln {#pairing}
 
-Nachdem Sie die Funktion Multicast auf Ihren QuattroPod-Empfängern eingestellt haben, muss einer Sender mit der selben Multicast-Gruppe gekoppelt werden:
+Nach Aktivierung der Funktion Multicast des Empfängers, muss der Sender mit dem QuattroPod-Empfänger gekoppelt werden, indem Sie den Sender an den USB-Anschluss des Empfängers anschließen: 
 
-* Schließen Sie den USB-A-Adapter an den Sender an und schalten Sie den Sender auf `Type-C` um. Schließen Sie den Sender an den USB-A-Port des Empfängers an:
+![](/assets/img/pairing.tx.m1.png)
 
-![Sender auf PC umschalten](/assets/img/Pairing.USBC.png)
+* Für eine umfassende Anleitung, wie Sie Ihren Sender mit dem Empfänger koppeln, wählen Sie bitte Ihr Gerät aus:
 
-Die Meldung **"Pairing..."** erscheint automatisch auf der Startseite des QuattroPods. Während des Kopplungsvorgangs blinkt der Sender rot und der Empfänger blinkt weiß.
-
-![Sender wird mit Empfänger gekoppelt](/assets/img/Pairing3.jpg)
-
-Nach ein paar Sekunden erscheint die Meldung **"Pairing OK"** auf der Startseite. Der Empfänger und der Sender leuchten weiß:
-
-![Koppeln abgeschlossen](/assets/img/Pairing5.jpg)
+<div class="md-showcase">
+	<img src="/assets/img/quattropod.usb.png" alt="Abbildung: QuattroPod USB"></a>
+	<div>
+		<img src="/assets/img/quattropod-usb.black.logo.png" alt="Logo: QuattroPod USB">
+		<p><a href="/usb/multicast/#u01-cms-pairing">Pairing des QuattroPod USB</a></p>
+	</div>
+</div>
+<div class="md-showcase">
+	<img src="/assets/img/quattropod.mini.png" alt="Abbildung: QuattroPod Mini">
+	<div>
+		<img src="/assets/img/quattropod-mini.black.logo.png" alt="Logo: QuattroPod Mini">
+		<p><a href="/mini/multicast/#t02-cms-pairing">Pairing des QuattroPod Mini</a></p>
+	</div>
+</div>
+<div class="md-showcase">
+	<img src="/assets/img/quattropod.standard.png" alt="Abbildung: QuattroPod Standard">
+	<div>
+		<img src="/assets/img/quattropod-standard.black.logo.png" alt="Logo: QuattroPod Standard">
+		<p><a href="/standard/multicast/#t01-cms-pairing">Pairing des QuattroPod Standard</a></p>
+	</div>
+</div>
+<div class="md-showcase">
+	<img src="/assets/img/quattropod.deluxe.png" alt="Abbildung: QuattroPod Deluxe">
+	<div>
+		<img src="/assets/img/quattropod-deluxe.black.logo.png" alt="Logo: QuattroPod Deluxe">
+		<p><a href="/deluxe/multicast/#t01-cms-pairing">Pairing des QuattroPod Deluxe</a></p>
+	</div>
+</div>
 
 ### Sender anschließen und Inhalte zeigen
 
-* Ziehen Sie den USB-A-Adapter vom Sender ab und schalten Sie den Sender auf `Type-C` um. Schließen Sie den Sender an einen USB-C-Port Ihres Windows/macOS-Rechners an:
+* Schließen Sie den Sender an einen der USB-Ports Ihres Rechners an. Schließen Sie anschließend das mitgelieferte HDMI-Kabel an. Die Bildschirmübertragung erfolgt automatisch:
 	 
-	 ![](/assets/img/QSG-TypeC.Windows.png)
+	 ![](/assets/img/QSG-Windows.png)
 
 Ihr Bildschirm wird auf mehrere Monitore übertragen.
 
