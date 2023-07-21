@@ -125,33 +125,41 @@ Mit der Web-Oberfläche kann man die Funktion Multicast auf einem QuattroPod ein
 
 ![](/assets/img/Multicast_activated.png)
 
-### Sender mit dem Empfänger koppeln
+### Sender mit dem Empfänger koppeln {#pairing}
 
-* Schalten Sie den Sender auf `PC` um. 
+Nach Aktivierung der Funktion Multicast des Empfängers, muss der Sender mit dem QuattroPod-Empfänger gekoppelt werden, indem Sie den Sender an den USB-Anschluss des Empfängers anschließen: 
 
-![Sender auf PC umschalten](/assets/img/quattropod.standard.tx.pc.png)
+![](/assets/img/pairing.tx.m1.png)
 
-* Schließen Sie den Sender an den USB-Anschluss des Empfängers an und schalten Sie den Empfänger ein.
+* Für eine umfassende Anleitung, wie Sie Ihren Sender mit dem Empfänger koppeln, wählen Sie bitte Ihr Gerät aus:
 
-![](/assets/img/quattropod.standard.tx.pairing.png)
-
-Die Meldung **"Pairing..."** erscheint automatisch auf der Startseite des QuattroPods. Während des Koppelns blinkt der Sender rot und der Empfänger blinkt weiß.
-
-![Sender wird mit Empfänger gekoppelt](/assets/img/Pairing3.jpg)
-
-Nach ein paar Sekunden ist der Sender mit dem QuattroPod gekoppelt. Der Empfänger und der Sender leuchten weiß. 
-
-![Koppeln abgeschlossen. Sender leuchtet weiß](/assets/img/Transmitter_white.png)
-
-Dies wird mit **"Pairing OK"** auf der Startseite bestätigt.
-
-![Koppeln abgeschlossen](/assets/img/Pairing5.jpg)
-
-Der Sender kann nun als Multicast-Sender benutzt werden. Schalten Sie zum Schluss den Sender auf den gewünschten Modus um und schließen Sie den Sender an das gewünschte Endgerät an: 
-
-* `Mobile` = Smartgeräte
-
-* `PC` = Windows/macOS
+<div class="md-showcase">
+	<img src="/assets/img/quattropod.usb.png" alt="Abbildung: QuattroPod USB"></a>
+	<div>
+		<img src="/assets/img/quattropod-usb.black.logo.png" alt="Logo: QuattroPod USB">
+		<p><a href="/usb/multicast/#u01-cms-pairing">Pairing des QuattroPod USB</a></p>
+	</div>
+</div>
+<div class="md-showcase">
+	<img src="/assets/img/quattropod.mini.png" alt="Abbildung: QuattroPod Mini">
+	<div>
+		<img src="/assets/img/quattropod-mini.black.logo.png" alt="Logo: QuattroPod Mini">
+		<p><a href="/mini/multicast/#t02-cms-pairing">Pairing des QuattroPod Mini</a></p>
+	</div>
+</div>
+<div class="md-showcase">
+	<img src="/assets/img/quattropod.standard.png" alt="Abbildung: QuattroPod Standard">
+	<div>
+		<img src="/assets/img/quattropod-standard.black.logo.png" alt="Logo: QuattroPod Standard">
+		<p><a href="/standard/multicast/#t01-cms-pairing">Pairing des QuattroPod Standard</a></p>
+	</div>
+</div>
+<div class="md-showcase">
+	<img src="/assets/img/quattropod.deluxe.png" alt="Abbildung: QuattroPod Deluxe">
+	<div>
+		<img src="/assets/img/quattropod-deluxe.black.logo.png" alt="Logo: QuattroPod Deluxe">
+		<p><a href="/deluxe/multicast/#t01-cms-pairing">Pairing des QuattroPod Deluxe</a></p>
+	</di
 
 ### Sender anschließen und Inhalte zeigen
 
