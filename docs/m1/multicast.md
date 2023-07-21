@@ -159,7 +159,8 @@ Nach Aktivierung der Funktion Multicast des Empfängers, muss der Sender mit dem
 	<div>
 		<img src="/assets/img/quattropod-deluxe.black.logo.png" alt="Logo: QuattroPod Deluxe">
 		<p><a href="/deluxe/multicast/#t01-cms-pairing">Pairing des QuattroPod Deluxe</a></p>
-	</di
+	</div>
+</div>
 
 ### Sender anschließen und Inhalte zeigen
 
@@ -267,7 +268,6 @@ Nach Aktivierung der Funktion Multicast des Empfängers, muss der Sender mit dem
 		<p><a href="/deluxe/multicast/#t01-cms-pairing">Pairing des QuattroPod Deluxe</a></p>
 	</div>
 </div>
-
 ### Sender anschließen und Inhalte zeigen
 
 * Schließen Sie den Sender an einen der USB-Ports Ihres Rechners an. Schließen Sie anschließend das mitgelieferte HDMI-Kabel an. Die Bildschirmübertragung erfolgt automatisch:
