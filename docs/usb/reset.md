@@ -79,6 +79,10 @@ Firmware-Version: [1.16163.65](whatsnew.md#20221027-11616365)
 * [Sprache](adv.settings.md#Sprache): `DEUTSCH`
 * [Zeitgesteuerter Neustart](adv.settings.md#timedrestart): `2 Stunden`
 
+**Developer Options**
+
+* [Multicast Konfigurationsschutz](multicast.md#config.restore): `EIN`
+
 **Admineinstellungen**
 
 * [WLAN-Modus](adv.settings.md#WiFi-Mode): `Land = EUROPE`, `Kanal = Auto`, `Bandbreite = 20MHz`
@@ -87,7 +91,6 @@ Firmware-Version: [1.16163.65](whatsnew.md#20221027-11616365)
 * [Miracast PIN](miracast.md): `EIN`
 * [Miracast PIN-Modus](miracast.md): `4-stelliger Zufallscode`
 * [Castcode](adv.settings.md#castcode): `Zufällig`
-* [Multicast Konfigurationsschutz](multicast.md#config.restore): `EIN`
 * [Mein Bildschirm](adv.settings.md#Mein-Bildschirm): Unsere Hintergrundbilder in der deutschen Sprache:
 
 Hintergrundbild | Herunterladen |
@@ -96,3 +99,4 @@ QuattroPod Standard / Deluxe / Mini | [Herunterladen](https://download.stueber.d
 QuattroPod USB | [Herunterladen](https://download.stueber.de/doc/de/quattropod/QuattroPod.USB_Startseite.DE.png)
 QuattroPod Lite | [Herunterladen](https://download.stueber.de/doc/de/quattropod/QuattroPod.Lite_Startseite.DE.png)
 QuattroPod M1 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/QuattroPod.SDM_Startseite.DE.png)
+

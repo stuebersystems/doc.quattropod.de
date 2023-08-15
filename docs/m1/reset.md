@@ -79,6 +79,10 @@ Firmware-Version: [1.16163.38](whatsnew.md#20220908-11616338)
 * [Sprache](adv.settings.md#Sprache): `DEUTSCH`
 * [Zeitgesteuerter Neustart](adv.settings.md#timedrestart): `2 Stunden`
 
+**Developer Options**
+
+* [Multicast Konfigurationsschutz](multicast.md#config.restore): `EIN`
+
 **Admineinstellungen**
 
 * [WLAN-Modus](adv.settings.md#WiFi-Mode): `Land = EUROPE`, `Kanal = Auto`, `Bandbreite = 20MHz`
