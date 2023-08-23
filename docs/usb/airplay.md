@@ -35,7 +35,7 @@ Um Ihren iOS-Bildschirm zu übertragen, verbinden Sie Ihr Endgerät entweder mit
 
 ![QuattroPod Startseite](/assets/img/quattropod.ssid.connect.png)
 
-Auf Ihrem iOS-Gerät streichen Sie vom unteren Bildschirmrand nach oben, um das Kontrollzentrum aufzurufen.
+Auf Ihrem iOS-Gerät streichen Sie von oben rechts zur Mitte des Bildschirms bzw. vom unteren Bildschirmrand nach oben, um das Kontrollzentrum aufzurufen.
 
 ![Kontrollzentrum öffnen](/assets/img/iOS-controlcenter.png)
 
