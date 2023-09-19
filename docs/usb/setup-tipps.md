@@ -61,7 +61,7 @@ Mit eine HDMI-Verlängerung können Sie bei großen Displays die Signalstörung 
 
 Möchten Sie Geräte wie Dokumentenkameras übertragen, die über keinen USB-C-Anschluss verfügen, sondern HDMI?
 
-Mit einem **HDMI-Stecker auf USB-C-Buchse** können Sie den HDMI-Ausgang der Dokumentenkamera bzw. eines Rechners in den USB-C-Eingang des QuattroPod-USB-Senders übertragen.
+Mit einem **HDMI-Stecker auf USB-C-Buchse** können Sie den HDMI-Ausgang einer Dokumentenkamera bzw. eines Rechners in den USB-C-Eingang des QuattroPod-USB-Senders übertragen.
 
 ![](/assets/img/HDMI-male.2.USB-C-female.adapter.jpg)
 
