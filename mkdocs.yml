@@ -109,6 +109,7 @@ nav:
         - Remote-Verwaltung: usb/remote-management.md
         - Sender bedienen: usb/TX-controls.md
         - Sicherheitscodes: usb/securitycodes.md
+        - SoftAP deaktivieren: usb/disable.softap.md
         - Touch-Back-Funktion: usb/touchback.md
     - Firmware aktualisieren: usb/firmware-upgrade.md
     - Mit WLAN/LAN verbinden: usb/connect.wifi.lan.md
@@ -336,3 +337,4 @@ nav:
     - Pairing des Senders: m1/pairing.md    
 - CMS: 
     - Einführung: cms/intro.md 
+    - Was ist neu?: cms/whatsnew.md
