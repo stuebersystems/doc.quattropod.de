@@ -54,7 +54,7 @@ zum [Type-A-Modus](#windows-mac_typea) ist dann keine zusätzliche Softwareinsta
 
 ![](/assets/img/HDMI-male.2.USB-C-female.adapter.jpg)
 
-**HINWEIS: Die Audioübertragung funktioniert nicht mit nReal-Geräten**. Der Adapter muss mit einem USB-Anschluss (DC5V) und dem mitgelieferten Micro-USB-Ladekabel mit Strom versorgt werden. Der USB-A-Anschluss Ihres Rechners reicht aus. Bei Bedarf können Sie auch ein [Samsung Netzteil (5V/2A)](#samsung-usb-charger) über uns [erwerben](https://www.stueber.de/contact.php?from=quattropod):
+**HINWEIS: Die Audioübertragung funktioniert nicht mit nReal-Geräten**. Der Adapter muss mit einem USB-Anschluss (DC5V) und dem mitgelieferten Micro-USB-Ladekabel mit Strom versorgt werden. Der USB-A-Anschluss Ihres Rechners reicht aus. Bei Bedarf können Sie auch ein [Samsung Netzteil (5V/2A)](setup-tipps.md#samsung-usb-charger) über uns [erwerben](https://www.stueber.de/contact.php?from=quattropod):
 
 ![](/assets/img/QP-USB-TypeC.HDMI.png)
 
