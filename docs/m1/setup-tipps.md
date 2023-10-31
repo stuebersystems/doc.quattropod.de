@@ -53,6 +53,6 @@ Den Empfänger kann man mit einem guten Klebeband befestigen, ohne den Bildschir
 
 ### HDMI-Verlängerung (1M)
 
-Mit eine HDMI-Verlängerung können Sie bei großen Displays die Signalstörung vermeiden. Diese können Sie bei Bedarf über uns [erwerben](https://www.stueber.de/contact.php?from=quattropod):
+Mit einer HDMI-Verlängerung können Sie bei großen Displays die Signalstörung vermeiden. Diese können Sie bei Bedarf über uns [erwerben](https://www.stueber.de/contact.php?from=quattropod):
 
 ![HDMI-Verlängerung 1M](/assets/img/deleycon.hdmi.extension.jpg)

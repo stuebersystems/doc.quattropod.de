@@ -53,7 +53,7 @@ Den Empfänger kann man mit einem guten Klebeband befestigen, ohne den Bildschir
 
 ### HDMI-Verlängerung (1M)
 
-Mit eine HDMI-Verlängerung können Sie bei großen Displays die Signalstörung vermeiden. Diese können Sie bei Bedarf über uns [erwerben](https://www.stueber.de/contact.php?from=quattropod):
+Mit einer HDMI-Verlängerung können Sie bei großen Displays die Signalstörung vermeiden. Diese können Sie bei Bedarf über uns [erwerben](https://www.stueber.de/contact.php?from=quattropod):
 
 ![HDMI-Verlängerung 1M](/assets/img/deleycon.hdmi.extension.jpg)
 
@@ -61,7 +61,8 @@ Mit eine HDMI-Verlängerung können Sie bei großen Displays die Signalstörung 
 
 Möchten Sie Geräte wie Rechner bzw. Dokumentenkameras übertragen, die über keinen USB-C-Anschluss verfügen, sondern HDMI?
 
-Mit einem **HDMI-Stecker auf USB-C-Buchse** können Sie den HDMI-Ausgang eines Rechners bzw. einer Dokumentenkamera in den USB-C-Eingang des QuattroPod-USB-Senders übertragen.
+Verwenden Sie einen **HDMI-Stecker auf USB-C-Buchse Adapter**, um aus einem HDMI-Ausgang eines Rechners/einer Dokumentenkamera einen USB-C-Eingang für den QuattroPod USB-Sender zu machen. Im Unterschied
+zum [Type-A-Modus](#windows-mac_typea) ist dann keine zusätzliche Softwareinstallation notwendig.
 
 ![](/assets/img/HDMI-male.2.USB-C-female.adapter.jpg)
 

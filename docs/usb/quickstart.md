@@ -45,6 +45,19 @@ Die folgende Startseite erscheint auf Ihrem Bildschirm:
 
   ![](/assets/img/QSG-QP.USBC.Android.png) 
 
+### Geräte mit HDMI-Anschluss im Type-C Sendermodus
+
+Möchten Sie Geräte wie Rechner bzw. Dokumentenkameras übertragen, die über keinen USB-C-Anschluss verfügen, sondern HDMI?
+
+Mit einem **HDMI-Stecker auf USB-C-Buchse** können Sie den HDMI-Ausgang eines Rechners bzw. einer Dokumentenkamera in den USB-C-Eingang des QuattroPod-USB-Senders übertragen. Außerdem wird im Gegenteil zum [Type-A-Modus](#windows-mac_typea) keine Softwareinstallation benötigt.
+
+![](/assets/img/HDMI-male.2.USB-C-female.adapter.jpg)
+
+**HINWEIS: Es wird keinen Ton übertragen**, sondern nur Video. Der Adapter muss mit einem USB-Anschluss (DC5V) und dem mitgelieferten Micro-USB-Ladekabel mit Strom versorgt werden. Der USB-A-Anschluss Ihres Rechners reicht aus. Bei Bedarf können Sie auch ein [Samsung Netzteil (5V/2A)](#samsung-usb-charger) über uns [erwerben](https://www.stueber.de/contact.php?from=quattropod).
+
+![](/assets/img/QP-USB-TypeC.HDMI.png)
+
+![](/assets/img/HDMI-male.2.USB-C-female.U01.png)
  
 ## Bildschirmübertragung im Type-A Sendermodus {#windows-mac_typea}
 
