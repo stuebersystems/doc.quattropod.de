@@ -49,7 +49,8 @@ Die folgende Startseite erscheint auf Ihrem Bildschirm:
 
 Möchten Sie Geräte wie Rechner bzw. Dokumentenkameras übertragen, die über keinen USB-C-Anschluss verfügen, sondern HDMI?
 
-Mit einem **HDMI-Stecker auf USB-C-Buchse** können Sie den HDMI-Ausgang eines Rechners bzw. einer Dokumentenkamera in den USB-C-Eingang des QuattroPod-USB-Senders übertragen. Außerdem wird im Gegenteil zum [Type-A-Modus](#windows-mac_typea) keine Softwareinstallation benötigt.
+Verwenden Sie einen **HDMI-Stecker auf USB-C-Buchse Adapter**, um aus einem HDMI-Ausgang eines Rechners/einer Dokumentenkamera einen USB-C-Eingang für den QuattroPod USB-Sender zu machen. Im Unterschied
+zum [Type-A-Modus](#windows-mac_typea) ist dann keine zusätzliche Softwareinstallation notwendig.
 
 ![](/assets/img/HDMI-male.2.USB-C-female.adapter.jpg)
 
