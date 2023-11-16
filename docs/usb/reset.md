@@ -72,7 +72,7 @@ Mit Hilfe der Funktion [Erweiterte Einstellungen](adv.settings.md) können Sie s
 
 Die unten empfohlenen Einstellungen setzen voraus, dass Sie ein Zurücksetzen des Empfängers bereits durchgeführt haben:
 
-Firmware-Version: [1.16163.65](whatsnew.md#20221027-11616365)
+Firmware-Version: [1.16163.108](whatsnew.md#20231110-116163108)
 
 **Gerätemanagement**
 

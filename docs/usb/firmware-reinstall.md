@@ -101,6 +101,7 @@ Um eine vorherige bzw. eine Betafirmware zu installieren, laden Sie eine der fol
 
 Firmware                  | Empfänger R01 | Bemerkung
 ------------------------- | ------------ | ------------
+1.16163.108 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.16163.108.gz)
 1.16163.65 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.16163.65.gz)
 1.16163.57 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.16163.57.gz)
 1.16163.41 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.16163.41.gz)

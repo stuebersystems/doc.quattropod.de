@@ -8,6 +8,12 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des Quattr
 
 ## Empfänger R01
 
+### 2023.11.10 | 1.16163.108
+
+**Behobene Systemfehler und Verbesserungen:**
+
+* Systemfehler behoben
+
 ### 2022.11.08 | 1.16163.65
 
 **Behobene Systemfehler und Verbesserungen:**
@@ -190,6 +196,12 @@ Verbesserte Web-Einstellungen:
 ![](/assets/img/wifi.land.selection.DE.png)
 
 ## Sender T01
+
+### 2023.11.10 | 1.16163.72
+
+**Behobene Systemfehler und Verbesserungen:**
+
+* Systemfehler behoben
 
 ### 2022.11.11 | 1.16163.65
 
