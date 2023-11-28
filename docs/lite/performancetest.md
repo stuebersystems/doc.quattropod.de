@@ -2,9 +2,9 @@
 
 Zu Support-Zwecken bitten wir Sie möglicherweise, dass Sie einen Leistungstest Ihres QuattroPods durchführen. Bei korrekter Bedienung sollte die Latenzzeit bei der drahtlosen Bildschirmübertragung über den QP Sender bei 0,2 Sekunden liegen und das Abspielen eines Videos für mindestens 6 Stunden möglich sein. Ein solcher Test ist im folgenden Video durchgeführt worden.
 
-* Laden Sie folgendes [MP4-Video](https://assets.stueber.de/videos/qp.u01.latencetest.mp4) auf Ihrem Windows-PC herunter:
+* Laden Sie folgendes [MP4-Video](https://assets.stueber.de/videos/latencetest.mp4) auf Ihrem Windows-PC herunter:
 
-[![QuattroPod Talency Test](/assets/img/thumbnail.video.performancetest1.png)](https://assets.stueber.de/videos/qp.u01.latencetest.mp4)
+[![QuattroPod Talency Test](/assets/img/thumbnail.video.performancetest1.png)](https://assets.stueber.de/videos/latencetest.mp4)
 
 Zu diesem Test benötigen Sie folgende Geräte:
 
