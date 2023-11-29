@@ -10,7 +10,7 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des Quattr
 
 ### 2023.11.10 | 1.16163.108
 
-**Behobene Systemfehler und Verbesserungen:**
+* Behobene Systemfehler und Verbesserungen
 
 * Systemfehler behoben
 
