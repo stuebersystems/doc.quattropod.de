@@ -72,7 +72,7 @@ Mit Hilfe der Funktion [Erweiterte Einstellungen](adv.settings.md) können Sie s
 
 Nach dem Zurücksetzen werden Sie bei der ersten Anmeldung auf der Funktion [Erweiterte Einstellungen](adv.settings.md) aufgefordert, das Admin-Kennwort zu ändern. Standardmäßig lautet es `000000`. Wir empfehlen, dass Sie anschließend die folgenden empfohlenen Einstellungen überprüfen:
 
-Firmware-Version: [1.16163.38](whatsnew.md#20220908-11616338)
+Firmware-Version: [1.16163.108](whatsnew.md#20231110-116163108)
 
 **Gerätemanagement**
 
@@ -89,12 +89,14 @@ Firmware-Version: [1.16163.38](whatsnew.md#20220908-11616338)
 * [AirView](adv.settings.md#AirView): `EIN`
 * [Miracast Support](miracast.md): `EIN`
 * [Miracast PIN](miracast.md): `EIN`
+* [Miracast PIN-Modus](miracast.md): `4-stelliger Zufallscode`
 * [Castcode](adv.settings.md#castcode): `Zufällig`
 * [Mein Bildschirm](adv.settings.md#Mein-Bildschirm): Unsere Hintergrundbilder in der deutschen Sprache:
 
 Hintergrundbild | Herunterladen |
 ------------------------- | ------------ |
-QuattroPod Standard | [Herunterladen](https://download.stueber.de/doc/de/quattropod/QuattroPod.Standard_Startseite.DE.png)
+QuattroPod Standard / Deluxe / Mini | [Herunterladen](https://download.stueber.de/doc/de/quattropod/QuattroPod.Standard_Startseite.DE.png)
 QuattroPod USB | [Herunterladen](https://download.stueber.de/doc/de/quattropod/QuattroPod.USB_Startseite.DE.png)
 QuattroPod Lite | [Herunterladen](https://download.stueber.de/doc/de/quattropod/QuattroPod.Lite_Startseite.DE.png)
 QuattroPod M1 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/QuattroPod.SDM_Startseite.DE.png)
+

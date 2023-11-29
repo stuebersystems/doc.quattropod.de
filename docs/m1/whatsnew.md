@@ -8,6 +8,12 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des Quattr
 
 ## Empfänger M1 
 
+### 2023.11.10 | 1.16163.108
+
+**Behobene Systemfehler und Verbesserungen:**
+
+* Systemfehler behoben
+
 ### 2022.09.08 | 1.16163.38
 
 * Behobene Systemfehler und Verbesserte Stabilität
