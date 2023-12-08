@@ -1,6 +1,6 @@
 # QuattroPod auf Standardeinstellungen zurücksetzen
 
-Es gibt mehrere Gründe für einen Reset des QuattroPods auf Werkseinstellungen:
+Es gibt mehrere Gründe, den QuattroPod auf Werkseinstellungen zurückzusetzen:
 
 * Sie haben das Admin-Kennwort für die [Erweiterten Einstellungen](adv.settings.md) vergessen.
 
