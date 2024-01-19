@@ -38,7 +38,7 @@ Wir empfehlen zwei Möglichkeiten die Bildschirmübertragung als Latenztest unte
 
 Drücken Sie die Tastenkombination `[Windows]` + `[K]`, um das Dialogfenster `VERBINDEN` aufzurufen. Wählen Sie den QuattroPod aus:
 
-![QuattroPod auswählen](/assets/img/ProIIStick-Windows_Miracast_Select_Device.jpg)
+![QuattroPod auswählen](/assets/img/QP-Windows_Miracast_Select_Device.png)
 
 Eine umfassende Anleitung zur Verwendung von Miracast unter Windows finden Sie [hier](miracast.md#miracast-auf-windows):
 
@@ -112,7 +112,7 @@ Wir empfehlen zwei Möglichkeiten die Bildschirmübertragung als Latenztest unte
 
 Drücken Sie die Tastenkombination `[Windows]` + `[K]`, um das Dialogfenster `VERBINDEN` aufzurufen. Wählen Sie den QuattroPod aus:
 
-![QuattroPod auswählen](/assets/img/ProIIStick-Windows_Miracast_Select_Device.jpg)
+![QuattroPod auswählen](/assets/img/QP-Windows_Miracast_Select_Device.png)
 
 Eine umfassende Anleitung zur Verwendung von Miracast unter Windows finden Sie [hier](miracast.md#miracast-auf-windows):
 
