@@ -10,6 +10,7 @@ Mit dem CMS ([Central Management System](cms.md)) können Sie die Firmware auf d
 
 Firmware                  | Empfänger M1 | Bemerkung
 ------------------------- | ------------ | ------------
+1.16163.109 (Beta) | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/M1/M1_1.16163.109.gz)
 1.16163.108 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/M1/M1_1.16163.108.gz)
 1.16163.38 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/M1/M1_1.16163.38.gz)
 1.14366.99 | [Herunterladen](https://download.stueber.de/doc/de/quattropod/firmwares/M1/M1_1.14366.99.gz)
